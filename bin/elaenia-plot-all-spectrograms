@@ -1,1 +1,1 @@
-find /tmp/boesman-mp3s/ -type f -name '*.mp3' -print0 | xargs -0 -I {} -P 8 elaenia-plot-spectrogram {}
+find . -type f -name '*.mp3' -print0 | xargs -0 -I {} -P 8 elaenia-plot-spectrogram {}

@@ -3,13 +3,13 @@ import sys
 
 import matplotlib.pyplot as plt
 
-from elaenia.recording import BoesmanRecording
+from elaenia.recording import Recording
 from elaenia.plot import plot_spectrogram
 from elaenia.plot import stft
 
 file, = sys.argv[1:]
 print(file)
-rec = BoesmanRecording.from_file(file)
+rec = Recording.from_file(file)
 rec.load()
 ss = stft(rec.time_series)
 

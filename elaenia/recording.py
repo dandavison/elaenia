@@ -10,6 +10,19 @@ class Recording:
         self.time_series = None
         self.sampling_rate = None
 
+        # TODO: this need not be mp3
+        self._mp3_file = None
+
+    @property
+    def mp3_file(self):
+        return Path(self._mp3_file)
+
+    @classmethod
+    def from_file(cls, path):
+        self = cls()
+        self._mp3_file = Path(path)
+        return self
+
     def load(self):
         if not self.mp3_file.exists():
             self.fetch_mp3()
