@@ -5,10 +5,12 @@ import numpy as np
 
 
 N_FFT = 2 ** 10
+WIN_LENGTH = N_FFT
+HOP_LENGTH = 2 ** 8
 
 
 def stft(y):
-    ss = np.abs(lr.stft(y, n_fft=N_FFT))
+    ss = np.abs(lr.stft(y, n_fft=N_FFT, hop_length=HOP_LENGTH, win_length=WIN_LENGTH))
     ss = np.log(ss + 1)
     return ss
 
@@ -28,8 +30,8 @@ def distance_matrix(ss):
     return 1 - d / d.max()
 
 
-def plot_spectrogram(ss, y_axis="hz", x_axis="s", **kwargs):
-    lr.display.specshow(ss, x_axis=x_axis, y_axis=y_axis, **kwargs)
+def plot_spectrogram(ss, y_axis="hz", x_axis="s", sr=None, **kwargs):
+    lr.display.specshow(ss, x_axis=x_axis, y_axis=y_axis, sr=sr, hop_length=HOP_LENGTH, **kwargs)
 
 
 def plot_distance_matrix(ss, ax=None):
@@ -38,14 +40,14 @@ def plot_distance_matrix(ss, ax=None):
     ax.imshow(np.log(d + 1))
 
 
-def plot_spectrogram_and_distance_matrix(ss):
+def plot_spectrogram_and_distance_matrix(ss, sr=None):
     "Plot spectrogram and time window distance matrix"
     # TODO: align the subplots
 
     fig = plt.figure(figsize=(16, 16))
 
     ax = fig.add_subplot(5, 1, 1)
-    plot_spectrogram(ss, ax=ax)
+    plot_spectrogram(ss, ax=ax, sr=sr)
 
     ax = fig.add_subplot(5, 1, (2, 5))
     plot_distance_matrix(ss, ax=ax)
