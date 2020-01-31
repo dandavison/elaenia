@@ -3,18 +3,12 @@ import sys
 
 import matplotlib.pyplot as plt
 
-from elaenia.recording import Recording
-from elaenia.plot import plot_spectrogram
-from elaenia.plot import stft
+from elaenia.recording import NIPS4BPlusRecording
 
 file, = sys.argv[1:]
 print(file)
 rec = Recording.from_file(file)
 rec.load()
-ss = stft(rec.time_series)
-
 fig = plt.figure(figsize=(16, 4))
-ax = plt.gca()
-ax.set_title(rec.mp3_file.name)
-plot_spectrogram(ss, ax=ax)
+rec.plot_spectrogram()
 plt.savefig(rec.mp3_file.name + ".spectrogram.png")

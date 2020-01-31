@@ -2,6 +2,9 @@ import re
 import sys
 from pathlib import Path
 
+import matplotlib.pyplot as plt
+
+import elaenia.plot
 from elaenia import librosa_utils
 
 
@@ -30,6 +33,13 @@ class Recording:
 
     def fetch_mp3(self):
         raise NotImplementedError
+
+    def plot_spectrogram(self, ax=None):
+        ax = ax or plt.gca()
+        ss = elaenia.plot.stft(self.time_series)
+        elaenia.plot.plot_spectrogram(ss, ax=ax, sr=self.sampling_rate)
+        ax.set_title(self.mp3_file.name)
+
 
 
 class BoesmanRecording(Recording):
