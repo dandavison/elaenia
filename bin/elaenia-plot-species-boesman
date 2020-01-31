@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 from elaenia.recording import BoesmanRecording
 from elaenia.plot import plot_spectrogram_and_distance_matrix
-from elaenia.plot import stft
+from elaenia.stft import stft
 
 english_name, = sys.argv[1:]
 recordings = BoesmanRecording.from_english_name(english_name)

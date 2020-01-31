@@ -6,6 +6,7 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 
 import elaenia.plot
+import elaenia.stft
 from elaenia import librosa_utils
 
 
@@ -34,9 +35,9 @@ class Recording:
     def fetch_mp3(self):
         raise NotImplementedError
 
-    def plot_spectrogram(self, ax=None):
+    def plot_spectrogram(self, n_fft, ax=None):
         ax = ax or plt.gca()
-        ss = elaenia.plot.stft(self.time_series)
+        ss = elaenia.stft.stft(self.time_series, n_fft=n_fft)
         elaenia.plot.plot_spectrogram(ss, ax=ax, sr=self.sampling_rate)
         ax.set_title(self.audio_file.name)
 
