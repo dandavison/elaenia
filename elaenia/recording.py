@@ -41,6 +41,9 @@ class Recording:
         ax.set_title(self.mp3_file.name)
 
 
+class NIPS4BPlusRecording(Recording):
+    pass
+
 
 class BoesmanRecording(Recording):
     MP3_DIR = Path("/tmp/boesman-mp3s")
