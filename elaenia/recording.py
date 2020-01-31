@@ -13,23 +13,22 @@ class Recording:
         self.time_series = None
         self.sampling_rate = None
 
-        # TODO: this need not be mp3
-        self._mp3_file = None
+        self._audio_file = None
 
     @property
-    def mp3_file(self):
-        return Path(self._mp3_file)
+    def audio_file(self):
+        return Path(self._audio_file)
 
     @classmethod
     def from_file(cls, path):
         self = cls()
-        self._mp3_file = Path(path)
+        self._audio_file = Path(path)
         return self
 
     def load(self):
-        if not self.mp3_file.exists():
+        if not self.audio_file.exists():
             self.fetch_mp3()
-        self.time_series, self.sampling_rate = librosa_utils.load(self.mp3_file, sr=None)
+        self.time_series, self.sampling_rate = librosa_utils.load(self.audio_file, sr=None)
 
     def fetch_mp3(self):
         raise NotImplementedError
@@ -38,7 +37,7 @@ class Recording:
         ax = ax or plt.gca()
         ss = elaenia.plot.stft(self.time_series)
         elaenia.plot.plot_spectrogram(ss, ax=ax, sr=self.sampling_rate)
-        ax.set_title(self.mp3_file.name)
+        ax.set_title(self.audio_file.name)
 
 
 class NIPS4BPlusRecording(Recording):
@@ -102,7 +101,7 @@ class BoesmanRecording(Recording):
         }
 
     @property
-    def mp3_file(self):
+    def audio_file(self):
         file, = self.MP3_DIR.glob(f"{self.species_id} {self.recording_id} *")
         return file
 
@@ -121,12 +120,12 @@ class XCRecording(Recording):
         return f"https://www.xeno-canto.org/{id[2:]}/download"
 
     @property
-    def mp3_file(self):
-        return Path(MP3_DIR, f"{self.id}.mp3")
+    def audio_file(self):
+        return MP3_DIR / f"{self.id}.mp3"
 
     def fetch_mp3(self):
-        print(f"{self.mp3_url} => {self.mp3_file}")
-        with self.mp3_file.open("wb") as fp:
+        print(f"{self.mp3_url} => {self.audio_file}")
+        with self.audio_file.open("wb") as fp:
             resp = requests.get(self.mp3_url)
             resp.raise_for_status()
             fp.write(resp.content)
