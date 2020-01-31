@@ -1,3 +1,4 @@
+import csv
 import re
 import sys
 from pathlib import Path
@@ -41,7 +42,65 @@ class Recording:
 
 
 class NIPS4BPlusRecording(Recording):
-    pass
+    ROOT_DIR = Path("/tmp/NIPS4Bplus")
+
+    def __init__(self, id, dataset="train"):
+        super().__init__()
+        self.id = str(id)
+        self.dataset = dataset
+        self.temporal_annotations = None
+
+    @classmethod
+    def from_file(cls, file_name):
+        file_name = Path(file_name).name
+        id, = re.match("^nips4b_birds_trainfile([0-9]+)\.wav$", file_name).groups()
+        return cls(id, dataset="train")
+
+    @property
+    def audio_file(self):
+        return (
+            self.ROOT_DIR
+            / "NIPS4B_BIRD_CHALLENGE_TRAIN_TEST_WAV"
+            / self.dataset
+            / f"nips4b_birds_trainfile{self.id}.wav"
+        )
+
+    @property
+    def temporal_annotations_file(self):
+        return (
+            self.ROOT_DIR
+            / "temporal_annotations_nips4b"
+            / f"annotation_{self.dataset}{self.id}.csv"
+        )
+
+    def load(self):
+        super().load()
+        self._load_temporal_annotations()
+
+    def _load_temporal_annotations(self):
+        self.temporal_annotations = []
+        with open(self.temporal_annotations_file) as fp:
+            for row in csv.DictReader(fp, fieldnames=["start", "duration", "label"]):
+                for field in ["start", "duration"]:
+                    row[field] = float(row[field])
+                self.temporal_annotations.append(row)
+
+    def plot_spectrogram(self, **kwargs):
+        super().plot_spectrogram(**kwargs)
+        cols = ["g", "r"]
+        for i, row in enumerate(self.temporal_annotations):
+            xx = [row["start"], row["start"] + row["duration"]]
+            plt.vlines(xx, colors=cols, linestyles=":", ymin=0, ymax=3e4)
+            for x, col in zip(xx, cols):
+                plt.text(
+                    x,
+                    -2500,
+                    f"{row['label']} {i}",
+                    color=col,
+                    rotation=90,
+                    verticalalignment="top",
+                    horizontalalignment="right",
+                )
 
 
 class BoesmanRecording(Recording):
