@@ -1,7 +1,11 @@
 import csv
+import json
 import re
 import sys
+from functools import lru_cache
+from io import StringIO
 from pathlib import Path
+from typing import Tuple
 
 import matplotlib.pyplot as plt
 
@@ -166,7 +170,7 @@ class BoesmanRecording(Recording):
         return file
 
 
-class XCRecording(Recording):
+class XenoCantoRecording0(Recording):
     MP3_DIR = Path("/tmp/xenocanto-mp3s")
 
     def __init__(self, id):
@@ -181,7 +185,7 @@ class XCRecording(Recording):
 
     @property
     def audio_file(self):
-        return MP3_DIR / f"{self.id}.mp3"
+        return self.MP3_DIR / f"{self.id}.mp3"
 
     def fetch_mp3(self):
         print(f"{self.mp3_url} => {self.audio_file}")
@@ -189,3 +193,61 @@ class XCRecording(Recording):
             resp = requests.get(self.mp3_url)
             resp.raise_for_status()
             fp.write(resp.content)
+
+
+class XenoCantoRecording(Recording):
+    """
+    A recording downloaded using https://github.com/ntivirikin/xeno-canto-py.
+    """
+
+    ROOT_DIR = Path("/tmp/xeno-canto-data")
+
+    # The name given to the directory under metadata/, e.g. "gen_Xiphorhynchus"
+    # This class is abstract; concrete subclasses must set this.
+    QUERY = None
+
+    def __init__(self, id: int):
+        """
+        id    -- the integer ID (i.e. without the XC prefix)
+        """
+        self.id = int(id)
+
+    @classmethod
+    def for_species(cls, species: Tuple[str, str]):
+        assert len(species) == 2
+        return [
+            cls(rec["id"])
+            for page in cls._api_response_pages()
+            for rec in page["recordings"]
+            if (rec["gen"], rec["sp"]) == species
+        ]
+
+    @property
+    def audio_file(self):
+        species = self.metadata["en"].replace(" ", "")
+        return self.ROOT_DIR / "audio" / species / f"{self.id}.mp3"
+
+    def is_song(self):
+        type_field = self.metadata["type"]
+        type_field = type_field.lower()
+        return "song" in type_field and "call" not in type_field
+
+    @property
+    def metadata(self):
+        return self._get_metadata()
+
+    @lru_cache(maxsize=None)
+    def _get_metadata(self):
+        return next(
+            rec
+            for page in self._api_response_pages()
+            for rec in page["recordings"]
+            if rec["id"] == str(self.id)
+        )
+
+    @classmethod
+    def _api_response_pages(cls):
+        paths = (cls.ROOT_DIR / "metadata" / cls.QUERY).glob("*.json")
+        for path in paths:
+            with open(path) as fp:
+                yield json.load(fp)
