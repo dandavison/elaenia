@@ -1,0 +1,15 @@
+#!/usr/bin/env python
+from elaenia.satl.experiment import create_training_experiment
+from elaenia.recording import XenoCantoRecording
+
+
+class XiphorhynchusRecording(XenoCantoRecording):
+    QUERY = "gen_Xiphorhynchus"
+
+
+create_training_experiment(
+    dataset="Xiphorhynchus_guttatus_vs_elegans",
+    recording_cls=XiphorhynchusRecording,
+    species=[("Xiphorhynchus", "guttatus"), ("Xiphorhynchus", "elegans")],
+    data_dir="~/src/3p/sklearn-audio-transfer-learning/data",
+)
