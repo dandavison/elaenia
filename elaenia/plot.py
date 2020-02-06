@@ -26,3 +26,12 @@ def plot_spectrogram_and_distance_matrix(D, sr):
 
     ax = fig.add_subplot(5, 1, (2, 5))
     plot_distance_matrix(D, ax=ax)
+
+
+def plot_matrix(matrix, title=None):
+    plt.figure()
+    plt.imshow(np.flipud(matrix.T), interpolation=None)
+    plt.colorbar()
+    if title != None:
+        plt.title(title)
+    plt.show()
