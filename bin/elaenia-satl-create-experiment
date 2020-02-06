@@ -8,8 +8,25 @@ class XiphorhynchusRecording(XenoCantoRecording):
 
 
 create_training_experiment(
-    dataset="Xiphorhynchus_guttatus_vs_elegans",
+    dataset="Xiphorhynchus",
     recording_cls=XiphorhynchusRecording,
-    species=[("Xiphorhynchus", "guttatus"), ("Xiphorhynchus", "elegans")],
+    species=[
+        ("Xiphorhynchus", sp)
+        for sp in [
+            "chunchotambo",
+            "elegans",
+            "erythropygius",
+            "flavigaster",
+            "fuscus",
+            "guttatus",
+            "lachrymosus",
+            "obsoletus",
+            "ocellatus",
+            "pardalotus",
+            "spixii",
+            "susurrans",
+            "triangularis",
+        ]
+    ],
     data_dir="~/src/3p/sklearn-audio-transfer-learning/data",
 )
