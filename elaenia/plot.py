@@ -2,11 +2,17 @@ import librosa.display
 import matplotlib.pyplot as plt
 import numpy as np
 
+from elaenia.stft import distance_matrix
+from elaenia.stft import get_hop_length
+from elaenia.stft import get_n_fft
+
 
 def plot_spectrogram(D, sr, y_axis="hz", x_axis="s", **kwargs):
-    hop_length = _get_hop_length(_get_n_fft(D))
+    hop_length = get_hop_length(get_n_fft(D))
     D = np.log(D + 1)
-    lr.display.specshow(D, x_axis=x_axis, y_axis=y_axis, sr=sr, hop_length=hop_length, **kwargs)
+    librosa.display.specshow(
+        D, x_axis=x_axis, y_axis=y_axis, sr=sr, hop_length=hop_length, **kwargs
+    )
 
 
 def plot_distance_matrix(D, ax=None):
@@ -32,6 +38,6 @@ def plot_matrix(matrix, title=None):
     plt.figure()
     plt.imshow(np.flipud(matrix.T), interpolation=None)
     plt.colorbar()
-    if title != None:
+    if title is not None:
         plt.title(title)
     plt.show()
