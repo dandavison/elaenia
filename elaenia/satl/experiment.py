@@ -1,5 +1,5 @@
-import random
 import pprint
+import random
 from io import StringIO
 from itertools import chain
 from pathlib import Path
@@ -7,11 +7,26 @@ from typing import List
 from typing import Tuple
 
 from elaenia.recording import XenoCantoRecording
+from elaenia.satl.dataset import Dataset
 from elaenia.utils import delete_directory_tree
 from elaenia.utils import split
 
-
+DATA_DIR = Path("/tmp/satl-data")
 RANDOMIZE_DATA = False
+
+
+class Experiment:
+    def __init__(self, name):
+        self.name = name
+        self.audio_dir = DATA_DIR / "audio" / name
+        self.train_set = Dataset(DATA_DIR / "index" / name / "train.txt", self)
+        self.test_set = Dataset(DATA_DIR / "index" / name / "test.txt", self)
+        self.audio_representations_dir = DATA_DIR / "audio_representations"
+
+    def describe(self):
+        self.train_set.describe()
+        print()
+        self.test_set.describe()
 
 
 def create_training_experiment(
@@ -35,7 +50,8 @@ def create_training_experiment(
     train_paths_file = paths_files_dir / "train.txt"
     test_paths_file = paths_files_dir / "test.txt"
 
-    species_label = lambda genus, species: f"{genus}_{species}"
+    def species_label(genus, species):
+        return f"{genus}_{species}"
 
     training_data = {sp: recording_cls.for_species(sp) for sp in species}
     # Discard data so that all labels have the same count
@@ -47,7 +63,7 @@ def create_training_experiment(
         random.shuffle(all_data)
         for n, sp in enumerate(training_data):
             offset = n * min_label_count
-            training_data[sp] = all_data[offset : (offset + min_label_count)]
+            training_data[sp] = all_data[offset : (offset + min_label_count)]  # noqa:E203
 
     for sp in species:
         train, test = split(training_data[sp], train_proportion)
