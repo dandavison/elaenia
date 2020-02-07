@@ -28,6 +28,7 @@ def reload():
 
     recording.elaenia.plot = plot
     satl.dataset.Recording = recording.Recording
+    satl.plot.DatasetRecording = satl.dataset.DatasetRecording
 
 
 plt.ion()

@@ -60,6 +60,7 @@ class Recording:
         ss = elaenia.stft.stft(self.time_series, n_fft=n_fft)
         elaenia.plot.plot_spectrogram(ss, ax=ax, sr=self.sampling_rate)
         ax.set_title(self.audio_file.name)
+        return ss
 
     def play(self):
         subprocess.check_call(["open", "-a", "/Applications/Cog.app", self.audio_file])

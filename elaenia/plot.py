@@ -34,10 +34,9 @@ def plot_spectrogram_and_distance_matrix(D, sr):
     plot_distance_matrix(D, ax=ax)
 
 
-def plot_matrix(matrix, title=None):
-    plt.figure()
+def plot_matrix(matrix, title=None, ax=None):
+    ax = ax or plt.gca()
     plt.imshow(np.flipud(matrix.T), interpolation=None)
     plt.colorbar()
     if title is not None:
         plt.title(title)
-    plt.show()
