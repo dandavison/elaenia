@@ -1,6 +1,7 @@
 import csv
 import json
 import re
+import subprocess
 import sys
 import warnings
 from functools import cached_property
@@ -40,6 +41,11 @@ class Recording:
             self._load()
         return self._sampling_rate
 
+    @property
+    def duration(self):
+        "Seconds"
+        return len(self.time_series) / self.sampling_rate
+
     @classmethod
     def from_file(cls, path):
         self = cls()
@@ -54,6 +60,9 @@ class Recording:
         ss = elaenia.stft.stft(self.time_series, n_fft=n_fft)
         elaenia.plot.plot_spectrogram(ss, ax=ax, sr=self.sampling_rate)
         ax.set_title(self.audio_file.name)
+
+    def play(self):
+        subprocess.check_call(["open", "-a", "/Applications/Cog.app", self.audio_file])
 
 
 class NIPS4BPlusRecording(Recording):
