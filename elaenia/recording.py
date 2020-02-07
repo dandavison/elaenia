@@ -2,12 +2,13 @@ import csv
 import json
 import re
 import sys
+import warnings
 from functools import lru_cache
-from io import StringIO
 from pathlib import Path
 from typing import Tuple
 
 import matplotlib.pyplot as plt
+import requests
 
 import elaenia.plot
 import elaenia.stft
@@ -58,7 +59,7 @@ class NIPS4BPlusRecording(Recording):
     @classmethod
     def from_file(cls, file_name):
         file_name = Path(file_name).name
-        id, = re.match("^nips4b_birds_trainfile([0-9]+)\.wav$", file_name).groups()
+        id, = re.match(r"^nips4b_birds_trainfile([0-9]+)\.wav$", file_name).groups()
         return cls(id, dataset="train")
 
     @property
@@ -149,7 +150,7 @@ class BoesmanRecording(Recording):
         file_name = Path(file_name).name
         try:
             species_id, recording_id, english_name, recording_id_2 = re.match(
-                "^([0-9]+) ([0-9]+) (.+) ([0-9]+) .*\.mp3$", file_name
+                r"^([0-9]+) ([0-9]+) (.+) ([0-9]+) .*\.mp3$", file_name
             ).groups()
         except Exception:
             sys.stderr.write("parse_file_name error\n")
