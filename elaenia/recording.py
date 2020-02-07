@@ -3,7 +3,7 @@ import json
 import re
 import sys
 import warnings
-from functools import lru_cache
+from functools import cached_property
 from pathlib import Path
 from typing import Tuple
 
@@ -17,14 +17,28 @@ from elaenia import librosa_utils
 
 class Recording:
     def __init__(self):
-        self.time_series = None
-        self.sampling_rate = None
-
+        self._time_series = None
+        self._sampling_rate = None
         self._audio_file = None
 
     @property
     def audio_file(self):
+        assert self._audio_file
         return Path(self._audio_file)
+
+    @property
+    def time_series(self):
+        "1D numpy array of amplitudes"
+        if self._time_series is None:
+            self._load()
+        return self._time_series
+
+    @property
+    def sampling_rate(self):
+        "Hz"
+        if self._sampling_rate is None:
+            self._load()
+        return self._sampling_rate
 
     @classmethod
     def from_file(cls, path):
@@ -32,13 +46,8 @@ class Recording:
         self._audio_file = Path(path)
         return self
 
-    def load(self):
-        if not self.audio_file.exists():
-            self.fetch_mp3()
-        self.time_series, self.sampling_rate = librosa_utils.load(self.audio_file, sr=None)
-
-    def fetch_mp3(self):
-        raise NotImplementedError
+    def _load(self):
+        self._time_series, self._sampling_rate = librosa_utils.load(self.audio_file, sr=None)
 
     def plot_spectrogram(self, n_fft, ax=None):
         ax = ax or plt.gca()
@@ -54,7 +63,7 @@ class NIPS4BPlusRecording(Recording):
         super().__init__()
         self.id = str(id)
         self.dataset = dataset
-        self.temporal_annotations = None
+        self._temporal_annotations = None
 
     @classmethod
     def from_file(cls, file_name):
@@ -72,24 +81,21 @@ class NIPS4BPlusRecording(Recording):
         )
 
     @property
-    def temporal_annotations_file(self):
-        return (
-            self.ROOT_DIR
-            / "temporal_annotations_nips4b"
-            / f"annotation_{self.dataset}{self.id}.csv"
-        )
-
-    def load(self):
-        super().load()
-        self._load_temporal_annotations()
-
-    def _load_temporal_annotations(self):
-        self.temporal_annotations = []
-        with open(self.temporal_annotations_file) as fp:
-            for row in csv.DictReader(fp, fieldnames=["start", "duration", "label"]):
-                for field in ["start", "duration"]:
-                    row[field] = float(row[field])
-                self.temporal_annotations.append(row)
+    def temporal_annotations(self):
+        if not self._temporal_annotations:
+            path = (
+                self.ROOT_DIR
+                / "temporal_annotations_nips4b"
+                / f"annotation_{self.dataset}{self.id}.csv"
+            )
+            annotations = []
+            with open(path) as fp:
+                for row in csv.DictReader(fp, fieldnames=["start", "duration", "label"]):
+                    for field in ["start", "duration"]:
+                        row[field] = float(row[field])
+                    annotations.append(row)
+            self._temporal_annotations = annotations
+        return self._temporal_annotations
 
     def plot_spectrogram(self, **kwargs):
         super().plot_spectrogram(**kwargs)
@@ -188,7 +194,12 @@ class XenoCantoRecording0(Recording):
     def audio_file(self):
         return self.MP3_DIR / f"{self.id}.mp3"
 
-    def fetch_mp3(self):
+    def _load(self):
+        if not self.audio_file.exists():
+            self._fetch_mp3()
+        super()._load()
+
+    def _fetch_mp3(self):
         print(f"{self.mp3_url} => {self.audio_file}")
         with self.audio_file.open("wb") as fp:
             resp = requests.get(self.mp3_url)
@@ -233,12 +244,8 @@ class XenoCantoRecording(Recording):
         type_field = type_field.lower()
         return "song" in type_field and "call" not in type_field
 
-    @property
+    @cached_property
     def metadata(self):
-        return self._get_metadata()
-
-    @lru_cache(maxsize=None)
-    def _get_metadata(self):
         return next(
             rec
             for page in self._api_response_pages()

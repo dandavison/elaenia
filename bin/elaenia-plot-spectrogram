@@ -8,7 +8,6 @@ from elaenia.recording import NIPS4BPlusRecording
 file, = sys.argv[1:]
 print(file)
 rec = Recording.from_file(file)
-rec.load()
 fig = plt.figure(figsize=(16, 4))
 rec.plot_spectrogram()
 plt.savefig(rec.audio_file.name + ".spectrogram.png")

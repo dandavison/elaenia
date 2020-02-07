@@ -11,7 +11,6 @@ english_name, = sys.argv[1:]
 recordings = BoesmanRecording.from_english_name(english_name)
 for recording in recordings:
     print(recording.audio_file)
-    y, sr = recording.load()
-    ss = stft(y)
+    ss = stft(recording.time_series)
     plot_spectrogram_and_distance_matrix(ss)
     plt.savefig(recording.audio_file.name + ".plot.png")
