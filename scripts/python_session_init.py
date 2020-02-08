@@ -27,14 +27,16 @@ def reload():
     importlib.reload(stft)
     importlib.reload(satl.dataset)
     importlib.reload(satl.experiment)
+    importlib.reload(satl.experiment_recording)
     importlib.reload(satl.plot)
     importlib.reload(satl.results)
 
     recording.elaenia.plot = plot
+    satl.dataset.ExperimentRecording = satl.experiment_recording.ExperimentRecording
     satl.dataset.Recording = recording.Recording
     satl.dataset.Results = satl.results.Results
     satl.experiment.Results = satl.results.Results
-    satl.plot.ExperimentRecording = satl.dataset.ExperimentRecording
+    satl.plot.ExperimentRecording = satl.experiment_recording.ExperimentRecording
 
 
 plt.ion()

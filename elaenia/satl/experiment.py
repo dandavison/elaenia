@@ -1,3 +1,4 @@
+import json
 import pprint
 import random
 from io import StringIO
@@ -27,10 +28,14 @@ class Experiment:
         self.train_set = Dataset(DATA_DIR / "index" / name / "train.txt", self)
         self.test_set = Dataset(DATA_DIR / "index" / name / "test.txt", self)
 
-    def describe(self):
-        self.train_set.describe()
-        print()
-        self.test_set.describe()
+    def summary(self):
+        summary = {}
+        for dataset in [self.train_set, self.test_set]:
+            summary[dataset.name] = dataset.summary()
+        return summary
+
+    def print_summary(self):
+        print(json.dumps(self.summary(), sort_keys=True, indent=4))
 
 
 def create_training_experiment(

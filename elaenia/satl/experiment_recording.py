@@ -20,7 +20,7 @@ class ExperimentRecording(Recording):
     @property
     def integer_label(self):
         # TODO: this might not match the SATL code.
-        return sorted(self.dataset.label_set).index(self.label)
+        return sorted(self.dataset.label_set, reverse=True).index(self.label)
 
     @property
     def id(self):

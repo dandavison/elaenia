@@ -1,12 +1,10 @@
 import re
-from collections import Counter
 from functools import cached_property
 
 import numpy as np
 
 from elaenia.satl.experiment_recording import ExperimentRecording
 from elaenia.satl.results import Results
-from elaenia.utils import print_counter
 
 
 class Dataset:
@@ -15,6 +13,13 @@ class Dataset:
         (self.name,) = re.match(r"(train|test)\.txt", paths_file.name).groups()
         self.experiment = experiment
         self.results = self.get_results()
+
+    def summary(self):
+        return {
+            "labels": Counter(r.label for r in self.recordings),
+            # "predictions": [(r.label, int(r.integer_label), int(r.predicted_integer_label)) for r in self.recordings],
+            "accuracy": float(np.mean([r.integer_label == r.predicted_integer_label for r in self.recordings])),
+        }
 
     def get_results(self):
         results = Results(self._results_path, self)
@@ -69,7 +74,7 @@ class Dataset:
         ), (s1, s2)
         return recordings
 
-    @property
+    @cached_property
     def recording_paths(self):
         paths = []
         with open(self.paths_file) as fp:
@@ -114,11 +119,3 @@ class Dataset:
             / f"{prefix}_{self.experiment.name}_vggish.npz"
         )
         return np.load(path)
-
-    def count_classes(self):
-        with open(self.paths_file) as fp:
-            return Counter(_class for line in fp for _class, file_name in [line.split("/")])
-
-    def describe(self):
-        print(self.name)
-        print_counter(self.count_classes())
