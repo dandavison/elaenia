@@ -12,15 +12,5 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
-    install_requires=[
-        "flake8",
-        "ipdb",
-        "jupyter",
-        "librosa",
-        "matplotlib",
-        "numpy",
-        "pytest-runner",
-        "pyqt5",
-        "requests",
-    ],
+    install_requires=["librosa", "matplotlib", "numpy", "requests",],
 )
