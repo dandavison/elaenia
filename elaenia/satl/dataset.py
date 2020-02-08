@@ -4,38 +4,60 @@ from functools import cached_property
 
 import numpy as np
 
-from elaenia.recording import Recording
+from elaenia.satl.experiment_recording import ExperimentRecording
+from elaenia.satl.results import Results
 from elaenia.utils import print_counter
-
-
-class DatasetRecording(Recording):
-    @classmethod
-    def from_file(cls, path, dataset):
-        self = super().from_file(path)
-        self.dataset = dataset
-        return self
-
-    @property
-    def label(self):
-        return str(self.audio_file.relative_to(self.audio_file.parents[1]))
-
-    @property
-    def frame_vggish_embeddings(self):
-        return self.dataset.frame_vggish_embeddings[
-            self.dataset.frame_recording_labels == self.label
-        ]
 
 
 class Dataset:
     def __init__(self, paths_file, experiment):
         self.paths_file = paths_file
-        self.name, = re.match(r"(train|test)\.txt", paths_file.name).groups()
+        (self.name,) = re.match(r"(train|test)\.txt", paths_file.name).groups()
         self.experiment = experiment
+
+    def get_results(self):
+        results = Results(self._results_path, self)
+        self._sanity_check(results)
+        self._set_results_on_recordings(results)
+        return results
+
+    def _sanity_check(self, results):
+        n_frames_in_dataset = len(self.frame_recording_labels)
+        n_recordings_in_dataset = len(set(self.frame_recording_labels))
+        assert len(self.recordings) == n_recordings_in_dataset
+        assert len(results.recordings_predicted_integer_labels) == n_recordings_in_dataset
+        assert len(results.frames_predicted_integer_labels) == n_frames_in_dataset
+
+    def _set_results_on_recordings(self, results):
+        for recording in self.recordings:
+            recording.frames_predicted_integer_labels = results.frames_predicted_integer_labels[
+                self.frame_recording_labels == recording.label
+            ]
+            recording.predicted_integer_label = results.recordings_predicted_integer_labels[
+                recording.index
+            ]
+
+    @property
+    def _results_path(self):
+        paths = list(
+            self.experiment.experiments_dir.glob(
+                f"{self.name}_predictions_{self.experiment.name}*"
+            )
+        )
+        if len(paths) > 1:
+            raise AssertionError(f"Multiple results files: {paths}")
+        [path] = paths
+        return path
 
     @cached_property
     def recordings(self):
-        recordings = [DatasetRecording.from_file(path,  self) for path in self.recording_paths]
-        assert (s1 := set(r.label for r in recordings)) == (s2 := set(self.frame_recording_labels)), (s1, s2)
+        recordings = [
+            ExperimentRecording.from_file(path, i, self)
+            for i, path in enumerate(self.recording_paths)
+        ]
+        assert (s1 := set(r.label for r in recordings)) == (  # noqa:E203,E231
+            s2 := set(self.frame_recording_labels)  # noqa:E203,E231
+        ), (s1, s2)
         return recordings
 
     @property

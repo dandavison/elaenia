@@ -8,6 +8,7 @@ from typing import Tuple
 
 from elaenia.recording import XenoCantoRecording
 from elaenia.satl.dataset import Dataset
+from elaenia.satl.results import Results
 from elaenia.utils import delete_directory_tree
 from elaenia.utils import split
 
@@ -18,10 +19,14 @@ RANDOMIZE_DATA = False
 class Experiment:
     def __init__(self, name):
         self.name = name
+
         self.audio_dir = DATA_DIR / "audio" / name
+        self.audio_representations_dir = DATA_DIR / "audio_representations"
+        self.experiments_dir = DATA_DIR / "experiments"
+
         self.train_set = Dataset(DATA_DIR / "index" / name / "train.txt", self)
         self.test_set = Dataset(DATA_DIR / "index" / name / "test.txt", self)
-        self.audio_representations_dir = DATA_DIR / "audio_representations"
+        self.test_set.results = self.test_set.get_results()
 
     def describe(self):
         self.train_set.describe()

@@ -11,7 +11,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
+import elaenia.satl.dataset
+import elaenia.satl.experiment
 import elaenia.satl.plot
+import elaenia.satl.results
 from elaenia import plot
 from elaenia import recording
 from elaenia import satl
@@ -25,10 +28,13 @@ def reload():
     importlib.reload(satl.dataset)
     importlib.reload(satl.experiment)
     importlib.reload(satl.plot)
+    importlib.reload(satl.results)
 
     recording.elaenia.plot = plot
     satl.dataset.Recording = recording.Recording
-    satl.plot.DatasetRecording = satl.dataset.DatasetRecording
+    satl.dataset.Results = satl.results.Results
+    satl.experiment.Results = satl.results.Results
+    satl.plot.ExperimentRecording = satl.dataset.ExperimentRecording
 
 
 plt.ion()
