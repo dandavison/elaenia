@@ -13,11 +13,11 @@ class ExperimentRecording(Recording):
         return self
 
     @property
-    def label(self):
+    def id(self):
         return str(self.audio_file.relative_to(self.audio_file.parents[1]))
 
     @property
     def frame_vggish_embeddings(self):
         return self.dataset.frame_vggish_embeddings[
-            self.dataset.frame_recording_labels == self.label
+            self.dataset.frame_recording_ids == self.id
         ]

@@ -23,8 +23,8 @@ class Dataset:
         return results
 
     def _sanity_check(self, results):
-        n_frames_in_dataset = len(self.frame_recording_labels)
-        n_recordings_in_dataset = len(set(self.frame_recording_labels))
+        n_frames_in_dataset = len(self.frame_recording_ids)
+        n_recordings_in_dataset = len(set(self.frame_recording_ids))
         assert len(self.recordings) == n_recordings_in_dataset
         assert len(results.recordings_predicted_integer_labels) == n_recordings_in_dataset
         assert len(results.frames_predicted_integer_labels) == n_frames_in_dataset
@@ -32,7 +32,7 @@ class Dataset:
     def _set_results_on_recordings(self, results):
         for recording in self.recordings:
             recording.frames_predicted_integer_labels = results.frames_predicted_integer_labels[
-                self.frame_recording_labels == recording.label
+                self.frame_recording_ids == recording.id
             ]
             recording.predicted_integer_label = results.recordings_predicted_integer_labels[
                 recording.index
@@ -56,8 +56,8 @@ class Dataset:
             ExperimentRecording.from_file(path, i, self)
             for i, path in enumerate(self.recording_paths)
         ]
-        assert (s1 := set(r.label for r in recordings)) == (  # noqa:E203,E231
-            s2 := set(self.frame_recording_labels)  # noqa:E203,E231
+        assert (s1 := set(r.id for r in recordings)) == (  # noqa:E203,E231
+            s2 := set(self.frame_recording_ids)  # noqa:E203,E231
         ), (s1, s2)
         return recordings
 
@@ -92,7 +92,7 @@ class Dataset:
         return self._frame_data["Y"]
 
     @property
-    def frame_recording_labels(self):
+    def frame_recording_ids(self):
         """
         (nframes,) array of elements like "Xiphorhynchus_elegans/249864.mp3"
         """
