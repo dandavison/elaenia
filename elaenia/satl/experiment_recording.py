@@ -1,7 +1,16 @@
-from elaenia.recording import Recording
+from elaenia.recording import XenoCantoRecording
 
 
-class ExperimentRecording(Recording):
+class ExperimentRecording(XenoCantoRecording):
+
+    # TODO: hack
+    QUERY = "gen_Xiphorhynchus"
+
+    def __init__(self):
+        self._time_series = None
+        self._sampling_rate = None
+        self._audio_file = None
+
     @classmethod
     def from_file(cls, path, index, dataset=None, results=None):
         self = super().from_file(path)
