@@ -51,7 +51,9 @@ def plot_spectrogram(recording, ax, stft):
     # Crop high frequencies
     # n_freq_frames is assumed to be power of 2 plus 1
     # n_freq_frames = ((n_freq_frames - 1) >> 1) + 1
-    return elaenia.plot.plot_spectrogram(stft[:n_freq_frames, :], sr=recording.sampling_rate, ax=ax)
+    return elaenia.plot.plot_spectrogram(
+        stft[:n_freq_frames, :], sr=recording.sampling_rate, ax=ax
+    )
 
 
 def plot_embeddings(recording, ax, stft):
@@ -94,7 +96,9 @@ def imshow(ax, matrix, **kwargs):
 
 
 def imshow_integer_labels(ax, matrix, recording):
-    integer_label_set = (recording.dataset.experiment.train_set.integer_label_set |
-                         recording.dataset.experiment.test_set.integer_label_set)
+    integer_label_set = (
+        recording.dataset.experiment.train_set.integer_label_set
+        | recording.dataset.experiment.test_set.integer_label_set
+    )
     vmin, vmax = min(integer_label_set), max(integer_label_set)
     return imshow(ax, matrix, vmin=vmin, vmax=vmax)

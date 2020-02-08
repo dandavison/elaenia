@@ -78,7 +78,7 @@ class NIPS4BPlusRecording(Recording):
     @classmethod
     def from_file(cls, file_name):
         file_name = Path(file_name).name
-        id, = re.match(r"^nips4b_birds_trainfile([0-9]+)\.wav$", file_name).groups()
+        (id,) = re.match(r"^nips4b_birds_trainfile([0-9]+)\.wav$", file_name).groups()
         return cls(id, dataset="train")
 
     @property
@@ -183,7 +183,7 @@ class BoesmanRecording(Recording):
 
     @property
     def audio_file(self):
-        file, = self.MP3_DIR.glob(f"{self.species_id} {self.recording_id} *")
+        (file,) = self.MP3_DIR.glob(f"{self.species_id} {self.recording_id} *")
         return file
 
 
