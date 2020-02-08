@@ -233,6 +233,8 @@ class XenoCantoRecording(Recording):
         id    -- the integer ID (i.e. without the XC prefix)
         """
         self.id = int(id)
+        species = self.metadata["en"].replace(" ", "")
+        self._audio_file = self.ROOT_DIR / "audio" / species / f"{self.id}.mp3"
 
     @classmethod
     def for_species(cls, species: Tuple[str, str]):
@@ -245,10 +247,6 @@ class XenoCantoRecording(Recording):
         ]
 
     @property
-    def audio_file(self):
-        species = self.metadata["en"].replace(" ", "")
-        return self.ROOT_DIR / "audio" / species / f"{self.id}.mp3"
-
     def is_song(self):
         type_field = self.metadata["type"]
         type_field = type_field.lower()
