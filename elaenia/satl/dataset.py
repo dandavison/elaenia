@@ -38,6 +38,14 @@ class Dataset:
                 recording.index
             ]
 
+    @cached_property
+    def label_set(self):
+        return set(r.label for r in self.recordings)
+
+    @cached_property
+    def integer_label_set(self):
+        return set(r.integer_label for r in self.recordings)
+
     @property
     def _results_path(self):
         paths = list(
