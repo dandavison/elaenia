@@ -14,6 +14,7 @@ class Dataset:
         self.paths_file = paths_file
         (self.name,) = re.match(r"(train|test)\.txt", paths_file.name).groups()
         self.experiment = experiment
+        self.results = self.get_results()
 
     def get_results(self):
         results = Results(self._results_path, self)
@@ -45,7 +46,7 @@ class Dataset:
             )
         )
         if len(paths) > 1:
-            raise AssertionError(f"Multiple results files: {paths}")
+            raise AssertionError(f"Multiple results files: {sorted(paths)}")
         [path] = paths
         return path
 

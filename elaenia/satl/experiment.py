@@ -26,7 +26,6 @@ class Experiment:
 
         self.train_set = Dataset(DATA_DIR / "index" / name / "train.txt", self)
         self.test_set = Dataset(DATA_DIR / "index" / name / "test.txt", self)
-        self.test_set.results = self.test_set.get_results()
 
     def describe(self):
         self.train_set.describe()

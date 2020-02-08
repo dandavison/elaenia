@@ -3,10 +3,10 @@ import numpy as np
 
 import elaenia.stft
 import elaenia.plot
-from elaenia.satl.dataset import DatasetRecording
+from elaenia.satl.experiment_recording import ExperimentRecording
 
 
-def plot_spectrogram_and_embeddings_and_classifications(recording: DatasetRecording):
+def plot_spectrogram_and_embeddings_and_classifications(recording: ExperimentRecording):
     fig, axes = plt.subplots(nrows=3)
     spect_ax = axes[2]
     embed_ax = axes[1]
@@ -16,6 +16,7 @@ def plot_spectrogram_and_embeddings_and_classifications(recording: DatasetRecord
 
     plot_spectrogram(recording, ax=spect_ax, stft=stft)
     plot_embeddings(recording, ax=embed_ax, stft=stft)
+    plot_predictions(recording, ax=preds_ax, stft=stft)
 
 
 def plot_spectrogram(recording, ax, stft):
@@ -29,8 +30,14 @@ def plot_spectrogram(recording, ax, stft):
 def plot_embeddings(recording, ax, stft):
     embeddings = recording.frame_vggish_embeddings.T
     assert embeddings.shape[0] == 128
-    embeddings = align_vggish_frames_to_stft_time_frames(embeddings)
+    embeddings = align_vggish_frames_to_stft_time_frames(embeddings, stft)
     return imshow(ax, embeddings)
+
+
+def plot_predictions(recording, ax, stft):
+    preds = recording.frames_predicted_integer_labels[np.newaxis, :]
+    preds = align_vggish_frames_to_stft_time_frames(preds, stft)
+    return imshow(ax, preds)
 
 
 def align_vggish_frames_to_stft_time_frames(vggish_frames, stft):
@@ -41,7 +48,7 @@ def align_vggish_frames_to_stft_time_frames(vggish_frames, stft):
     Alternatively, if the input is VGGish frame embeddings, then d will be 128 (since that is the
     size of the embedding layer in Google's VGGish network).
     """
-    d, vggish_n_frames = embeddings.shape
+    d, vggish_n_frames = vggish_frames.shape
     stft_n_freq_frames, stft_n_time_frames = stft.shape
     stft_time_frames_per_vggish_frame = int(stft_n_time_frames / vggish_n_frames)
     return vggish_frames.repeat(stft_time_frames_per_vggish_frame, axis=1)
