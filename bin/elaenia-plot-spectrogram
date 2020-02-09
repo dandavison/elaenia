@@ -3,11 +3,12 @@ import sys
 
 import matplotlib.pyplot as plt
 
-from elaenia.recording import NIPS4BPlusRecording
+from elaenia.recording import Recording
 
-file, = sys.argv[1:]
+(file,) = sys.argv[1:]
 print(file)
 rec = Recording.from_file(file)
+plt.ioff()
 fig = plt.figure(figsize=(16, 4))
-rec.plot_spectrogram()
-plt.savefig(rec.audio_file.name + ".spectrogram.png")
+rec.plot_spectrogram(n_fft=1024)
+plt.savefig(rec.audio_file.parents[0] / (rec.audio_file.name + ".spectrogram.png"))
