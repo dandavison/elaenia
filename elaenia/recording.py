@@ -225,6 +225,7 @@ class XenoCantoRecording(Recording):
     ROOT_DIR = Path("/tmp/xeno-canto-data")
 
     # The name given to the directory under metadata/, e.g. "gen_Xiphorhynchus"
+    # This can be a glob pattern.
     # This class is abstract; concrete subclasses must set this.
     QUERY = None
 
@@ -263,7 +264,7 @@ class XenoCantoRecording(Recording):
 
     @classmethod
     def _api_response_pages(cls):
-        paths = (cls.ROOT_DIR / "metadata" / cls.QUERY).glob("*.json")
+        paths = (cls.ROOT_DIR / "metadata").glob(f"{cls.QUERY}/*.json")
         for path in paths:
             with open(path) as fp:
                 yield json.load(fp)
