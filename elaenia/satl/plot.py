@@ -30,10 +30,10 @@ def plot_dataset(dataset, dir: Path):
 
 def plot_spectrogram_and_embeddings_and_classifications(recording: ExperimentRecording):
     fig, axes = plt.subplots(nrows=4)
-    spect_ax = axes[3]
-    embed_ax = axes[2]
-    preds_ax = axes[1]
     truth_ax = axes[0]
+    preds_ax = axes[1]
+    embed_ax = axes[2]
+    spect_ax = axes[3]
 
     stft = elaenia.stft.stft(recording.time_series, n_fft=1024)
 
@@ -59,20 +59,17 @@ def plot_spectrogram(recording, ax, stft):
 def plot_embeddings(recording, ax, stft):
     embeddings = recording.frame_vggish_embeddings.T
     assert embeddings.shape[0] == 128
-    embeddings = align_frames_to_stft_time_frames(embeddings, stft)
-    return imshow(ax, embeddings)
+    return imshow(embeddings, ax)
 
 
 def plot_predictions(recording, ax, stft):
     preds = recording.frames_predicted_integer_labels[np.newaxis, :]
-    preds = align_frames_to_stft_time_frames(preds, stft)
-    return imshow_integer_labels(ax, preds, recording)
+    return imshow_integer_labels(preds, ax, recording)
 
 
 def plot_truth(recording, ax, stft):
     truth = np.array([recording.predicted_integer_label, recording.integer_label])[np.newaxis, :]
-    truth = align_frames_to_stft_time_frames(truth, stft)
-    return imshow_integer_labels(ax, truth, recording)
+    return imshow_integer_labels(truth, ax, recording)
 
 
 def align_frames_to_stft_time_frames(frames, stft):
@@ -91,14 +88,15 @@ def align_frames_to_stft_time_frames(frames, stft):
     return frames.repeat(stft_time_frames_per_frame, axis=1)
 
 
-def imshow(ax, matrix, **kwargs):
+def imshow(matrix, ax, stft, **kwargs):
+    matrix = align_frames_to_stft_time_frames(matrix, stft)
     return ax.imshow(np.flipud(matrix), interpolation=None, aspect="auto", **kwargs)
 
 
-def imshow_integer_labels(ax, matrix, recording):
+def imshow_integer_labels(matrix, ax, recording):
     integer_label_set = (
         recording.dataset.experiment.train_set.integer_label_set
         | recording.dataset.experiment.test_set.integer_label_set
     )
     vmin, vmax = min(integer_label_set), max(integer_label_set)
-    return imshow(ax, matrix, vmin=vmin, vmax=vmax)
+    return imshow(matrix, ax, stft, vmin=vmin, vmax=vmax)
