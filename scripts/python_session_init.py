@@ -19,6 +19,7 @@ from elaenia import plot
 from elaenia import recording
 from elaenia import satl
 from elaenia import stft
+from elaenia import vggish
 
 
 def reload():
@@ -30,6 +31,7 @@ def reload():
     importlib.reload(satl.experiment_recording)
     importlib.reload(satl.plot)
     importlib.reload(satl.results)
+    importlib.reload(vggish)
 
     recording.elaenia.plot = plot
     satl.dataset.ExperimentRecording = satl.experiment_recording.ExperimentRecording

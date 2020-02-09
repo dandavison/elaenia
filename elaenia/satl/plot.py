@@ -5,6 +5,7 @@ import numpy as np
 
 import elaenia.stft
 import elaenia.plot
+import elaenia.vggish
 from elaenia.satl.experiment import Experiment
 from elaenia.satl.experiment_recording import ExperimentRecording
 
@@ -29,21 +30,31 @@ def plot_dataset(dataset, dir: Path):
 
 
 def plot_spectrogram_and_embeddings_and_classifications(recording: ExperimentRecording):
-    fig, axes = plt.subplots(nrows=4)
-    truth_ax = axes[0]
-    preds_ax = axes[1]
-    embed_ax = axes[2]
-    spect_ax = axes[3]
+    ax_names = ["spect", "embed", "energ", "e_kmm", "e_gmm", "preds", "truth"]
+    fig, axes = plt.subplots(nrows=len(ax_names))
+    axes = dict(zip(reversed(ax_names), axes))
 
     stft = elaenia.stft.stft(recording.time_series, n_fft=1024)
 
-    plot_spectrogram(recording, ax=spect_ax, stft=stft)
-    plot_embeddings(recording, ax=embed_ax, stft=stft)
-    plot_predictions(recording, ax=preds_ax, stft=stft)
-    plot_truth(recording, ax=truth_ax, stft=stft)
-    truth_ax.set_title(recording.id)
-    for ax in axes:
+    plot_spectrogram(recording, ax=axes["spect"], stft=stft)
+    plot_embeddings(recording, ax=axes["embed"], stft=stft)
+
+    # TODO: the energy (line plot) x axis is not aligned with the other (imshow) x axes.
+    plot_energy(recording, ax=axes["energ"], stft=stft)
+
+    plot_energy_gmm_classes(recording, ax=axes["e_gmm"], stft=stft)
+    plot_energy_kmm_classes(recording, ax=axes["e_kmm"], stft=stft)
+    plot_predictions(recording, ax=axes["preds"], stft=stft)
+    plot_truth(recording, ax=axes["truth"], stft=stft)
+
+    ax = axes["truth"]
+
+    for name, ax in axes.items():
         ax.label_outer()
+        if name not in {"spect", "energ"}:
+            ax.yaxis.set_visible(False)
+        if name == "truth":
+            ax.set_title(f"{recording.id}: {ax.get_title()}")
 
 
 def plot_spectrogram(recording, ax, stft):
@@ -59,17 +70,37 @@ def plot_spectrogram(recording, ax, stft):
 def plot_embeddings(recording, ax, stft):
     embeddings = recording.frame_vggish_embeddings.T
     assert embeddings.shape[0] == 128
-    return imshow(embeddings, ax)
+    return imshow(embeddings, ax, stft=stft, title="Frame embedding")
+
+
+def plot_energy(recording, ax, stft):
+    energies = elaenia.vggish.get_frame_energies(recording)[np.newaxis, :]
+    energies = align_frames_to_stft_time_frames(energies, stft)
+    ax.plot(energies.ravel())
+    if False:
+        ax.set_title("Frame energy")
+
+
+def plot_energy_gmm_classes(recording, ax, stft):
+    classes = elaenia.vggish.get_frame_energy_classes_gmm(recording)[np.newaxis, :]
+    return imshow(classes, ax, stft=stft, title="Frame energy class (GMM)")
+
+
+def plot_energy_kmm_classes(recording, ax, stft):
+    classes = elaenia.vggish.get_frame_energy_classes_kmm(recording)[np.newaxis, :]
+    return imshow(classes, ax, stft=stft, title="Frame energy class (KMM)")
 
 
 def plot_predictions(recording, ax, stft):
     preds = recording.frames_predicted_integer_labels[np.newaxis, :]
-    return imshow_integer_labels(preds, ax, recording)
+    return imshow_integer_labels(preds, ax, recording, stft=stft, title="Frame predictions")
 
 
 def plot_truth(recording, ax, stft):
     truth = np.array([recording.predicted_integer_label, recording.integer_label])[np.newaxis, :]
-    return imshow_integer_labels(truth, ax, recording)
+    return imshow_integer_labels(
+        truth, ax, recording, stft=stft, title="Recording prediction & truth"
+    )
 
 
 def align_frames_to_stft_time_frames(frames, stft):
@@ -81,6 +112,7 @@ def align_frames_to_stft_time_frames(frames, stft):
     VGGish network). In both bhose cases, the frame length is 0.96 s, which will typically be
     longer than the STFT frame length.
     """
+    # TODO: Can this alignment be made exact?
     d, n_frames = frames.shape
     stft_n_freq_frames, stft_n_time_frames = stft.shape
     assert stft_n_time_frames > n_frames
@@ -90,13 +122,17 @@ def align_frames_to_stft_time_frames(frames, stft):
 
 def imshow(matrix, ax, stft, **kwargs):
     matrix = align_frames_to_stft_time_frames(matrix, stft)
-    return ax.imshow(np.flipud(matrix), interpolation=None, aspect="auto", **kwargs)
+    title = kwargs.pop("title", None)
+    img = ax.imshow(np.flipud(matrix), interpolation=None, aspect="auto", **kwargs)
+    if title and False:
+        ax.set_title(title)
+    return img
 
 
-def imshow_integer_labels(matrix, ax, recording):
+def imshow_integer_labels(matrix, ax, recording, stft, **kwargs):
     integer_label_set = (
         recording.dataset.experiment.train_set.integer_label_set
         | recording.dataset.experiment.test_set.integer_label_set
     )
     vmin, vmax = min(integer_label_set), max(integer_label_set)
-    return imshow(matrix, ax, stft, vmin=vmin, vmax=vmax)
+    return imshow(matrix, ax, stft, vmin=vmin, vmax=vmax, **kwargs)
