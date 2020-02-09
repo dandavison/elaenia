@@ -244,7 +244,7 @@ class XenoCantoRecording(Recording):
             cls(rec["id"])
             for page in cls._api_response_pages()
             for rec in page["recordings"]
-            if (rec["gen"], rec["sp"]) == species
+            if ((rec["gen"], rec["sp"]) == species and cls(rec["id"]).audio_file.exists())
         ]
 
     @property
