@@ -11,6 +11,10 @@ class ExperimentRecording(XenoCantoRecording):
         self._sampling_rate = None
         self._audio_file = None
 
+    def __repr__(self):
+        _type = type(self).__name__
+        return f"{_type}(\"{self.id}\")"
+
     @classmethod
     def from_file(cls, path, index, dataset=None, results=None):
         self = super().from_file(path)

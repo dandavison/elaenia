@@ -22,6 +22,10 @@ class Recording:
         self._sampling_rate = None
         self._audio_file = None
 
+    def __repr__(self):
+        _type = type(self).__name__
+        return f"{_type}()"
+
     @property
     def audio_file(self):
         assert self._audio_file
