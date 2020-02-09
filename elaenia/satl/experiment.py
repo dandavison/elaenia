@@ -92,7 +92,7 @@ def create_training_experiment(
     if dataset == "{dataset}":
 """
     )
-    for label, sp in enumerate(species):
+    for label, sp in enumerate(sorted(species)):
         path2gt_datasets.write(
             f"""
         if path.startswith("{species_label(*sp)}/"):
