@@ -41,8 +41,8 @@ def plot_spectrogram_and_embeddings_and_classifications(recording: ExperimentRec
     plot_spectrogram(recording, ax=axes["spect"], stft=stft)
     plot_embeddings(recording, ax=axes["embed"], stft=stft)
 
-    # TODO: the energy (line plot) x axis is not aligned with the other (imshow) x axes.
-    plot_energy(frames, ax=axes["energ"], stft=stft)
+    # TODO: line plot x axes are not aligned with the other (imshow) x axes.
+    line_plot(frames.frame_energies, ax=axes["energ"], stft=stft)
 
     plot_energy_gmm_classes(frames, ax=axes["c_gmm"], stft=stft)
     plot_energy_kmm_classes(frames, ax=axes["c_kmm"], stft=stft)
@@ -75,12 +75,10 @@ def plot_embeddings(recording, ax, stft):
     return imshow(embeddings, ax, stft=stft, title="Frame embedding")
 
 
-def plot_energy(frames, ax, stft):
-    energies = frames.frame_energies[np.newaxis, :]
-    energies = align_frames_to_stft_time_frames(energies, stft)
-    ax.plot(energies.ravel())
-    if False:
-        ax.set_title("Frame energy")
+def line_plot(y, ax, stft):
+    y = y[np.newaxis, :]
+    y = align_frames_to_stft_time_frames(y, stft)
+    ax.plot(y.ravel())
 
 
 def plot_energy_gmm_classes(frames, ax, stft):
