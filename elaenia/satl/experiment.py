@@ -7,14 +7,18 @@ from pathlib import Path
 from typing import List
 from typing import Tuple
 
+import soundfile
+
 from elaenia.recording import XenoCantoRecording
 from elaenia.satl.dataset import Dataset
 from elaenia.satl.results import Results
 from elaenia.utils import delete_directory_tree
 from elaenia.utils import split
+from elaenia.vggish import VGGishFrames
 
 DATA_DIR = Path("/tmp/satl-data")
 RANDOMIZE_DATA = False
+REMOVE_LOW_ENERGY_FRAMES = True
 
 
 class Experiment:
@@ -82,9 +86,15 @@ def create_training_experiment(
         for recordings, paths_file in [(train, train_paths_file), (test, test_paths_file)]:
             with open(paths_file, "a") as fp:
                 for rec in recordings:
-                    symlink = species_audio_dir / rec.audio_file.name
-                    symlink.symlink_to(rec.audio_file)
-                    fp.write(f"{symlink.relative_to(audio_symlink_dir)}\n")
+                    if REMOVE_LOW_ENERGY_FRAMES:
+                        file = species_audio_dir / rec.audio_file.name.replace(".mp3", ".wav")
+                        data = VGGishFrames(rec).get_time_series_with_low_energy_frames_removed()
+                        soundfile.write(file.absolute(), data, rec.sampling_rate, subtype="PCM_16")
+                        fp.write(f"{file.relative_to(audio_symlink_dir)}\n")
+                    else:
+                        symlink = species_audio_dir / rec.audio_file.name
+                        symlink.symlink_to(rec.audio_file)
+                        fp.write(f"{symlink.relative_to(audio_symlink_dir)}\n")
 
     path2gt_datasets = StringIO()
     path2gt_datasets.write(

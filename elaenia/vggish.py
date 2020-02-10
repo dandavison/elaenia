@@ -1,5 +1,6 @@
 from functools import cached_property
 
+import numpy as np
 from sklearn.cluster import KMeans
 from sklearn.mixture import GaussianMixture
 
@@ -47,6 +48,13 @@ class VGGishFrames:
         Return sum of squared amplitudes within each frame.
         """
         return (self.frames ** 2).sum(axis=1)
+
+    def get_time_series_with_low_energy_frames_removed(self):
+        frames = get_audio_frames(self.recording)
+        is_high_energy = self.frame_energy_class_predictions_gmm
+        assert set(is_high_energy) <= {0, 1}
+        frames = frames[is_high_energy == 1]
+        return frames.ravel()
 
     def _fit_frame_energy_gmm(self):
         gmm = GaussianMixture(n_components=2)
