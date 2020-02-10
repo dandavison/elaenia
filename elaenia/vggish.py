@@ -46,7 +46,7 @@ class VGGishFrames:
         """
         Return sum of squared amplitudes within each frame.
         """
-        return (self.frames ** 2).mean(axis=1)
+        return (self.frames ** 2).sum(axis=1)
 
     def _fit_frame_energy_gmm(self):
         gmm = GaussianMixture(n_components=2)
