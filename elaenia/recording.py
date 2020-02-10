@@ -237,6 +237,7 @@ class XenoCantoRecording(Recording):
         """
         id    -- the integer ID (i.e. without the XC prefix)
         """
+        super().__init__()
         self.id = int(id)
         species = self.metadata["en"].replace(" ", "")
         self._audio_file = self.ROOT_DIR / "audio" / species / f"{self.id}.mp3"
