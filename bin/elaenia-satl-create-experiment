@@ -3,13 +3,30 @@ from elaenia.satl.experiment import create_training_experiment
 from elaenia.recording import XenoCantoRecording
 
 
-class Recording(XenoCantoRecording):
-    QUERY = "Sylvia*"
+class XiphorhynchusRecording(XenoCantoRecording):
+    QUERY = "gen_Xiphorhynchus"
 
 
 create_training_experiment(
-    dataset="Sylvia_atricapilla_vs_borin__high_energy_frames",
-    recording_cls=Recording,
-    species=[("Sylvia", "atricapilla"), ("Sylvia", "borin")],
+    dataset="Xiphorhynchus__high_energy_frames",
+    recording_cls=XiphorhynchusRecording,
+    species=[
+        ("Xiphorhynchus", sp)
+        for sp in [
+            "chunchotambo",
+            "elegans",
+            "erythropygius",
+            "flavigaster",
+            "fuscus",
+            "guttatus",
+            "lachrymosus",
+            "obsoletus",
+            "ocellatus",
+            "pardalotus",
+            "spixii",
+            "susurrans",
+            "triangularis",
+        ]
+    ],
     data_dir="~/src/3p/sklearn-audio-transfer-learning/data",
 )

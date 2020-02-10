@@ -68,7 +68,7 @@ def create_training_experiment(
 
     training_data = {sp: [r for r in recording_cls.for_species(sp) if r.is_song] for sp in species}
     # Discard data so that all labels have the same count
-    min_label_count = min(len(recs) for recs in training_data.values())
+    min_label_count = 90  # min(len(recs) for recs in training_data.values())
     training_data = {sp: recs[:min_label_count] for sp, recs in training_data.items()}
 
     if RANDOMIZE_DATA:
