@@ -39,6 +39,7 @@ def reload():
     satl.dataset.Results = satl.results.Results
     satl.experiment.Results = satl.results.Results
     satl.plot.ExperimentRecording = satl.experiment_recording.ExperimentRecording
+    satl.plot.VGGishFrames = vggish.VGGishFrames
 
 
 plt.ion()

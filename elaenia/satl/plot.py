@@ -5,7 +5,7 @@ import numpy as np
 
 import elaenia.stft
 import elaenia.plot
-import elaenia.vggish
+from elaenia.vggish import VGGishFrames
 from elaenia.satl.experiment import Experiment
 from elaenia.satl.experiment_recording import ExperimentRecording
 
@@ -30,20 +30,22 @@ def plot_dataset(dataset, dir: Path):
 
 
 def plot_spectrogram_and_embeddings_and_classifications(recording: ExperimentRecording):
-    ax_names = ["spect", "embed", "energ", "e_kmm", "e_gmm", "preds", "truth"]
+    ax_names = ["spect", "embed", "energ", "c_kmm", "c_gmm", "preds", "truth"]
     fig, axes = plt.subplots(nrows=len(ax_names))
     axes = dict(zip(reversed(ax_names), axes))
 
     stft = elaenia.stft.stft(recording.time_series, n_fft=1024)
 
+    frames = VGGishFrames(recording)
+
     plot_spectrogram(recording, ax=axes["spect"], stft=stft)
     plot_embeddings(recording, ax=axes["embed"], stft=stft)
 
     # TODO: the energy (line plot) x axis is not aligned with the other (imshow) x axes.
-    plot_energy(recording, ax=axes["energ"], stft=stft)
+    plot_energy(frames, ax=axes["energ"], stft=stft)
 
-    plot_energy_gmm_classes(recording, ax=axes["e_gmm"], stft=stft)
-    plot_energy_kmm_classes(recording, ax=axes["e_kmm"], stft=stft)
+    plot_energy_gmm_classes(frames, ax=axes["c_gmm"], stft=stft)
+    plot_energy_kmm_classes(frames, ax=axes["c_kmm"], stft=stft)
     plot_predictions(recording, ax=axes["preds"], stft=stft)
     plot_truth(recording, ax=axes["truth"], stft=stft)
 
@@ -73,21 +75,21 @@ def plot_embeddings(recording, ax, stft):
     return imshow(embeddings, ax, stft=stft, title="Frame embedding")
 
 
-def plot_energy(recording, ax, stft):
-    energies = elaenia.vggish.get_frame_energies(recording)[np.newaxis, :]
+def plot_energy(frames, ax, stft):
+    energies = frames.frame_energies[np.newaxis, :]
     energies = align_frames_to_stft_time_frames(energies, stft)
     ax.plot(energies.ravel())
     if False:
         ax.set_title("Frame energy")
 
 
-def plot_energy_gmm_classes(recording, ax, stft):
-    classes = elaenia.vggish.get_frame_energy_classes_gmm(recording)[np.newaxis, :]
+def plot_energy_gmm_classes(frames, ax, stft):
+    classes = frames.frame_energy_class_predictions_gmm[np.newaxis, :]
     return imshow(classes, ax, stft=stft, title="Frame energy class (GMM)")
 
 
-def plot_energy_kmm_classes(recording, ax, stft):
-    classes = elaenia.vggish.get_frame_energy_classes_kmm(recording)[np.newaxis, :]
+def plot_energy_kmm_classes(frames, ax, stft):
+    classes = frames.frame_energy_class_predictions_kmm[np.newaxis, :]
     return imshow(classes, ax, stft=stft, title="Frame energy class (KMM)")
 
 
