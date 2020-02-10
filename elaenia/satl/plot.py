@@ -1,4 +1,3 @@
-from multiprocessing import Pool
 from pathlib import Path
 
 import matplotlib.pyplot as plt
@@ -20,18 +19,14 @@ def plot_experiment(experiment: Experiment, dir: str):
 
 def plot_dataset(dataset, dir: Path):
     dir.mkdir(parents=True, exist_ok=True)
-    pool = Pool()
-    pool.map(_plot_recording, dataset.recordings)
-
-
-def _plot_recording(recording):
-    fig_path = dir / recording.id.replace("/", "_").replace(".mp3", ".png")
-    if fig_path.exists():
-        return
-    print(dataset.name, recording.id)
-    plot_spectrogram_and_embeddings_and_classifications(recording)
-    plt.savefig(fig_path)
-    plt.close()
+    for recording in dataset.recordings:
+        fig_path = dir / recording.id.replace("/", "_").replace(".mp3", ".png")
+        if fig_path.exists():
+            continue
+        print(dataset.name, recording.id)
+        plot_spectrogram_and_embeddings_and_classifications(recording)
+        plt.savefig(fig_path)
+        plt.close()
 
 
 def plot_spectrogram_and_embeddings_and_classifications(recording: ExperimentRecording):
