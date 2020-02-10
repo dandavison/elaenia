@@ -30,7 +30,7 @@ def plot_dataset(dataset, dir: Path):
 
 
 def plot_spectrogram_and_embeddings_and_classifications(recording: ExperimentRecording):
-    ax_names = ["spect", "embed", "energ", "c_kmm", "c_gmm", "preds", "truth"]
+    ax_names = ["spect", "embed", "energ", "p_gmm", "c_gmm", "preds", "truth"]
     fig, axes = plt.subplots(nrows=len(ax_names))
     axes = dict(zip(reversed(ax_names), axes))
 
@@ -43,9 +43,9 @@ def plot_spectrogram_and_embeddings_and_classifications(recording: ExperimentRec
 
     # TODO: line plot x axes are not aligned with the other (imshow) x axes.
     line_plot(frames.frame_energies, ax=axes["energ"], stft=stft)
+    line_plot(frames.frame_energy_class_probabilities_gmm[:, 0], ax=axes["p_gmm"], stft=stft)
 
     plot_energy_gmm_classes(frames, ax=axes["c_gmm"], stft=stft)
-    plot_energy_kmm_classes(frames, ax=axes["c_kmm"], stft=stft)
     plot_predictions(recording, ax=axes["preds"], stft=stft)
     plot_truth(recording, ax=axes["truth"], stft=stft)
 
