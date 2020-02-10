@@ -3,13 +3,13 @@ from elaenia.satl.experiment import create_training_experiment
 from elaenia.recording import XenoCantoRecording
 
 
-class Recording(XenoCantoRecording):
-    QUERY = "Sylvia*"
+class XiphorhynchusRecording(XenoCantoRecording):
+    QUERY = "gen_Xiphorhynchus"
 
 
 create_training_experiment(
-    dataset="Sylvia_atricapilla_vs_borin",
-    recording_cls=Recording,
-    species=[("Sylvia", "atricapilla"), ("Sylvia", "borin")],
+    dataset="Xiphorhynchus_guttatus_vs_elegans",
+    recording_cls=XiphorhynchusRecording,
+    species=[("Xiphorhynchus", "guttatus"), ("Xiphorhynchus", "elegans")],
     data_dir="~/src/3p/sklearn-audio-transfer-learning/data",
 )
