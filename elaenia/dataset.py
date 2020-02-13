@@ -47,8 +47,3 @@ class Dataset:
     def testing_dataset(self) -> "Dataset":
         is_testing = ~self._training_rows
         return Dataset(observations=self.observations[is_testing], labels=self.labels[is_testing])
-
-    # Hack: This method is only here to make the type checker pass
-    # under composition of Transforms and Learners.
-    def predict(self, observations: np.ndarray) -> np.ndarray:
-        raise NotImplementedError
