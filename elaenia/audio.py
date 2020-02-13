@@ -10,7 +10,8 @@ class Audio:
 
     def __repr__(self):
         _type = type(self).__name__
-        return f"{_type}(length={len(self.time_series)}, sampling_rate={self.sampling_rate})"
+        duration = len(self.time_series) / self.sampling_rate
+        return f"{_type}(duration={duration}, sampling_rate={self.sampling_rate})"
 
     def __iter__(self):
         return iter(self.time_series)

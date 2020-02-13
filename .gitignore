@@ -1,7 +1,7 @@
 .mypy_cache/
 .tox/
 .venv
+elaenia/pipelines/vggish/vggish_model.ckpt
 elaenia/.mypy_cache/
 *.egg-info
 __pycache__/
-

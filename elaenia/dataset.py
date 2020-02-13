@@ -23,12 +23,13 @@ class Dataset:
             assert len(self.observations.shape) > 1
         assert len(self.labels.shape) == 1
 
+    def __repr__(self):
+        _type = type(self).__name__
+        return f"{_type}(n={self.n}, labels=[{repr(self.labels[0])}, ...])"
+
     @property
     def n(self) -> int:
         return len(self.observations)
-
-    def compute_accuracy(self, predictions) -> float:
-        return np.mean(p == t for p, t in zip(predictions, self.labels))
 
     @property
     def _training_rows(self) -> np.ndarray:
@@ -46,18 +47,6 @@ class Dataset:
     def testing_dataset(self) -> "Dataset":
         is_testing = ~self._training_rows
         return Dataset(observations=self.observations[is_testing], labels=self.labels[is_testing])
-
-    @staticmethod
-    def unpack_objects(array: np.ndarray) -> np.ndarray:
-        """
-        If `array` contains objects, covert them to arrays, adding one
-        dimension, so that the result is a 2D numerical numpy array.
-        The objects must be iterable.
-        """
-        if array.dtype == np.object:
-            return np.array([np.array(obj) for obj in array])
-        else:
-            return array
 
     # Hack: This method is only here to make the type checker pass
     # under composition of Transforms and Learners.
