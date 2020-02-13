@@ -29,14 +29,10 @@ class Learner(Protocol):
 
 
 class Compose:
-    def __init__(self, transforms: List[Transform], learner: Learner = None):
-        self.transforms = transforms
-        self.learner = learner
+    def __init__(self, operations: List[Union[Transform, Learner]]):
+        self.operations = operations
 
-    def __call__(self, dataset: Dataset) -> Union[Dataset, Classifier]:
-        for transform in self.transforms:
-            dataset = transform(dataset)
-        if not self.learner:
-            return dataset
-        else:
-            return self.learner(dataset)
+    def __call__(self, x: Dataset) -> Union[Dataset, Classifier]:
+        for operation in self.operations:
+            x = operation(x)  # type: ignore
+        return x
