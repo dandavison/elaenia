@@ -6,7 +6,6 @@ import matplotlib
 
 matplotlib.use("Qt5Agg")
 
-import ipdb
 import matplotlib.pyplot as plt
 import numpy as np
 

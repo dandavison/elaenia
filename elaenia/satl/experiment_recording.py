@@ -13,7 +13,7 @@ class ExperimentRecording(XenoCantoRecording):
 
     def __repr__(self):
         _type = type(self).__name__
-        return f"{_type}(\"{self.id}\")"
+        return f'{_type}("{self.id}")'
 
     @classmethod
     def from_file(cls, path, index, dataset=None, results=None):
@@ -41,6 +41,4 @@ class ExperimentRecording(XenoCantoRecording):
 
     @property
     def frame_vggish_embeddings(self):
-        return self.dataset.frame_vggish_embeddings[
-            self.dataset.frame_recording_ids == self.id
-        ]
+        return self.dataset.frame_vggish_embeddings[self.dataset.frame_recording_ids == self.id]

@@ -1,2 +1,7 @@
+.mypy_cache/
+.tox/
+.venv
+elaenia/.mypy_cache/
 *.egg-info
 __pycache__/
+

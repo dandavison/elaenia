@@ -1,4 +1,5 @@
 from pathlib import Path
+from typing import Union
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -10,7 +11,7 @@ from elaenia.satl.experiment import Experiment
 from elaenia.satl.experiment_recording import ExperimentRecording
 
 
-def plot_experiment(experiment: Experiment, dir: str):
+def plot_experiment(experiment: Experiment, dir: Union[str, Path]):
     dir = Path(dir)
     plt.ioff()
     for dataset in [experiment.train_set, experiment.test_set]:

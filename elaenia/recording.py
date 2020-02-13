@@ -6,6 +6,7 @@ import sys
 import warnings
 from functools import cached_property
 from pathlib import Path
+from typing import Optional
 from typing import Tuple
 
 import matplotlib.pyplot as plt
@@ -17,6 +18,7 @@ from elaenia import librosa_utils
 
 
 class Recording:
+    # Possibly deprecated in favour of elaenia.audio.Audio
     def __init__(self):
         self._time_series = None
         self._sampling_rate = None
@@ -231,7 +233,7 @@ class XenoCantoRecording(Recording):
     # The name given to the directory under metadata/, e.g. "gen_Xiphorhynchus"
     # This can be a glob pattern.
     # This class is abstract; concrete subclasses must set this.
-    QUERY = None
+    QUERY: Optional[str] = None
 
     def __init__(self, id: int):
         """

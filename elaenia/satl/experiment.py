@@ -11,7 +11,6 @@ import soundfile
 
 from elaenia.recording import XenoCantoRecording
 from elaenia.satl.dataset import Dataset
-from elaenia.satl.results import Results
 from elaenia.utils import delete_directory_tree
 from elaenia.utils import split
 from elaenia.vggish import VGGishFrames
@@ -96,20 +95,20 @@ def create_training_experiment(
                         symlink.symlink_to(rec.audio_file)
                         fp.write(f"{symlink.relative_to(audio_symlink_dir)}\n")
 
-    path2gt_datasets = StringIO()
-    path2gt_datasets.write(
+    path2gt_datasets_io = StringIO()
+    path2gt_datasets_io.write(
         f"""
     if dataset == "{dataset}":
 """
     )
     for label, sp in enumerate(sorted(species)):
-        path2gt_datasets.write(
+        path2gt_datasets_io.write(
             f"""
         if path.startswith("{species_label(*sp)}/"):
             return {label}
 """
         )
-    path2gt_datasets = path2gt_datasets.getvalue()
+    path2gt_datasets = path2gt_datasets_io.getvalue()
 
     config = {
         "dataset": dataset,

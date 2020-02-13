@@ -1,4 +1,5 @@
 import re
+from collections import Counter
 from functools import cached_property
 
 import numpy as np
@@ -17,8 +18,13 @@ class Dataset:
     def summary(self):
         return {
             "labels": Counter(r.label for r in self.recordings),
-            # "predictions": [(r.label, int(r.integer_label), int(r.predicted_integer_label)) for r in self.recordings],
-            "accuracy": float(np.mean([r.integer_label == r.predicted_integer_label for r in self.recordings])),
+            # "predictions": [
+            #     (r.label, int(r.integer_label), int(r.predicted_integer_label))
+            #     for r in self.recordings
+            # ],
+            "accuracy": float(
+                np.mean([r.integer_label == r.predicted_integer_label for r in self.recordings])
+            ),
         }
 
     def get_results(self):
