@@ -29,7 +29,7 @@ class SKClassifierLearner(Learner):
 
     model: sklearn.base.ClassifierMixin
 
-    def learn(self, dataset: Dataset) -> SKClassifier:
+    def __call__(self, dataset: Dataset) -> SKClassifier:
         X, y = dataset.observations, dataset.labels
         X, y = map(dataset.unpack_objects, (X, y))
         model = self.model.fit(X, y)

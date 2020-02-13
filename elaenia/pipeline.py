@@ -1,55 +1,42 @@
+"""
+The interface of this module is intended to be compatible with torchvision.Transform and
+torchvision.Compose.
+"""
+from typing import List
+from typing import Protocol
+from typing import Union
+
 from elaenia.classifier import Classifier
 from elaenia.dataset import Dataset
 
 
-class Transformer:
+class Transform(Protocol):
     """
-    A Transformer takes in one Dataset and outputs another.
+    A Transform takes in one Dataset and outputs another.
     """
 
-    def transform(self, dataset: Dataset) -> Dataset:
+    def __call__(self, dataset: Dataset) -> Dataset:
         raise NotImplementedError
 
 
-class Learner:
+class Learner(Protocol):
     """
     A Learner takes in a Dataset and outputs a Classifier.
     """
 
-    def learn(self, dataset: Dataset) -> Classifier:
+    def __call__(self, dataset: Dataset) -> Classifier:
         raise NotImplementedError
 
 
-class TransformerPipeline:
-    """
-    A TransformerPipeline takes in a Dataset, passes it through a sequence of Transformers, and
-    outputs a Dataset.
-    """
-
-    def __init__(self, *transformers: Transformer):
-        self.transformers = transformers
-
-    def transform(self, dataset: Dataset) -> Dataset:
-        for transformer in self.transformers:
-            dataset = transformer.transform(dataset)
-        return dataset
-
-
-class LearnerPipeline(TransformerPipeline):
-    """
-    A LearnerPipeline takes in a Dataset, passes it through a sequence of Transformers to a
-    Learner, and outputs a Classifier.
-    """
-
-    def __init__(self, *transformers: Transformer, learner: Learner):
-        super().__init__(*transformers)
+class Compose:
+    def __init__(self, transforms: List[Transform], learner: Learner = None):
+        self.transforms = transforms
         self.learner = learner
-        self._validate()
 
-    def _validate(self):
-        assert all(isinstance(t, Transformer) for t in self.transformers)
-        assert isinstance(self.learner, Learner)
-
-    def learn(self, dataset: Dataset) -> Classifier:
-        dataset = self.transform(dataset)
-        return self.learner.learn(dataset)
+    def __call__(self, dataset: Dataset) -> Union[Dataset, Classifier]:
+        for transform in self.transforms:
+            dataset = transform(dataset)
+        if not self.learner:
+            return dataset
+        else:
+            return self.learner(dataset)

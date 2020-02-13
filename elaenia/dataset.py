@@ -58,3 +58,8 @@ class Dataset:
             return np.array([np.array(obj) for obj in array])
         else:
             return array
+
+    # Hack: This method is only here to make the type checker pass
+    # under composition of Transforms and Learners.
+    def predict(self, observations: np.ndarray) -> np.ndarray:
+        raise NotImplementedError
