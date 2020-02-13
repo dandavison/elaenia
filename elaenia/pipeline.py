@@ -3,8 +3,8 @@ The interface of this module is intended to be compatible with torchvision.Trans
 torchvision.Compose.
 """
 from typing import List
-from typing import Protocol
 from typing import Union
+from typing_extensions import Protocol
 
 from elaenia.classifier import Classifier
 from elaenia.dataset import Dataset

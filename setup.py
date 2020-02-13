@@ -13,6 +13,7 @@ setup(
     install_requires=[
         "PyQt5",
         "black",
+        "cached-property",
         "clint",
         "flake8",
         "ipython",

@@ -1,6 +1,5 @@
-from functools import cached_property
-
 import numpy as np
+from cached_property import cached_property
 
 
 class Results:

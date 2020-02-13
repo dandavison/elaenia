@@ -1,8 +1,8 @@
 import re
 from collections import Counter
-from functools import cached_property
 
 import numpy as np
+from cached_property import cached_property
 
 from elaenia.satl.experiment_recording import ExperimentRecording
 from elaenia.satl.results import Results
@@ -75,9 +75,7 @@ class Dataset:
             ExperimentRecording.from_file(path, i, self)
             for i, path in enumerate(self.recording_paths)
         ]
-        assert (s1 := set(r.id for r in recordings)) == (  # noqa:E203,E231
-            s2 := set(self.frame_recording_ids)  # noqa:E203,E231
-        ), (s1, s2)
+        assert set(r.id for r in recordings) == set(self.frame_recording_ids)
         return recordings
 
     @cached_property

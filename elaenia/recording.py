@@ -4,13 +4,13 @@ import re
 import subprocess
 import sys
 import warnings
-from functools import cached_property
 from pathlib import Path
 from typing import Optional
 from typing import Tuple
 
 import matplotlib.pyplot as plt
 import requests
+from cached_property import cached_property
 
 import elaenia.plot
 import elaenia.stft

@@ -1,5 +1,4 @@
-from functools import cached_property
-
+from cached_property import cached_property
 from sklearn.cluster import KMeans
 from sklearn.mixture import GaussianMixture
 
