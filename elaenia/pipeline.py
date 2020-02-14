@@ -4,6 +4,7 @@ torchvision.Compose.
 """
 from dataclasses import dataclass
 from typing import List
+from typing import Optional
 from typing_extensions import Protocol
 
 from elaenia.classifier import Classifier
@@ -39,6 +40,21 @@ class Compose:
 
 
 @dataclass
-class Pipeline:
+class TrainingPipeline:
     transform: Transform
     learn: Learner
+    output: Optional[dict] = None
+
+    def run(self, dataset) -> dict:
+        transformed_training_dataset = self.transform(dataset.training_dataset)
+        classifier = self.learn(transformed_training_dataset)
+        transformed_testing_dataset = self.transform(dataset.testing_dataset)
+        transformed_testing_dataset_predictions = classifier.predict(
+            transformed_testing_dataset.observations
+        )
+        return {
+            "classifier": classifier,
+            "transformed_testing_dataset": transformed_testing_dataset,
+            "transformed_testing_dataset_predictions": transformed_testing_dataset_predictions,
+            "transformed_training_dataset": transformed_training_dataset,
+        }

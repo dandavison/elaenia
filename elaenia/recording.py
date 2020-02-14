@@ -14,7 +14,7 @@ from cached_property import cached_property
 
 import elaenia.plot
 import elaenia.stft
-from elaenia import librosa_utils
+from elaenia.utils import librosa as librosa_utils
 
 
 class Recording:
