@@ -1,12 +1,13 @@
 import numpy as np
 from sklearn.metrics import accuracy_score
 
-from elaenia.pipeline import Compose
-from elaenia.pipeline import TrainingPipeline
-from elaenia.transforms.vggish import Audio2Spectrogram
-from elaenia.transforms.vggish import Spectrogram2VGGishEmbeddings
-from elaenia.transforms.sklearn import SVCLearner
-from elaenia.utils import get_group_modes
+from sylph.learners.svm import SVMLearner
+from sylph.pipeline import Compose
+from sylph.pipeline import TrainingPipeline
+from sylph.transforms.pca import PCA
+from sylph.transforms.vggish import Audio2Spectrogram
+from sylph.transforms.vggish import Spectrogram2VGGishEmbeddings
+from sylph.utils import get_group_modes
 
 
 class VGGishTrainingPipeline(TrainingPipeline):
@@ -29,6 +30,7 @@ class VGGishTrainingPipeline(TrainingPipeline):
         }
 
 
-vggish_svc_learner_pipeline = VGGishTrainingPipeline(
-    transform=Compose([Audio2Spectrogram(), Spectrogram2VGGishEmbeddings()]), learn=SVCLearner()
+vggish_svm_learner_pipeline = VGGishTrainingPipeline(
+    transform=Compose([Audio2Spectrogram(), Spectrogram2VGGishEmbeddings(), PCA(whiten=True)]),
+    learn=SVMLearner(),
 )

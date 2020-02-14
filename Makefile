@@ -1,3 +1,7 @@
+init:
+	git submodule update --init
+	cd submodules/sylph && git submodule update --init
+
 black:
 	black --config black.toml .
 
@@ -6,10 +10,7 @@ lint:
 	mypy --check-untyped-defs --config-file=tox.ini elaenia
 
 test:
-	pytest --ignore=vendor
+	pytest --ignore submodules --ignore sylph/vendor
 
 ipython:
 	ipython -i scripts/python_session_init.py
-
-
-.PHONY: lint test ipython

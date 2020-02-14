@@ -1,0 +1,3 @@
+[submodule "submodules/sylph"]
+	path = submodules/sylph
+	url = git@github.com:dandavison/sylph.git

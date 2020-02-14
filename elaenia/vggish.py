@@ -3,8 +3,8 @@ from sklearn.cluster import KMeans
 from sklearn.mixture import GaussianMixture
 
 from elaenia.recording import Recording
-from vendor.tensorflow_models.research.audioset.vggish import mel_features
-from vendor.tensorflow_models.research.audioset.vggish import vggish_input
+from sylph.vendor.tensorflow_models.research.audioset.vggish import mel_features
+from sylph.vendor.tensorflow_models.research.audioset.vggish import vggish_input
 
 
 def get_stft_frames(recording: Recording):
