@@ -1,4 +1,7 @@
+.make-sentinel-files
 .mypy_cache/
 .tox/
+.venv/
+assets/
 *.egg-info
 __pycache__/
