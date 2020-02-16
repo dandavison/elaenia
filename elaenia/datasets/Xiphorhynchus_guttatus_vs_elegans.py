@@ -2,7 +2,7 @@ from pathlib import Path
 
 import numpy as np
 
-from sylph.audio_dataset import AudioDataset
+from sylph.audio_dataset import AudioDataSet
 
 
 def get_paths_and_labels(root_dir, dataset_name, train_or_test):
@@ -21,8 +21,9 @@ def get_paths_and_labels(root_dir, dataset_name, train_or_test):
     return paths, labels
 
 
-class Xiphorhynchus_guttatus_vs_elegans_Dataset(AudioDataset):
-    def __init__(self):
+class Xiphorhynchus_guttatus_vs_elegans_DataSet(AudioDataSet):
+    @classmethod
+    def create(cls):
         root_dir = Path("~/src/3p/sklearn-audio-transfer-learning/data").expanduser()
         dataset_name = "Xiphorhynchus_guttatus_vs_elegans"
         train_paths, train_labels = get_paths_and_labels(root_dir, dataset_name, "train")
@@ -30,4 +31,4 @@ class Xiphorhynchus_guttatus_vs_elegans_Dataset(AudioDataset):
         paths = np.array(train_paths + test_paths)
         labels = np.array(train_labels + test_labels)
         training_rows = np.array([i < len(train_paths) for i in range(len(paths))])
-        super().__init__(paths, labels, training_rows=training_rows)
+        return cls.from_files(paths, labels, training_rows=training_rows)
