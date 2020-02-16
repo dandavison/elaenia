@@ -9,7 +9,11 @@ from sylph.transforms.vggish import Spectrogram2VGGishEmbeddings
 
 vggish_svm_learner_pipeline = TrainingPipeline(
     transform=Compose(
-        [Audio2Audio16Bit(normalize_amplitude=True), Audio2Spectrogram(), Spectrogram2VGGishEmbeddings()]
+        [
+            Audio2Audio16Bit(normalize_amplitude=True),
+            Audio2Spectrogram(),
+            Spectrogram2VGGishEmbeddings(),
+        ]
     ),
     learn=SVMLearner(),
 )
