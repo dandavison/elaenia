@@ -15,7 +15,11 @@ lint:
 
 
 test:
-	pytest --ignore submodules --ignore sylph/vendor
+	pytest \
+		--doctest-modules \
+		--ignore .venv \
+		--ignore submodules \
+		--ignore sylph/vendor
 
 
 submodules:
