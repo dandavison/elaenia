@@ -4,7 +4,8 @@ from pathlib import Path
 
 import matplotlib
 
-matplotlib.use("Qt5Agg")
+if False:
+    matplotlib.use("Qt5Agg")
 
 import matplotlib.pyplot as plt
 import numpy as np
