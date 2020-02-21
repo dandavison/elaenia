@@ -1,24 +1,13 @@
 import sys
-from collections import Counter
 from collections import defaultdict
 from io import StringIO
-from itertools import chain
-from operator import itemgetter
-from pathlib import Path
 
 import matplotlib.pyplot as plt
 import pandas as pd
 
+from elaenia.birdnet import BirdnetResult
+from elaenia.utils.matplotlib import float_to_rgb
 
-NAMES = {
-    "Eurasian Blackcap": "Blackcap",
-    "Sylvia_atricapilla": "Blackcap",
-    "Sylvia_borin": "Garden Warbler",
-    "Greater Whitethroat": "Whitethroat",
-    "Eurasian Blackbird": "Blackbird",
-    "Common Chaffinch": "Chaffinch",
-    "Common Nightingale": "Nightingale",
-}
 
 HTML = """
 <html>
@@ -69,68 +58,21 @@ HTML = """
 COLORMAP = plt.get_cmap("Reds")
 
 
-class AudioResults:
-    true_species_ids = {}
-
-    def __init__(self, path):
-        self.path = Path(path)
-        self.df = pd.read_csv(path, sep="\t")
-        for sp in ["Sylvia_atricapilla", "Sylvia_borin"]:
-            self.true_species_ids[sp] = get_true_species_ids(sp)
-
-    @property
-    def species(self):
-        return [NAMES.get(sp, sp) for sp in self.df["Common Name"]]
-
-    @property
-    def prob(self):
-        return self.df["Confidence"]
-
-    @property
-    def species2prob(self):
-        # Probabilities are expressed as percentages
-        s2p = defaultdict(float)
-        p_tot = 0.0
-        for s, p in zip(self.species, self.prob):
-            s2p[s] += p
-            p_tot += p
-        for s in s2p:
-            s2p[s] = 100 * s2p[s] / p_tot
-        return dict(s2p)
-
-    @property
-    def id(self):
-        return int(self.path.name.split(".")[0])
-
-    @property
-    def url(self):
-        return f"https://www.xeno-canto.org/{self.id}"
-
-    @property
-    def true_species(self):
-        id = self.id
-        [sp] = [sp for sp, ids in self.true_species_ids.items() if id in ids]
-        return NAMES.get(sp, sp)
-
-
-def get_true_species_ids(species):
-    return {int(p.name.split(".")[0]) for p in Path(species).glob("*.wav")}
-
-
 button_with_popover = """
 <button type="button" class="btn btn-lg btn-danger" data-result-id="%(resultid)s" data-trigger="hover" data-toggle="popover" title="All birds identified in %(recording)s" >%(text)s</button>
 """.strip()
 
 
 def create_results_table(paths):
-    results = [AudioResults(path) for path in paths]
+    results = [BirdnetResult(path) for path in paths]
     df = _make_dataframe(results)
     io = StringIO()
     df.to_html(
         io,
         classes=["table"],
         escape=False,
-        float_format=lambda f: f'<span style="color:{float2rgb(f/100)}">%.0f</span>' % f,
+        float_format=lambda f: f'<span style="color:{float_to_rgb(f/100, COLORMAP)}">%.0f</span>'
+        % f,
     )
     table = io.getvalue()
     popovers = "\n".join(_get_popover(r) for r in results)
@@ -139,13 +81,17 @@ def create_results_table(paths):
 
 
 def _make_dataframe(results):
-    all_species2prob = defaultdict(float)
+    all_species_to_probability = defaultdict(float)
     for r in results:
-        for s, p in r.species2prob.items():
-            all_species2prob[s] += p
+        for s, p in r.species_to_probability.items():
+            all_species_to_probability[s] += p
 
     all_species = [
-        s for _, s in sorted(zip(all_species2prob.values(), all_species2prob.keys()), reverse=True)
+        s
+        for _, s in sorted(
+            zip(all_species_to_probability.values(), all_species_to_probability.keys()),
+            reverse=True,
+        )
     ]
 
     all_species = all_species[:15]
@@ -154,7 +100,7 @@ def _make_dataframe(results):
     rows = []
     for r in results:
         row = row_factory()
-        row.update(r.species2prob)
+        row.update(r.species_to_probability)
         row["sort_key"] = r.true_species
         row["True species"] = button_with_popover.strip() % {
             "text": r.true_species,
@@ -196,11 +142,6 @@ def _get_popover(result, sort_by="confidence"):
 
 def minutes_and_seconds(seconds):
     return ["%d:%02d" % divmod(s, 60) for s in seconds]
-
-
-def float2rgb(f):
-    r, g, b, a = [int(round(255 * p)) for p in COLORMAP(f)]
-    return "#" + "".join("%x" % n for n in [r, g, b])
 
 
 if __name__ == "__main__":

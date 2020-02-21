@@ -18,7 +18,7 @@ from elaenia.utils import librosa as librosa_utils
 
 
 class Recording:
-    # Possibly deprecated in favour of elaenia.audio.Audio
+    # Possibly deprecated in favour of sylph.audio.Audio
     def __init__(self):
         self._time_series = None
         self._sampling_rate = None

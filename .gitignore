@@ -3,5 +3,6 @@
 .tox/
 .venv/
 assets/
+env_local.sh
 *.egg-info
 __pycache__/
