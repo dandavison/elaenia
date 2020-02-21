@@ -81,16 +81,15 @@ def create_results_table(paths):
 
 
 def _make_dataframe(results):
-    all_species_to_probability = defaultdict(float)
+    all_species_to_percent = defaultdict(float)
     for r in results:
-        for s, p in r.species_to_probability.items():
-            all_species_to_probability[s] += p
+        for s, p in r.species_to_percent.items():
+            all_species_to_percent[s] += p
 
     all_species = [
         s
         for _, s in sorted(
-            zip(all_species_to_probability.values(), all_species_to_probability.keys()),
-            reverse=True,
+            zip(all_species_to_percent.values(), all_species_to_percent.keys()), reverse=True,
         )
     ]
 
@@ -100,7 +99,7 @@ def _make_dataframe(results):
     rows = []
     for r in results:
         row = row_factory()
-        row.update(r.species_to_probability)
+        row.update(r.species_to_percent)
         row["sort_key"] = r.true_species
         row["True species"] = button_with_popover.strip() % {
             "text": r.true_species,

@@ -38,15 +38,18 @@ class BirdnetResult:
 
     @property
     def species_to_probability(self):
-        # Probabilities are expressed as percentages
         s2p = defaultdict(float)
         p_tot = 0.0
         for s, p in zip(self.species, self.prob):
             s2p[s] += p
             p_tot += p
         for s in s2p:
-            s2p[s] = 100 * s2p[s] / p_tot
+            s2p[s] = s2p[s] / p_tot
         return dict(s2p)
+
+    @property
+    def species_to_percent(self):
+        return {k: 100 * v for k, v in self.species_to_probability.items()}
 
     @property
     def id(self):
@@ -61,6 +64,9 @@ class BirdnetResult:
         id = self.id
         [sp] = [sp for sp, ids in self.true_species_ids.items() if id in ids]
         return self.NAMES.get(sp, sp)
+
+    def df_to_html(self):
+        return self.df.to_html()
 
 
 def get_true_species_ids(species) -> Set[int]:
