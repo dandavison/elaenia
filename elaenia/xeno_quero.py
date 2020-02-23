@@ -68,6 +68,11 @@ class XenoQueroRecording:
         species = self.species or "(No species)"
         return f"{genus} {species}"
 
+    @property
+    def is_song(self):
+        type_words = self.metadata.get("type", "").lower().split()
+        return "song" in type_words and "call" not in type_words
+
     def get_metadata_path(self):
         try:
             return self._get_path_from_id("json")

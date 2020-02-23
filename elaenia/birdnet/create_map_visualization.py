@@ -5,15 +5,15 @@ from pathlib import Path
 from typing import List
 
 import folium
+from matplotlib.colors import rgb2hex
 import matplotlib.pyplot as plt
 import numpy as np
 from folium.plugins.beautify_icon import BeautifyIcon
 
 from elaenia.birdnet import BirdnetResult
-from elaenia.utils.matplotlib import float_to_rgb
 from elaenia.xeno_quero import XenoQueroRecording
 
-COLORMAP = plt.get_cmap("Reds")
+COLORMAP = plt.get_cmap("coolwarm")
 
 
 @dataclass
@@ -42,26 +42,30 @@ def get_results(birdnet_output_paths):
 
 
 def create_map(results):
-    m = folium.Map(results.coordinates_centroid(), zoom_start=3)
-    for r in results:
-        nn_coord = NeuralNetCoordinate(r)
+    m = folium.Map(results.coordinates_centroid(), zoom_start=4)
+    nn_coords = [NeuralNetCoordinate(r) for r in results]
+    xx = sorted(x.coordinate for x in nn_coords if x.coordinate is not None)
+    colors = COLORMAP(xx)
+
+    for r, nn_coord in zip(results, nn_coords):
+
         if nn_coord.coordinate is None:
             continue
-        if False:
-            if nn_coord.melwar_prob < 0.5 and nn_coord.ictwar_prob < 0.5:
-                continue
+
+        if nn_coord.melwar_prob < 0.5 and nn_coord.ictwar_prob < 0.5:
+            continue
+
+        if not r.recording.is_song:
+            continue
+
+        color = rgb2hex(colors[xx.index(nn_coord.coordinate)])
+
 
         icon_shape = {"polyglotta": "circle", "icterina": "marker"}[r.recording.species]
         if False:
-            icon = folium.Icon(
-                color="white", icon_color=float_to_rgb(nn_coord.coordinate, COLORMAP)
-            )
+            icon = folium.Icon(color="white", icon_color=color)
         else:
-            icon = BeautifyIcon(
-                icon="",
-                icon_shape=icon_shape,
-                background_color=float_to_rgb(nn_coord.coordinate, COLORMAP),
-            )
+            icon = BeautifyIcon(icon="", icon_shape=icon_shape, background_color=color)
 
         tooltip = (
             f"{nn_coord.coordinate:.2f} "
