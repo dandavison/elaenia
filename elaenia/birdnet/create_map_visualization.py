@@ -13,8 +13,6 @@ from folium.plugins.beautify_icon import BeautifyIcon
 from elaenia.birdnet import BirdnetResult
 from elaenia.xeno_quero import XenoQueroRecording
 
-COLORMAP = plt.get_cmap("coolwarm")
-
 
 @dataclass
 class Results:
@@ -44,9 +42,11 @@ def get_results(birdnet_output_paths):
 def create_map(results):
     m = folium.Map(results.coordinates_centroid(), zoom_start=4)
     nn_coords = [NeuralNetCoordinate(r) for r in results]
-    xx = sorted(x.coordinate for x in nn_coords if x.coordinate is not None)
-    colors = COLORMAP(xx)
-
+    nn_coord_coordinates = sorted(x.coordinate for x in nn_coords if x.coordinate is not None)
+    colormap = plt.get_cmap("coolwarm")
+    colors = colormap(nn_coord_coordinates)
+    species_to_icon = {"polyglotta": "circle", "icterina": "circle"}
+    species_to_border_color = {"polyglotta": rgb2hex(colors[-1]), "icterina": rgb2hex(colors[0])}
     for r, nn_coord in zip(results, nn_coords):
 
         if nn_coord.coordinate is None:
@@ -58,14 +58,15 @@ def create_map(results):
         if not r.recording.is_song:
             continue
 
-        color = rgb2hex(colors[xx.index(nn_coord.coordinate)])
-
-
-        icon_shape = {"polyglotta": "circle", "icterina": "marker"}[r.recording.species]
+        icon_shape = species_to_icon[r.recording.species]
+        border_color = species_to_border_color[r.recording.species]
+        color = rgb2hex(colors[nn_coord_coordinates.index(nn_coord.coordinate)])
         if False:
             icon = folium.Icon(color="white", icon_color=color)
         else:
-            icon = BeautifyIcon(icon="", icon_shape=icon_shape, background_color=color)
+            icon = BeautifyIcon(
+                icon="", icon_shape=icon_shape, background_color=color, border_color=border_color
+            )
 
         tooltip = (
             f"{nn_coord.coordinate:.2f} "
