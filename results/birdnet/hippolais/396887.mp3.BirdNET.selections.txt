@@ -1,0 +1,61 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	396887.mp3.wav	12.0	15.0	150	15000	saggro	Greater Sage-Grouse	0.8944244465685727	1
+2	Spectrogram 1	1	396887.mp3.wav	12.0	15.0	150	15000	saypho	Say's Phoebe	0.14427436373645772	2
+3	Spectrogram 1	1	396887.mp3.wav	15.0	18.0	150	15000	eurnut1	Eurasian Nutcracker	0.2329851039598792	1
+4	Spectrogram 1	1	396887.mp3.wav	15.0	18.0	150	15000	lirplo	Little Ringed Plover	0.1823265881890601	2
+5	Spectrogram 1	1	396887.mp3.wav	18.0	21.0	150	15000	saypho	Say's Phoebe	0.23494250735641267	1
+6	Spectrogram 1	1	396887.mp3.wav	18.0	21.0	150	15000	lirplo	Little Ringed Plover	0.22141049437104085	2
+7	Spectrogram 1	1	396887.mp3.wav	18.0	21.0	150	15000	deswhe1	Desert Wheatear	0.21619944361795232	3
+8	Spectrogram 1	1	396887.mp3.wav	21.0	24.0	150	15000	lirplo	Little Ringed Plover	0.7450253047412507	1
+9	Spectrogram 1	1	396887.mp3.wav	21.0	24.0	150	15000	marmur	Marbled Murrelet	0.11093301421814462	2
+10	Spectrogram 1	1	396887.mp3.wav	24.0	27.0	150	15000	lirplo	Little Ringed Plover	0.676945379108694	1
+11	Spectrogram 1	1	396887.mp3.wav	24.0	27.0	150	15000	saypho	Say's Phoebe	0.5538254920514103	2
+12	Spectrogram 1	1	396887.mp3.wav	24.0	27.0	150	15000	saggro	Greater Sage-Grouse	0.12181947929523085	3
+13	Spectrogram 1	1	396887.mp3.wav	27.0	30.0	150	15000	saggro	Greater Sage-Grouse	0.834786910781873	1
+14	Spectrogram 1	1	396887.mp3.wav	27.0	30.0	150	15000	lirplo	Little Ringed Plover	0.2316549946300434	2
+15	Spectrogram 1	1	396887.mp3.wav	3.0	6.0	150	15000	saggro	Greater Sage-Grouse	0.94630120657909	1
+16	Spectrogram 1	1	396887.mp3.wav	3.0	6.0	150	15000	lirplo	Little Ringed Plover	0.3869503581877869	2
+17	Spectrogram 1	1	396887.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.998255596026243	1
+18	Spectrogram 1	1	396887.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.9991993729395229	1
+19	Spectrogram 1	1	396887.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.9994435630549804	1
+20	Spectrogram 1	1	396887.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.991984465624043	1
+21	Spectrogram 1	1	396887.mp3.wav	39.0	42.0	150	15000	garwar1	Garden Warbler	0.10936517862057799	2
+22	Spectrogram 1	1	396887.mp3.wav	45.0	48.0	150	15000	euroys1	Eurasian Oystercatcher	0.9312241129583296	1
+23	Spectrogram 1	1	396887.mp3.wav	45.0	48.0	150	15000	pieavo1	Pied Avocet	0.14567436007053358	2
+24	Spectrogram 1	1	396887.mp3.wav	48.0	51.0	150	15000	euroys1	Eurasian Oystercatcher	0.9521764759813469	1
+25	Spectrogram 1	1	396887.mp3.wav	48.0	51.0	150	15000	eubeat1	European Bee-eater	0.18732976335468426	2
+26	Spectrogram 1	1	396887.mp3.wav	51.0	54.0	150	15000	euroys1	Eurasian Oystercatcher	0.5417112008265244	1
+27	Spectrogram 1	1	396887.mp3.wav	51.0	54.0	150	15000	eubeat1	European Bee-eater	0.4939087381815758	2
+28	Spectrogram 1	1	396887.mp3.wav	51.0	54.0	150	15000	woosan	Wood Sandpiper	0.1320375885870698	3
+29	Spectrogram 1	1	396887.mp3.wav	54.0	57.0	150	15000	euroys1	Eurasian Oystercatcher	0.6775954399706792	1
+30	Spectrogram 1	1	396887.mp3.wav	54.0	57.0	150	15000	eubeat1	European Bee-eater	0.4574379098809508	2
+31	Spectrogram 1	1	396887.mp3.wav	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.9996946406201228	1
+32	Spectrogram 1	1	396887.mp3.wav	6.0	9.0	150	15000	blctit4	Black-crested Titmouse	0.2170883080294536	1
+33	Spectrogram 1	1	396887.mp3.wav	6.0	9.0	150	15000	saggro	Greater Sage-Grouse	0.16276372047845514	2
+34	Spectrogram 1	1	396887.mp3.wav	6.0	9.0	150	15000	woolar1	Wood Lark	0.1364169557758094	3
+35	Spectrogram 1	1	396887.mp3.wav	9.0	12.0	150	15000	lirplo	Little Ringed Plover	0.38441912649704296	1
+36	Spectrogram 1	1	396887.mp3.wav	9.0	12.0	150	15000	saggro	Greater Sage-Grouse	0.21368379816375344	2
+37	Spectrogram 1	1	396887.mp3.wav	9.0	12.0	150	15000	marmur	Marbled Murrelet	0.16516510961751896	3
+38	Spectrogram 1	1	396887.mp3.wav	60.0	63.0	150	15000	melwar1	Melodious Warbler	0.9989647994956375	1
+39	Spectrogram 1	1	396887.mp3.wav	72.0	75.0	150	15000	graspa	Grasshopper Sparrow	0.9426727530522298	1
+40	Spectrogram 1	1	396887.mp3.wav	75.0	78.0	150	15000	eutkne1	Eurasian Thick-knee	0.30823292960499005	1
+41	Spectrogram 1	1	396887.mp3.wav	75.0	78.0	150	15000	eugplo	European Golden-Plover	0.24053905881390614	2
+42	Spectrogram 1	1	396887.mp3.wav	84.0	87.0	150	15000	subwar1	Subalpine Warbler	0.5323421397559125	1
+43	Spectrogram 1	1	396887.mp3.wav	84.0	87.0	150	15000	darwar1	Dartford Warbler	0.4448826757763425	2
+44	Spectrogram 1	1	396887.mp3.wav	84.0	87.0	150	15000	sarwar1	Sardinian Warbler	0.3410263515775317	3
+45	Spectrogram 1	1	396887.mp3.wav	87.0	90.0	150	15000	melwar1	Melodious Warbler	0.999672009318946	1
+46	Spectrogram 1	1	396887.mp3.wav	63.0	66.0	150	15000	melwar1	Melodious Warbler	0.9989231815129537	1
+47	Spectrogram 1	1	396887.mp3.wav	90.0	93.0	150	15000	melwar1	Melodious Warbler	0.9995411669498989	1
+48	Spectrogram 1	1	396887.mp3.wav	96.0	99.0	150	15000	ictwar1	Icterine Warbler	0.46719278130362135	1
+49	Spectrogram 1	1	396887.mp3.wav	96.0	99.0	150	15000	gycthr	Gray-cheeked Thrush	0.18120103889769915	2
+50	Spectrogram 1	1	396887.mp3.wav	96.0	99.0	150	15000	plsvir	Plumbeous Vireo	0.18042761782154249	3
+51	Spectrogram 1	1	396887.mp3.wav	99.0	102.0	150	15000	melwar1	Melodious Warbler	0.999771752461861	1
+52	Spectrogram 1	1	396887.mp3.wav	102.0	105.0	150	15000	melwar1	Melodious Warbler	0.9996195304406141	1
+53	Spectrogram 1	1	396887.mp3.wav	105.0	108.0	150	15000	melwar1	Melodious Warbler	0.9992964233374294	1
+54	Spectrogram 1	1	396887.mp3.wav	66.0	69.0	150	15000	sarwar1	Sardinian Warbler	0.8170699968987029	1
+55	Spectrogram 1	1	396887.mp3.wav	66.0	69.0	150	15000	subwar1	Subalpine Warbler	0.6338981427727841	2
+56	Spectrogram 1	1	396887.mp3.wav	66.0	69.0	150	15000	melwar1	Melodious Warbler	0.1520309022775177	3
+57	Spectrogram 1	1	396887.mp3.wav	69.0	72.0	150	15000	graspa	Grasshopper Sparrow	0.7931930360381085	1
+58	Spectrogram 1	1	396887.mp3.wav	0.0	3.0	150	15000	lirplo	Little Ringed Plover	0.8358706192664244	1
+59	Spectrogram 1	1	396887.mp3.wav	0.0	3.0	150	15000	saggro	Greater Sage-Grouse	0.2743946514932278	2
+60	Spectrogram 1	1	396887.mp3.wav	0.0	3.0	150	15000	saypho	Say's Phoebe	0.15265816762055162	3

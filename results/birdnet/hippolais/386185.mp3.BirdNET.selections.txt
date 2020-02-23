@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386185.mp3.wav	12.0	15.0	150	15000	eurwar1	Eurasian Reed Warbler	0.7486240803372205	1
+2	Spectrogram 1	1	386185.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.46475517123410404	2
+3	Spectrogram 1	1	386185.mp3.wav	12.0	15.0	150	15000	blrwar1	Blyth's Reed Warbler	0.10016354970767002	3
+4	Spectrogram 1	1	386185.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.8970832155551863	1
+5	Spectrogram 1	1	386185.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.4850246952759625	2
+6	Spectrogram 1	1	386185.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.32350093278125	3
+7	Spectrogram 1	1	386185.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.999792357830494	1
+8	Spectrogram 1	1	386185.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9908794393717889	1
+9	Spectrogram 1	1	386185.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.12724960598437743	2
+10	Spectrogram 1	1	386185.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9857944505225309	1
+11	Spectrogram 1	1	386185.mp3.wav	24.0	27.0	150	15000	eurwar1	Eurasian Reed Warbler	0.2293416351320437	2
+12	Spectrogram 1	1	386185.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.12827599714670196	3
+13	Spectrogram 1	1	386185.mp3.wav	3.0	6.0	150	15000	sposta1	Spotless Starling	0.9794849682490269	1
+14	Spectrogram 1	1	386185.mp3.wav	3.0	6.0	150	15000	eursta	European Starling	0.6072262913474866	2
+15	Spectrogram 1	1	386185.mp3.wav	6.0	9.0	150	15000	sposta1	Spotless Starling	0.963574267078613	1
+16	Spectrogram 1	1	386185.mp3.wav	6.0	9.0	150	15000	eursta	European Starling	0.5567678092466398	2
+17	Spectrogram 1	1	386185.mp3.wav	9.0	12.0	150	15000	comros	Common Rosefinch	0.3384445394448904	1
+18	Spectrogram 1	1	386185.mp3.wav	9.0	12.0	150	15000	eurgre1	European Greenfinch	0.28085401069350374	2
+19	Spectrogram 1	1	386185.mp3.wav	9.0	12.0	150	15000	sposta1	Spotless Starling	0.10958731522765694	3
+20	Spectrogram 1	1	386185.mp3.wav	0.0	3.0	150	15000	norcar	Northern Cardinal	0.4907502571343783	1

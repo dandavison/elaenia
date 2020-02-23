@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	473556.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9999334300256045	1
+2	Spectrogram 1	1	473556.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.942597834974287	1
+3	Spectrogram 1	1	473556.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.5451133149942469	2
+4	Spectrogram 1	1	473556.mp3.wav	15.0	18.0	150	15000	marwar3	Marsh Warbler	0.21843732043326325	3
+5	Spectrogram 1	1	473556.mp3.wav	3.0	6.0	150	15000	grycat	Gray Catbird	0.9902321218342685	1
+6	Spectrogram 1	1	473556.mp3.wav	3.0	6.0	150	15000	brnthr	Brown Thrasher	0.1713963869003009	2
+7	Spectrogram 1	1	473556.mp3.wav	6.0	9.0	150	15000	brnthr	Brown Thrasher	0.5840903155661007	1
+8	Spectrogram 1	1	473556.mp3.wav	6.0	9.0	150	15000	grycat	Gray Catbird	0.29057742548289817	2
+9	Spectrogram 1	1	473556.mp3.wav	6.0	9.0	150	15000	crithr	Crissal Thrasher	0.1816443861726925	3
+10	Spectrogram 1	1	473556.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9997792913885036	1
+11	Spectrogram 1	1	473556.mp3.wav	0.0	3.0	150	15000	buhvir	Blue-headed Vireo	0.3198895589318127	1
+12	Spectrogram 1	1	473556.mp3.wav	0.0	3.0	150	15000	spaspa1	Spanish Sparrow	0.26261787032623274	2
+13	Spectrogram 1	1	473556.mp3.wav	0.0	3.0	150	15000	subfly	Sulphur-bellied Flycatcher	0.16392219025397495	3

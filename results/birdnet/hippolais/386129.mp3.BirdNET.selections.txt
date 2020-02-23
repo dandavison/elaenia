@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386129.mp3.wav	0.0	3.0	150	15000	barswa	Barn Swallow	0.5623271224674966	1
+2	Spectrogram 1	1	386129.mp3.wav	0.0	3.0	150	15000	sonthr1	Song Thrush	0.33147433647457253	2
+3	Spectrogram 1	1	386129.mp3.wav	0.0	3.0	150	15000	azutit2	Azure Tit	0.3229239674308635	3

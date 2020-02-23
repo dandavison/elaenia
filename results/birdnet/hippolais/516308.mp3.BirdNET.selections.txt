@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	516308.mp3.wav	3.0	6.0	150	15000	rocnut1	Western Rock Nuthatch	0.46114339329271853	1
+2	Spectrogram 1	1	516308.mp3.wav	3.0	6.0	150	15000	woolar1	Wood Lark	0.2955338518007518	2
+3	Spectrogram 1	1	516308.mp3.wav	3.0	6.0	150	15000	sonthr1	Song Thrush	0.12666262161682895	3
+4	Spectrogram 1	1	516308.mp3.wav	6.0	9.0	150	15000	woolar1	Wood Lark	0.9413658176028141	1
+5	Spectrogram 1	1	516308.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.892901699058647	1
+6	Spectrogram 1	1	516308.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.3187682600712295	2
+7	Spectrogram 1	1	516308.mp3.wav	9.0	12.0	150	15000	barwar1	Barred Warbler	0.13311258085502686	3
+8	Spectrogram 1	1	516308.mp3.wav	0.0	3.0	150	15000	bbwduc	Black-bellied Whistling-Duck	0.450892655059249	1
+9	Spectrogram 1	1	516308.mp3.wav	0.0	3.0	150	15000	bnhnut	Brown-headed Nuthatch	0.16294748230615627	2
+10	Spectrogram 1	1	516308.mp3.wav	0.0	3.0	150	15000	saypho	Say's Phoebe	0.12091194562502253	3

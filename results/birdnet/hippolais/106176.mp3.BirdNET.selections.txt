@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	106176.mp3.wav	12.0	15.0	150	15000	bewwre	Bewick's Wren	0.32187075295698503	1
+2	Spectrogram 1	1	106176.mp3.wav	15.0	18.0	150	15000	sposta1	Spotless Starling	0.1392131661023424	1
+3	Spectrogram 1	1	106176.mp3.wav	15.0	18.0	150	15000	atlfly1	Atlas Flycatcher	0.13727621866418105	2
+4	Spectrogram 1	1	106176.mp3.wav	21.0	24.0	150	15000	spofly1	Spotted Flycatcher	0.16237705687871945	1
+5	Spectrogram 1	1	106176.mp3.wav	21.0	24.0	150	15000	atlfly1	Atlas Flycatcher	0.12337360134432329	2
+6	Spectrogram 1	1	106176.mp3.wav	24.0	27.0	150	15000	sposta1	Spotless Starling	0.15836801240659312	1
+7	Spectrogram 1	1	106176.mp3.wav	24.0	27.0	150	15000	shttre1	Short-toed Treecreeper	0.13786014824634368	2
+8	Spectrogram 1	1	106176.mp3.wav	27.0	30.0	150	15000	bewwre	Bewick's Wren	0.20337742812588702	1
+9	Spectrogram 1	1	106176.mp3.wav	3.0	6.0	150	15000	sposta1	Spotless Starling	0.3799860454757089	1
+10	Spectrogram 1	1	106176.mp3.wav	3.0	6.0	150	15000	houspa	House Sparrow	0.17287910490270658	2
+11	Spectrogram 1	1	106176.mp3.wav	3.0	6.0	150	15000	spaspa1	Spanish Sparrow	0.13188740958563286	3
+12	Spectrogram 1	1	106176.mp3.wav	30.0	33.0	150	15000	bewwre	Bewick's Wren	0.701503662553541	1
+13	Spectrogram 1	1	106176.mp3.wav	33.0	36.0	150	15000	bewwre	Bewick's Wren	0.34134498113322376	1
+14	Spectrogram 1	1	106176.mp3.wav	36.0	39.0	150	15000	grewar3	Greenish Warbler	0.28439133741956735	1
+15	Spectrogram 1	1	106176.mp3.wav	36.0	39.0	150	15000	reevir1	Red-eyed Vireo	0.11060807085552692	2
+16	Spectrogram 1	1	106176.mp3.wav	6.0	9.0	150	15000	hawfin	Hawfinch	0.42206621118105464	1
+17	Spectrogram 1	1	106176.mp3.wav	6.0	9.0	150	15000	sposta1	Spotless Starling	0.14793343068742731	2
+18	Spectrogram 1	1	106176.mp3.wav	6.0	9.0	150	15000	spofly1	Spotted Flycatcher	0.11687148957989928	3
+19	Spectrogram 1	1	106176.mp3.wav	9.0	12.0	150	15000	houspa	House Sparrow	0.4240674887508418	1
+20	Spectrogram 1	1	106176.mp3.wav	9.0	12.0	150	15000	itaspa1	Italian Sparrow	0.32863124985839515	2
+21	Spectrogram 1	1	106176.mp3.wav	9.0	12.0	150	15000	sposta1	Spotless Starling	0.1904855467494093	3
+22	Spectrogram 1	1	106176.mp3.wav	0.0	3.0	150	15000	sposta1	Spotless Starling	0.31340163977732155	1

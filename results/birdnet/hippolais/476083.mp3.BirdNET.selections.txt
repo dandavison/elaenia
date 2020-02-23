@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	476083.mp3.wav	12.0	15.0	150	15000	yellow2	Yellowhammer	0.887244458841855	1
+2	Spectrogram 1	1	476083.mp3.wav	12.0	15.0	150	15000	eurbla	Eurasian Blackbird	0.36145582520951497	2
+3	Spectrogram 1	1	476083.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9998916301890863	1
+4	Spectrogram 1	1	476083.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9998190976392604	1
+5	Spectrogram 1	1	476083.mp3.wav	21.0	24.0	150	15000	comnig1	Common Nightingale	0.9711192933956087	1
+6	Spectrogram 1	1	476083.mp3.wav	21.0	24.0	150	15000	thrnig1	Thrush Nightingale	0.2855660978490138	2
+7	Spectrogram 1	1	476083.mp3.wav	24.0	27.0	150	15000	grnsan	Green Sandpiper	0.7490338044709792	1
+8	Spectrogram 1	1	476083.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.43000827046587115	2
+9	Spectrogram 1	1	476083.mp3.wav	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.12188007669008098	3
+10	Spectrogram 1	1	476083.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9945486057455141	1
+11	Spectrogram 1	1	476083.mp3.wav	27.0	30.0	150	15000	buhvir	Blue-headed Vireo	0.33265674209335866	2
+12	Spectrogram 1	1	476083.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9998209331951987	1
+13	Spectrogram 1	1	476083.mp3.wav	30.0	33.0	150	15000	combuz1	Common Buzzard	0.7022616894115437	1
+14	Spectrogram 1	1	476083.mp3.wav	30.0	33.0	150	15000	corbun1	Corn Bunting	0.11834585680169225	2
+15	Spectrogram 1	1	476083.mp3.wav	33.0	36.0	150	15000	eugori2	Eurasian Golden Oriole	0.6853089222472741	1
+16	Spectrogram 1	1	476083.mp3.wav	33.0	36.0	150	15000	eurwry	Eurasian Wryneck	0.10713359475329774	2
+17	Spectrogram 1	1	476083.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9997051243612893	1
+18	Spectrogram 1	1	476083.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9847399254738174	1
+19	Spectrogram 1	1	476083.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.358801367024419	1
+20	Spectrogram 1	1	476083.mp3.wav	42.0	45.0	150	15000	sposta1	Spotless Starling	0.3097007862979533	2
+21	Spectrogram 1	1	476083.mp3.wav	42.0	45.0	150	15000	eursta	European Starling	0.2562874728174412	3
+22	Spectrogram 1	1	476083.mp3.wav	6.0	9.0	150	15000	eugori2	Eurasian Golden Oriole	0.853940842488233	1
+23	Spectrogram 1	1	476083.mp3.wav	6.0	9.0	150	15000	weowar2	Western Orphean Warbler	0.10789822894370993	2
+24	Spectrogram 1	1	476083.mp3.wav	6.0	9.0	150	15000	scoori	Scott's Oriole	0.10755402847325476	3
+25	Spectrogram 1	1	476083.mp3.wav	9.0	12.0	150	15000	yellow2	Yellowhammer	0.9868804783556009	1
+26	Spectrogram 1	1	476083.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9999071401692318	1

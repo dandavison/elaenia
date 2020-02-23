@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386137.mp3.wav	3.0	6.0	150	15000	sonthr1	Song Thrush	0.32768067283683977	1
+2	Spectrogram 1	1	386137.mp3.wav	3.0	6.0	150	15000	houspa	House Sparrow	0.2133253002881165	2
+3	Spectrogram 1	1	386137.mp3.wav	6.0	9.0	150	15000	grcgre1	Great Crested Grebe	0.9502171024745434	1
+4	Spectrogram 1	1	386137.mp3.wav	6.0	9.0	150	15000	euroys1	Eurasian Oystercatcher	0.13029250805890644	2
+5	Spectrogram 1	1	386137.mp3.wav	6.0	9.0	150	15000	wesgre	Western Grebe	0.10383041399998807	3
+6	Spectrogram 1	1	386137.mp3.wav	9.0	12.0	150	15000	swtkit	Swallow-tailed Kite	0.6998408354922835	1
+7	Spectrogram 1	1	386137.mp3.wav	9.0	12.0	150	15000	comblh1	Common Black Hawk	0.25134691716408647	2
+8	Spectrogram 1	1	386137.mp3.wav	0.0	3.0	150	15000	grcgre1	Great Crested Grebe	0.653536390734481	1

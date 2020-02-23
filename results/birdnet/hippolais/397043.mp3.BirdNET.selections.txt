@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	397043.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9735790675700512	1
+2	Spectrogram 1	1	397043.mp3.wav	12.0	15.0	150	15000	leswhi1	Lesser Whitethroat	0.15842387030743646	2
+3	Spectrogram 1	1	397043.mp3.wav	12.0	15.0	150	15000	barwar1	Barred Warbler	0.1475517074727171	3
+4	Spectrogram 1	1	397043.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9986727798144587	1
+5	Spectrogram 1	1	397043.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9988628771278746	1
+6	Spectrogram 1	1	397043.mp3.wav	21.0	24.0	150	15000	hooori	Hooded Oriole	0.257315051915251	1
+7	Spectrogram 1	1	397043.mp3.wav	21.0	24.0	150	15000	bkctch1	Black-crowned Tchagra	0.19776050511350446	2
+8	Spectrogram 1	1	397043.mp3.wav	21.0	24.0	150	15000	yebcha	Yellow-breasted Chat	0.11514321726342891	3
+9	Spectrogram 1	1	397043.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9986326877477532	1
+10	Spectrogram 1	1	397043.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.998652629205796	1
+11	Spectrogram 1	1	397043.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.998254129825329	1
+12	Spectrogram 1	1	397043.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9964695124911425	1
+13	Spectrogram 1	1	397043.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9980235739122036	1
+14	Spectrogram 1	1	397043.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9990951925200008	1

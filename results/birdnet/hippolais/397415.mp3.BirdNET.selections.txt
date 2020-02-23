@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	397415.mp3.wav	12.0	15.0	150	15000	duplar1	Dupont's Lark	0.39650114573868656	1
+2	Spectrogram 1	1	397415.mp3.wav	12.0	15.0	150	15000	auskit1	Black-shouldered Kite	0.14635931352443776	2
+3	Spectrogram 1	1	397415.mp3.wav	12.0	15.0	150	15000	lstlar3	Lesser Short-toed Lark	0.1130983356555217	3
+4	Spectrogram 1	1	397415.mp3.wav	15.0	18.0	150	15000	duplar1	Dupont's Lark	0.5719249353886273	1
+5	Spectrogram 1	1	397415.mp3.wav	15.0	18.0	150	15000	gresni1	Great Snipe	0.1154062489407296	2
+6	Spectrogram 1	1	397415.mp3.wav	15.0	18.0	150	15000	thelar1	Thekla's Lark	0.10015853357569506	3
+7	Spectrogram 1	1	397415.mp3.wav	18.0	21.0	150	15000	gargan	Garganey	0.9633831238776277	1
+8	Spectrogram 1	1	397415.mp3.wav	18.0	21.0	150	15000	litbus1	Little Bustard	0.9625058354444843	2
+9	Spectrogram 1	1	397415.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.6256421874428563	1
+10	Spectrogram 1	1	397415.mp3.wav	21.0	24.0	150	15000	sarwar1	Sardinian Warbler	0.4393594487498962	2
+11	Spectrogram 1	1	397415.mp3.wav	21.0	24.0	150	15000	subwar1	Subalpine Warbler	0.31210899572739526	3
+12	Spectrogram 1	1	397415.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9967868113267102	1
+13	Spectrogram 1	1	397415.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9990668936849948	1
+14	Spectrogram 1	1	397415.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.84951688868096	1
+15	Spectrogram 1	1	397415.mp3.wav	3.0	6.0	150	15000	padwar1	Paddyfield Warbler	0.5455951025234608	2
+16	Spectrogram 1	1	397415.mp3.wav	3.0	6.0	150	15000	mouwar1	Moustached Warbler	0.13969004405890897	3
+17	Spectrogram 1	1	397415.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9873530522759334	1
+18	Spectrogram 1	1	397415.mp3.wav	30.0	33.0	150	15000	darwar1	Dartford Warbler	0.28697912383530105	2
+19	Spectrogram 1	1	397415.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9948164692415405	1
+20	Spectrogram 1	1	397415.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9194629251343859	1
+21	Spectrogram 1	1	397415.mp3.wav	9.0	12.0	150	15000	padwar1	Paddyfield Warbler	0.22036208208204563	2
+22	Spectrogram 1	1	397415.mp3.wav	0.0	3.0	150	15000	padwar1	Paddyfield Warbler	0.31094735589913597	1
+23	Spectrogram 1	1	397415.mp3.wav	0.0	3.0	150	15000	menwar1	Menetries's Warbler	0.16580991357252334	2

@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	307310.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.43152560044104665	1
+2	Spectrogram 1	1	307310.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.2835396511765888	2
+3	Spectrogram 1	1	307310.mp3.wav	12.0	15.0	150	15000	benthr	Bendire's Thrasher	0.19177432531496877	3
+4	Spectrogram 1	1	307310.mp3.wav	3.0	6.0	150	15000	bbwduc	Black-bellied Whistling-Duck	0.9346490810719733	1
+5	Spectrogram 1	1	307310.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.10976759334451995	2
+6	Spectrogram 1	1	307310.mp3.wav	3.0	6.0	150	15000	comred1	Common Redshank	0.1030444162305406	3
+7	Spectrogram 1	1	307310.mp3.wav	6.0	9.0	150	15000	boowar1	Booted Warbler	0.2294831278696754	1
+8	Spectrogram 1	1	307310.mp3.wav	6.0	9.0	150	15000	orcori	Orchard Oriole	0.10827852653002891	2
+9	Spectrogram 1	1	307310.mp3.wav	6.0	9.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1039598736555857	3
+10	Spectrogram 1	1	307310.mp3.wav	9.0	12.0	150	15000	eutkne1	Eurasian Thick-knee	0.46338687797052275	1
+11	Spectrogram 1	1	307310.mp3.wav	9.0	12.0	150	15000	ducfly	Dusky-capped Flycatcher	0.27809858356847017	2
+12	Spectrogram 1	1	307310.mp3.wav	9.0	12.0	150	15000	eurcoo	Eurasian Coot	0.16883411875886048	3
+13	Spectrogram 1	1	307310.mp3.wav	0.0	3.0	150	15000	chclon	Chestnut-collared Longspur	0.6291501568330437	1
+14	Spectrogram 1	1	307310.mp3.wav	0.0	3.0	150	15000	sander	Sanderling	0.27003632225778135	2
+15	Spectrogram 1	1	307310.mp3.wav	0.0	3.0	150	15000	semsan	Semipalmated Sandpiper	0.22046238479241229	3

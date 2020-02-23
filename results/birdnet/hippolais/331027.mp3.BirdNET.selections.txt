@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	331027.mp3.wav	12.0	15.0	150	15000	padwar1	Paddyfield Warbler	0.2356992391976144	1
+2	Spectrogram 1	1	331027.mp3.wav	15.0	18.0	150	15000	grrwar1	Great Reed Warbler	0.47573830496102526	1
+3	Spectrogram 1	1	331027.mp3.wav	15.0	18.0	150	15000	weowar1	Western Olivaceous Warbler	0.16134236547198177	2
+4	Spectrogram 1	1	331027.mp3.wav	15.0	18.0	150	15000	eurwar1	Eurasian Reed Warbler	0.10555665500653569	3
+5	Spectrogram 1	1	331027.mp3.wav	18.0	21.0	150	15000	weowar1	Western Olivaceous Warbler	0.31328338870965	1
+6	Spectrogram 1	1	331027.mp3.wav	18.0	21.0	150	15000	grrwar1	Great Reed Warbler	0.10633730555870279	2
+7	Spectrogram 1	1	331027.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.7922092846071678	1
+8	Spectrogram 1	1	331027.mp3.wav	21.0	24.0	150	15000	weowar1	Western Olivaceous Warbler	0.617459375976027	2
+9	Spectrogram 1	1	331027.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.16279671455531353	3
+10	Spectrogram 1	1	331027.mp3.wav	24.0	27.0	150	15000	citfin1	Citril Finch	0.5066003215980162	1
+11	Spectrogram 1	1	331027.mp3.wav	24.0	27.0	150	15000	bkwsti	Black-winged Stilt	0.12560949686161557	2
+12	Spectrogram 1	1	331027.mp3.wav	27.0	30.0	150	15000	marwar3	Marsh Warbler	0.31551337073625346	1
+13	Spectrogram 1	1	331027.mp3.wav	27.0	30.0	150	15000	sedwar1	Sedge Warbler	0.29033662008569666	2
+14	Spectrogram 1	1	331027.mp3.wav	27.0	30.0	150	15000	blrwar1	Blyth's Reed Warbler	0.2566486406248407	3
+15	Spectrogram 1	1	331027.mp3.wav	3.0	6.0	150	15000	eursis	Eurasian Siskin	0.6740473412471081	1
+16	Spectrogram 1	1	331027.mp3.wav	3.0	6.0	150	15000	weowar1	Western Olivaceous Warbler	0.13578369071525936	2
+17	Spectrogram 1	1	331027.mp3.wav	9.0	12.0	150	15000	eursis	Eurasian Siskin	0.6476051888605372	1
+18	Spectrogram 1	1	331027.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.39049774063480175	2
+19	Spectrogram 1	1	331027.mp3.wav	9.0	12.0	150	15000	blrwar1	Blyth's Reed Warbler	0.18055091114014984	3
+20	Spectrogram 1	1	331027.mp3.wav	0.0	3.0	150	15000	eursis	Eurasian Siskin	0.6149562064758006	1
+21	Spectrogram 1	1	331027.mp3.wav	0.0	3.0	150	15000	weowar1	Western Olivaceous Warbler	0.6146671186045735	2
+22	Spectrogram 1	1	331027.mp3.wav	0.0	3.0	150	15000	citfin1	Citril Finch	0.12112332670887697	3

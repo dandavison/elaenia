@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386144.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9996274211153003	1
+2	Spectrogram 1	1	386144.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9721019793043465	1
+3	Spectrogram 1	1	386144.mp3.wav	15.0	18.0	150	15000	marwar3	Marsh Warbler	0.2934458841924544	2
+4	Spectrogram 1	1	386144.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.11547301409403371	3
+5	Spectrogram 1	1	386144.mp3.wav	3.0	6.0	150	15000	bncfly	Brown-crested Flycatcher	0.9290251068562385	1
+6	Spectrogram 1	1	386144.mp3.wav	3.0	6.0	150	15000	astfly	Ash-throated Flycatcher	0.4338373687094684	2
+7	Spectrogram 1	1	386144.mp3.wav	6.0	9.0	150	15000	eurgre1	European Greenfinch	0.21050142068573144	1
+8	Spectrogram 1	1	386144.mp3.wav	9.0	12.0	150	15000	sonthr1	Song Thrush	0.8556690457915874	1
+9	Spectrogram 1	1	386144.mp3.wav	9.0	12.0	150	15000	blackc1	Eurasian Blackcap	0.1480434397486038	2
+10	Spectrogram 1	1	386144.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.11232229790343144	3
+11	Spectrogram 1	1	386144.mp3.wav	0.0	3.0	150	15000	sposta1	Spotless Starling	0.2295775720274646	1
+12	Spectrogram 1	1	386144.mp3.wav	0.0	3.0	150	15000	eurlin1	Eurasian Linnet	0.19414738777202836	2
+13	Spectrogram 1	1	386144.mp3.wav	0.0	3.0	150	15000	eucdov	Eurasian Collared-Dove	0.15568837556542273	3

@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	131909.mp3.wav	12.0	15.0	150	15000	gstlar1	Greater Short-toed Lark	0.14798807265803127	1
+2	Spectrogram 1	1	131909.mp3.wav	12.0	15.0	150	15000	eurgol	European Goldfinch	0.10718027421956931	2
+3	Spectrogram 1	1	131909.mp3.wav	15.0	18.0	150	15000	padwar1	Paddyfield Warbler	0.6839467237699721	1
+4	Spectrogram 1	1	131909.mp3.wav	15.0	18.0	150	15000	mouwar1	Moustached Warbler	0.5486955300328715	2
+5	Spectrogram 1	1	131909.mp3.wav	15.0	18.0	150	15000	menwar1	Menetries's Warbler	0.22727016234155273	3
+6	Spectrogram 1	1	131909.mp3.wav	18.0	21.0	150	15000	thelar1	Thekla's Lark	0.44379480559140355	1
+7	Spectrogram 1	1	131909.mp3.wav	18.0	21.0	150	15000	gycthr	Gray-cheeked Thrush	0.30900127049048076	2
+8	Spectrogram 1	1	131909.mp3.wav	18.0	21.0	150	15000	crelar2	Crested Lark	0.16324936137239596	3
+9	Spectrogram 1	1	131909.mp3.wav	27.0	30.0	150	15000	gstlar1	Greater Short-toed Lark	0.5587411251785257	1
+10	Spectrogram 1	1	131909.mp3.wav	27.0	30.0	150	15000	belvir	Bell's Vireo	0.22947640504219344	2
+11	Spectrogram 1	1	131909.mp3.wav	27.0	30.0	150	15000	thelar1	Thekla's Lark	0.1845132871786605	3
+12	Spectrogram 1	1	131909.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9906612652414417	1
+13	Spectrogram 1	1	131909.mp3.wav	3.0	6.0	150	15000	darwar1	Dartford Warbler	0.10129063498104326	2
+14	Spectrogram 1	1	131909.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9930087532756378	1
+15	Spectrogram 1	1	131909.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.9986647538009246	1
+16	Spectrogram 1	1	131909.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.9995752371592728	1
+17	Spectrogram 1	1	131909.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.999425871142548	1
+18	Spectrogram 1	1	131909.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.9995377717468418	1
+19	Spectrogram 1	1	131909.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9661391956014665	1
+20	Spectrogram 1	1	131909.mp3.wav	6.0	9.0	150	15000	grewhi1	Greater Whitethroat	0.16859796406497496	2
+21	Spectrogram 1	1	131909.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.13941139595105298	3
+22	Spectrogram 1	1	131909.mp3.wav	0.0	3.0	150	15000	sposan	Spotted Sandpiper	0.983747230985959	1
+23	Spectrogram 1	1	131909.mp3.wav	0.0	3.0	150	15000	woolar1	Wood Lark	0.3771206472121449	2

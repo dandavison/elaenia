@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	431975.mp3.wav	0.0	3.0	150	15000	houfin	House Finch	0.5370247087641418	1
+2	Spectrogram 1	1	431975.mp3.wav	0.0	3.0	150	15000	comros	Common Rosefinch	0.3304262763889894	2
+3	Spectrogram 1	1	431975.mp3.wav	0.0	3.0	150	15000	thelar1	Thekla's Lark	0.22743978563800424	3

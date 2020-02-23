@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	364545.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9971334109812096	1
+2	Spectrogram 1	1	364545.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.15985322946291136	2
+3	Spectrogram 1	1	364545.mp3.wav	12.0	15.0	150	15000	blrwar1	Blyth's Reed Warbler	0.15814255998753146	3
+4	Spectrogram 1	1	364545.mp3.wav	15.0	18.0	150	15000	bulori	Bullock's Oriole	0.846040332961897	1
+5	Spectrogram 1	1	364545.mp3.wav	15.0	18.0	150	15000	wooshr1	Woodchat Shrike	0.5878867800240433	2
+6	Spectrogram 1	1	364545.mp3.wav	15.0	18.0	150	15000	isashr1	Isabelline Shrike	0.10256225874685725	3
+7	Spectrogram 1	1	364545.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.7401096110045563	1
+8	Spectrogram 1	1	364545.mp3.wav	18.0	21.0	150	15000	fieldf	Fieldfare	0.23995100983994697	2
+9	Spectrogram 1	1	364545.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.1537182509714969	3
+10	Spectrogram 1	1	364545.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9984885255056309	1
+11	Spectrogram 1	1	364545.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9797692492637705	1
+12	Spectrogram 1	1	364545.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.14591097201465808	2
+13	Spectrogram 1	1	364545.mp3.wav	27.0	30.0	150	15000	wooshr1	Woodchat Shrike	0.32557435046143246	1
+14	Spectrogram 1	1	364545.mp3.wav	27.0	30.0	150	15000	crithr	Crissal Thrasher	0.27340051596826986	2
+15	Spectrogram 1	1	364545.mp3.wav	27.0	30.0	150	15000	isashr1	Isabelline Shrike	0.19107398903987846	3
+16	Spectrogram 1	1	364545.mp3.wav	3.0	6.0	150	15000	eugori2	Eurasian Golden Oriole	0.15489192655809425	1
+17	Spectrogram 1	1	364545.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.6560679492591119	1
+18	Spectrogram 1	1	364545.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.4003553737413045	2
+19	Spectrogram 1	1	364545.mp3.wav	6.0	9.0	150	15000	eurwar1	Eurasian Reed Warbler	0.3694138736955806	3
+20	Spectrogram 1	1	364545.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.8151075565761816	1
+21	Spectrogram 1	1	364545.mp3.wav	9.0	12.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.2585965817279872	2
+22	Spectrogram 1	1	364545.mp3.wav	9.0	12.0	150	15000	redwin	Redwing	0.21528116847102538	3
+23	Spectrogram 1	1	364545.mp3.wav	0.0	3.0	150	15000	bknsti	Black-necked Stilt	0.28928424308715717	1
+24	Spectrogram 1	1	364545.mp3.wav	0.0	3.0	150	15000	rebshr1	Red-backed Shrike	0.18179493964382665	2
+25	Spectrogram 1	1	364545.mp3.wav	0.0	3.0	150	15000	eursta	European Starling	0.10612206388463044	3

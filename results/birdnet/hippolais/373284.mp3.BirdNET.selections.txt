@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	373284.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9508040783906071	1
+2	Spectrogram 1	1	373284.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.13814224529367294	2
+3	Spectrogram 1	1	373284.mp3.wav	15.0	18.0	150	15000	bkctch1	Black-crowned Tchagra	0.315336905829628	1
+4	Spectrogram 1	1	373284.mp3.wav	15.0	18.0	150	15000	sposta1	Spotless Starling	0.19049513824147932	2
+5	Spectrogram 1	1	373284.mp3.wav	15.0	18.0	150	15000	eurbla	Eurasian Blackbird	0.1821784766324362	3
+6	Spectrogram 1	1	373284.mp3.wav	18.0	21.0	150	15000	yebcha	Yellow-breasted Chat	0.6567577337472638	1
+7	Spectrogram 1	1	373284.mp3.wav	18.0	21.0	150	15000	bulori	Bullock's Oriole	0.38462381536491874	2
+8	Spectrogram 1	1	373284.mp3.wav	18.0	21.0	150	15000	balori	Baltimore Oriole	0.3396157529335813	3
+9	Spectrogram 1	1	373284.mp3.wav	21.0	24.0	150	15000	wesmea	Western Meadowlark	0.3502119551436891	1
+10	Spectrogram 1	1	373284.mp3.wav	21.0	24.0	150	15000	baispa	Baird's Sparrow	0.1664294615555162	2
+11	Spectrogram 1	1	373284.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.996545041670781	1
+12	Spectrogram 1	1	373284.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9807716623434118	1
+13	Spectrogram 1	1	373284.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.1554915492537287	2
+14	Spectrogram 1	1	373284.mp3.wav	6.0	9.0	150	15000	sedwar1	Sedge Warbler	0.11986421340490275	3
+15	Spectrogram 1	1	373284.mp3.wav	0.0	3.0	150	15000	rusbla	Rusty Blackbird	0.10193332064079257	1

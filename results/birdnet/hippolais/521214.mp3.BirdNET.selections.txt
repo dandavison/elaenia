@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	521214.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.7239719892466925	1
+2	Spectrogram 1	1	521214.mp3.wav	12.0	15.0	150	15000	wooshr1	Woodchat Shrike	0.42161969509495717	2
+3	Spectrogram 1	1	521214.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.1823589935706968	3
+4	Spectrogram 1	1	521214.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.807866013362768	1
+5	Spectrogram 1	1	521214.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.27332205525759684	2
+6	Spectrogram 1	1	521214.mp3.wav	15.0	18.0	150	15000	barwar1	Barred Warbler	0.221801561175095	3
+7	Spectrogram 1	1	521214.mp3.wav	3.0	6.0	150	15000	wooshr1	Woodchat Shrike	0.8121597407664852	1
+8	Spectrogram 1	1	521214.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.5530405231246015	2
+9	Spectrogram 1	1	521214.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.1166717249070905	3
+10	Spectrogram 1	1	521214.mp3.wav	6.0	9.0	150	15000	wooshr1	Woodchat Shrike	0.8424969277283211	1
+11	Spectrogram 1	1	521214.mp3.wav	6.0	9.0	150	15000	isashr1	Isabelline Shrike	0.23826461951361483	2
+12	Spectrogram 1	1	521214.mp3.wav	6.0	9.0	150	15000	thelar1	Thekla's Lark	0.106644465494766	3
+13	Spectrogram 1	1	521214.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.3902855539697095	1
+14	Spectrogram 1	1	521214.mp3.wav	9.0	12.0	150	15000	wooshr1	Woodchat Shrike	0.3492916470875182	2
+15	Spectrogram 1	1	521214.mp3.wav	9.0	12.0	150	15000	isashr1	Isabelline Shrike	0.30910343550530467	3
+16	Spectrogram 1	1	521214.mp3.wav	0.0	3.0	150	15000	wooshr1	Woodchat Shrike	0.8978304465085855	1
+17	Spectrogram 1	1	521214.mp3.wav	0.0	3.0	150	15000	isashr1	Isabelline Shrike	0.31873813462225253	2
+18	Spectrogram 1	1	521214.mp3.wav	0.0	3.0	150	15000	legshr2	Lesser Gray Shrike	0.24563281511399035	3

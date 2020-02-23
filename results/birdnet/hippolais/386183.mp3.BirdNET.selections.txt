@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386183.mp3.wav	3.0	6.0	150	15000	swtkit	Swallow-tailed Kite	0.30915307632356703	1
+2	Spectrogram 1	1	386183.mp3.wav	3.0	6.0	150	15000	litgre1	Little Grebe	0.3017270217903552	2
+3	Spectrogram 1	1	386183.mp3.wav	3.0	6.0	150	15000	grnpar	Green Parakeet	0.21441018205836018	3
+4	Spectrogram 1	1	386183.mp3.wav	0.0	3.0	150	15000	sposta1	Spotless Starling	0.4233750506871522	1
+5	Spectrogram 1	1	386183.mp3.wav	0.0	3.0	150	15000	eursta	European Starling	0.2091832676984913	2

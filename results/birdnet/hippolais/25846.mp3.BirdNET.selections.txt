@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	25846.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9393288242157014	1
+2	Spectrogram 1	1	25846.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.1352152709680922	2
+3	Spectrogram 1	1	25846.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.1154337319540739	3
+4	Spectrogram 1	1	25846.mp3.wav	15.0	18.0	150	15000	sarwar1	Sardinian Warbler	0.1979638696545308	1
+5	Spectrogram 1	1	25846.mp3.wav	15.0	18.0	150	15000	leswhi1	Lesser Whitethroat	0.17282258958778995	2
+6	Spectrogram 1	1	25846.mp3.wav	15.0	18.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1590768832404739	3
+7	Spectrogram 1	1	25846.mp3.wav	18.0	21.0	150	15000	comros	Common Rosefinch	0.8486211304161587	1
+8	Spectrogram 1	1	25846.mp3.wav	18.0	21.0	150	15000	thelar1	Thekla's Lark	0.17102435171057204	2
+9	Spectrogram 1	1	25846.mp3.wav	18.0	21.0	150	15000	rerswa1	Red-rumped Swallow	0.10220553229656362	3
+10	Spectrogram 1	1	25846.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9946826874893804	1
+11	Spectrogram 1	1	25846.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9855230323225405	1
+12	Spectrogram 1	1	25846.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9625226727274588	1
+13	Spectrogram 1	1	25846.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.3146590714630195	2
+14	Spectrogram 1	1	25846.mp3.wav	9.0	12.0	150	15000	marwar3	Marsh Warbler	0.1047585490851231	3
+15	Spectrogram 1	1	25846.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9953003666759306	1

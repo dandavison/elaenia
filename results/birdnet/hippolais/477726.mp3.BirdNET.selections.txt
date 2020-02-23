@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	477726.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9997218272735946	1
+2	Spectrogram 1	1	477726.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9995889728261816	1
+3	Spectrogram 1	1	477726.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9979485553227134	1
+4	Spectrogram 1	1	477726.mp3.wav	18.0	21.0	150	15000	garwar1	Garden Warbler	0.10952698482922411	2
+5	Spectrogram 1	1	477726.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.992730918877153	1
+6	Spectrogram 1	1	477726.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.14028205006794342	2
+7	Spectrogram 1	1	477726.mp3.wav	24.0	27.0	150	15000	houfin	House Finch	0.7378081787021936	1
+8	Spectrogram 1	1	477726.mp3.wav	24.0	27.0	150	15000	orcori	Orchard Oriole	0.5944602235691954	2
+9	Spectrogram 1	1	477726.mp3.wav	27.0	30.0	150	15000	rebfly	Red-breasted Flycatcher	0.5137141378498945	1
+10	Spectrogram 1	1	477726.mp3.wav	27.0	30.0	150	15000	colfly1	Collared Flycatcher	0.1450001179168114	2
+11	Spectrogram 1	1	477726.mp3.wav	27.0	30.0	150	15000	spofly1	Spotted Flycatcher	0.12994216595697688	3
+12	Spectrogram 1	1	477726.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9940578936528325	1
+13	Spectrogram 1	1	477726.mp3.wav	30.0	33.0	150	15000	rebfly	Red-breasted Flycatcher	0.34759316162549425	1
+14	Spectrogram 1	1	477726.mp3.wav	30.0	33.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.20584571226433215	2
+15	Spectrogram 1	1	477726.mp3.wav	30.0	33.0	150	15000	stodov1	Stock Dove	0.18668409935237892	3
+16	Spectrogram 1	1	477726.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9998248677056203	1
+17	Spectrogram 1	1	477726.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9989830445815483	1
+18	Spectrogram 1	1	477726.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9995267032588506	1
+19	Spectrogram 1	1	477726.mp3.wav	0.0	3.0	150	15000	sonthr1	Song Thrush	0.495566258244582	1
+20	Spectrogram 1	1	477726.mp3.wav	0.0	3.0	150	15000	bkhgro	Black-headed Grosbeak	0.10713347022789753	2

@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	176321.mp3.wav	12.0	15.0	150	15000	sarwar1	Sardinian Warbler	0.9981865541445626	1
+2	Spectrogram 1	1	176321.mp3.wav	15.0	18.0	150	15000	comqua1	Common Quail	0.120163572310593	1
+3	Spectrogram 1	1	176321.mp3.wav	15.0	18.0	150	15000	wlwwar	Willow Warbler	0.10506490219456087	2
+4	Spectrogram 1	1	176321.mp3.wav	18.0	21.0	150	15000	sarwar1	Sardinian Warbler	0.9975207406345976	1
+5	Spectrogram 1	1	176321.mp3.wav	21.0	24.0	150	15000	corbun1	Corn Bunting	0.11995201717822411	1
+6	Spectrogram 1	1	176321.mp3.wav	21.0	24.0	150	15000	comqua1	Common Quail	0.11982834595427946	2
+7	Spectrogram 1	1	176321.mp3.wav	21.0	24.0	150	15000	weowar2	Western Orphean Warbler	0.11442287996114192	3
+8	Spectrogram 1	1	176321.mp3.wav	24.0	27.0	150	15000	sarwar1	Sardinian Warbler	0.9953291298112983	1
+9	Spectrogram 1	1	176321.mp3.wav	27.0	30.0	150	15000	sarwar1	Sardinian Warbler	0.9937505752357421	1
+10	Spectrogram 1	1	176321.mp3.wav	27.0	30.0	150	15000	subwar1	Subalpine Warbler	0.18102546905769587	2
+11	Spectrogram 1	1	176321.mp3.wav	3.0	6.0	150	15000	sarwar1	Sardinian Warbler	0.9986711958799424	1
+12	Spectrogram 1	1	176321.mp3.wav	30.0	33.0	150	15000	sarwar1	Sardinian Warbler	0.9991343415423238	1
+13	Spectrogram 1	1	176321.mp3.wav	33.0	36.0	150	15000	comqua1	Common Quail	0.2055235033122206	1
+14	Spectrogram 1	1	176321.mp3.wav	33.0	36.0	150	15000	ortbun1	Ortolan Bunting	0.1279487763385677	2
+15	Spectrogram 1	1	176321.mp3.wav	33.0	36.0	150	15000	barwar1	Barred Warbler	0.12246355578644301	3
+16	Spectrogram 1	1	176321.mp3.wav	36.0	39.0	150	15000	wooshr1	Woodchat Shrike	0.1762211284256855	1
+17	Spectrogram 1	1	176321.mp3.wav	36.0	39.0	150	15000	leswhi1	Lesser Whitethroat	0.12086083706561379	2
+18	Spectrogram 1	1	176321.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.11705034646360127	3
+19	Spectrogram 1	1	176321.mp3.wav	39.0	42.0	150	15000	sarwar1	Sardinian Warbler	0.9964158913148933	1
+20	Spectrogram 1	1	176321.mp3.wav	6.0	9.0	150	15000	sarwar1	Sardinian Warbler	0.998487219091074	1
+21	Spectrogram 1	1	176321.mp3.wav	9.0	12.0	150	15000	comqua1	Common Quail	0.14384414668672132	1
+22	Spectrogram 1	1	176321.mp3.wav	9.0	12.0	150	15000	weowar2	Western Orphean Warbler	0.10938835457547785	2
+23	Spectrogram 1	1	176321.mp3.wav	9.0	12.0	150	15000	barwar1	Barred Warbler	0.10587425908194496	3
+24	Spectrogram 1	1	176321.mp3.wav	0.0	3.0	150	15000	sarwar1	Sardinian Warbler	0.9932626275283832	1

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386191.mp3.wav	3.0	6.0	150	15000	houspa	House Sparrow	0.39565455558382323	1
+2	Spectrogram 1	1	386191.mp3.wav	3.0	6.0	150	15000	sposta1	Spotless Starling	0.2831520708085949	2
+3	Spectrogram 1	1	386191.mp3.wav	3.0	6.0	150	15000	itaspa1	Italian Sparrow	0.2592839174556027	3
+4	Spectrogram 1	1	386191.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.15086261704744927	1
+5	Spectrogram 1	1	386191.mp3.wav	6.0	9.0	150	15000	grrwar1	Great Reed Warbler	0.15070370732082283	2
+6	Spectrogram 1	1	386191.mp3.wav	6.0	9.0	150	15000	gilwoo	Gila Woodpecker	0.12264976337467	3
+7	Spectrogram 1	1	386191.mp3.wav	9.0	12.0	150	15000	sonthr1	Song Thrush	0.20632199147425676	1
+8	Spectrogram 1	1	386191.mp3.wav	9.0	12.0	150	15000	normoc	Northern Mockingbird	0.2037343695390334	2
+9	Spectrogram 1	1	386191.mp3.wav	9.0	12.0	150	15000	brnthr	Brown Thrasher	0.13789304246245324	3
+10	Spectrogram 1	1	386191.mp3.wav	0.0	3.0	150	15000	comchi1	Common Chiffchaff	0.3638334921011862	1
+11	Spectrogram 1	1	386191.mp3.wav	0.0	3.0	150	15000	blueth	Bluethroat	0.29448941891369473	2
+12	Spectrogram 1	1	386191.mp3.wav	0.0	3.0	150	15000	houspa	House Sparrow	0.17904188318136674	3

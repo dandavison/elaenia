@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	328881.mp3.wav	12.0	15.0	150	15000	whinch1	Whinchat	0.12015934109463272	1
+2	Spectrogram 1	1	328881.mp3.wav	12.0	15.0	150	15000	comcra	Common Crane	0.11291027260389143	2
+3	Spectrogram 1	1	328881.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9945204607358109	1
+4	Spectrogram 1	1	328881.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.425428839821905	1
+5	Spectrogram 1	1	328881.mp3.wav	18.0	21.0	150	15000	weowar1	Western Olivaceous Warbler	0.19093331794535193	2
+6	Spectrogram 1	1	328881.mp3.wav	18.0	21.0	150	15000	blueth	Bluethroat	0.13731801143886463	3
+7	Spectrogram 1	1	328881.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9986952858045469	1
+8	Spectrogram 1	1	328881.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9842275682427466	1
+9	Spectrogram 1	1	328881.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.22395005263634526	1
+10	Spectrogram 1	1	328881.mp3.wav	27.0	30.0	150	15000	eurgol	European Goldfinch	0.17591805879613284	2
+11	Spectrogram 1	1	328881.mp3.wav	27.0	30.0	150	15000	blackc1	Eurasian Blackcap	0.11001225992513454	3
+12	Spectrogram 1	1	328881.mp3.wav	3.0	6.0	150	15000	blueth	Bluethroat	0.900341712031171	1
+13	Spectrogram 1	1	328881.mp3.wav	3.0	6.0	150	15000	whtdip1	White-throated Dipper	0.2956281068071669	2
+14	Spectrogram 1	1	328881.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.6251102494380585	1
+15	Spectrogram 1	1	328881.mp3.wav	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.22490355219406957	2
+16	Spectrogram 1	1	328881.mp3.wav	30.0	33.0	150	15000	weowar1	Western Olivaceous Warbler	0.16106033643933815	3
+17	Spectrogram 1	1	328881.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.7065013257852695	1
+18	Spectrogram 1	1	328881.mp3.wav	33.0	36.0	150	15000	grewhi1	Greater Whitethroat	0.14230709349928058	2
+19	Spectrogram 1	1	328881.mp3.wav	33.0	36.0	150	15000	subwar1	Subalpine Warbler	0.10032215376888312	3
+20	Spectrogram 1	1	328881.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.9786212450337395	1
+21	Spectrogram 1	1	328881.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.9556967020906229	1
+22	Spectrogram 1	1	328881.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9733327745451718	1
+23	Spectrogram 1	1	328881.mp3.wav	9.0	12.0	150	15000	auskit1	Black-shouldered Kite	0.4710551325644633	1
+24	Spectrogram 1	1	328881.mp3.wav	9.0	12.0	150	15000	norshr1	Great Gray Shrike	0.15448799696926427	2
+25	Spectrogram 1	1	328881.mp3.wav	0.0	3.0	150	15000	blueth	Bluethroat	0.9250866738651053	1
+26	Spectrogram 1	1	328881.mp3.wav	0.0	3.0	150	15000	whtdip1	White-throated Dipper	0.17536324488239133	2

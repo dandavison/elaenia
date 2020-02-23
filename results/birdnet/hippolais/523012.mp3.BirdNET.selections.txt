@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	523012.mp3.wav	12.0	15.0	150	15000	sarwar1	Sardinian Warbler	0.16366017224260349	1
+2	Spectrogram 1	1	523012.mp3.wav	12.0	15.0	150	15000	eutspa	Eurasian Tree Sparrow	0.10755221226018583	2
+3	Spectrogram 1	1	523012.mp3.wav	15.0	18.0	150	15000	eucdov	Eurasian Collared-Dove	0.16685973555872075	1
+4	Spectrogram 1	1	523012.mp3.wav	15.0	18.0	150	15000	sarwar1	Sardinian Warbler	0.10233701326290578	2
+5	Spectrogram 1	1	523012.mp3.wav	18.0	21.0	150	15000	eucdov	Eurasian Collared-Dove	0.36328228495543147	1
+6	Spectrogram 1	1	523012.mp3.wav	18.0	21.0	150	15000	laudov1	Laughing Dove	0.1305064811512358	2
+7	Spectrogram 1	1	523012.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.5381445451418575	1
+8	Spectrogram 1	1	523012.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.3562791059123676	2
+9	Spectrogram 1	1	523012.mp3.wav	21.0	24.0	150	15000	yebcha	Yellow-breasted Chat	0.11918324465804692	3
+10	Spectrogram 1	1	523012.mp3.wav	24.0	27.0	150	15000	placha	Plain Chachalaca	0.10585548883462598	1
+11	Spectrogram 1	1	523012.mp3.wav	24.0	27.0	150	15000	comrav	Common Raven	0.10406704760900415	2
+12	Spectrogram 1	1	523012.mp3.wav	3.0	6.0	150	15000	yebcha	Yellow-breasted Chat	0.6178350818551062	1
+13	Spectrogram 1	1	523012.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.19769164096413888	2
+14	Spectrogram 1	1	523012.mp3.wav	3.0	6.0	150	15000	eutspa	Eurasian Tree Sparrow	0.17733143233370172	3
+15	Spectrogram 1	1	523012.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.6153697712618172	1
+16	Spectrogram 1	1	523012.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.22979476319443923	2
+17	Spectrogram 1	1	523012.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.1094771378585252	3
+18	Spectrogram 1	1	523012.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.3043087308892493	1
+19	Spectrogram 1	1	523012.mp3.wav	9.0	12.0	150	15000	sarwar1	Sardinian Warbler	0.2875327369581677	2
+20	Spectrogram 1	1	523012.mp3.wav	9.0	12.0	150	15000	yebcha	Yellow-breasted Chat	0.15038278331841395	3

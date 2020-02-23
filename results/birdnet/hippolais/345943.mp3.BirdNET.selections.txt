@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	345943.mp3.wav	12.0	15.0	150	15000	pyrrhu	Pyrrhuloxia	0.8182345750768951	1
+2	Spectrogram 1	1	345943.mp3.wav	12.0	15.0	150	15000	sposta1	Spotless Starling	0.16042504996682264	2
+3	Spectrogram 1	1	345943.mp3.wav	15.0	18.0	150	15000	pyrrhu	Pyrrhuloxia	0.3079590521895663	1
+4	Spectrogram 1	1	345943.mp3.wav	15.0	18.0	150	15000	sposta1	Spotless Starling	0.21527644664989418	2
+5	Spectrogram 1	1	345943.mp3.wav	18.0	21.0	150	15000	pyrrhu	Pyrrhuloxia	0.2100554028034532	1
+6	Spectrogram 1	1	345943.mp3.wav	18.0	21.0	150	15000	corfly	Cordilleran Flycatcher	0.15249334648683466	2
+7	Spectrogram 1	1	345943.mp3.wav	18.0	21.0	150	15000	trepip	Tree Pipit	0.1468284113960334	3
+8	Spectrogram 1	1	345943.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9857598542043691	1
+9	Spectrogram 1	1	345943.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.4693114272572137	2
+10	Spectrogram 1	1	345943.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9998266933660694	1
+11	Spectrogram 1	1	345943.mp3.wav	9.0	12.0	150	15000	blared1	Black Redstart	0.9703431683080568	1
+12	Spectrogram 1	1	345943.mp3.wav	9.0	12.0	150	15000	blueth	Bluethroat	0.16875431775495023	2
+13	Spectrogram 1	1	345943.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.8974560478888062	1
+14	Spectrogram 1	1	345943.mp3.wav	0.0	3.0	150	15000	grrwar1	Great Reed Warbler	0.6211722407915192	2

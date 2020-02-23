@@ -1,0 +1,86 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	59245.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.5114656274824316	1
+2	Spectrogram 1	1	59245.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.4131205913314533	2
+3	Spectrogram 1	1	59245.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.2082126717618805	3
+4	Spectrogram 1	1	59245.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9893993998543755	1
+5	Spectrogram 1	1	59245.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.11643923760469405	2
+6	Spectrogram 1	1	59245.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9879321738733121	1
+7	Spectrogram 1	1	59245.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.10938452298367995	2
+8	Spectrogram 1	1	59245.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.319052080643469	1
+9	Spectrogram 1	1	59245.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.22314916936141807	2
+10	Spectrogram 1	1	59245.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.17418634909937242	3
+11	Spectrogram 1	1	59245.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.6638863396249303	1
+12	Spectrogram 1	1	59245.mp3.wav	24.0	27.0	150	15000	bkcvir1	Black-capped Vireo	0.4869129999435014	2
+13	Spectrogram 1	1	59245.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.27446933120618705	3
+14	Spectrogram 1	1	59245.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9989011147237292	1
+15	Spectrogram 1	1	59245.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.9256668319333387	1
+16	Spectrogram 1	1	59245.mp3.wav	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.5989648876777846	2
+17	Spectrogram 1	1	59245.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9978254794243976	1
+18	Spectrogram 1	1	59245.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.9978208724872317	1
+19	Spectrogram 1	1	59245.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.9990985367432699	1
+20	Spectrogram 1	1	59245.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.9924356220962101	1
+21	Spectrogram 1	1	59245.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.13173134508700746	2
+22	Spectrogram 1	1	59245.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.9982948516541961	1
+23	Spectrogram 1	1	59245.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.9953819759415183	1
+24	Spectrogram 1	1	59245.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.2884110932825235	2
+25	Spectrogram 1	1	59245.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.8622831820478853	1
+26	Spectrogram 1	1	59245.mp3.wav	48.0	51.0	150	15000	garwar1	Garden Warbler	0.36477698335237585	2
+27	Spectrogram 1	1	59245.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.2868235144766545	3
+28	Spectrogram 1	1	59245.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.9805361711916162	1
+29	Spectrogram 1	1	59245.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.1650920677892096	2
+30	Spectrogram 1	1	59245.mp3.wav	54.0	57.0	150	15000	barswa	Barn Swallow	0.7869063155548062	1
+31	Spectrogram 1	1	59245.mp3.wav	57.0	60.0	150	15000	blueth	Bluethroat	0.6799516894630868	1
+32	Spectrogram 1	1	59245.mp3.wav	57.0	60.0	150	15000	sedwar1	Sedge Warbler	0.48091351492061857	2
+33	Spectrogram 1	1	59245.mp3.wav	57.0	60.0	150	15000	marwar3	Marsh Warbler	0.14579800582793123	3
+34	Spectrogram 1	1	59245.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.5935154948563321	1
+35	Spectrogram 1	1	59245.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.2070479535205779	2
+36	Spectrogram 1	1	59245.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.18259975857236574	3
+37	Spectrogram 1	1	59245.mp3.wav	9.0	12.0	150	15000	blackc1	Eurasian Blackcap	0.5150413275498682	1
+38	Spectrogram 1	1	59245.mp3.wav	9.0	12.0	150	15000	sonthr1	Song Thrush	0.31254825407732467	2
+39	Spectrogram 1	1	59245.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.2518422220263964	3
+40	Spectrogram 1	1	59245.mp3.wav	60.0	63.0	150	15000	barswa	Barn Swallow	0.7758449420977748	1
+41	Spectrogram 1	1	59245.mp3.wav	60.0	63.0	150	15000	sedwar1	Sedge Warbler	0.10702953028868578	2
+42	Spectrogram 1	1	59245.mp3.wav	72.0	75.0	150	15000	melwar1	Melodious Warbler	0.9964772998989302	1
+43	Spectrogram 1	1	59245.mp3.wav	75.0	78.0	150	15000	melwar1	Melodious Warbler	0.9168970085769426	1
+44	Spectrogram 1	1	59245.mp3.wav	75.0	78.0	150	15000	garwar1	Garden Warbler	0.5155999581973482	2
+45	Spectrogram 1	1	59245.mp3.wav	78.0	81.0	150	15000	melwar1	Melodious Warbler	0.7650296368147572	1
+46	Spectrogram 1	1	59245.mp3.wav	78.0	81.0	150	15000	garwar1	Garden Warbler	0.49195879087333455	2
+47	Spectrogram 1	1	59245.mp3.wav	78.0	81.0	150	15000	ictwar1	Icterine Warbler	0.3667895423733358	3
+48	Spectrogram 1	1	59245.mp3.wav	81.0	84.0	150	15000	melwar1	Melodious Warbler	0.8292560769838846	1
+49	Spectrogram 1	1	59245.mp3.wav	81.0	84.0	150	15000	garwar1	Garden Warbler	0.7799297711188306	2
+50	Spectrogram 1	1	59245.mp3.wav	84.0	87.0	150	15000	rtsrob1	Rufous-tailed Scrub-Robin	0.531743411400637	1
+51	Spectrogram 1	1	59245.mp3.wav	84.0	87.0	150	15000	sibrub	Siberian Rubythroat	0.18488757605914174	2
+52	Spectrogram 1	1	59245.mp3.wav	84.0	87.0	150	15000	garwar1	Garden Warbler	0.1299983950175332	3
+53	Spectrogram 1	1	59245.mp3.wav	87.0	90.0	150	15000	grcfly	Great Crested Flycatcher	0.34807107209192806	1
+54	Spectrogram 1	1	59245.mp3.wav	87.0	90.0	150	15000	pieavo1	Pied Avocet	0.18399019559445026	2
+55	Spectrogram 1	1	59245.mp3.wav	87.0	90.0	150	15000	warvir	Warbling Vireo	0.13370459023081652	3
+56	Spectrogram 1	1	59245.mp3.wav	63.0	66.0	150	15000	melwar1	Melodious Warbler	0.8465387381330343	1
+57	Spectrogram 1	1	59245.mp3.wav	63.0	66.0	150	15000	sedwar1	Sedge Warbler	0.22555387181128084	2
+58	Spectrogram 1	1	59245.mp3.wav	90.0	93.0	150	15000	grcfly	Great Crested Flycatcher	0.5069978818533942	1
+59	Spectrogram 1	1	59245.mp3.wav	90.0	93.0	150	15000	pieavo1	Pied Avocet	0.46260714753679777	2
+60	Spectrogram 1	1	59245.mp3.wav	93.0	96.0	150	15000	garwar1	Garden Warbler	0.16980095630788147	1
+61	Spectrogram 1	1	59245.mp3.wav	93.0	96.0	150	15000	blackc1	Eurasian Blackcap	0.13868458341041637	2
+62	Spectrogram 1	1	59245.mp3.wav	93.0	96.0	150	15000	sonthr1	Song Thrush	0.10637246596561947	3
+63	Spectrogram 1	1	59245.mp3.wav	96.0	99.0	150	15000	grcfly	Great Crested Flycatcher	0.13197241052614753	1
+64	Spectrogram 1	1	59245.mp3.wav	96.0	99.0	150	15000	sonthr1	Song Thrush	0.1314585172546478	2
+65	Spectrogram 1	1	59245.mp3.wav	96.0	99.0	150	15000	pieavo1	Pied Avocet	0.125766152313715	3
+66	Spectrogram 1	1	59245.mp3.wav	99.0	102.0	150	15000	grcfly	Great Crested Flycatcher	0.5624209441744762	1
+67	Spectrogram 1	1	59245.mp3.wav	102.0	105.0	150	15000	cubthr	Curve-billed Thrasher	0.19561001470726075	1
+68	Spectrogram 1	1	59245.mp3.wav	102.0	105.0	150	15000	grcfly	Great Crested Flycatcher	0.1850270765599131	2
+69	Spectrogram 1	1	59245.mp3.wav	102.0	105.0	150	15000	bncfly	Brown-crested Flycatcher	0.163819220189705	3
+70	Spectrogram 1	1	59245.mp3.wav	105.0	108.0	150	15000	grcfly	Great Crested Flycatcher	0.5644892001620612	1
+71	Spectrogram 1	1	59245.mp3.wav	105.0	108.0	150	15000	pieavo1	Pied Avocet	0.39012426932689404	2
+72	Spectrogram 1	1	59245.mp3.wav	105.0	108.0	150	15000	bncfly	Brown-crested Flycatcher	0.14729709356835138	3
+73	Spectrogram 1	1	59245.mp3.wav	108.0	111.0	150	15000	melwar1	Melodious Warbler	0.8298046444199908	1
+74	Spectrogram 1	1	59245.mp3.wav	108.0	111.0	150	15000	marwar3	Marsh Warbler	0.1456844469707686	2
+75	Spectrogram 1	1	59245.mp3.wav	108.0	111.0	150	15000	ictwar1	Icterine Warbler	0.1229019435858301	3
+76	Spectrogram 1	1	59245.mp3.wav	111.0	114.0	150	15000	melwar1	Melodious Warbler	0.9992728317608982	1
+77	Spectrogram 1	1	59245.mp3.wav	114.0	117.0	150	15000	melwar1	Melodious Warbler	0.9991149819642626	1
+78	Spectrogram 1	1	59245.mp3.wav	117.0	120.0	150	15000	melwar1	Melodious Warbler	0.9990234122350744	1
+79	Spectrogram 1	1	59245.mp3.wav	66.0	69.0	150	15000	melwar1	Melodious Warbler	0.9989816472763859	1
+80	Spectrogram 1	1	59245.mp3.wav	69.0	72.0	150	15000	melwar1	Melodious Warbler	0.9975493730774637	1
+81	Spectrogram 1	1	59245.mp3.wav	120.0	123.0	150	15000	melwar1	Melodious Warbler	0.9931032125473599	1
+82	Spectrogram 1	1	59245.mp3.wav	120.0	123.0	150	15000	ictwar1	Icterine Warbler	0.21783918659631524	2
+83	Spectrogram 1	1	59245.mp3.wav	0.0	3.0	150	15000	grcfly	Great Crested Flycatcher	0.9705979350945512	1
+84	Spectrogram 1	1	59245.mp3.wav	0.0	3.0	150	15000	bncfly	Brown-crested Flycatcher	0.33339263708024824	2
+85	Spectrogram 1	1	59245.mp3.wav	0.0	3.0	150	15000	pieavo1	Pied Avocet	0.11613848967078814	3

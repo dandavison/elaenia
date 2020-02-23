@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	113895.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.6858791508813068	1
+2	Spectrogram 1	1	113895.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.4107077467804992	2
+3	Spectrogram 1	1	113895.mp3.wav	15.0	18.0	150	15000	yebcha	Yellow-breasted Chat	0.1802132269893419	3
+4	Spectrogram 1	1	113895.mp3.wav	21.0	24.0	150	15000	winwre4	Eurasian Wren	0.31576572459820934	1
+5	Spectrogram 1	1	113895.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.396328859864757	1
+6	Spectrogram 1	1	113895.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.2482011718434859	2
+7	Spectrogram 1	1	113895.mp3.wav	6.0	9.0	150	15000	yebcha	Yellow-breasted Chat	0.169676197615501	3
+8	Spectrogram 1	1	113895.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.3548421293689157	1
+9	Spectrogram 1	1	113895.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.139476489424692	2
+10	Spectrogram 1	1	113895.mp3.wav	9.0	12.0	150	15000	marwar3	Marsh Warbler	0.13335923130309835	3
+11	Spectrogram 1	1	113895.mp3.wav	0.0	3.0	150	15000	marwar3	Marsh Warbler	0.1360102270601499	1

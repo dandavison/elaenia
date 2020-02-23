@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	329790.mp3.wav	12.0	15.0	150	15000	itaspa1	Italian Sparrow	0.5138305977638756	1
+2	Spectrogram 1	1	329790.mp3.wav	12.0	15.0	150	15000	houspa	House Sparrow	0.42533290715416394	2
+3	Spectrogram 1	1	329790.mp3.wav	12.0	15.0	150	15000	eutspa	Eurasian Tree Sparrow	0.12845329795739138	3
+4	Spectrogram 1	1	329790.mp3.wav	15.0	18.0	150	15000	houspa	House Sparrow	0.4124758304733095	1
+5	Spectrogram 1	1	329790.mp3.wav	15.0	18.0	150	15000	itaspa1	Italian Sparrow	0.36589935267996604	2
+6	Spectrogram 1	1	329790.mp3.wav	18.0	21.0	150	15000	houspa	House Sparrow	0.17568396743453488	1
+7	Spectrogram 1	1	329790.mp3.wav	18.0	21.0	150	15000	sposta1	Spotless Starling	0.14174884469599575	2
+8	Spectrogram 1	1	329790.mp3.wav	21.0	24.0	150	15000	itaspa1	Italian Sparrow	0.28088930958176417	1
+9	Spectrogram 1	1	329790.mp3.wav	21.0	24.0	150	15000	sposta1	Spotless Starling	0.18762112172996764	2
+10	Spectrogram 1	1	329790.mp3.wav	21.0	24.0	150	15000	houspa	House Sparrow	0.16602842603996112	3
+11	Spectrogram 1	1	329790.mp3.wav	24.0	27.0	150	15000	corshe	Cory's Shearwater	0.35167906930958526	1
+12	Spectrogram 1	1	329790.mp3.wav	24.0	27.0	150	15000	sposta1	Spotless Starling	0.2979814316172515	2
+13	Spectrogram 1	1	329790.mp3.wav	27.0	30.0	150	15000	perfal	Peregrine Falcon	0.7529186977448834	1
+14	Spectrogram 1	1	329790.mp3.wav	3.0	6.0	150	15000	calgna	California Gnatcatcher	0.2320918139318419	1
+15	Spectrogram 1	1	329790.mp3.wav	3.0	6.0	150	15000	bkcvir1	Black-capped Vireo	0.1355299595555465	2
+16	Spectrogram 1	1	329790.mp3.wav	6.0	9.0	150	15000	sposta1	Spotless Starling	0.21694573367447034	1
+17	Spectrogram 1	1	329790.mp3.wav	6.0	9.0	150	15000	houspa	House Sparrow	0.14568130261540782	2
+18	Spectrogram 1	1	329790.mp3.wav	6.0	9.0	150	15000	itaspa1	Italian Sparrow	0.12685814961131595	3
+19	Spectrogram 1	1	329790.mp3.wav	9.0	12.0	150	15000	itaspa1	Italian Sparrow	0.5929620245890863	1
+20	Spectrogram 1	1	329790.mp3.wav	9.0	12.0	150	15000	houspa	House Sparrow	0.40765297743075996	2
+21	Spectrogram 1	1	329790.mp3.wav	0.0	3.0	150	15000	itaspa1	Italian Sparrow	0.5488041915588949	1
+22	Spectrogram 1	1	329790.mp3.wav	0.0	3.0	150	15000	sposta1	Spotless Starling	0.28606048938891815	2
+23	Spectrogram 1	1	329790.mp3.wav	0.0	3.0	150	15000	houspa	House Sparrow	0.2675280084363753	3

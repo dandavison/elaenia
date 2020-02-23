@@ -1,0 +1,63 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	480918.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.568229849729304	1
+2	Spectrogram 1	1	480918.mp3.wav	12.0	15.0	150	15000	lobthr	Long-billed Thrasher	0.21455203652679375	2
+3	Spectrogram 1	1	480918.mp3.wav	12.0	15.0	150	15000	benthr	Bendire's Thrasher	0.1443315256483575	3
+4	Spectrogram 1	1	480918.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.5671469542928715	1
+5	Spectrogram 1	1	480918.mp3.wav	15.0	18.0	150	15000	benthr	Bendire's Thrasher	0.5416603591913635	2
+6	Spectrogram 1	1	480918.mp3.wav	15.0	18.0	150	15000	lobthr	Long-billed Thrasher	0.14336315792438917	3
+7	Spectrogram 1	1	480918.mp3.wav	18.0	21.0	150	15000	benthr	Bendire's Thrasher	0.656147484592097	1
+8	Spectrogram 1	1	480918.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.5295897309245599	2
+9	Spectrogram 1	1	480918.mp3.wav	18.0	21.0	150	15000	lecthr	LeConte's Thrasher	0.3540869570043412	3
+10	Spectrogram 1	1	480918.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9924480168422247	1
+11	Spectrogram 1	1	480918.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.7074071805234714	1
+12	Spectrogram 1	1	480918.mp3.wav	24.0	27.0	150	15000	barswa	Barn Swallow	0.3178099403572406	2
+13	Spectrogram 1	1	480918.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.22879088169419046	3
+14	Spectrogram 1	1	480918.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9783352952653401	1
+15	Spectrogram 1	1	480918.mp3.wav	27.0	30.0	150	15000	marwar3	Marsh Warbler	0.12321159202151209	2
+16	Spectrogram 1	1	480918.mp3.wav	3.0	6.0	150	15000	lecthr	LeConte's Thrasher	0.7245672635600517	1
+17	Spectrogram 1	1	480918.mp3.wav	3.0	6.0	150	15000	lobcur	Long-billed Curlew	0.3763647341112971	2
+18	Spectrogram 1	1	480918.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.18469743971875152	3
+19	Spectrogram 1	1	480918.mp3.wav	30.0	33.0	150	15000	benthr	Bendire's Thrasher	0.9862155337946625	1
+20	Spectrogram 1	1	480918.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.253687417722049	2
+21	Spectrogram 1	1	480918.mp3.wav	30.0	33.0	150	15000	lobthr	Long-billed Thrasher	0.13046739711874988	3
+22	Spectrogram 1	1	480918.mp3.wav	33.0	36.0	150	15000	eurgre1	European Greenfinch	0.5471049398491766	1
+23	Spectrogram 1	1	480918.mp3.wav	33.0	36.0	150	15000	isawhe1	Isabelline Wheatear	0.1690428940655694	2
+24	Spectrogram 1	1	480918.mp3.wav	33.0	36.0	150	15000	pyrrhu	Pyrrhuloxia	0.10570955917442938	3
+25	Spectrogram 1	1	480918.mp3.wav	36.0	39.0	150	15000	blrwar1	Blyth's Reed Warbler	0.6869103556330418	1
+26	Spectrogram 1	1	480918.mp3.wav	36.0	39.0	150	15000	marwar3	Marsh Warbler	0.5838707596942786	2
+27	Spectrogram 1	1	480918.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.16356488050228968	3
+28	Spectrogram 1	1	480918.mp3.wav	39.0	42.0	150	15000	marwar3	Marsh Warbler	0.5153256359773027	1
+29	Spectrogram 1	1	480918.mp3.wav	39.0	42.0	150	15000	blrwar1	Blyth's Reed Warbler	0.46971058989805947	2
+30	Spectrogram 1	1	480918.mp3.wav	39.0	42.0	150	15000	lecthr	LeConte's Thrasher	0.2783112783530744	3
+31	Spectrogram 1	1	480918.mp3.wav	42.0	45.0	150	15000	lobthr	Long-billed Thrasher	0.7048243119552388	1
+32	Spectrogram 1	1	480918.mp3.wav	42.0	45.0	150	15000	benthr	Bendire's Thrasher	0.2935639089155402	2
+33	Spectrogram 1	1	480918.mp3.wav	42.0	45.0	150	15000	lecthr	LeConte's Thrasher	0.11572062728813004	3
+34	Spectrogram 1	1	480918.mp3.wav	45.0	48.0	150	15000	lecthr	LeConte's Thrasher	0.5978176609932941	1
+35	Spectrogram 1	1	480918.mp3.wav	45.0	48.0	150	15000	benthr	Bendire's Thrasher	0.36227626555249015	2
+36	Spectrogram 1	1	480918.mp3.wav	45.0	48.0	150	15000	lobthr	Long-billed Thrasher	0.18797974480896917	3
+37	Spectrogram 1	1	480918.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.6360934897266303	1
+38	Spectrogram 1	1	480918.mp3.wav	48.0	51.0	150	15000	marwar3	Marsh Warbler	0.2650865237272609	2
+39	Spectrogram 1	1	480918.mp3.wav	48.0	51.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1225370994114718	3
+40	Spectrogram 1	1	480918.mp3.wav	51.0	54.0	150	15000	benthr	Bendire's Thrasher	0.5645128790674467	1
+41	Spectrogram 1	1	480918.mp3.wav	51.0	54.0	150	15000	lobthr	Long-billed Thrasher	0.5559039644169194	2
+42	Spectrogram 1	1	480918.mp3.wav	51.0	54.0	150	15000	lecthr	LeConte's Thrasher	0.20257645589570109	3
+43	Spectrogram 1	1	480918.mp3.wav	54.0	57.0	150	15000	lecthr	LeConte's Thrasher	0.4144725980655885	1
+44	Spectrogram 1	1	480918.mp3.wav	54.0	57.0	150	15000	marwar3	Marsh Warbler	0.21891216528668211	2
+45	Spectrogram 1	1	480918.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.15021915272233205	3
+46	Spectrogram 1	1	480918.mp3.wav	57.0	60.0	150	15000	benthr	Bendire's Thrasher	0.8831463323475193	1
+47	Spectrogram 1	1	480918.mp3.wav	57.0	60.0	150	15000	lecthr	LeConte's Thrasher	0.26498871321633194	2
+48	Spectrogram 1	1	480918.mp3.wav	57.0	60.0	150	15000	lobthr	Long-billed Thrasher	0.17519073778196445	3
+49	Spectrogram 1	1	480918.mp3.wav	6.0	9.0	150	15000	leater1	Least Tern	0.12600319220028516	1
+50	Spectrogram 1	1	480918.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.11065233316486234	2
+51	Spectrogram 1	1	480918.mp3.wav	9.0	12.0	150	15000	lecthr	LeConte's Thrasher	0.5894192623708563	1
+52	Spectrogram 1	1	480918.mp3.wav	9.0	12.0	150	15000	marwar3	Marsh Warbler	0.17127909778416314	2
+53	Spectrogram 1	1	480918.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.15478584325633202	3
+54	Spectrogram 1	1	480918.mp3.wav	60.0	63.0	150	15000	lecthr	LeConte's Thrasher	0.7471569884871719	1
+55	Spectrogram 1	1	480918.mp3.wav	60.0	63.0	150	15000	marwar3	Marsh Warbler	0.17820661642104568	2
+56	Spectrogram 1	1	480918.mp3.wav	60.0	63.0	150	15000	isawhe1	Isabelline Wheatear	0.16313331840171894	3
+57	Spectrogram 1	1	480918.mp3.wav	63.0	66.0	150	15000	blrwar1	Blyth's Reed Warbler	0.40140725614067735	1
+58	Spectrogram 1	1	480918.mp3.wav	63.0	66.0	150	15000	ictwar1	Icterine Warbler	0.2339259309176106	2
+59	Spectrogram 1	1	480918.mp3.wav	63.0	66.0	150	15000	lecthr	LeConte's Thrasher	0.21888136558255875	3
+60	Spectrogram 1	1	480918.mp3.wav	0.0	3.0	150	15000	lecthr	LeConte's Thrasher	0.7878488241721442	1
+61	Spectrogram 1	1	480918.mp3.wav	0.0	3.0	150	15000	marwar3	Marsh Warbler	0.26948305818271767	2
+62	Spectrogram 1	1	480918.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.19617528526691924	3

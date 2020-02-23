@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	360291.mp3.wav	3.0	6.0	150	15000	weowar1	Western Olivaceous Warbler	0.6702612950743035	1
+2	Spectrogram 1	1	360291.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.1318998225339622	2
+3	Spectrogram 1	1	360291.mp3.wav	3.0	6.0	150	15000	eurwar1	Eurasian Reed Warbler	0.11648878542288801	3
+4	Spectrogram 1	1	360291.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.8349960628118214	1
+5	Spectrogram 1	1	360291.mp3.wav	6.0	9.0	150	15000	belvir	Bell's Vireo	0.21720007708266567	2
+6	Spectrogram 1	1	360291.mp3.wav	6.0	9.0	150	15000	bkcvir1	Black-capped Vireo	0.12454325566933407	3
+7	Spectrogram 1	1	360291.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.8421061686928601	1
+8	Spectrogram 1	1	360291.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.3004459850885956	2
+9	Spectrogram 1	1	360291.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.11203347678988133	3

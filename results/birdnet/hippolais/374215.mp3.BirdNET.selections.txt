@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	374215.mp3.wav	12.0	15.0	150	15000	cowpig1	Common Wood-Pigeon	0.6435222255315077	1
+2	Spectrogram 1	1	374215.mp3.wav	12.0	15.0	150	15000	eucdov	Eurasian Collared-Dove	0.5747303371992329	2
+3	Spectrogram 1	1	374215.mp3.wav	15.0	18.0	150	15000	cowpig1	Common Wood-Pigeon	0.527223103277646	1
+4	Spectrogram 1	1	374215.mp3.wav	18.0	21.0	150	15000	cowpig1	Common Wood-Pigeon	0.7911406130273111	1
+5	Spectrogram 1	1	374215.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.6054788738904121	1
+6	Spectrogram 1	1	374215.mp3.wav	21.0	24.0	150	15000	weowar1	Western Olivaceous Warbler	0.30974758642725414	2
+7	Spectrogram 1	1	374215.mp3.wav	21.0	24.0	150	15000	cowpig1	Common Wood-Pigeon	0.1646980154031752	3
+8	Spectrogram 1	1	374215.mp3.wav	3.0	6.0	150	15000	ibechi2	Iberian Chiffchaff	0.33694212581030497	1
+9	Spectrogram 1	1	374215.mp3.wav	3.0	6.0	150	15000	palwar5	Pallas's Leaf Warbler	0.16335664874160388	2
+10	Spectrogram 1	1	374215.mp3.wav	9.0	12.0	150	15000	eurbla	Eurasian Blackbird	0.6918850825464989	1
+11	Spectrogram 1	1	374215.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9016943614524126	1
+12	Spectrogram 1	1	374215.mp3.wav	0.0	3.0	150	15000	blackc1	Eurasian Blackcap	0.11831837262375416	2

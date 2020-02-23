@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	418421.mp3.wav	3.0	6.0	150	15000	rtsrob1	Rufous-tailed Scrub-Robin	0.12257653410551221	1
+2	Spectrogram 1	1	418421.mp3.wav	3.0	6.0	150	15000	dickci	Dickcissel	0.11500794123924891	2
+3	Spectrogram 1	1	418421.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.8994141374737343	1
+4	Spectrogram 1	1	418421.mp3.wav	0.0	3.0	150	15000	padwar1	Paddyfield Warbler	0.144720125852338	2

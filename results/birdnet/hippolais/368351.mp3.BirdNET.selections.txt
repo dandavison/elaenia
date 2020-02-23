@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	368351.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.8139071235531442	1
+2	Spectrogram 1	1	368351.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.23574648072021462	2
+3	Spectrogram 1	1	368351.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.12244373408064914	3
+4	Spectrogram 1	1	368351.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9340510631340884	1
+5	Spectrogram 1	1	368351.mp3.wav	15.0	18.0	150	15000	weowar1	Western Olivaceous Warbler	0.7735656534339039	2
+6	Spectrogram 1	1	368351.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9879310279415361	1
+7	Spectrogram 1	1	368351.mp3.wav	21.0	24.0	150	15000	comcha	Common Chaffinch	0.9809302857786506	1
+8	Spectrogram 1	1	368351.mp3.wav	3.0	6.0	150	15000	comcha	Common Chaffinch	0.2415781085269536	1
+9	Spectrogram 1	1	368351.mp3.wav	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.15955451196969758	2
+10	Spectrogram 1	1	368351.mp3.wav	3.0	6.0	150	15000	comred2	Common Redstart	0.13155274445251225	3
+11	Spectrogram 1	1	368351.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9761118221525102	1
+12	Spectrogram 1	1	368351.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.97847608547353	1
+13	Spectrogram 1	1	368351.mp3.wav	9.0	12.0	150	15000	weowar1	Western Olivaceous Warbler	0.7072791423297528	2
+14	Spectrogram 1	1	368351.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9999330993266218	1

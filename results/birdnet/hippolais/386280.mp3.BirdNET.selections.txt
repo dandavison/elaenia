@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386280.mp3.wav	12.0	15.0	150	15000	eursta	European Starling	0.800392682980011	1
+2	Spectrogram 1	1	386280.mp3.wav	12.0	15.0	150	15000	sposta1	Spotless Starling	0.45600493385722024	2
+3	Spectrogram 1	1	386280.mp3.wav	12.0	15.0	150	15000	eutspa	Eurasian Tree Sparrow	0.16372833590759972	3
+4	Spectrogram 1	1	386280.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9953376714777858	1
+5	Spectrogram 1	1	386280.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9996829688981588	1
+6	Spectrogram 1	1	386280.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9996437340871709	1
+7	Spectrogram 1	1	386280.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9996020589149823	1
+8	Spectrogram 1	1	386280.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9998517288200987	1
+9	Spectrogram 1	1	386280.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9998258236964481	1
+10	Spectrogram 1	1	386280.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9999368667676668	1
+11	Spectrogram 1	1	386280.mp3.wav	0.0	3.0	150	15000	houspa	House Sparrow	0.3775629354330863	1
+12	Spectrogram 1	1	386280.mp3.wav	0.0	3.0	150	15000	sonthr1	Song Thrush	0.23526116987793216	2
+13	Spectrogram 1	1	386280.mp3.wav	0.0	3.0	150	15000	litowl1	Little Owl	0.17515297017959533	3

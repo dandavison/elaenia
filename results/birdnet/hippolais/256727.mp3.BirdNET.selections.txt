@@ -1,0 +1,30 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	256727.mp3.wav	12.0	15.0	150	15000	houspa	House Sparrow	0.31115004582456945	1
+2	Spectrogram 1	1	256727.mp3.wav	12.0	15.0	150	15000	eutspa	Eurasian Tree Sparrow	0.22023376965796373	2
+3	Spectrogram 1	1	256727.mp3.wav	12.0	15.0	150	15000	houfin	House Finch	0.151941016057127	3
+4	Spectrogram 1	1	256727.mp3.wav	15.0	18.0	150	15000	weowar1	Western Olivaceous Warbler	0.7629851335911846	1
+5	Spectrogram 1	1	256727.mp3.wav	15.0	18.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.21233999975571358	2
+6	Spectrogram 1	1	256727.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.12899433418861164	3
+7	Spectrogram 1	1	256727.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.31927219625185066	1
+8	Spectrogram 1	1	256727.mp3.wav	18.0	21.0	150	15000	padwar1	Paddyfield Warbler	0.1883893490617255	2
+9	Spectrogram 1	1	256727.mp3.wav	18.0	21.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1375476600187347	3
+10	Spectrogram 1	1	256727.mp3.wav	21.0	24.0	150	15000	weowar1	Western Olivaceous Warbler	0.3672734503951747	1
+11	Spectrogram 1	1	256727.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.30803522198797495	2
+12	Spectrogram 1	1	256727.mp3.wav	21.0	24.0	150	15000	blrwar1	Blyth's Reed Warbler	0.2829806821267079	3
+13	Spectrogram 1	1	256727.mp3.wav	24.0	27.0	150	15000	weowar1	Western Olivaceous Warbler	0.2880974591153152	1
+14	Spectrogram 1	1	256727.mp3.wav	24.0	27.0	150	15000	blrwar1	Blyth's Reed Warbler	0.19002658636986025	2
+15	Spectrogram 1	1	256727.mp3.wav	24.0	27.0	150	15000	grrwar1	Great Reed Warbler	0.16737963619972623	3
+16	Spectrogram 1	1	256727.mp3.wav	27.0	30.0	150	15000	grrwar1	Great Reed Warbler	0.3948182889505178	1
+17	Spectrogram 1	1	256727.mp3.wav	27.0	30.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.2043836164540084	2
+18	Spectrogram 1	1	256727.mp3.wav	27.0	30.0	150	15000	eurwar1	Eurasian Reed Warbler	0.20307020125338807	3
+19	Spectrogram 1	1	256727.mp3.wav	3.0	6.0	150	15000	eutspa	Eurasian Tree Sparrow	0.4431793217487312	1
+20	Spectrogram 1	1	256727.mp3.wav	3.0	6.0	150	15000	brambl	Brambling	0.4138939203155428	2
+21	Spectrogram 1	1	256727.mp3.wav	3.0	6.0	150	15000	trufin2	Trumpeter Finch	0.11771512464524665	3
+22	Spectrogram 1	1	256727.mp3.wav	6.0	9.0	150	15000	eutspa	Eurasian Tree Sparrow	0.30325827013182094	1
+23	Spectrogram 1	1	256727.mp3.wav	6.0	9.0	150	15000	sposta1	Spotless Starling	0.12920516867744747	2
+24	Spectrogram 1	1	256727.mp3.wav	6.0	9.0	150	15000	eursta	European Starling	0.1091697235437931	3
+25	Spectrogram 1	1	256727.mp3.wav	9.0	12.0	150	15000	blutit	Eurasian Blue Tit	0.13437590091418194	1
+26	Spectrogram 1	1	256727.mp3.wav	9.0	12.0	150	15000	sonthr1	Song Thrush	0.13303725646713738	2
+27	Spectrogram 1	1	256727.mp3.wav	0.0	3.0	150	15000	brambl	Brambling	0.34517721057592243	1
+28	Spectrogram 1	1	256727.mp3.wav	0.0	3.0	150	15000	eutspa	Eurasian Tree Sparrow	0.20536418650347696	2
+29	Spectrogram 1	1	256727.mp3.wav	0.0	3.0	150	15000	gretit1	Great Tit	0.12936503688186038	3

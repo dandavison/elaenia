@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	374216.mp3.wav	12.0	15.0	150	15000	cowpig1	Common Wood-Pigeon	0.8917418390349656	1
+2	Spectrogram 1	1	374216.mp3.wav	12.0	15.0	150	15000	cantow	Canyon Towhee	0.6806968670107785	2
+3	Spectrogram 1	1	374216.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.7977730429822933	1
+4	Spectrogram 1	1	374216.mp3.wav	15.0	18.0	150	15000	cowpig1	Common Wood-Pigeon	0.26420611563479024	2
+5	Spectrogram 1	1	374216.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.6353745969466621	1
+6	Spectrogram 1	1	374216.mp3.wav	18.0	21.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1302547198642743	2
+7	Spectrogram 1	1	374216.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.11065459766907576	3
+8	Spectrogram 1	1	374216.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9972887319313055	1
+9	Spectrogram 1	1	374216.mp3.wav	24.0	27.0	150	15000	whtdov	White-tipped Dove	0.6033845094460824	1
+10	Spectrogram 1	1	374216.mp3.wav	24.0	27.0	150	15000	moudov	Mourning Dove	0.144277089284218	2
+11	Spectrogram 1	1	374216.mp3.wav	24.0	27.0	150	15000	eucdov	Eurasian Collared-Dove	0.12198418187819349	3
+12	Spectrogram 1	1	374216.mp3.wav	27.0	30.0	150	15000	afrwar1	African Reed Warbler	0.273410934218707	1
+13	Spectrogram 1	1	374216.mp3.wav	27.0	30.0	150	15000	eurwar1	Eurasian Reed Warbler	0.2531472829376854	2
+14	Spectrogram 1	1	374216.mp3.wav	27.0	30.0	150	15000	blrwar1	Blyth's Reed Warbler	0.18805838333040184	3
+15	Spectrogram 1	1	374216.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9991247623224915	1
+16	Spectrogram 1	1	374216.mp3.wav	30.0	33.0	150	15000	blrwar1	Blyth's Reed Warbler	0.17189290086453224	1
+17	Spectrogram 1	1	374216.mp3.wav	30.0	33.0	150	15000	marwar3	Marsh Warbler	0.14449649059530678	2
+18	Spectrogram 1	1	374216.mp3.wav	30.0	33.0	150	15000	blueth	Bluethroat	0.13385007564992163	3
+19	Spectrogram 1	1	374216.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9979350605852579	1
+20	Spectrogram 1	1	374216.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.10407198266734428	2
+21	Spectrogram 1	1	374216.mp3.wav	9.0	12.0	150	15000	cowpig1	Common Wood-Pigeon	0.9975639953357858	1
+22	Spectrogram 1	1	374216.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9993820474770558	1

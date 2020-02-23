@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386059.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9606468100224212	1
+2	Spectrogram 1	1	386059.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.2480214403959837	2
+3	Spectrogram 1	1	386059.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.19103475673065737	3
+4	Spectrogram 1	1	386059.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9651145322766644	1
+5	Spectrogram 1	1	386059.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.2402266178900925	2
+6	Spectrogram 1	1	386059.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.19028681408146284	3
+7	Spectrogram 1	1	386059.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9415204631550115	1
+8	Spectrogram 1	1	386059.mp3.wav	6.0	9.0	150	15000	weowar1	Western Olivaceous Warbler	0.36908264218426773	2
+9	Spectrogram 1	1	386059.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.34320057399292453	3
+10	Spectrogram 1	1	386059.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9443405711800281	1
+11	Spectrogram 1	1	386059.mp3.wav	9.0	12.0	150	15000	weowar1	Western Olivaceous Warbler	0.15034425166518256	2
+12	Spectrogram 1	1	386059.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.8430161557660103	1
+13	Spectrogram 1	1	386059.mp3.wav	0.0	3.0	150	15000	weowar1	Western Olivaceous Warbler	0.2532185520247048	2
+14	Spectrogram 1	1	386059.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.21054507950305482	3

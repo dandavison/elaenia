@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	186055.mp3.wav	12.0	15.0	150	15000	eurrob1	European Robin	0.43412028803527686	1
+2	Spectrogram 1	1	186055.mp3.wav	12.0	15.0	150	15000	sonthr1	Song Thrush	0.41678302126023903	2
+3	Spectrogram 1	1	186055.mp3.wav	12.0	15.0	150	15000	blackc1	Eurasian Blackcap	0.2333953599956976	3
+4	Spectrogram 1	1	186055.mp3.wav	15.0	18.0	150	15000	fieldf	Fieldfare	0.6458325342563029	1
+5	Spectrogram 1	1	186055.mp3.wav	15.0	18.0	150	15000	sonthr1	Song Thrush	0.4167442264448331	2
+6	Spectrogram 1	1	186055.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.23362864823344423	3
+7	Spectrogram 1	1	186055.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9985400971996102	1
+8	Spectrogram 1	1	186055.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.5392883253023038	1
+9	Spectrogram 1	1	186055.mp3.wav	24.0	27.0	150	15000	comcha	Common Chaffinch	0.13898490079503972	2
+10	Spectrogram 1	1	186055.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9995118148275431	1
+11	Spectrogram 1	1	186055.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9997320529076962	1
+12	Spectrogram 1	1	186055.mp3.wav	9.0	12.0	150	15000	????	Human	0.11769697153549967	1
+13	Spectrogram 1	1	186055.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.997723686363389	1

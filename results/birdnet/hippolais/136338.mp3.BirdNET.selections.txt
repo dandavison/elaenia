@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	136338.mp3.wav	12.0	15.0	150	15000	colfly1	Collared Flycatcher	0.3859575881333734	1
+2	Spectrogram 1	1	136338.mp3.wav	12.0	15.0	150	15000	eupfly1	European Pied Flycatcher	0.21996352955182422	2
+3	Spectrogram 1	1	136338.mp3.wav	12.0	15.0	150	15000	rebfly	Red-breasted Flycatcher	0.21799006288872055	3
+4	Spectrogram 1	1	136338.mp3.wav	15.0	18.0	150	15000	eupfly1	European Pied Flycatcher	0.2916298395894519	1
+5	Spectrogram 1	1	136338.mp3.wav	15.0	18.0	150	15000	colfly1	Collared Flycatcher	0.2654710332624836	2
+6	Spectrogram 1	1	136338.mp3.wav	15.0	18.0	150	15000	rebfly	Red-breasted Flycatcher	0.16531892262160436	3
+7	Spectrogram 1	1	136338.mp3.wav	18.0	21.0	150	15000	eupfly1	European Pied Flycatcher	0.13957758508224616	1
+8	Spectrogram 1	1	136338.mp3.wav	18.0	21.0	150	15000	rebfly	Red-breasted Flycatcher	0.12794078742399523	2
+9	Spectrogram 1	1	136338.mp3.wav	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.12454432226600086	3
+10	Spectrogram 1	1	136338.mp3.wav	3.0	6.0	150	15000	rebfly	Red-breasted Flycatcher	0.5780083456869709	1
+11	Spectrogram 1	1	136338.mp3.wav	3.0	6.0	150	15000	colfly1	Collared Flycatcher	0.3386216793733141	2
+12	Spectrogram 1	1	136338.mp3.wav	3.0	6.0	150	15000	woowar	Wood Warbler	0.23697511772562008	3
+13	Spectrogram 1	1	136338.mp3.wav	6.0	9.0	150	15000	colfly1	Collared Flycatcher	0.2683097568659409	1
+14	Spectrogram 1	1	136338.mp3.wav	6.0	9.0	150	15000	rebfly	Red-breasted Flycatcher	0.17302201522694133	2
+15	Spectrogram 1	1	136338.mp3.wav	6.0	9.0	150	15000	eupfly1	European Pied Flycatcher	0.16666333114259868	3
+16	Spectrogram 1	1	136338.mp3.wav	9.0	12.0	150	15000	colfly1	Collared Flycatcher	0.18381360104881517	1
+17	Spectrogram 1	1	136338.mp3.wav	9.0	12.0	150	15000	woowar	Wood Warbler	0.1450659145212524	2
+18	Spectrogram 1	1	136338.mp3.wav	9.0	12.0	150	15000	rebfly	Red-breasted Flycatcher	0.1313851692597971	3
+19	Spectrogram 1	1	136338.mp3.wav	0.0	3.0	150	15000	colfly1	Collared Flycatcher	0.21937137838158555	1
+20	Spectrogram 1	1	136338.mp3.wav	0.0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.13058633313381227	2
+21	Spectrogram 1	1	136338.mp3.wav	0.0	3.0	150	15000	woowar	Wood Warbler	0.12405373332162595	3

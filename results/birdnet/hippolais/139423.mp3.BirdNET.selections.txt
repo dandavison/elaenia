@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	139423.mp3.wav	12.0	15.0	150	15000	stonec4	European Stonechat	0.7530625062476985	1
+2	Spectrogram 1	1	139423.mp3.wav	12.0	15.0	150	15000	blared1	Black Redstart	0.11031381530545219	2
+3	Spectrogram 1	1	139423.mp3.wav	15.0	18.0	150	15000	blueth	Bluethroat	0.19680224026617263	1
+4	Spectrogram 1	1	139423.mp3.wav	18.0	21.0	150	15000	garwar1	Garden Warbler	0.4092744253081952	1
+5	Spectrogram 1	1	139423.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.3184359244307576	2
+6	Spectrogram 1	1	139423.mp3.wav	18.0	21.0	150	15000	barwar1	Barred Warbler	0.1559052620095032	3
+7	Spectrogram 1	1	139423.mp3.wav	24.0	27.0	150	15000	dunnoc1	Dunnock	0.21116861107954152	1
+8	Spectrogram 1	1	139423.mp3.wav	24.0	27.0	150	15000	lottit1	Long-tailed Tit	0.11326281599931749	2
+9	Spectrogram 1	1	139423.mp3.wav	24.0	27.0	150	15000	comred2	Common Redstart	0.11090031167849258	3
+10	Spectrogram 1	1	139423.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9984310813918296	1
+11	Spectrogram 1	1	139423.mp3.wav	3.0	6.0	150	15000	padwar1	Paddyfield Warbler	0.6004743389621234	1
+12	Spectrogram 1	1	139423.mp3.wav	3.0	6.0	150	15000	mouwar1	Moustached Warbler	0.4924282501903045	2
+13	Spectrogram 1	1	139423.mp3.wav	3.0	6.0	150	15000	sykwar2	Sykes's Warbler	0.31687737309874564	3
+14	Spectrogram 1	1	139423.mp3.wav	30.0	33.0	150	15000	mouwar1	Moustached Warbler	0.609342022898605	1
+15	Spectrogram 1	1	139423.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.2579087712984324	2
+16	Spectrogram 1	1	139423.mp3.wav	30.0	33.0	150	15000	sedwar1	Sedge Warbler	0.19804149974873286	3
+17	Spectrogram 1	1	139423.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.3267835982889403	1
+18	Spectrogram 1	1	139423.mp3.wav	6.0	9.0	150	15000	mouwar1	Moustached Warbler	0.3194696847314676	2
+19	Spectrogram 1	1	139423.mp3.wav	6.0	9.0	150	15000	weowar1	Western Olivaceous Warbler	0.31614294533439175	3
+20	Spectrogram 1	1	139423.mp3.wav	0.0	3.0	150	15000	sykwar2	Sykes's Warbler	0.5510950209941857	1
+21	Spectrogram 1	1	139423.mp3.wav	0.0	3.0	150	15000	padwar1	Paddyfield Warbler	0.4150979384069196	2
+22	Spectrogram 1	1	139423.mp3.wav	0.0	3.0	150	15000	sedwar1	Sedge Warbler	0.17726911423898553	3

@@ -1,0 +1,30 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	499804.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9997260381971689	1
+2	Spectrogram 1	1	499804.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9994089367152068	1
+3	Spectrogram 1	1	499804.mp3.wav	18.0	21.0	150	15000	buggna	Blue-gray Gnatcatcher	0.22105325968427625	1
+4	Spectrogram 1	1	499804.mp3.wav	18.0	21.0	150	15000	amegfi	American Goldfinch	0.19601072829281393	2
+5	Spectrogram 1	1	499804.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.1926088886477827	3
+6	Spectrogram 1	1	499804.mp3.wav	21.0	24.0	150	15000	grewhi1	Greater Whitethroat	0.9649285483883013	1
+7	Spectrogram 1	1	499804.mp3.wav	24.0	27.0	150	15000	subwar1	Subalpine Warbler	0.7294573155705371	1
+8	Spectrogram 1	1	499804.mp3.wav	24.0	27.0	150	15000	sarwar1	Sardinian Warbler	0.430220850536067	2
+9	Spectrogram 1	1	499804.mp3.wav	24.0	27.0	150	15000	subwar8	Moltoni's Warbler	0.19689176607148784	3
+10	Spectrogram 1	1	499804.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9981953668897845	1
+11	Spectrogram 1	1	499804.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9940345055732924	1
+12	Spectrogram 1	1	499804.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9994339891680671	1
+13	Spectrogram 1	1	499804.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.9994131689550333	1
+14	Spectrogram 1	1	499804.mp3.wav	39.0	42.0	150	15000	bkcvir1	Black-capped Vireo	0.6025382088179938	1
+15	Spectrogram 1	1	499804.mp3.wav	39.0	42.0	150	15000	belvir	Bell's Vireo	0.40552087823634203	2
+16	Spectrogram 1	1	499804.mp3.wav	39.0	42.0	150	15000	houwre	House Wren	0.2124281220928804	3
+17	Spectrogram 1	1	499804.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.9988539974648207	1
+18	Spectrogram 1	1	499804.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.9986154358018031	1
+19	Spectrogram 1	1	499804.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.9996494508317938	1
+20	Spectrogram 1	1	499804.mp3.wav	51.0	54.0	150	15000	wesmea	Western Meadowlark	0.3191144626159958	1
+21	Spectrogram 1	1	499804.mp3.wav	51.0	54.0	150	15000	baispa	Baird's Sparrow	0.24189716606068487	2
+22	Spectrogram 1	1	499804.mp3.wav	51.0	54.0	150	15000	graspa	Grasshopper Sparrow	0.10352331552719873	3
+23	Spectrogram 1	1	499804.mp3.wav	6.0	9.0	150	15000	wlwwar	Willow Warbler	0.206059874044144	1
+24	Spectrogram 1	1	499804.mp3.wav	6.0	9.0	150	15000	blared1	Black Redstart	0.18523353849600502	2
+25	Spectrogram 1	1	499804.mp3.wav	6.0	9.0	150	15000	dunnoc1	Dunnock	0.17961912758664356	3
+26	Spectrogram 1	1	499804.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9958756543376064	1
+27	Spectrogram 1	1	499804.mp3.wav	0.0	3.0	150	15000	spewar2	Spectacled Warbler	0.487513435994102	1
+28	Spectrogram 1	1	499804.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.39010215928820197	2
+29	Spectrogram 1	1	499804.mp3.wav	0.0	3.0	150	15000	sarwar1	Sardinian Warbler	0.21386021864775587	3

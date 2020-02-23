@@ -1,0 +1,49 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	240892.mp3.wav	12.0	15.0	150	15000	eurwar1	Eurasian Reed Warbler	0.8894905929426882	1
+2	Spectrogram 1	1	240892.mp3.wav	12.0	15.0	150	15000	mouwar1	Moustached Warbler	0.4490616971036736	2
+3	Spectrogram 1	1	240892.mp3.wav	15.0	18.0	150	15000	eurwar1	Eurasian Reed Warbler	0.9555420750646043	1
+4	Spectrogram 1	1	240892.mp3.wav	15.0	18.0	150	15000	mouwar1	Moustached Warbler	0.23044662223841877	2
+5	Spectrogram 1	1	240892.mp3.wav	15.0	18.0	150	15000	afrwar1	African Reed Warbler	0.13291436156540556	3
+6	Spectrogram 1	1	240892.mp3.wav	18.0	21.0	150	15000	eurwar1	Eurasian Reed Warbler	0.9821545280133895	1
+7	Spectrogram 1	1	240892.mp3.wav	21.0	24.0	150	15000	eurwar1	Eurasian Reed Warbler	0.7729641364883729	1
+8	Spectrogram 1	1	240892.mp3.wav	21.0	24.0	150	15000	afrwar1	African Reed Warbler	0.2581263718048306	2
+9	Spectrogram 1	1	240892.mp3.wav	21.0	24.0	150	15000	mouwar1	Moustached Warbler	0.1782086243117735	3
+10	Spectrogram 1	1	240892.mp3.wav	24.0	27.0	150	15000	eurwar1	Eurasian Reed Warbler	0.4964185174330859	1
+11	Spectrogram 1	1	240892.mp3.wav	24.0	27.0	150	15000	mouwar1	Moustached Warbler	0.39076153806329783	2
+12	Spectrogram 1	1	240892.mp3.wav	24.0	27.0	150	15000	afrwar1	African Reed Warbler	0.28895144597703687	3
+13	Spectrogram 1	1	240892.mp3.wav	27.0	30.0	150	15000	eurwar1	Eurasian Reed Warbler	0.8888030134666084	1
+14	Spectrogram 1	1	240892.mp3.wav	27.0	30.0	150	15000	afrwar1	African Reed Warbler	0.46100855593709195	2
+15	Spectrogram 1	1	240892.mp3.wav	27.0	30.0	150	15000	mouwar1	Moustached Warbler	0.19617952916628262	3
+16	Spectrogram 1	1	240892.mp3.wav	3.0	6.0	150	15000	eurwar1	Eurasian Reed Warbler	0.9530527330312577	1
+17	Spectrogram 1	1	240892.mp3.wav	3.0	6.0	150	15000	mouwar1	Moustached Warbler	0.16171575485057615	2
+18	Spectrogram 1	1	240892.mp3.wav	30.0	33.0	150	15000	weowar1	Western Olivaceous Warbler	0.6147309578121639	1
+19	Spectrogram 1	1	240892.mp3.wav	30.0	33.0	150	15000	eurwar1	Eurasian Reed Warbler	0.6067852025956036	2
+20	Spectrogram 1	1	240892.mp3.wav	30.0	33.0	150	15000	afrwar1	African Reed Warbler	0.2581619575647294	3
+21	Spectrogram 1	1	240892.mp3.wav	33.0	36.0	150	15000	eurwar1	Eurasian Reed Warbler	0.977434741719124	1
+22	Spectrogram 1	1	240892.mp3.wav	33.0	36.0	150	15000	afrwar1	African Reed Warbler	0.16692863215910717	2
+23	Spectrogram 1	1	240892.mp3.wav	36.0	39.0	150	15000	eurwar1	Eurasian Reed Warbler	0.9170029046960162	1
+24	Spectrogram 1	1	240892.mp3.wav	36.0	39.0	150	15000	mouwar1	Moustached Warbler	0.4461206043969263	2
+25	Spectrogram 1	1	240892.mp3.wav	39.0	42.0	150	15000	eurwar1	Eurasian Reed Warbler	0.9906324413743406	1
+26	Spectrogram 1	1	240892.mp3.wav	42.0	45.0	150	15000	eurwar1	Eurasian Reed Warbler	0.98615223208181	1
+27	Spectrogram 1	1	240892.mp3.wav	45.0	48.0	150	15000	eurwar1	Eurasian Reed Warbler	0.9820988649540351	1
+28	Spectrogram 1	1	240892.mp3.wav	45.0	48.0	150	15000	afrwar1	African Reed Warbler	0.15992360862794824	2
+29	Spectrogram 1	1	240892.mp3.wav	48.0	51.0	150	15000	eurwar1	Eurasian Reed Warbler	0.9902800349425266	1
+30	Spectrogram 1	1	240892.mp3.wav	51.0	54.0	150	15000	eurwar1	Eurasian Reed Warbler	0.9652702469642819	1
+31	Spectrogram 1	1	240892.mp3.wav	51.0	54.0	150	15000	afrwar1	African Reed Warbler	0.11534811086357084	2
+32	Spectrogram 1	1	240892.mp3.wav	51.0	54.0	150	15000	mouwar1	Moustached Warbler	0.11006777665830565	3
+33	Spectrogram 1	1	240892.mp3.wav	54.0	57.0	150	15000	eurwar1	Eurasian Reed Warbler	0.945255183007621	1
+34	Spectrogram 1	1	240892.mp3.wav	54.0	57.0	150	15000	afrwar1	African Reed Warbler	0.27905388763910055	2
+35	Spectrogram 1	1	240892.mp3.wav	54.0	57.0	150	15000	mouwar1	Moustached Warbler	0.15654002080024726	3
+36	Spectrogram 1	1	240892.mp3.wav	57.0	60.0	150	15000	eurwar1	Eurasian Reed Warbler	0.996513313053768	1
+37	Spectrogram 1	1	240892.mp3.wav	6.0	9.0	150	15000	eurwar1	Eurasian Reed Warbler	0.9873350164685539	1
+38	Spectrogram 1	1	240892.mp3.wav	9.0	12.0	150	15000	mouwar1	Moustached Warbler	0.8856687047775411	1
+39	Spectrogram 1	1	240892.mp3.wav	9.0	12.0	150	15000	padwar1	Paddyfield Warbler	0.1960826144221566	2
+40	Spectrogram 1	1	240892.mp3.wav	9.0	12.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1765576150607293	3
+41	Spectrogram 1	1	240892.mp3.wav	60.0	63.0	150	15000	eurwar1	Eurasian Reed Warbler	0.9032897049296249	1
+42	Spectrogram 1	1	240892.mp3.wav	60.0	63.0	150	15000	mouwar1	Moustached Warbler	0.16306943757194325	2
+43	Spectrogram 1	1	240892.mp3.wav	63.0	66.0	150	15000	garwar1	Garden Warbler	0.2985564763582545	1
+44	Spectrogram 1	1	240892.mp3.wav	63.0	66.0	150	15000	melwar1	Melodious Warbler	0.22604660413572414	2
+45	Spectrogram 1	1	240892.mp3.wav	63.0	66.0	150	15000	weowar1	Western Olivaceous Warbler	0.1731170986234568	3
+46	Spectrogram 1	1	240892.mp3.wav	0.0	3.0	150	15000	mouwar1	Moustached Warbler	0.30255442658092263	1
+47	Spectrogram 1	1	240892.mp3.wav	0.0	3.0	150	15000	comred1	Common Redshank	0.19462118333790068	2
+48	Spectrogram 1	1	240892.mp3.wav	0.0	3.0	150	15000	eurwar1	Eurasian Reed Warbler	0.16446845605429733	3

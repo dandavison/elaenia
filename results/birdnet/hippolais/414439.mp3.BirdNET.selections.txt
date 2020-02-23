@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	414439.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9959920417834819	1
+2	Spectrogram 1	1	414439.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.1562197732958817	2
+3	Spectrogram 1	1	414439.mp3.wav	6.0	9.0	150	15000	dunlin	Dunlin	0.200068827880255	1
+4	Spectrogram 1	1	414439.mp3.wav	6.0	9.0	150	15000	baisan	Baird's Sandpiper	0.17426833206846726	2
+5	Spectrogram 1	1	414439.mp3.wav	6.0	9.0	150	15000	brnowl	Barn Owl	0.11196019850803662	3
+6	Spectrogram 1	1	414439.mp3.wav	0.0	3.0	150	15000	brnowl	Barn Owl	0.4717826127015139	1

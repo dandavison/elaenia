@@ -1,0 +1,73 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	370806.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9994709628686008	1
+2	Spectrogram 1	1	370806.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9989012841073356	1
+3	Spectrogram 1	1	370806.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9991379142809521	1
+4	Spectrogram 1	1	370806.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9994641956255401	1
+5	Spectrogram 1	1	370806.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.49221405875890667	1
+6	Spectrogram 1	1	370806.mp3.wav	30.0	33.0	150	15000	weowar1	Western Olivaceous Warbler	0.3158856598651875	2
+7	Spectrogram 1	1	370806.mp3.wav	30.0	33.0	150	15000	blackc1	Eurasian Blackcap	0.18171971368561476	3
+8	Spectrogram 1	1	370806.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9853370594213349	1
+9	Spectrogram 1	1	370806.mp3.wav	33.0	36.0	150	15000	eurwar1	Eurasian Reed Warbler	0.2043009763789912	2
+10	Spectrogram 1	1	370806.mp3.wav	33.0	36.0	150	15000	marwar3	Marsh Warbler	0.12348543560652728	3
+11	Spectrogram 1	1	370806.mp3.wav	36.0	39.0	150	15000	comcha	Common Chaffinch	0.15791154778663974	1
+12	Spectrogram 1	1	370806.mp3.wav	36.0	39.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.11172903048659659	2
+13	Spectrogram 1	1	370806.mp3.wav	36.0	39.0	150	15000	trepip	Tree Pipit	0.10960722867942613	3
+14	Spectrogram 1	1	370806.mp3.wav	39.0	42.0	150	15000	eurtre1	Eurasian Treecreeper	0.13381002972347697	1
+15	Spectrogram 1	1	370806.mp3.wav	39.0	42.0	150	15000	wlwwar	Willow Warbler	0.10539347665149001	2
+16	Spectrogram 1	1	370806.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.9997309388811513	1
+17	Spectrogram 1	1	370806.mp3.wav	45.0	48.0	150	15000	trepip	Tree Pipit	0.11042158086571995	1
+18	Spectrogram 1	1	370806.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.8924165979743577	1
+19	Spectrogram 1	1	370806.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.9957398177809202	1
+20	Spectrogram 1	1	370806.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.9853146481107794	1
+21	Spectrogram 1	1	370806.mp3.wav	57.0	60.0	150	15000	trepip	Tree Pipit	0.1278613292643851	1
+22	Spectrogram 1	1	370806.mp3.wav	57.0	60.0	150	15000	comcha	Common Chaffinch	0.11031255575953151	2
+23	Spectrogram 1	1	370806.mp3.wav	6.0	9.0	150	15000	spofly1	Spotted Flycatcher	0.17617101414846037	1
+24	Spectrogram 1	1	370806.mp3.wav	9.0	12.0	150	15000	whiwag	White Wagtail	0.992126093710901	1
+25	Spectrogram 1	1	370806.mp3.wav	60.0	63.0	150	15000	ictwar1	Icterine Warbler	0.8285843549490709	1
+26	Spectrogram 1	1	370806.mp3.wav	60.0	63.0	150	15000	spofly1	Spotted Flycatcher	0.10258931984139716	2
+27	Spectrogram 1	1	370806.mp3.wav	72.0	75.0	150	15000	ictwar1	Icterine Warbler	0.856206089455383	1
+28	Spectrogram 1	1	370806.mp3.wav	75.0	78.0	150	15000	ictwar1	Icterine Warbler	0.9950968710169479	1
+29	Spectrogram 1	1	370806.mp3.wav	78.0	81.0	150	15000	eugori2	Eurasian Golden Oriole	0.15179922808208327	1
+30	Spectrogram 1	1	370806.mp3.wav	81.0	84.0	150	15000	ictwar1	Icterine Warbler	0.9327633165324429	1
+31	Spectrogram 1	1	370806.mp3.wav	84.0	87.0	150	15000	spofly1	Spotted Flycatcher	0.411774855831172	1
+32	Spectrogram 1	1	370806.mp3.wav	84.0	87.0	150	15000	hawfin	Hawfinch	0.16643982469862734	2
+33	Spectrogram 1	1	370806.mp3.wav	87.0	90.0	150	15000	combul2	Common Bulbul	0.43619463815598075	1
+34	Spectrogram 1	1	370806.mp3.wav	63.0	66.0	150	15000	ictwar1	Icterine Warbler	0.9998977979235577	1
+35	Spectrogram 1	1	370806.mp3.wav	90.0	93.0	150	15000	barswa	Barn Swallow	0.4571775586158327	1
+36	Spectrogram 1	1	370806.mp3.wav	90.0	93.0	150	15000	bohwax	Bohemian Waxwing	0.17322160932222003	2
+37	Spectrogram 1	1	370806.mp3.wav	90.0	93.0	150	15000	rerswa1	Red-rumped Swallow	0.10463939633623869	3
+38	Spectrogram 1	1	370806.mp3.wav	93.0	96.0	150	15000	spofly1	Spotted Flycatcher	0.1303845220371563	1
+39	Spectrogram 1	1	370806.mp3.wav	96.0	99.0	150	15000	spofly1	Spotted Flycatcher	0.74840870817618	1
+40	Spectrogram 1	1	370806.mp3.wav	96.0	99.0	150	15000	hawfin	Hawfinch	0.1506661348862727	2
+41	Spectrogram 1	1	370806.mp3.wav	99.0	102.0	150	15000	hawfin	Hawfinch	0.9992177227151073	1
+42	Spectrogram 1	1	370806.mp3.wav	102.0	105.0	150	15000	lucwar	Lucy's Warbler	0.6067250476514648	1
+43	Spectrogram 1	1	370806.mp3.wav	102.0	105.0	150	15000	cantow	Canyon Towhee	0.10250071043655212	2
+44	Spectrogram 1	1	370806.mp3.wav	102.0	105.0	150	15000	greroa	Greater Roadrunner	0.10140938244851525	3
+45	Spectrogram 1	1	370806.mp3.wav	105.0	108.0	150	15000	ictwar1	Icterine Warbler	0.9978220743966829	1
+46	Spectrogram 1	1	370806.mp3.wav	108.0	111.0	150	15000	trepip	Tree Pipit	0.702517738398238	1
+47	Spectrogram 1	1	370806.mp3.wav	111.0	114.0	150	15000	ictwar1	Icterine Warbler	0.9426193452792471	1
+48	Spectrogram 1	1	370806.mp3.wav	111.0	114.0	150	15000	lesgol	Lesser Goldfinch	0.10795928268223465	2
+49	Spectrogram 1	1	370806.mp3.wav	114.0	117.0	150	15000	ictwar1	Icterine Warbler	0.9947739993404741	1
+50	Spectrogram 1	1	370806.mp3.wav	117.0	120.0	150	15000	cirbun1	Cirl Bunting	0.1863872042426203	1
+51	Spectrogram 1	1	370806.mp3.wav	117.0	120.0	150	15000	trepip	Tree Pipit	0.12944434177291442	2
+52	Spectrogram 1	1	370806.mp3.wav	66.0	69.0	150	15000	grawar	Grace's Warbler	0.30661067739691505	1
+53	Spectrogram 1	1	370806.mp3.wav	66.0	69.0	150	15000	lucwar	Lucy's Warbler	0.12908507263705343	2
+54	Spectrogram 1	1	370806.mp3.wav	69.0	72.0	150	15000	azwmag3	Iberian Magpie	0.11651088715911935	1
+55	Spectrogram 1	1	370806.mp3.wav	69.0	72.0	150	15000	combuz1	Common Buzzard	0.10449971999045515	2
+56	Spectrogram 1	1	370806.mp3.wav	120.0	123.0	150	15000	ictwar1	Icterine Warbler	0.9779901581458204	1
+57	Spectrogram 1	1	370806.mp3.wav	120.0	123.0	150	15000	melwar1	Melodious Warbler	0.18682091939506815	2
+58	Spectrogram 1	1	370806.mp3.wav	132.0	135.0	150	15000	trepip	Tree Pipit	0.9981868201175339	1
+59	Spectrogram 1	1	370806.mp3.wav	135.0	138.0	150	15000	trepip	Tree Pipit	0.947947808011544	1
+60	Spectrogram 1	1	370806.mp3.wav	135.0	138.0	150	15000	olbpip	Olive-backed Pipit	0.10830991646090633	2
+61	Spectrogram 1	1	370806.mp3.wav	138.0	141.0	150	15000	ictwar1	Icterine Warbler	0.9985615465588227	1
+62	Spectrogram 1	1	370806.mp3.wav	141.0	144.0	150	15000	ictwar1	Icterine Warbler	0.9958070619475947	1
+63	Spectrogram 1	1	370806.mp3.wav	141.0	144.0	150	15000	melwar1	Melodious Warbler	0.15968847568896438	2
+64	Spectrogram 1	1	370806.mp3.wav	144.0	147.0	150	15000	rebfly	Red-breasted Flycatcher	0.1262551153793605	1
+65	Spectrogram 1	1	370806.mp3.wav	144.0	147.0	150	15000	spofly1	Spotted Flycatcher	0.12038437109749883	2
+66	Spectrogram 1	1	370806.mp3.wav	144.0	147.0	150	15000	colfly1	Collared Flycatcher	0.11680813434666439	3
+67	Spectrogram 1	1	370806.mp3.wav	147.0	150.0	150	15000	comred2	Common Redstart	0.10576801986511664	1
+68	Spectrogram 1	1	370806.mp3.wav	126.0	129.0	150	15000	lucwar	Lucy's Warbler	0.7498181709090176	1
+69	Spectrogram 1	1	370806.mp3.wav	126.0	129.0	150	15000	fiespa	Field Sparrow	0.13429709052633493	2
+70	Spectrogram 1	1	370806.mp3.wav	129.0	132.0	150	15000	ictwar1	Icterine Warbler	0.6207567890511041	1
+71	Spectrogram 1	1	370806.mp3.wav	0.0	3.0	150	15000	spofly1	Spotted Flycatcher	0.3860315006911022	1
+72	Spectrogram 1	1	370806.mp3.wav	0.0	3.0	150	15000	colfly1	Collared Flycatcher	0.13023295387057163	2

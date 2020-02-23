@@ -1,0 +1,45 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	199307.mp3.wav	12.0	15.0	150	15000	gyfwoo1	Gray-headed Woodpecker	0.23490474051167584	1
+2	Spectrogram 1	1	199307.mp3.wav	12.0	15.0	150	15000	woowar	Wood Warbler	0.14478064525335355	2
+3	Spectrogram 1	1	199307.mp3.wav	12.0	15.0	150	15000	colfly1	Collared Flycatcher	0.12667552344746413	3
+4	Spectrogram 1	1	199307.mp3.wav	15.0	18.0	150	15000	grnsan	Green Sandpiper	0.9766560486442593	1
+5	Spectrogram 1	1	199307.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.15748965694279976	2
+6	Spectrogram 1	1	199307.mp3.wav	18.0	21.0	150	15000	swathr	Swainson's Thrush	0.26825361120235836	1
+7	Spectrogram 1	1	199307.mp3.wav	18.0	21.0	150	15000	hoowar	Hooded Warbler	0.1183183083412102	2
+8	Spectrogram 1	1	199307.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9991115256882767	1
+9	Spectrogram 1	1	199307.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9972211000014957	1
+10	Spectrogram 1	1	199307.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9989117679487556	1
+11	Spectrogram 1	1	199307.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9976965333315622	1
+12	Spectrogram 1	1	199307.mp3.wav	30.0	33.0	150	15000	spofly1	Spotted Flycatcher	0.9748758449627448	1
+13	Spectrogram 1	1	199307.mp3.wav	33.0	36.0	150	15000	comros	Common Rosefinch	0.7828029615840341	1
+14	Spectrogram 1	1	199307.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.636031536646509	2
+15	Spectrogram 1	1	199307.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.6868959592550271	1
+16	Spectrogram 1	1	199307.mp3.wav	36.0	39.0	150	15000	blackc1	Eurasian Blackcap	0.4375770946159376	2
+17	Spectrogram 1	1	199307.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.997835732011119	1
+18	Spectrogram 1	1	199307.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.9987204708823862	1
+19	Spectrogram 1	1	199307.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9998419736788793	1
+20	Spectrogram 1	1	199307.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.9694325122221941	1
+21	Spectrogram 1	1	199307.mp3.wav	48.0	51.0	150	15000	weowar1	Western Olivaceous Warbler	0.1391761270398274	2
+22	Spectrogram 1	1	199307.mp3.wav	51.0	54.0	150	15000	colfly1	Collared Flycatcher	0.22033591238295808	1
+23	Spectrogram 1	1	199307.mp3.wav	51.0	54.0	150	15000	blackc1	Eurasian Blackcap	0.15585172919744303	2
+24	Spectrogram 1	1	199307.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.14088510584481442	3
+25	Spectrogram 1	1	199307.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.997042374759328	1
+26	Spectrogram 1	1	199307.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.6640731396012526	1
+27	Spectrogram 1	1	199307.mp3.wav	57.0	60.0	150	15000	weowar1	Western Olivaceous Warbler	0.22319577297429505	2
+28	Spectrogram 1	1	199307.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.5767896267598221	1
+29	Spectrogram 1	1	199307.mp3.wav	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.45718956049027665	2
+30	Spectrogram 1	1	199307.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.999246245658777	1
+31	Spectrogram 1	1	199307.mp3.wav	60.0	63.0	150	15000	ictwar1	Icterine Warbler	0.9915216374254324	1
+32	Spectrogram 1	1	199307.mp3.wav	72.0	75.0	150	15000	ictwar1	Icterine Warbler	0.6210361337808152	1
+33	Spectrogram 1	1	199307.mp3.wav	75.0	78.0	150	15000	ictwar1	Icterine Warbler	0.9715753358985959	1
+34	Spectrogram 1	1	199307.mp3.wav	75.0	78.0	150	15000	buhvir	Blue-headed Vireo	0.14003612535446797	2
+35	Spectrogram 1	1	199307.mp3.wav	63.0	66.0	150	15000	thrnig1	Thrush Nightingale	0.2881036968540547	1
+36	Spectrogram 1	1	199307.mp3.wav	63.0	66.0	150	15000	comnig1	Common Nightingale	0.22492549672412246	2
+37	Spectrogram 1	1	199307.mp3.wav	63.0	66.0	150	15000	colfly1	Collared Flycatcher	0.16971354196973606	3
+38	Spectrogram 1	1	199307.mp3.wav	66.0	69.0	150	15000	reevir1	Red-eyed Vireo	0.42944961628948347	1
+39	Spectrogram 1	1	199307.mp3.wav	66.0	69.0	150	15000	balori	Baltimore Oriole	0.20029517492648938	2
+40	Spectrogram 1	1	199307.mp3.wav	66.0	69.0	150	15000	buhvir	Blue-headed Vireo	0.180628252088826	3
+41	Spectrogram 1	1	199307.mp3.wav	69.0	72.0	150	15000	sonthr1	Song Thrush	0.2568768548718673	1
+42	Spectrogram 1	1	199307.mp3.wav	69.0	72.0	150	15000	ictwar1	Icterine Warbler	0.16185579957367188	2
+43	Spectrogram 1	1	199307.mp3.wav	69.0	72.0	150	15000	eurrob1	European Robin	0.1569970683106482	3
+44	Spectrogram 1	1	199307.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9993732233077276	1

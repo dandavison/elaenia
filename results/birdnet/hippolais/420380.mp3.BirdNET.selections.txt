@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	420380.mp3.wav	12.0	15.0	150	15000	woolar1	Wood Lark	0.24048225820616959	1
+2	Spectrogram 1	1	420380.mp3.wav	12.0	15.0	150	15000	wiltit1	Willow Tit	0.12964386005636047	2
+3	Spectrogram 1	1	420380.mp3.wav	12.0	15.0	150	15000	skylar	Eurasian Skylark	0.1117085297412891	3
+4	Spectrogram 1	1	420380.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9994521457424416	1
+5	Spectrogram 1	1	420380.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9991795718763365	1
+6	Spectrogram 1	1	420380.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9995048303702597	1
+7	Spectrogram 1	1	420380.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9765311648347945	1
+8	Spectrogram 1	1	420380.mp3.wav	24.0	27.0	150	15000	darwar1	Dartford Warbler	0.11165551004979044	2
+9	Spectrogram 1	1	420380.mp3.wav	3.0	6.0	150	15000	woowar	Wood Warbler	0.2688936135552577	1
+10	Spectrogram 1	1	420380.mp3.wav	3.0	6.0	150	15000	firecr1	Common Firecrest	0.20615923460933513	2
+11	Spectrogram 1	1	420380.mp3.wav	3.0	6.0	150	15000	winwre4	Eurasian Wren	0.1262489958712676	3
+12	Spectrogram 1	1	420380.mp3.wav	6.0	9.0	150	15000	wlwwar	Willow Warbler	0.1303433696629733	1
+13	Spectrogram 1	1	420380.mp3.wav	6.0	9.0	150	15000	yellow2	Yellowhammer	0.11151583088733294	2
+14	Spectrogram 1	1	420380.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.3277667880227291	1
+15	Spectrogram 1	1	420380.mp3.wav	9.0	12.0	150	15000	wiltit1	Willow Tit	0.19641734383675735	2
+16	Spectrogram 1	1	420380.mp3.wav	0.0	3.0	150	15000	gretit1	Great Tit	0.71665915957513	1

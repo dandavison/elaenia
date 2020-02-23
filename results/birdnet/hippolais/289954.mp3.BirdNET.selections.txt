@@ -1,0 +1,42 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	289954.mp3.wav	12.0	15.0	150	15000	woowar	Wood Warbler	0.1434136294733799	1
+2	Spectrogram 1	1	289954.mp3.wav	12.0	15.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.13166733421519275	2
+3	Spectrogram 1	1	289954.mp3.wav	12.0	15.0	150	15000	norgos	Northern Goshawk	0.11531917598666452	3
+4	Spectrogram 1	1	289954.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9997801533987845	1
+5	Spectrogram 1	1	289954.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9726563522152496	1
+6	Spectrogram 1	1	289954.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.5159878838290353	2
+7	Spectrogram 1	1	289954.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9993723316858564	1
+8	Spectrogram 1	1	289954.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9998615092688886	1
+9	Spectrogram 1	1	289954.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9524741639977053	1
+10	Spectrogram 1	1	289954.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.8689067562971495	2
+11	Spectrogram 1	1	289954.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.27014075532107223	1
+12	Spectrogram 1	1	289954.mp3.wav	3.0	6.0	150	15000	boboli	Bobolink	0.15348759213585672	2
+13	Spectrogram 1	1	289954.mp3.wav	3.0	6.0	150	15000	eurlin1	Eurasian Linnet	0.11457548343128722	3
+14	Spectrogram 1	1	289954.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9947637812368172	1
+15	Spectrogram 1	1	289954.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9999520216918506	1
+16	Spectrogram 1	1	289954.mp3.wav	36.0	39.0	150	15000	labwoo	Ladder-backed Woodpecker	0.4610969489986746	1
+17	Spectrogram 1	1	289954.mp3.wav	36.0	39.0	150	15000	leafly	Least Flycatcher	0.15646704035917977	2
+18	Spectrogram 1	1	289954.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9993933287637613	1
+19	Spectrogram 1	1	289954.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.6286579705491717	1
+20	Spectrogram 1	1	289954.mp3.wav	45.0	48.0	150	15000	eurbla	Eurasian Blackbird	0.5033329438806773	2
+21	Spectrogram 1	1	289954.mp3.wav	45.0	48.0	150	15000	marwar3	Marsh Warbler	0.30085850617157256	3
+22	Spectrogram 1	1	289954.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.928611604529053	1
+23	Spectrogram 1	1	289954.mp3.wav	48.0	51.0	150	15000	marwar3	Marsh Warbler	0.3172925044715246	2
+24	Spectrogram 1	1	289954.mp3.wav	48.0	51.0	150	15000	eurwar1	Eurasian Reed Warbler	0.23788354914826895	3
+25	Spectrogram 1	1	289954.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.9994710408297245	1
+26	Spectrogram 1	1	289954.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.8676136024818808	1
+27	Spectrogram 1	1	289954.mp3.wav	54.0	57.0	150	15000	thelar1	Thekla's Lark	0.38143051900764496	2
+28	Spectrogram 1	1	289954.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.2808420288642562	3
+29	Spectrogram 1	1	289954.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.997480479549443	1
+30	Spectrogram 1	1	289954.mp3.wav	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.2733911288919274	2
+31	Spectrogram 1	1	289954.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9999055623665775	1
+32	Spectrogram 1	1	289954.mp3.wav	9.0	12.0	150	15000	woowar	Wood Warbler	0.1469490380536667	1
+33	Spectrogram 1	1	289954.mp3.wav	9.0	12.0	150	15000	stodov1	Stock Dove	0.11126659789453673	2
+34	Spectrogram 1	1	289954.mp3.wav	9.0	12.0	150	15000	gyfwoo1	Gray-headed Woodpecker	0.10163521612210685	3
+35	Spectrogram 1	1	289954.mp3.wav	60.0	63.0	150	15000	melwar1	Melodious Warbler	0.7981008503763694	1
+36	Spectrogram 1	1	289954.mp3.wav	60.0	63.0	150	15000	ictwar1	Icterine Warbler	0.3271176343818913	2
+37	Spectrogram 1	1	289954.mp3.wav	63.0	66.0	150	15000	ictwar1	Icterine Warbler	0.9920223287960606	1
+38	Spectrogram 1	1	289954.mp3.wav	63.0	66.0	150	15000	melwar1	Melodious Warbler	0.40418271357154717	2
+39	Spectrogram 1	1	289954.mp3.wav	66.0	69.0	150	15000	ictwar1	Icterine Warbler	0.9991767201379055	1
+40	Spectrogram 1	1	289954.mp3.wav	69.0	72.0	150	15000	ictwar1	Icterine Warbler	0.9973462020248319	1
+41	Spectrogram 1	1	289954.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9999114843101895	1

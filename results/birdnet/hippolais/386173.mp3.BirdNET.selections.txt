@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386173.mp3.wav	12.0	15.0	150	15000	euroys1	Eurasian Oystercatcher	0.4038219244466221	1
+2	Spectrogram 1	1	386173.mp3.wav	12.0	15.0	150	15000	blakit1	Black Kite	0.3389949318291914	2
+3	Spectrogram 1	1	386173.mp3.wav	12.0	15.0	150	15000	comblh1	Common Black Hawk	0.2279768438612059	3
+4	Spectrogram 1	1	386173.mp3.wav	15.0	18.0	150	15000	grtgra	Great-tailed Grackle	0.4476511066106868	1
+5	Spectrogram 1	1	386173.mp3.wav	15.0	18.0	150	15000	grnpar	Green Parakeet	0.21278258845652137	2
+6	Spectrogram 1	1	386173.mp3.wav	15.0	18.0	150	15000	commyn	Common Myna	0.1389555437977847	3
+7	Spectrogram 1	1	386173.mp3.wav	18.0	21.0	150	15000	commyn	Common Myna	0.2567909906986009	1
+8	Spectrogram 1	1	386173.mp3.wav	18.0	21.0	150	15000	amerob	American Robin	0.2518656476783978	2
+9	Spectrogram 1	1	386173.mp3.wav	18.0	21.0	150	15000	sonthr1	Song Thrush	0.1975847161529768	3
+10	Spectrogram 1	1	386173.mp3.wav	21.0	24.0	150	15000	commyn	Common Myna	0.1852713536607217	1
+11	Spectrogram 1	1	386173.mp3.wav	21.0	24.0	150	15000	euroys1	Eurasian Oystercatcher	0.1593393847366805	2
+12	Spectrogram 1	1	386173.mp3.wav	21.0	24.0	150	15000	grnpar	Green Parakeet	0.1300073232121333	3
+13	Spectrogram 1	1	386173.mp3.wav	24.0	27.0	150	15000	eugori2	Eurasian Golden Oriole	0.15147458116527204	1
+14	Spectrogram 1	1	386173.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9995531519590605	1
+15	Spectrogram 1	1	386173.mp3.wav	3.0	6.0	150	15000	eurwry	Eurasian Wryneck	0.16665980939223224	1
+16	Spectrogram 1	1	386173.mp3.wav	3.0	6.0	150	15000	eurbla	Eurasian Blackbird	0.14647688285035482	2
+17	Spectrogram 1	1	386173.mp3.wav	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.11694863313501057	3
+18	Spectrogram 1	1	386173.mp3.wav	6.0	9.0	150	15000	blakit1	Black Kite	0.2654010519168988	1
+19	Spectrogram 1	1	386173.mp3.wav	6.0	9.0	150	15000	commyn	Common Myna	0.22141809023296152	2
+20	Spectrogram 1	1	386173.mp3.wav	6.0	9.0	150	15000	comblh1	Common Black Hawk	0.16874413322466772	3
+21	Spectrogram 1	1	386173.mp3.wav	9.0	12.0	150	15000	eucdov	Eurasian Collared-Dove	0.38476779786347776	1
+22	Spectrogram 1	1	386173.mp3.wav	0.0	3.0	150	15000	litgre1	Little Grebe	0.2136938412074033	1
+23	Spectrogram 1	1	386173.mp3.wav	0.0	3.0	150	15000	blakit1	Black Kite	0.20263042869277714	2
+24	Spectrogram 1	1	386173.mp3.wav	0.0	3.0	150	15000	commyn	Common Myna	0.13549716807067558	3

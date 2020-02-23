@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	479334.mp3.wav	12.0	15.0	150	15000	eurbla	Eurasian Blackbird	0.6579388902018699	1
+2	Spectrogram 1	1	479334.mp3.wav	18.0	21.0	150	15000	eurbla	Eurasian Blackbird	0.15572085086504525	1
+3	Spectrogram 1	1	479334.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.6651364486728656	1
+4	Spectrogram 1	1	479334.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.19126558316372932	2
+5	Spectrogram 1	1	479334.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.16362249494375747	3
+6	Spectrogram 1	1	479334.mp3.wav	24.0	27.0	150	15000	subwar1	Subalpine Warbler	0.4950643301424844	1
+7	Spectrogram 1	1	479334.mp3.wav	24.0	27.0	150	15000	sarwar1	Sardinian Warbler	0.20425206203623233	2
+8	Spectrogram 1	1	479334.mp3.wav	27.0	30.0	150	15000	ruckin	Ruby-crowned Kinglet	0.46401244799068675	1
+9	Spectrogram 1	1	479334.mp3.wav	27.0	30.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.23628464208468627	2
+10	Spectrogram 1	1	479334.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.12273511049656473	3
+11	Spectrogram 1	1	479334.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.8784014597782029	1
+12	Spectrogram 1	1	479334.mp3.wav	3.0	6.0	150	15000	subwar1	Subalpine Warbler	0.42362921337649806	2
+13	Spectrogram 1	1	479334.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.17136963169304958	3
+14	Spectrogram 1	1	479334.mp3.wav	30.0	33.0	150	15000	eucdov	Eurasian Collared-Dove	0.1362463050216369	1
+15	Spectrogram 1	1	479334.mp3.wav	30.0	33.0	150	15000	sposta1	Spotless Starling	0.11717087629850642	2
+16	Spectrogram 1	1	479334.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.929049642968228	1
+17	Spectrogram 1	1	479334.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.403108887356763	2
+18	Spectrogram 1	1	479334.mp3.wav	39.0	42.0	150	15000	subwar1	Subalpine Warbler	0.8698505837913041	1
+19	Spectrogram 1	1	479334.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.9488694636753319	1
+20	Spectrogram 1	1	479334.mp3.wav	42.0	45.0	150	15000	garwar1	Garden Warbler	0.33397437889768894	2
+21	Spectrogram 1	1	479334.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.12280320003834903	3
+22	Spectrogram 1	1	479334.mp3.wav	45.0	48.0	150	15000	eurbla	Eurasian Blackbird	0.12416936121115077	1
+23	Spectrogram 1	1	479334.mp3.wav	45.0	48.0	150	15000	eurcur	Eurasian Curlew	0.11073542327731753	2
+24	Spectrogram 1	1	479334.mp3.wav	48.0	51.0	150	15000	eurbla	Eurasian Blackbird	0.12288269836736979	1
+25	Spectrogram 1	1	479334.mp3.wav	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.5223834311315962	1
+26	Spectrogram 1	1	479334.mp3.wav	57.0	60.0	150	15000	marwar3	Marsh Warbler	0.44443468418692306	2
+27	Spectrogram 1	1	479334.mp3.wav	57.0	60.0	150	15000	subwar1	Subalpine Warbler	0.15753270037686753	3
+28	Spectrogram 1	1	479334.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9872653864169475	1
+29	Spectrogram 1	1	479334.mp3.wav	9.0	12.0	150	15000	gnttow	Green-tailed Towhee	0.11852643106307004	1
+30	Spectrogram 1	1	479334.mp3.wav	9.0	12.0	150	15000	spotow	Spotted Towhee	0.11835405933240667	2
+31	Spectrogram 1	1	479334.mp3.wav	9.0	12.0	150	15000	bewwre	Bewick's Wren	0.10484322685092931	3
+32	Spectrogram 1	1	479334.mp3.wav	60.0	63.0	150	15000	melwar1	Melodious Warbler	0.9982389160989051	1
+33	Spectrogram 1	1	479334.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9953359185144556	1
+34	Spectrogram 1	1	479334.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.10441531956481039	2

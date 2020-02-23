@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	330096.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9894046595587441	1
+2	Spectrogram 1	1	330096.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.16726654233434904	2
+3	Spectrogram 1	1	330096.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9326416054900418	1
+4	Spectrogram 1	1	330096.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.8940162843228803	2
+5	Spectrogram 1	1	330096.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9911288006104714	1
+6	Spectrogram 1	1	330096.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.49718022087081715	2
+7	Spectrogram 1	1	330096.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9890294025292803	1
+8	Spectrogram 1	1	330096.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.3803191600578416	2
+9	Spectrogram 1	1	330096.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9964938266298663	1
+10	Spectrogram 1	1	330096.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9615381657488736	1
+11	Spectrogram 1	1	330096.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.709431224400631	2
+12	Spectrogram 1	1	330096.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9703004536873812	1
+13	Spectrogram 1	1	330096.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.8218024187900175	2
+14	Spectrogram 1	1	330096.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9980149173305407	1
+15	Spectrogram 1	1	330096.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9770772535898989	1
+16	Spectrogram 1	1	330096.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.24712166465906818	2
+17	Spectrogram 1	1	330096.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9889664883651287	1
+18	Spectrogram 1	1	330096.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.37410992435622925	2
+19	Spectrogram 1	1	330096.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9947820148869733	1
+20	Spectrogram 1	1	330096.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.10437412219414748	2

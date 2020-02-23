@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	178400.mp3.wav	12.0	15.0	150	15000	comchi1	Common Chiffchaff	0.11689777758127137	1
+2	Spectrogram 1	1	178400.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.8319638135826778	1
+3	Spectrogram 1	1	178400.mp3.wav	18.0	21.0	150	15000	blawoo1	Black Woodpecker	0.6059579034558004	1
+4	Spectrogram 1	1	178400.mp3.wav	21.0	24.0	150	15000	blackc1	Eurasian Blackcap	0.9913220564457769	1
+5	Spectrogram 1	1	178400.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9998550935526171	1
+6	Spectrogram 1	1	178400.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9993516163066528	1
+7	Spectrogram 1	1	178400.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.948462394531405	1
+8	Spectrogram 1	1	178400.mp3.wav	3.0	6.0	150	15000	weowar1	Western Olivaceous Warbler	0.15283052330724692	2
+9	Spectrogram 1	1	178400.mp3.wav	30.0	33.0	150	15000	sibrub	Siberian Rubythroat	0.5779234050510639	1
+10	Spectrogram 1	1	178400.mp3.wav	30.0	33.0	150	15000	blrwar1	Blyth's Reed Warbler	0.37841333808239974	2
+11	Spectrogram 1	1	178400.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.22879986793205523	3
+12	Spectrogram 1	1	178400.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9998746271751431	1
+13	Spectrogram 1	1	178400.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9999829999246315	1
+14	Spectrogram 1	1	178400.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9997437288525696	1
+15	Spectrogram 1	1	178400.mp3.wav	39.0	42.0	150	15000	blrwar1	Blyth's Reed Warbler	0.10538754904950205	2
+16	Spectrogram 1	1	178400.mp3.wav	42.0	45.0	150	15000	eurgol	European Goldfinch	0.4375345771542285	1
+17	Spectrogram 1	1	178400.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9996596389128223	1
+18	Spectrogram 1	1	178400.mp3.wav	6.0	9.0	150	15000	eurgol	European Goldfinch	0.7239022446699929	1
+19	Spectrogram 1	1	178400.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.925235001815693	1
+20	Spectrogram 1	1	178400.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9998694677592808	1

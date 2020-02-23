@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	445013.mp3.wav	12.0	15.0	150	15000	cirbun1	Cirl Bunting	0.2955052946081867	1
+2	Spectrogram 1	1	445013.mp3.wav	12.0	15.0	150	15000	gretit1	Great Tit	0.23787823671320685	2
+3	Spectrogram 1	1	445013.mp3.wav	12.0	15.0	150	15000	lesred1	Lesser Redpoll	0.17198165120915396	3
+4	Spectrogram 1	1	445013.mp3.wav	3.0	6.0	150	15000	cirbun1	Cirl Bunting	0.2774410361647094	1
+5	Spectrogram 1	1	445013.mp3.wav	3.0	6.0	150	15000	lesred1	Lesser Redpoll	0.22724906386176266	2
+6	Spectrogram 1	1	445013.mp3.wav	3.0	6.0	150	15000	yellow2	Yellowhammer	0.1860467825955175	3
+7	Spectrogram 1	1	445013.mp3.wav	9.0	12.0	150	15000	lesred1	Lesser Redpoll	0.7605940939777179	1
+8	Spectrogram 1	1	445013.mp3.wav	9.0	12.0	150	15000	cirbun1	Cirl Bunting	0.3646348161524673	2
+9	Spectrogram 1	1	445013.mp3.wav	9.0	12.0	150	15000	comred	Common Redpoll	0.2306069070668073	3
+10	Spectrogram 1	1	445013.mp3.wav	0.0	3.0	150	15000	gretit1	Great Tit	0.2784796928696467	1
+11	Spectrogram 1	1	445013.mp3.wav	0.0	3.0	150	15000	cirbun1	Cirl Bunting	0.16697575871887718	2
+12	Spectrogram 1	1	445013.mp3.wav	0.0	3.0	150	15000	yellow2	Yellowhammer	0.14761591525447018	3

@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	369612.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9181787950775244	1
+2	Spectrogram 1	1	369612.mp3.wav	12.0	15.0	150	15000	darwar1	Dartford Warbler	0.3953219948359629	2
+3	Spectrogram 1	1	369612.mp3.wav	12.0	15.0	150	15000	sarwar1	Sardinian Warbler	0.10372890170869367	3
+4	Spectrogram 1	1	369612.mp3.wav	15.0	18.0	150	15000	comnig1	Common Nightingale	0.5480816208877431	1
+5	Spectrogram 1	1	369612.mp3.wav	15.0	18.0	150	15000	thrnig1	Thrush Nightingale	0.24220064961819338	2
+6	Spectrogram 1	1	369612.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.997516202916913	1
+7	Spectrogram 1	1	369612.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9923954481368775	1
+8	Spectrogram 1	1	369612.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.27724712414404823	2
+9	Spectrogram 1	1	369612.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9714317063381528	1
+10	Spectrogram 1	1	369612.mp3.wav	0.0	3.0	150	15000	krunut1	Krueper's Nuthatch	0.14999413550443438	2

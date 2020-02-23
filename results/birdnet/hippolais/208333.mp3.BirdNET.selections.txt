@@ -1,0 +1,56 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	208333.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.8888879476205359	1
+2	Spectrogram 1	1	208333.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.2563382896534815	2
+3	Spectrogram 1	1	208333.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.6569780955602703	1
+4	Spectrogram 1	1	208333.mp3.wav	15.0	18.0	150	15000	thelar1	Thekla's Lark	0.1478935558448948	2
+5	Spectrogram 1	1	208333.mp3.wav	15.0	18.0	150	15000	comros	Common Rosefinch	0.11253678396882148	3
+6	Spectrogram 1	1	208333.mp3.wav	18.0	21.0	150	15000	eursis	Eurasian Siskin	0.3602899328105	1
+7	Spectrogram 1	1	208333.mp3.wav	18.0	21.0	150	15000	citfin1	Citril Finch	0.3392998167185845	2
+8	Spectrogram 1	1	208333.mp3.wav	18.0	21.0	150	15000	amegfi	American Goldfinch	0.25156403751980067	3
+9	Spectrogram 1	1	208333.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.752210564259571	1
+10	Spectrogram 1	1	208333.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.17269475747933177	2
+11	Spectrogram 1	1	208333.mp3.wav	21.0	24.0	150	15000	weowar1	Western Olivaceous Warbler	0.11216917659001487	3
+12	Spectrogram 1	1	208333.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9815229842328266	1
+13	Spectrogram 1	1	208333.mp3.wav	24.0	27.0	150	15000	blrwar1	Blyth's Reed Warbler	0.55273557150306	2
+14	Spectrogram 1	1	208333.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9706011959930468	1
+15	Spectrogram 1	1	208333.mp3.wav	27.0	30.0	150	15000	blrwar1	Blyth's Reed Warbler	0.3555109626986021	2
+16	Spectrogram 1	1	208333.mp3.wav	27.0	30.0	150	15000	marwar3	Marsh Warbler	0.11626175026670917	3
+17	Spectrogram 1	1	208333.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.3037663863138948	1
+18	Spectrogram 1	1	208333.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.23299181973996888	2
+19	Spectrogram 1	1	208333.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.15015942106349203	3
+20	Spectrogram 1	1	208333.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.998954833899031	1
+21	Spectrogram 1	1	208333.mp3.wav	33.0	36.0	150	15000	yebcha	Yellow-breasted Chat	0.11442396909504157	1
+22	Spectrogram 1	1	208333.mp3.wav	36.0	39.0	150	15000	caltow	California Towhee	0.11165928967355503	1
+23	Spectrogram 1	1	208333.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.533213726629133	1
+24	Spectrogram 1	1	208333.mp3.wav	39.0	42.0	150	15000	bulori	Bullock's Oriole	0.49693953014739684	2
+25	Spectrogram 1	1	208333.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.9997380092830928	1
+26	Spectrogram 1	1	208333.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9950023313989522	1
+27	Spectrogram 1	1	208333.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.4935828576298715	1
+28	Spectrogram 1	1	208333.mp3.wav	48.0	51.0	150	15000	bulori	Bullock's Oriole	0.43663435357228036	2
+29	Spectrogram 1	1	208333.mp3.wav	48.0	51.0	150	15000	blrwar1	Blyth's Reed Warbler	0.209295547151793	3
+30	Spectrogram 1	1	208333.mp3.wav	51.0	54.0	150	15000	bulori	Bullock's Oriole	0.23483119224750795	1
+31	Spectrogram 1	1	208333.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.14268547850870297	2
+32	Spectrogram 1	1	208333.mp3.wav	54.0	57.0	150	15000	eurwar1	Eurasian Reed Warbler	0.7419690235130048	1
+33	Spectrogram 1	1	208333.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.356572943733109	2
+34	Spectrogram 1	1	208333.mp3.wav	54.0	57.0	150	15000	afrwar1	African Reed Warbler	0.17562973545008312	3
+35	Spectrogram 1	1	208333.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.9971583802244146	1
+36	Spectrogram 1	1	208333.mp3.wav	57.0	60.0	150	15000	marwar3	Marsh Warbler	0.23698849684600817	2
+37	Spectrogram 1	1	208333.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9984190924090777	1
+38	Spectrogram 1	1	208333.mp3.wav	60.0	63.0	150	15000	ictwar1	Icterine Warbler	0.996202985072844	1
+39	Spectrogram 1	1	208333.mp3.wav	60.0	63.0	150	15000	blrwar1	Blyth's Reed Warbler	0.19917133450557412	2
+40	Spectrogram 1	1	208333.mp3.wav	72.0	75.0	150	15000	ictwar1	Icterine Warbler	0.9998121187444982	1
+41	Spectrogram 1	1	208333.mp3.wav	75.0	78.0	150	15000	ictwar1	Icterine Warbler	0.9992563217471607	1
+42	Spectrogram 1	1	208333.mp3.wav	78.0	81.0	150	15000	ictwar1	Icterine Warbler	0.9971298609388534	1
+43	Spectrogram 1	1	208333.mp3.wav	81.0	84.0	150	15000	ictwar1	Icterine Warbler	0.9991649169031965	1
+44	Spectrogram 1	1	208333.mp3.wav	63.0	66.0	150	15000	ictwar1	Icterine Warbler	0.2847193386374983	1
+45	Spectrogram 1	1	208333.mp3.wav	63.0	66.0	150	15000	rerswa1	Red-rumped Swallow	0.22678432397392062	2
+46	Spectrogram 1	1	208333.mp3.wav	63.0	66.0	150	15000	marwar3	Marsh Warbler	0.15390764931767112	3
+47	Spectrogram 1	1	208333.mp3.wav	66.0	69.0	150	15000	belvir	Bell's Vireo	0.23246930916488032	1
+48	Spectrogram 1	1	208333.mp3.wav	66.0	69.0	150	15000	ictwar1	Icterine Warbler	0.21459425193051643	2
+49	Spectrogram 1	1	208333.mp3.wav	66.0	69.0	150	15000	whevir	White-eyed Vireo	0.21413679943669695	3
+50	Spectrogram 1	1	208333.mp3.wav	69.0	72.0	150	15000	bulori	Bullock's Oriole	0.6627579218560327	1
+51	Spectrogram 1	1	208333.mp3.wav	69.0	72.0	150	15000	ictwar1	Icterine Warbler	0.12351720784696757	2
+52	Spectrogram 1	1	208333.mp3.wav	69.0	72.0	150	15000	grycat	Gray Catbird	0.12079039214638777	3
+53	Spectrogram 1	1	208333.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.3349441734223885	1
+54	Spectrogram 1	1	208333.mp3.wav	0.0	3.0	150	15000	comros	Common Rosefinch	0.20449034074992065	2
+55	Spectrogram 1	1	208333.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.1658575443319645	3

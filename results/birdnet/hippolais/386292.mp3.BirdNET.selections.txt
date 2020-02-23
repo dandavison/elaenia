@@ -1,0 +1,28 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386292.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.1793866759765871	1
+2	Spectrogram 1	1	386292.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.17919629234301496	2
+3	Spectrogram 1	1	386292.mp3.wav	12.0	15.0	150	15000	blackc1	Eurasian Blackcap	0.12185408147075476	3
+4	Spectrogram 1	1	386292.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9990496287162678	1
+5	Spectrogram 1	1	386292.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9984663813737001	1
+6	Spectrogram 1	1	386292.mp3.wav	21.0	24.0	150	15000	itaspa1	Italian Sparrow	0.434211828001351	1
+7	Spectrogram 1	1	386292.mp3.wav	21.0	24.0	150	15000	houspa	House Sparrow	0.30992552050460587	2
+8	Spectrogram 1	1	386292.mp3.wav	21.0	24.0	150	15000	eutspa	Eurasian Tree Sparrow	0.1612568229796573	3
+9	Spectrogram 1	1	386292.mp3.wav	24.0	27.0	150	15000	itaspa1	Italian Sparrow	0.7862130309496136	1
+10	Spectrogram 1	1	386292.mp3.wav	24.0	27.0	150	15000	eutspa	Eurasian Tree Sparrow	0.48744578811083733	2
+11	Spectrogram 1	1	386292.mp3.wav	24.0	27.0	150	15000	houspa	House Sparrow	0.34256987348586615	3
+12	Spectrogram 1	1	386292.mp3.wav	27.0	30.0	150	15000	houspa	House Sparrow	0.6661214382450452	1
+13	Spectrogram 1	1	386292.mp3.wav	27.0	30.0	150	15000	itaspa1	Italian Sparrow	0.5347718004285428	2
+14	Spectrogram 1	1	386292.mp3.wav	27.0	30.0	150	15000	eutspa	Eurasian Tree Sparrow	0.2941200600758611	3
+15	Spectrogram 1	1	386292.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9954047221866739	1
+16	Spectrogram 1	1	386292.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.1258392934074652	1
+17	Spectrogram 1	1	386292.mp3.wav	33.0	36.0	150	15000	barswa	Barn Swallow	0.6719264279812212	1
+18	Spectrogram 1	1	386292.mp3.wav	36.0	39.0	150	15000	eutspa	Eurasian Tree Sparrow	0.9291160246221183	1
+19	Spectrogram 1	1	386292.mp3.wav	36.0	39.0	150	15000	houspa	House Sparrow	0.18218997452899444	2
+20	Spectrogram 1	1	386292.mp3.wav	36.0	39.0	150	15000	spaspa1	Spanish Sparrow	0.1531213935827781	3
+21	Spectrogram 1	1	386292.mp3.wav	6.0	9.0	150	15000	houspa	House Sparrow	0.32749876837349856	1
+22	Spectrogram 1	1	386292.mp3.wav	6.0	9.0	150	15000	itaspa1	Italian Sparrow	0.17810505305101476	2
+23	Spectrogram 1	1	386292.mp3.wav	6.0	9.0	150	15000	eutspa	Eurasian Tree Sparrow	0.1282243733847323	3
+24	Spectrogram 1	1	386292.mp3.wav	9.0	12.0	150	15000	houspa	House Sparrow	0.3248782430901251	1
+25	Spectrogram 1	1	386292.mp3.wav	9.0	12.0	150	15000	sposta1	Spotless Starling	0.2298358140645677	2
+26	Spectrogram 1	1	386292.mp3.wav	9.0	12.0	150	15000	spaspa1	Spanish Sparrow	0.18288275724799805	3
+27	Spectrogram 1	1	386292.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.994728479305122	1

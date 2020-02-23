@@ -1,0 +1,34 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	175863.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.229855997758811	1
+2	Spectrogram 1	1	175863.mp3.wav	12.0	15.0	150	15000	barwar1	Barred Warbler	0.1620829821715997	2
+3	Spectrogram 1	1	175863.mp3.wav	12.0	15.0	150	15000	krunut1	Krueper's Nuthatch	0.13515079193776494	3
+4	Spectrogram 1	1	175863.mp3.wav	15.0	18.0	150	15000	marwar3	Marsh Warbler	0.25749464976915987	1
+5	Spectrogram 1	1	175863.mp3.wav	15.0	18.0	150	15000	barwar1	Barred Warbler	0.250655678840077	2
+6	Spectrogram 1	1	175863.mp3.wav	15.0	18.0	150	15000	rebshr1	Red-backed Shrike	0.19656177836156766	3
+7	Spectrogram 1	1	175863.mp3.wav	18.0	21.0	150	15000	rebshr1	Red-backed Shrike	0.33916727166213595	1
+8	Spectrogram 1	1	175863.mp3.wav	18.0	21.0	150	15000	blrwar1	Blyth's Reed Warbler	0.23143876989867654	2
+9	Spectrogram 1	1	175863.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.16132519548168928	3
+10	Spectrogram 1	1	175863.mp3.wav	21.0	24.0	150	15000	rebshr1	Red-backed Shrike	0.4184445947327291	1
+11	Spectrogram 1	1	175863.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.1992277527579454	2
+12	Spectrogram 1	1	175863.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.10781373242565463	3
+13	Spectrogram 1	1	175863.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.31230068335212235	1
+14	Spectrogram 1	1	175863.mp3.wav	24.0	27.0	150	15000	rebshr1	Red-backed Shrike	0.30951131098578744	2
+15	Spectrogram 1	1	175863.mp3.wav	24.0	27.0	150	15000	garwar1	Garden Warbler	0.1479568214176542	3
+16	Spectrogram 1	1	175863.mp3.wav	27.0	30.0	150	15000	grycat	Gray Catbird	0.6183828841462827	1
+17	Spectrogram 1	1	175863.mp3.wav	27.0	30.0	150	15000	logshr	Loggerhead Shrike	0.4899796582686617	2
+18	Spectrogram 1	1	175863.mp3.wav	27.0	30.0	150	15000	norshr1	Great Gray Shrike	0.1142342171108199	3
+19	Spectrogram 1	1	175863.mp3.wav	3.0	6.0	150	15000	logshr	Loggerhead Shrike	0.3382426668297631	1
+20	Spectrogram 1	1	175863.mp3.wav	3.0	6.0	150	15000	norshr1	Great Gray Shrike	0.33374517932604136	2
+21	Spectrogram 1	1	175863.mp3.wav	3.0	6.0	150	15000	rebshr1	Red-backed Shrike	0.28990836933220254	3
+22	Spectrogram 1	1	175863.mp3.wav	30.0	33.0	150	15000	eutspa	Eurasian Tree Sparrow	0.284335624560561	1
+23	Spectrogram 1	1	175863.mp3.wav	30.0	33.0	150	15000	gyhchi	Gray-headed Chickadee	0.24515221444257862	2
+24	Spectrogram 1	1	175863.mp3.wav	30.0	33.0	150	15000	marwar3	Marsh Warbler	0.18499495960652737	3
+25	Spectrogram 1	1	175863.mp3.wav	6.0	9.0	150	15000	rebshr1	Red-backed Shrike	0.25250571802097177	1
+26	Spectrogram 1	1	175863.mp3.wav	6.0	9.0	150	15000	logshr	Loggerhead Shrike	0.23185714743965888	2
+27	Spectrogram 1	1	175863.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.15886875806656878	3
+28	Spectrogram 1	1	175863.mp3.wav	9.0	12.0	150	15000	rebshr1	Red-backed Shrike	0.5286357684964703	1
+29	Spectrogram 1	1	175863.mp3.wav	9.0	12.0	150	15000	norshr1	Great Gray Shrike	0.14776624163619348	2
+30	Spectrogram 1	1	175863.mp3.wav	9.0	12.0	150	15000	marwar3	Marsh Warbler	0.11218943948890595	3
+31	Spectrogram 1	1	175863.mp3.wav	0.0	3.0	150	15000	rebshr1	Red-backed Shrike	0.2678349392989933	1
+32	Spectrogram 1	1	175863.mp3.wav	0.0	3.0	150	15000	padwar1	Paddyfield Warbler	0.21674011786271058	2
+33	Spectrogram 1	1	175863.mp3.wav	0.0	3.0	150	15000	marwar3	Marsh Warbler	0.18294591488243728	3

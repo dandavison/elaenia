@@ -1,0 +1,31 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	309855.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9935159353376877	1
+2	Spectrogram 1	1	309855.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9991480248620367	1
+3	Spectrogram 1	1	309855.mp3.wav	18.0	21.0	150	15000	darwar1	Dartford Warbler	0.8351378224564467	1
+4	Spectrogram 1	1	309855.mp3.wav	18.0	21.0	150	15000	norwhe	Northern Wheatear	0.13904662030841508	2
+5	Spectrogram 1	1	309855.mp3.wav	18.0	21.0	150	15000	asdwar1	Asian Desert Warbler	0.12474927360767141	3
+6	Spectrogram 1	1	309855.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9940072167135587	1
+7	Spectrogram 1	1	309855.mp3.wav	24.0	27.0	150	15000	buggna	Blue-gray Gnatcatcher	0.3943190299596448	1
+8	Spectrogram 1	1	309855.mp3.wav	24.0	27.0	150	15000	rebnut	Red-breasted Nuthatch	0.1958769353109718	2
+9	Spectrogram 1	1	309855.mp3.wav	24.0	27.0	150	15000	calgna	California Gnatcatcher	0.13140663811161102	3
+10	Spectrogram 1	1	309855.mp3.wav	27.0	30.0	150	15000	buggna	Blue-gray Gnatcatcher	0.9697775185746806	1
+11	Spectrogram 1	1	309855.mp3.wav	27.0	30.0	150	15000	chbchi	Chestnut-backed Chickadee	0.2748843409894733	2
+12	Spectrogram 1	1	309855.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9875722157455945	1
+13	Spectrogram 1	1	309855.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9276752040245795	1
+14	Spectrogram 1	1	309855.mp3.wav	30.0	33.0	150	15000	garwar1	Garden Warbler	0.3236416958222331	2
+15	Spectrogram 1	1	309855.mp3.wav	30.0	33.0	150	15000	houwre	House Wren	0.20111467631448346	3
+16	Spectrogram 1	1	309855.mp3.wav	33.0	36.0	150	15000	buggna	Blue-gray Gnatcatcher	0.23017363348503034	1
+17	Spectrogram 1	1	309855.mp3.wav	33.0	36.0	150	15000	whinch1	Whinchat	0.2096624844551177	2
+18	Spectrogram 1	1	309855.mp3.wav	33.0	36.0	150	15000	grewhi1	Greater Whitethroat	0.1787047876752338	3
+19	Spectrogram 1	1	309855.mp3.wav	36.0	39.0	150	15000	mouqua	Mountain Quail	0.14748989056228826	1
+20	Spectrogram 1	1	309855.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.9984755952687515	1
+21	Spectrogram 1	1	309855.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.989821700522457	1
+22	Spectrogram 1	1	309855.mp3.wav	42.0	45.0	150	15000	garwar1	Garden Warbler	0.1736169909196767	2
+23	Spectrogram 1	1	309855.mp3.wav	6.0	9.0	150	15000	rtrthr1	Rufous-tailed Rock-Thrush	0.35678526745195743	1
+24	Spectrogram 1	1	309855.mp3.wav	6.0	9.0	150	15000	crelar2	Crested Lark	0.28286716528491396	2
+25	Spectrogram 1	1	309855.mp3.wav	6.0	9.0	150	15000	rtsrob1	Rufous-tailed Scrub-Robin	0.25211174838083805	3
+26	Spectrogram 1	1	309855.mp3.wav	9.0	12.0	150	15000	sedwre	Sedge Wren	0.21496060085934007	1
+27	Spectrogram 1	1	309855.mp3.wav	9.0	12.0	150	15000	skylar	Eurasian Skylark	0.10669651038251987	2
+28	Spectrogram 1	1	309855.mp3.wav	0.0	3.0	150	15000	skylar	Eurasian Skylark	0.4705882313885781	1
+29	Spectrogram 1	1	309855.mp3.wav	0.0	3.0	150	15000	crelar2	Crested Lark	0.2310982862096849	2
+30	Spectrogram 1	1	309855.mp3.wav	0.0	3.0	150	15000	woolar1	Wood Lark	0.1543063436405685	3

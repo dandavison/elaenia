@@ -1,0 +1,33 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	278572.mp3.wav	12.0	15.0	150	15000	comcuc	Common Cuckoo	0.17630093070974773	1
+2	Spectrogram 1	1	278572.mp3.wav	18.0	21.0	150	15000	rebfly	Red-breasted Flycatcher	0.1409358987872364	1
+3	Spectrogram 1	1	278572.mp3.wav	18.0	21.0	150	15000	comred2	Common Redstart	0.10117543105480054	2
+4	Spectrogram 1	1	278572.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9973583378467865	1
+5	Spectrogram 1	1	278572.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.5242738926626394	1
+6	Spectrogram 1	1	278572.mp3.wav	24.0	27.0	150	15000	garwar1	Garden Warbler	0.17143842404815213	2
+7	Spectrogram 1	1	278572.mp3.wav	27.0	30.0	150	15000	nswowl	Northern Saw-whet Owl	0.12814937994108253	1
+8	Spectrogram 1	1	278572.mp3.wav	27.0	30.0	150	15000	commer	Common Merganser	0.12730914865528972	2
+9	Spectrogram 1	1	278572.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9922164460345335	1
+10	Spectrogram 1	1	278572.mp3.wav	30.0	33.0	150	15000	comcuc	Common Cuckoo	0.13567488569243044	1
+11	Spectrogram 1	1	278572.mp3.wav	30.0	33.0	150	15000	woolar1	Wood Lark	0.10404382695742279	2
+12	Spectrogram 1	1	278572.mp3.wav	33.0	36.0	150	15000	comred2	Common Redstart	0.12161885578444778	1
+13	Spectrogram 1	1	278572.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.990829132510934	1
+14	Spectrogram 1	1	278572.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.9249249647638379	1
+15	Spectrogram 1	1	278572.mp3.wav	39.0	42.0	150	15000	garwar1	Garden Warbler	0.16529687109755317	2
+16	Spectrogram 1	1	278572.mp3.wav	42.0	45.0	150	15000	comcuc	Common Cuckoo	0.560656296225698	1
+17	Spectrogram 1	1	278572.mp3.wav	42.0	45.0	150	15000	hoopoe	Eurasian Hoopoe	0.27298632901232034	2
+18	Spectrogram 1	1	278572.mp3.wav	45.0	48.0	150	15000	ibechi2	Iberian Chiffchaff	0.1932012194872442	1
+19	Spectrogram 1	1	278572.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.9975888893270201	1
+20	Spectrogram 1	1	278572.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.9886888883790672	1
+21	Spectrogram 1	1	278572.mp3.wav	54.0	57.0	150	15000	comcuc	Common Cuckoo	0.11223111427387214	1
+22	Spectrogram 1	1	278572.mp3.wav	54.0	57.0	150	15000	eurgol	European Goldfinch	0.10175178261297316	2
+23	Spectrogram 1	1	278572.mp3.wav	57.0	60.0	150	15000	eurser1	European Serin	0.6504511336314036	1
+24	Spectrogram 1	1	278572.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9987572820759063	1
+25	Spectrogram 1	1	278572.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9678360625803474	1
+26	Spectrogram 1	1	278572.mp3.wav	60.0	63.0	150	15000	laplon	Lapland Longspur	0.15010269936273082	1
+27	Spectrogram 1	1	278572.mp3.wav	60.0	63.0	150	15000	mcclon	McCown's Longspur	0.142033907509306	2
+28	Spectrogram 1	1	278572.mp3.wav	60.0	63.0	150	15000	chclon	Chestnut-collared Longspur	0.137354329154107	3
+29	Spectrogram 1	1	278572.mp3.wav	63.0	66.0	150	15000	comcuc	Common Cuckoo	0.11185566907460787	1
+30	Spectrogram 1	1	278572.mp3.wav	66.0	69.0	150	15000	melwar1	Melodious Warbler	0.9719146708561882	1
+31	Spectrogram 1	1	278572.mp3.wav	0.0	3.0	150	15000	woolar1	Wood Lark	0.29076937887717197	1
+32	Spectrogram 1	1	278572.mp3.wav	0.0	3.0	150	15000	rebfly	Red-breasted Flycatcher	0.13472547410134827	2

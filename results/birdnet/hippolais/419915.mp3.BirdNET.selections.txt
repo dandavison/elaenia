@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	419915.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.23080624754101262	1
+2	Spectrogram 1	1	419915.mp3.wav	12.0	15.0	150	15000	comchi1	Common Chiffchaff	0.10123866813206621	2
+3	Spectrogram 1	1	419915.mp3.wav	15.0	18.0	150	15000	comchi1	Common Chiffchaff	0.3303567860714674	1
+4	Spectrogram 1	1	419915.mp3.wav	15.0	18.0	150	15000	comcha	Common Chaffinch	0.18379031004255705	2
+5	Spectrogram 1	1	419915.mp3.wav	15.0	18.0	150	15000	cetwar1	Cetti's Warbler	0.12268384419281472	3
+6	Spectrogram 1	1	419915.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9921934792826598	1
+7	Spectrogram 1	1	419915.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9708885072739871	1
+8	Spectrogram 1	1	419915.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.5410709996284835	2
+9	Spectrogram 1	1	419915.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.12300964375919592	3
+10	Spectrogram 1	1	419915.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.8134271407026842	1
+11	Spectrogram 1	1	419915.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.519888125013837	2
+12	Spectrogram 1	1	419915.mp3.wav	24.0	27.0	150	15000	garwar1	Garden Warbler	0.23752534518751192	3
+13	Spectrogram 1	1	419915.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9903149887847065	1
+14	Spectrogram 1	1	419915.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.16994238837979822	2
+15	Spectrogram 1	1	419915.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.8417303839432443	1
+16	Spectrogram 1	1	419915.mp3.wav	3.0	6.0	150	15000	comcha	Common Chaffinch	0.17466544242801937	2
+17	Spectrogram 1	1	419915.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9426586827261179	1
+18	Spectrogram 1	1	419915.mp3.wav	30.0	33.0	150	15000	garwar1	Garden Warbler	0.8215799024888292	2
+19	Spectrogram 1	1	419915.mp3.wav	33.0	36.0	150	15000	woolar1	Wood Lark	0.44060806259597496	1
+20	Spectrogram 1	1	419915.mp3.wav	33.0	36.0	150	15000	carwre	Carolina Wren	0.3088742846247016	2
+21	Spectrogram 1	1	419915.mp3.wav	33.0	36.0	150	15000	norcar	Northern Cardinal	0.21999820255524052	3
+22	Spectrogram 1	1	419915.mp3.wav	36.0	39.0	150	15000	rocnut1	Western Rock Nuthatch	0.3911921393386927	1
+23	Spectrogram 1	1	419915.mp3.wav	36.0	39.0	150	15000	ruckin	Ruby-crowned Kinglet	0.3677408977511336	2
+24	Spectrogram 1	1	419915.mp3.wav	36.0	39.0	150	15000	woolar1	Wood Lark	0.34876225552565404	3
+25	Spectrogram 1	1	419915.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.9398193706413616	1
+26	Spectrogram 1	1	419915.mp3.wav	39.0	42.0	150	15000	barwar1	Barred Warbler	0.12379477206080758	2
+27	Spectrogram 1	1	419915.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.9976268912792383	1
+28	Spectrogram 1	1	419915.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.8750104559532429	1
+29	Spectrogram 1	1	419915.mp3.wav	45.0	48.0	150	15000	garwar1	Garden Warbler	0.6733335671670146	2
+30	Spectrogram 1	1	419915.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.5185313015044183	3
+31	Spectrogram 1	1	419915.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9972827114268783	1
+32	Spectrogram 1	1	419915.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9885142857531399	1
+33	Spectrogram 1	1	419915.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.3411367643466053	2
+34	Spectrogram 1	1	419915.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.10664452628316254	1

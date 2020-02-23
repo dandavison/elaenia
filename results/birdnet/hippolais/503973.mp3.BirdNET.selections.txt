@@ -1,0 +1,37 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	503973.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.8980593941740674	1
+2	Spectrogram 1	1	503973.mp3.wav	12.0	15.0	150	15000	eurwar1	Eurasian Reed Warbler	0.2456050698510488	2
+3	Spectrogram 1	1	503973.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.16410325536905013	3
+4	Spectrogram 1	1	503973.mp3.wav	15.0	18.0	150	15000	bktgod	Black-tailed Godwit	0.7333639746801454	1
+5	Spectrogram 1	1	503973.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.6150022642059962	2
+6	Spectrogram 1	1	503973.mp3.wav	15.0	18.0	150	15000	norlap	Northern Lapwing	0.1504437367002597	3
+7	Spectrogram 1	1	503973.mp3.wav	18.0	21.0	150	15000	bktgod	Black-tailed Godwit	0.9373449076207138	1
+8	Spectrogram 1	1	503973.mp3.wav	18.0	21.0	150	15000	bkbplo	Black-bellied Plover	0.3394111936424086	2
+9	Spectrogram 1	1	503973.mp3.wav	21.0	24.0	150	15000	bkbplo	Black-bellied Plover	0.48079598274899926	1
+10	Spectrogram 1	1	503973.mp3.wav	21.0	24.0	150	15000	bktgod	Black-tailed Godwit	0.2276311174396561	2
+11	Spectrogram 1	1	503973.mp3.wav	24.0	27.0	150	15000	bktgod	Black-tailed Godwit	0.7917896006908453	1
+12	Spectrogram 1	1	503973.mp3.wav	27.0	30.0	150	15000	redkit1	Red Kite	0.12071120546736176	1
+13	Spectrogram 1	1	503973.mp3.wav	27.0	30.0	150	15000	combuz1	Common Buzzard	0.1025042948288714	2
+14	Spectrogram 1	1	503973.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.47331226226985024	1
+15	Spectrogram 1	1	503973.mp3.wav	3.0	6.0	150	15000	buggna	Blue-gray Gnatcatcher	0.2263474856393847	2
+16	Spectrogram 1	1	503973.mp3.wav	30.0	33.0	150	15000	bkcvir1	Black-capped Vireo	0.43466655471659443	1
+17	Spectrogram 1	1	503973.mp3.wav	30.0	33.0	150	15000	whevir	White-eyed Vireo	0.3563022083977252	2
+18	Spectrogram 1	1	503973.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.21010383394710486	3
+19	Spectrogram 1	1	503973.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.2033278373569408	1
+20	Spectrogram 1	1	503973.mp3.wav	33.0	36.0	150	15000	marwar3	Marsh Warbler	0.14685294054036896	2
+21	Spectrogram 1	1	503973.mp3.wav	33.0	36.0	150	15000	lesgol	Lesser Goldfinch	0.14007059860758947	3
+22	Spectrogram 1	1	503973.mp3.wav	36.0	39.0	150	15000	blackc1	Eurasian Blackcap	0.24454203165787813	1
+23	Spectrogram 1	1	503973.mp3.wav	36.0	39.0	150	15000	comred2	Common Redstart	0.17853727839454245	2
+24	Spectrogram 1	1	503973.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.17832730021283724	3
+25	Spectrogram 1	1	503973.mp3.wav	39.0	42.0	150	15000	sonthr1	Song Thrush	0.4056730467396004	1
+26	Spectrogram 1	1	503973.mp3.wav	39.0	42.0	150	15000	blackc1	Eurasian Blackcap	0.3284243839065103	2
+27	Spectrogram 1	1	503973.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.19896133311392666	3
+28	Spectrogram 1	1	503973.mp3.wav	42.0	45.0	150	15000	blrwar1	Blyth's Reed Warbler	0.7707072504880365	1
+29	Spectrogram 1	1	503973.mp3.wav	42.0	45.0	150	15000	marwar3	Marsh Warbler	0.7194225842839644	2
+30	Spectrogram 1	1	503973.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.6423380609687581	3
+31	Spectrogram 1	1	503973.mp3.wav	6.0	9.0	150	15000	rolhaw	Rough-legged Hawk	0.45317592344468643	1
+32	Spectrogram 1	1	503973.mp3.wav	6.0	9.0	150	15000	combuz1	Common Buzzard	0.30461653429295804	2
+33	Spectrogram 1	1	503973.mp3.wav	6.0	9.0	150	15000	yebsap	Yellow-bellied Sapsucker	0.2582293796071158	3
+34	Spectrogram 1	1	503973.mp3.wav	9.0	12.0	150	15000	euroys1	Eurasian Oystercatcher	0.420638690258562	1
+35	Spectrogram 1	1	503973.mp3.wav	9.0	12.0	150	15000	rorpar	Rose-ringed Parakeet	0.1036529005824958	2
+36	Spectrogram 1	1	503973.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9985208252185699	1

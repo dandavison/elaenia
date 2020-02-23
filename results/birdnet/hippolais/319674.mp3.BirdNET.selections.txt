@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	319674.mp3.wav	12.0	15.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.3117690273627036	1
+2	Spectrogram 1	1	319674.mp3.wav	12.0	15.0	150	15000	grswoo	Great Spotted Woodpecker	0.24764738464761307	2
+3	Spectrogram 1	1	319674.mp3.wav	12.0	15.0	150	15000	leswoo1	Lesser Spotted Woodpecker	0.17951626067434268	3
+4	Spectrogram 1	1	319674.mp3.wav	15.0	18.0	150	15000	comchi1	Common Chiffchaff	0.10614264916821528	1
+5	Spectrogram 1	1	319674.mp3.wav	18.0	21.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.3075271179462262	1
+6	Spectrogram 1	1	319674.mp3.wav	18.0	21.0	150	15000	grswoo	Great Spotted Woodpecker	0.2588914345550985	2
+7	Spectrogram 1	1	319674.mp3.wav	18.0	21.0	150	15000	leswoo1	Lesser Spotted Woodpecker	0.1847349567881209	3
+8	Spectrogram 1	1	319674.mp3.wav	21.0	24.0	150	15000	rocwre	Rock Wren	0.28964719432484554	1
+9	Spectrogram 1	1	319674.mp3.wav	21.0	24.0	150	15000	woolar1	Wood Lark	0.2238168423012119	2
+10	Spectrogram 1	1	319674.mp3.wav	21.0	24.0	150	15000	somtit3	Sombre Tit	0.19508076721737305	3
+11	Spectrogram 1	1	319674.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9989915564968069	1
+12	Spectrogram 1	1	319674.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.998863494609661	1
+13	Spectrogram 1	1	319674.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.997799371452185	1
+14	Spectrogram 1	1	319674.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9612082227462483	1
+15	Spectrogram 1	1	319674.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9975770699838035	1
+16	Spectrogram 1	1	319674.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9237485267036757	1
+17	Spectrogram 1	1	319674.mp3.wav	9.0	12.0	150	15000	darwar1	Dartford Warbler	0.1729175934668127	2
+18	Spectrogram 1	1	319674.mp3.wav	9.0	12.0	150	15000	subwar1	Subalpine Warbler	0.140461141311729	3
+19	Spectrogram 1	1	319674.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9973633229185581	1

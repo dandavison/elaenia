@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	480249.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.949209974692892	1
+2	Spectrogram 1	1	480249.mp3.wav	15.0	18.0	150	15000	wlwwar	Willow Warbler	0.6335441389756576	1
+3	Spectrogram 1	1	480249.mp3.wav	18.0	21.0	150	15000	dowwoo	Downy Woodpecker	0.5752378332923647	1
+4	Spectrogram 1	1	480249.mp3.wav	18.0	21.0	150	15000	labwoo	Ladder-backed Woodpecker	0.4269091095808966	2
+5	Spectrogram 1	1	480249.mp3.wav	21.0	24.0	150	15000	grrwar1	Great Reed Warbler	0.22231455804673902	1
+6	Spectrogram 1	1	480249.mp3.wav	21.0	24.0	150	15000	eurwar1	Eurasian Reed Warbler	0.10291444974073302	2
+7	Spectrogram 1	1	480249.mp3.wav	24.0	27.0	150	15000	dowwoo	Downy Woodpecker	0.6537081066455379	1
+8	Spectrogram 1	1	480249.mp3.wav	24.0	27.0	150	15000	leswoo1	Lesser Spotted Woodpecker	0.12064782634343992	2
+9	Spectrogram 1	1	480249.mp3.wav	27.0	30.0	150	15000	grswoo	Great Spotted Woodpecker	0.10627234663203913	1
+10	Spectrogram 1	1	480249.mp3.wav	3.0	6.0	150	15000	auskit1	Black-shouldered Kite	0.33874940635448564	1
+11	Spectrogram 1	1	480249.mp3.wav	3.0	6.0	150	15000	wlwwar	Willow Warbler	0.13876538178460213	2
+12	Spectrogram 1	1	480249.mp3.wav	30.0	33.0	150	15000	dowwoo	Downy Woodpecker	0.8634484486709653	1
+13	Spectrogram 1	1	480249.mp3.wav	30.0	33.0	150	15000	labwoo	Ladder-backed Woodpecker	0.71330324784417	2
+14	Spectrogram 1	1	480249.mp3.wav	33.0	36.0	150	15000	marwar3	Marsh Warbler	0.8484374969705939	1
+15	Spectrogram 1	1	480249.mp3.wav	33.0	36.0	150	15000	sedwar1	Sedge Warbler	0.27711885667115665	2
+16	Spectrogram 1	1	480249.mp3.wav	33.0	36.0	150	15000	stswar1	Scrub Warbler	0.12492692642716109	3
+17	Spectrogram 1	1	480249.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9991292264220798	1
+18	Spectrogram 1	1	480249.mp3.wav	6.0	9.0	150	15000	wlwwar	Willow Warbler	0.27787461852666956	1
+19	Spectrogram 1	1	480249.mp3.wav	9.0	12.0	150	15000	lawgol	Lawrence's Goldfinch	0.3915660996258187	1
+20	Spectrogram 1	1	480249.mp3.wav	9.0	12.0	150	15000	houfin	House Finch	0.3249266368197073	2
+21	Spectrogram 1	1	480249.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9999547979556912	1

@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	178882.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9992512291348743	1
+2	Spectrogram 1	1	178882.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9998975741632772	1
+3	Spectrogram 1	1	178882.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9925529730511745	1
+4	Spectrogram 1	1	178882.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9989811404491371	1
+5	Spectrogram 1	1	178882.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9994503835643239	1
+6	Spectrogram 1	1	178882.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9915776545908358	1
+7	Spectrogram 1	1	178882.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9999598929146123	1
+8	Spectrogram 1	1	178882.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9996373963105142	1
+9	Spectrogram 1	1	178882.mp3.wav	33.0	36.0	150	15000	eurnut2	Eurasian Nuthatch	0.12124133419658259	1
+10	Spectrogram 1	1	178882.mp3.wav	33.0	36.0	150	15000	grcfly	Great Crested Flycatcher	0.10502959819737728	2
+11	Spectrogram 1	1	178882.mp3.wav	39.0	42.0	150	15000	comqua1	Common Quail	0.17509498317223973	1
+12	Spectrogram 1	1	178882.mp3.wav	39.0	42.0	150	15000	relpar1	Red-legged Partridge	0.11544569671097389	2
+13	Spectrogram 1	1	178882.mp3.wav	39.0	42.0	150	15000	yellow2	Yellowhammer	0.10733722562393519	3
+14	Spectrogram 1	1	178882.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9878688558396351	1
+15	Spectrogram 1	1	178882.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.3348771247422183	2
+16	Spectrogram 1	1	178882.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.10461805061362962	3
+17	Spectrogram 1	1	178882.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9953002222184438	1
+18	Spectrogram 1	1	178882.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.11493618016976058	2
+19	Spectrogram 1	1	178882.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9997167110675815	1

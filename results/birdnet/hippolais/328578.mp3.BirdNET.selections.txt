@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	328578.mp3.wav	12.0	15.0	150	15000	normoc	Northern Mockingbird	0.6255160653845967	1
+2	Spectrogram 1	1	328578.mp3.wav	12.0	15.0	150	15000	rocwre	Rock Wren	0.4521133931515621	2
+3	Spectrogram 1	1	328578.mp3.wav	12.0	15.0	150	15000	carwre	Carolina Wren	0.21250856213645683	3
+4	Spectrogram 1	1	328578.mp3.wav	15.0	18.0	150	15000	rocwre	Rock Wren	0.8555123447166578	1
+5	Spectrogram 1	1	328578.mp3.wav	15.0	18.0	150	15000	tuftit	Tufted Titmouse	0.20575049761047298	2
+6	Spectrogram 1	1	328578.mp3.wav	15.0	18.0	150	15000	normoc	Northern Mockingbird	0.18769696342229678	3
+7	Spectrogram 1	1	328578.mp3.wav	18.0	21.0	150	15000	rtsrob1	Rufous-tailed Scrub-Robin	0.5670113090422236	1
+8	Spectrogram 1	1	328578.mp3.wav	18.0	21.0	150	15000	blrwar1	Blyth's Reed Warbler	0.296622761432444	2
+9	Spectrogram 1	1	328578.mp3.wav	18.0	21.0	150	15000	houspa	House Sparrow	0.2754140885720413	3
+10	Spectrogram 1	1	328578.mp3.wav	3.0	6.0	150	15000	rocwre	Rock Wren	0.1340793629201483	1
+11	Spectrogram 1	1	328578.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.5251869125125905	1
+12	Spectrogram 1	1	328578.mp3.wav	6.0	9.0	150	15000	blrwar1	Blyth's Reed Warbler	0.15621307108667123	2
+13	Spectrogram 1	1	328578.mp3.wav	6.0	9.0	150	15000	weowar2	Western Orphean Warbler	0.14437206731933802	3
+14	Spectrogram 1	1	328578.mp3.wav	9.0	12.0	150	15000	rinouz1	Ring Ouzel	0.2824338677713914	1

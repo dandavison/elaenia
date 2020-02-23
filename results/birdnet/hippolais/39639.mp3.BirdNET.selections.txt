@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	39639.mp3.wav	12.0	15.0	150	15000	labwoo	Ladder-backed Woodpecker	0.8858025722180213	1
+2	Spectrogram 1	1	39639.mp3.wav	12.0	15.0	150	15000	grswoo	Great Spotted Woodpecker	0.5382378507812449	2
+3	Spectrogram 1	1	39639.mp3.wav	12.0	15.0	150	15000	leswoo1	Lesser Spotted Woodpecker	0.13175517465436457	3
+4	Spectrogram 1	1	39639.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.7174542289307698	1
+5	Spectrogram 1	1	39639.mp3.wav	15.0	18.0	150	15000	sonthr1	Song Thrush	0.3092088621871227	2
+6	Spectrogram 1	1	39639.mp3.wav	15.0	18.0	150	15000	eurbla	Eurasian Blackbird	0.25471587311693505	3
+7	Spectrogram 1	1	39639.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.7963558677296659	1
+8	Spectrogram 1	1	39639.mp3.wav	18.0	21.0	150	15000	rorpar	Rose-ringed Parakeet	0.3063988998267977	2
+9	Spectrogram 1	1	39639.mp3.wav	21.0	24.0	150	15000	eugori2	Eurasian Golden Oriole	0.865376718794937	1
+10	Spectrogram 1	1	39639.mp3.wav	21.0	24.0	150	15000	gryjay	Canada Jay	0.4399186360379938	2
+11	Spectrogram 1	1	39639.mp3.wav	21.0	24.0	150	15000	sibjay1	Siberian Jay	0.17250305666918658	3
+12	Spectrogram 1	1	39639.mp3.wav	24.0	27.0	150	15000	eugori2	Eurasian Golden Oriole	0.5684452452639421	1
+13	Spectrogram 1	1	39639.mp3.wav	24.0	27.0	150	15000	yebcha	Yellow-breasted Chat	0.27260828764395006	2
+14	Spectrogram 1	1	39639.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.6776988269557496	1
+15	Spectrogram 1	1	39639.mp3.wav	27.0	30.0	150	15000	fieldf	Fieldfare	0.2832442949755772	2
+16	Spectrogram 1	1	39639.mp3.wav	27.0	30.0	150	15000	grycat	Gray Catbird	0.13137132644596725	3
+17	Spectrogram 1	1	39639.mp3.wav	3.0	6.0	150	15000	tribla	Tricolored Blackbird	0.22894640283176781	1
+18	Spectrogram 1	1	39639.mp3.wav	3.0	6.0	150	15000	lobthr	Long-billed Thrasher	0.17421396363591432	2
+19	Spectrogram 1	1	39639.mp3.wav	3.0	6.0	150	15000	bulori	Bullock's Oriole	0.10962918399784129	3
+20	Spectrogram 1	1	39639.mp3.wav	6.0	9.0	150	15000	lobthr	Long-billed Thrasher	0.9275074393296807	1
+21	Spectrogram 1	1	39639.mp3.wav	6.0	9.0	150	15000	benthr	Bendire's Thrasher	0.1374260200515734	2
+22	Spectrogram 1	1	39639.mp3.wav	9.0	12.0	150	15000	lobthr	Long-billed Thrasher	0.3252080944252556	1
+23	Spectrogram 1	1	39639.mp3.wav	9.0	12.0	150	15000	cubthr	Curve-billed Thrasher	0.2269163402028784	2
+24	Spectrogram 1	1	39639.mp3.wav	0.0	3.0	150	15000	wooshr1	Woodchat Shrike	0.20071692433273866	1
+25	Spectrogram 1	1	39639.mp3.wav	0.0	3.0	150	15000	bulori	Bullock's Oriole	0.10743517468325356	2
+26	Spectrogram 1	1	39639.mp3.wav	0.0	3.0	150	15000	grycat	Gray Catbird	0.10349424308886	3

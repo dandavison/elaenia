@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	292861.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9995310626042613	1
+2	Spectrogram 1	1	292861.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9990037665429187	1
+3	Spectrogram 1	1	292861.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9959063609402419	1
+4	Spectrogram 1	1	292861.mp3.wav	21.0	24.0	150	15000	arcloo	Arctic Loon	0.13502421028376047	1
+5	Spectrogram 1	1	292861.mp3.wav	3.0	6.0	150	15000	kenplo1	Kentish Plover	0.4289784149879309	1
+6	Spectrogram 1	1	292861.mp3.wav	3.0	6.0	150	15000	blwpra1	Black-winged Pratincole	0.2522008215877271	2
+7	Spectrogram 1	1	292861.mp3.wav	3.0	6.0	150	15000	cursan	Curlew Sandpiper	0.131628367758174	3
+8	Spectrogram 1	1	292861.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9837519198349272	1
+9	Spectrogram 1	1	292861.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.998944909463126	1
+10	Spectrogram 1	1	292861.mp3.wav	0.0	3.0	150	15000	euptit1	Eurasian Penduline-Tit	0.35847200371585775	1
+11	Spectrogram 1	1	292861.mp3.wav	0.0	3.0	150	15000	trepip	Tree Pipit	0.1489607924305873	2

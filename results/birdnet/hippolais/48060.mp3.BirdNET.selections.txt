@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	48060.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9993073723250849	1
+2	Spectrogram 1	1	48060.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9994115636404431	1
+3	Spectrogram 1	1	48060.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9992241012136484	1
+4	Spectrogram 1	1	48060.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9983884691628282	1
+5	Spectrogram 1	1	48060.mp3.wav	24.0	27.0	150	15000	blared1	Black Redstart	0.9194772281038888	1
+6	Spectrogram 1	1	48060.mp3.wav	24.0	27.0	150	15000	spewar2	Spectacled Warbler	0.20553947975822803	2
+7	Spectrogram 1	1	48060.mp3.wav	24.0	27.0	150	15000	stonec4	European Stonechat	0.1388563566526576	3
+8	Spectrogram 1	1	48060.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9483419506071334	1
+9	Spectrogram 1	1	48060.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.2762707515336867	2
+10	Spectrogram 1	1	48060.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9989420060492125	1
+11	Spectrogram 1	1	48060.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9993086681366112	1
+12	Spectrogram 1	1	48060.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.37639860450175955	1
+13	Spectrogram 1	1	48060.mp3.wav	0.0	3.0	150	15000	wooshr1	Woodchat Shrike	0.22228617182158955	2
+14	Spectrogram 1	1	48060.mp3.wav	0.0	3.0	150	15000	leswhi1	Lesser Whitethroat	0.1180838432060666	3

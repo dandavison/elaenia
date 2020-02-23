@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	44642.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.39823861851873193	1
+2	Spectrogram 1	1	44642.mp3.wav	12.0	15.0	150	15000	weowar2	Western Orphean Warbler	0.2521554579447896	2
+3	Spectrogram 1	1	44642.mp3.wav	12.0	15.0	150	15000	eurser1	European Serin	0.1911202861341091	3
+4	Spectrogram 1	1	44642.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9825541233497339	1
+5	Spectrogram 1	1	44642.mp3.wav	15.0	18.0	150	15000	grewhi1	Greater Whitethroat	0.20035729642039068	2
+6	Spectrogram 1	1	44642.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.13368506056606239	3
+7	Spectrogram 1	1	44642.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.8258037894866319	1
+8	Spectrogram 1	1	44642.mp3.wav	18.0	21.0	150	15000	garwar1	Garden Warbler	0.33760765244985574	2
+9	Spectrogram 1	1	44642.mp3.wav	18.0	21.0	150	15000	subwar1	Subalpine Warbler	0.12981795377513422	3
+10	Spectrogram 1	1	44642.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9989488788937643	1
+11	Spectrogram 1	1	44642.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9973003124247884	1
+12	Spectrogram 1	1	44642.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9955719326075558	1
+13	Spectrogram 1	1	44642.mp3.wav	6.0	9.0	150	15000	eurser1	European Serin	0.9927160606720821	1
+14	Spectrogram 1	1	44642.mp3.wav	9.0	12.0	150	15000	whiwag	White Wagtail	0.6629841241859294	1
+15	Spectrogram 1	1	44642.mp3.wav	9.0	12.0	150	15000	eaywag1	Western Yellow Wagtail	0.5952056932729596	2
+16	Spectrogram 1	1	44642.mp3.wav	9.0	12.0	150	15000	padwar1	Paddyfield Warbler	0.16800783759646473	3
+17	Spectrogram 1	1	44642.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.992285799269594	1
+18	Spectrogram 1	1	44642.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.12806826375824257	2

@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	345944.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9598119467745297	1
+2	Spectrogram 1	1	345944.mp3.wav	12.0	15.0	150	15000	comcuc	Common Cuckoo	0.2673130602818984	2
+3	Spectrogram 1	1	345944.mp3.wav	12.0	15.0	150	15000	cavswa	Cave Swallow	0.10802945495484315	3
+4	Spectrogram 1	1	345944.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9973681885682656	1
+5	Spectrogram 1	1	345944.mp3.wav	15.0	18.0	150	15000	comcuc	Common Cuckoo	0.11535354139905082	2
+6	Spectrogram 1	1	345944.mp3.wav	18.0	21.0	150	15000	comcuc	Common Cuckoo	0.3363618525469774	1
+7	Spectrogram 1	1	345944.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.2596051157421491	2
+8	Spectrogram 1	1	345944.mp3.wav	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.1968439852263285	3
+9	Spectrogram 1	1	345944.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.6936805669489557	1
+10	Spectrogram 1	1	345944.mp3.wav	21.0	24.0	150	15000	comcuc	Common Cuckoo	0.31010373249108897	2
+11	Spectrogram 1	1	345944.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9990042425897626	1
+12	Spectrogram 1	1	345944.mp3.wav	24.0	27.0	150	15000	comcuc	Common Cuckoo	0.16924436993261333	2
+13	Spectrogram 1	1	345944.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9987575479774785	1
+14	Spectrogram 1	1	345944.mp3.wav	27.0	30.0	150	15000	comcuc	Common Cuckoo	0.3182883442143583	2
+15	Spectrogram 1	1	345944.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9981239368232477	1
+16	Spectrogram 1	1	345944.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9987814575463704	1
+17	Spectrogram 1	1	345944.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9982525172776867	1
+18	Spectrogram 1	1	345944.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9992695700123074	1

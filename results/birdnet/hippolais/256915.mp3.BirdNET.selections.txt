@@ -1,0 +1,62 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	256915.mp3.wav	12.0	15.0	150	15000	redjun	Red Junglefowl	0.17522754308737112	1
+2	Spectrogram 1	1	256915.mp3.wav	12.0	15.0	150	15000	leagre	Least Grebe	0.12233814771095021	2
+3	Spectrogram 1	1	256915.mp3.wav	12.0	15.0	150	15000	purgal2	Purple Gallinule	0.10953507691538154	3
+4	Spectrogram 1	1	256915.mp3.wav	15.0	18.0	150	15000	gowwar	Golden-winged Warbler	0.26736742654009094	1
+5	Spectrogram 1	1	256915.mp3.wav	15.0	18.0	150	15000	clcspa	Clay-colored Sparrow	0.13135062673505746	2
+6	Spectrogram 1	1	256915.mp3.wav	15.0	18.0	150	15000	buwwar	Blue-winged Warbler	0.10250614840502126	3
+7	Spectrogram 1	1	256915.mp3.wav	18.0	21.0	150	15000	litgre1	Little Grebe	0.6179776255836154	1
+8	Spectrogram 1	1	256915.mp3.wav	18.0	21.0	150	15000	leagre	Least Grebe	0.37498321928577355	2
+9	Spectrogram 1	1	256915.mp3.wav	18.0	21.0	150	15000	swtkit	Swallow-tailed Kite	0.3265869354154088	3
+10	Spectrogram 1	1	256915.mp3.wav	21.0	24.0	150	15000	padwar1	Paddyfield Warbler	0.2890368685307289	1
+11	Spectrogram 1	1	256915.mp3.wav	21.0	24.0	150	15000	skylar	Eurasian Skylark	0.10626342491614184	2
+12	Spectrogram 1	1	256915.mp3.wav	21.0	24.0	150	15000	boowar1	Booted Warbler	0.10330928740530093	3
+13	Spectrogram 1	1	256915.mp3.wav	24.0	27.0	150	15000	leagre	Least Grebe	0.14967108136089177	1
+14	Spectrogram 1	1	256915.mp3.wav	24.0	27.0	150	15000	boowar1	Booted Warbler	0.12895354333276607	2
+15	Spectrogram 1	1	256915.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9953368059371057	1
+16	Spectrogram 1	1	256915.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.8296303784224912	1
+17	Spectrogram 1	1	256915.mp3.wav	30.0	33.0	150	15000	pibgre	Pied-billed Grebe	0.16992260862922107	1
+18	Spectrogram 1	1	256915.mp3.wav	30.0	33.0	150	15000	leagre	Least Grebe	0.1548892644582076	2
+19	Spectrogram 1	1	256915.mp3.wav	30.0	33.0	150	15000	grnkin	Green Kingfisher	0.10947729029293236	3
+20	Spectrogram 1	1	256915.mp3.wav	33.0	36.0	150	15000	redjun	Red Junglefowl	0.3121366910502674	1
+21	Spectrogram 1	1	256915.mp3.wav	33.0	36.0	150	15000	leagre	Least Grebe	0.20997179688272977	2
+22	Spectrogram 1	1	256915.mp3.wav	33.0	36.0	150	15000	purgal2	Purple Gallinule	0.12577576711866623	3
+23	Spectrogram 1	1	256915.mp3.wav	36.0	39.0	150	15000	gowwar	Golden-winged Warbler	0.8547471604409888	1
+24	Spectrogram 1	1	256915.mp3.wav	36.0	39.0	150	15000	buwwar	Blue-winged Warbler	0.5751954863080194	2
+25	Spectrogram 1	1	256915.mp3.wav	36.0	39.0	150	15000	clcspa	Clay-colored Sparrow	0.12868338086966388	3
+26	Spectrogram 1	1	256915.mp3.wav	39.0	42.0	150	15000	hoopoe	Eurasian Hoopoe	0.27318613285676296	1
+27	Spectrogram 1	1	256915.mp3.wav	39.0	42.0	150	15000	litbit1	Little Bittern	0.18559230986538877	2
+28	Spectrogram 1	1	256915.mp3.wav	39.0	42.0	150	15000	leabit	Least Bittern	0.1508435173006022	3
+29	Spectrogram 1	1	256915.mp3.wav	42.0	45.0	150	15000	leagre	Least Grebe	0.7704310752741431	1
+30	Spectrogram 1	1	256915.mp3.wav	42.0	45.0	150	15000	purgal2	Purple Gallinule	0.18805108636787363	2
+31	Spectrogram 1	1	256915.mp3.wav	42.0	45.0	150	15000	pibgre	Pied-billed Grebe	0.1416879228607255	3
+32	Spectrogram 1	1	256915.mp3.wav	45.0	48.0	150	15000	leagre	Least Grebe	0.9895694494399869	1
+33	Spectrogram 1	1	256915.mp3.wav	45.0	48.0	150	15000	litgre1	Little Grebe	0.16924608825876447	2
+34	Spectrogram 1	1	256915.mp3.wav	48.0	51.0	150	15000	leagre	Least Grebe	0.7179683409034165	1
+35	Spectrogram 1	1	256915.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.29079904610172086	2
+36	Spectrogram 1	1	256915.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.9991145412123964	1
+37	Spectrogram 1	1	256915.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.9918299788465669	1
+38	Spectrogram 1	1	256915.mp3.wav	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.9987809584855432	1
+39	Spectrogram 1	1	256915.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9840381236161255	1
+40	Spectrogram 1	1	256915.mp3.wav	9.0	12.0	150	15000	belvir	Bell's Vireo	0.2503744757095697	1
+41	Spectrogram 1	1	256915.mp3.wav	9.0	12.0	150	15000	houwre	House Wren	0.1597954561853598	2
+42	Spectrogram 1	1	256915.mp3.wav	9.0	12.0	150	15000	subwar1	Subalpine Warbler	0.14810765250863095	3
+43	Spectrogram 1	1	256915.mp3.wav	60.0	63.0	150	15000	melwar1	Melodious Warbler	0.9940945815417679	1
+44	Spectrogram 1	1	256915.mp3.wav	72.0	75.0	150	15000	trokin	Tropical Kingbird	0.15324486133302698	1
+45	Spectrogram 1	1	256915.mp3.wav	72.0	75.0	150	15000	gstlar1	Greater Short-toed Lark	0.10859459285458499	2
+46	Spectrogram 1	1	256915.mp3.wav	75.0	78.0	150	15000	padwar1	Paddyfield Warbler	0.2012611418527925	1
+47	Spectrogram 1	1	256915.mp3.wav	75.0	78.0	150	15000	boowar1	Booted Warbler	0.17044266177192888	2
+48	Spectrogram 1	1	256915.mp3.wav	75.0	78.0	150	15000	leswhi1	Lesser Whitethroat	0.11614113798621983	3
+49	Spectrogram 1	1	256915.mp3.wav	78.0	81.0	150	15000	melwar1	Melodious Warbler	0.9991417977653971	1
+50	Spectrogram 1	1	256915.mp3.wav	81.0	84.0	150	15000	melwar1	Melodious Warbler	0.9830043956349447	1
+51	Spectrogram 1	1	256915.mp3.wav	87.0	90.0	150	15000	????	Human	0.45242349650107083	1
+52	Spectrogram 1	1	256915.mp3.wav	63.0	66.0	150	15000	????	Human	0.3969541176834013	1
+53	Spectrogram 1	1	256915.mp3.wav	90.0	93.0	150	15000	wlwwar	Willow Warbler	0.10270288456650367	1
+54	Spectrogram 1	1	256915.mp3.wav	90.0	93.0	150	15000	trepip	Tree Pipit	0.1013606018728336	2
+55	Spectrogram 1	1	256915.mp3.wav	93.0	96.0	150	15000	melwar1	Melodious Warbler	0.2790342931042592	1
+56	Spectrogram 1	1	256915.mp3.wav	93.0	96.0	150	15000	weowar1	Western Olivaceous Warbler	0.17646976840681	2
+57	Spectrogram 1	1	256915.mp3.wav	93.0	96.0	150	15000	marwre	Marsh Wren	0.12392666152569191	3
+58	Spectrogram 1	1	256915.mp3.wav	96.0	99.0	150	15000	melwar1	Melodious Warbler	0.9790306611714165	1
+59	Spectrogram 1	1	256915.mp3.wav	99.0	102.0	150	15000	melwar1	Melodious Warbler	0.5553442411984225	1
+60	Spectrogram 1	1	256915.mp3.wav	99.0	102.0	150	15000	darwar1	Dartford Warbler	0.3269533382519191	2
+61	Spectrogram 1	1	256915.mp3.wav	99.0	102.0	150	15000	spewar2	Spectacled Warbler	0.1623532117390873	3

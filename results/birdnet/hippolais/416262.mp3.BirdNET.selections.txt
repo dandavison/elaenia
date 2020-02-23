@@ -1,0 +1,62 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	416262.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9998019572171618	1
+2	Spectrogram 1	1	416262.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.10567251273418664	1
+3	Spectrogram 1	1	416262.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9989608267214479	1
+4	Spectrogram 1	1	416262.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.24044327347102143	2
+5	Spectrogram 1	1	416262.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.5501759671689698	1
+6	Spectrogram 1	1	416262.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.2844317296623885	2
+7	Spectrogram 1	1	416262.mp3.wav	21.0	24.0	150	15000	comcha	Common Chaffinch	0.18410599856938578	3
+8	Spectrogram 1	1	416262.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9998298255838795	1
+9	Spectrogram 1	1	416262.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9999319561110116	1
+10	Spectrogram 1	1	416262.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.9511919581118934	1
+11	Spectrogram 1	1	416262.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.33131415056494934	2
+12	Spectrogram 1	1	416262.mp3.wav	3.0	6.0	150	15000	sedwar1	Sedge Warbler	0.1335969888861134	3
+13	Spectrogram 1	1	416262.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9999103165448137	1
+14	Spectrogram 1	1	416262.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9998583424809369	1
+15	Spectrogram 1	1	416262.mp3.wav	36.0	39.0	150	15000	eurbla	Eurasian Blackbird	0.47441181073339006	1
+16	Spectrogram 1	1	416262.mp3.wav	36.0	39.0	150	15000	weowar2	Western Orphean Warbler	0.2790754022893045	2
+17	Spectrogram 1	1	416262.mp3.wav	36.0	39.0	150	15000	misthr1	Mistle Thrush	0.12254583863801936	3
+18	Spectrogram 1	1	416262.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.784367204673082	1
+19	Spectrogram 1	1	416262.mp3.wav	39.0	42.0	150	15000	eurbla	Eurasian Blackbird	0.738217758378937	2
+20	Spectrogram 1	1	416262.mp3.wav	42.0	45.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.1255614748143267	1
+21	Spectrogram 1	1	416262.mp3.wav	48.0	51.0	150	15000	norfli	Northern Flicker	0.17911380195913912	1
+22	Spectrogram 1	1	416262.mp3.wav	48.0	51.0	150	15000	amerob	American Robin	0.15104060053141333	2
+23	Spectrogram 1	1	416262.mp3.wav	48.0	51.0	150	15000	norgos	Northern Goshawk	0.1072180589355826	3
+24	Spectrogram 1	1	416262.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.9999330425822305	1
+25	Spectrogram 1	1	416262.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.9999635970501954	1
+26	Spectrogram 1	1	416262.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.877773253652248	1
+27	Spectrogram 1	1	416262.mp3.wav	57.0	60.0	150	15000	weowar2	Western Orphean Warbler	0.4905605943886657	2
+28	Spectrogram 1	1	416262.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9992104053962	1
+29	Spectrogram 1	1	416262.mp3.wav	6.0	9.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1438154409591077	2
+30	Spectrogram 1	1	416262.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.975651826765823	1
+31	Spectrogram 1	1	416262.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9182194957832821	2
+32	Spectrogram 1	1	416262.mp3.wav	72.0	75.0	150	15000	barswa	Barn Swallow	0.7906692112022164	1
+33	Spectrogram 1	1	416262.mp3.wav	72.0	75.0	150	15000	sonthr1	Song Thrush	0.46337707227336433	2
+34	Spectrogram 1	1	416262.mp3.wav	72.0	75.0	150	15000	amerob	American Robin	0.10361120458396676	3
+35	Spectrogram 1	1	416262.mp3.wav	75.0	78.0	150	15000	ictwar1	Icterine Warbler	0.9996123997122702	1
+36	Spectrogram 1	1	416262.mp3.wav	78.0	81.0	150	15000	ictwar1	Icterine Warbler	0.9987853938193122	1
+37	Spectrogram 1	1	416262.mp3.wav	81.0	84.0	150	15000	ictwar1	Icterine Warbler	0.9997329900036117	1
+38	Spectrogram 1	1	416262.mp3.wav	84.0	87.0	150	15000	ictwar1	Icterine Warbler	0.9999457716412817	1
+39	Spectrogram 1	1	416262.mp3.wav	87.0	90.0	150	15000	ictwar1	Icterine Warbler	0.999940240771067	1
+40	Spectrogram 1	1	416262.mp3.wav	63.0	66.0	150	15000	whimbr	Whimbrel	0.921789881456555	1
+41	Spectrogram 1	1	416262.mp3.wav	63.0	66.0	150	15000	rudtur	Ruddy Turnstone	0.1145581601868701	2
+42	Spectrogram 1	1	416262.mp3.wav	90.0	93.0	150	15000	ictwar1	Icterine Warbler	0.9998170428161021	1
+43	Spectrogram 1	1	416262.mp3.wav	93.0	96.0	150	15000	subfly	Sulphur-bellied Flycatcher	0.8280978368163352	1
+44	Spectrogram 1	1	416262.mp3.wav	93.0	96.0	150	15000	amerob	American Robin	0.25766677812176825	2
+45	Spectrogram 1	1	416262.mp3.wav	96.0	99.0	150	15000	ictwar1	Icterine Warbler	0.9903474000433996	1
+46	Spectrogram 1	1	416262.mp3.wav	96.0	99.0	150	15000	subfly	Sulphur-bellied Flycatcher	0.18506860773497769	2
+47	Spectrogram 1	1	416262.mp3.wav	99.0	102.0	150	15000	ictwar1	Icterine Warbler	0.9864790799205634	1
+48	Spectrogram 1	1	416262.mp3.wav	99.0	102.0	150	15000	marwar3	Marsh Warbler	0.18200506620561233	2
+49	Spectrogram 1	1	416262.mp3.wav	102.0	105.0	150	15000	ictwar1	Icterine Warbler	0.9999096065170963	1
+50	Spectrogram 1	1	416262.mp3.wav	105.0	108.0	150	15000	ictwar1	Icterine Warbler	0.9999664535707229	1
+51	Spectrogram 1	1	416262.mp3.wav	108.0	111.0	150	15000	subwar1	Subalpine Warbler	0.4369457638854564	1
+52	Spectrogram 1	1	416262.mp3.wav	108.0	111.0	150	15000	ictwar1	Icterine Warbler	0.25599316230317776	2
+53	Spectrogram 1	1	416262.mp3.wav	108.0	111.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.2469402370281583	3
+54	Spectrogram 1	1	416262.mp3.wav	111.0	114.0	150	15000	eurwar1	Eurasian Reed Warbler	0.7702874005799624	1
+55	Spectrogram 1	1	416262.mp3.wav	111.0	114.0	150	15000	afrwar1	African Reed Warbler	0.7413436936667378	2
+56	Spectrogram 1	1	416262.mp3.wav	111.0	114.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.21164072440463783	3
+57	Spectrogram 1	1	416262.mp3.wav	66.0	69.0	150	15000	normoc	Northern Mockingbird	0.6195330006559966	1
+58	Spectrogram 1	1	416262.mp3.wav	66.0	69.0	150	15000	whimbr	Whimbrel	0.1915181583647181	2
+59	Spectrogram 1	1	416262.mp3.wav	66.0	69.0	150	15000	sonthr1	Song Thrush	0.1522632961387493	3
+60	Spectrogram 1	1	416262.mp3.wav	69.0	72.0	150	15000	whimbr	Whimbrel	0.9451063118225419	1
+61	Spectrogram 1	1	416262.mp3.wav	0.0	3.0	150	15000	sonthr1	Song Thrush	0.20355556623867166	1

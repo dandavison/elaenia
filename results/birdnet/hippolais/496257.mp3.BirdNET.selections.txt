@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	496257.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9944021441795194	1
+2	Spectrogram 1	1	496257.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9727132852154471	1
+3	Spectrogram 1	1	496257.mp3.wav	15.0	18.0	150	15000	krunut1	Krueper's Nuthatch	0.26132471106480565	2
+4	Spectrogram 1	1	496257.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9951354552618998	1
+5	Spectrogram 1	1	496257.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.5829662104779418	1
+6	Spectrogram 1	1	496257.mp3.wav	24.0	27.0	150	15000	yebcha	Yellow-breasted Chat	0.4546805435518595	2
+7	Spectrogram 1	1	496257.mp3.wav	24.0	27.0	150	15000	balori	Baltimore Oriole	0.1378449449559215	3
+8	Spectrogram 1	1	496257.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9816555295655772	1
+9	Spectrogram 1	1	496257.mp3.wav	27.0	30.0	150	15000	krunut1	Krueper's Nuthatch	0.18583592059349738	2
+10	Spectrogram 1	1	496257.mp3.wav	27.0	30.0	150	15000	barwar1	Barred Warbler	0.16357774405581157	3
+11	Spectrogram 1	1	496257.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.22304118188421912	1
+12	Spectrogram 1	1	496257.mp3.wav	30.0	33.0	150	15000	martit2	Marsh Tit	0.8080427838134778	1
+13	Spectrogram 1	1	496257.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.36916540389371466	2
+14	Spectrogram 1	1	496257.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.20773105201385733	1
+15	Spectrogram 1	1	496257.mp3.wav	33.0	36.0	150	15000	houwre	House Wren	0.11642158401357008	2
+16	Spectrogram 1	1	496257.mp3.wav	33.0	36.0	150	15000	leswhi1	Lesser Whitethroat	0.11475465541718172	3
+17	Spectrogram 1	1	496257.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.29110737882743765	1
+18	Spectrogram 1	1	496257.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9927795993943589	1
+19	Spectrogram 1	1	496257.mp3.wav	6.0	9.0	150	15000	barwar1	Barred Warbler	0.10290557794832413	2
+20	Spectrogram 1	1	496257.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9764005602235115	1
+21	Spectrogram 1	1	496257.mp3.wav	9.0	12.0	150	15000	krunut1	Krueper's Nuthatch	0.14712729787052975	2
+22	Spectrogram 1	1	496257.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.11304006249908286	3
+23	Spectrogram 1	1	496257.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9968009898704753	1
+24	Spectrogram 1	1	496257.mp3.wav	0.0	3.0	150	15000	barwar1	Barred Warbler	0.18920726063751667	2

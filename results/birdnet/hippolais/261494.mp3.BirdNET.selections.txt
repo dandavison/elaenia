@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	261494.mp3.wav	12.0	15.0	150	15000	rebfir2	Red-billed Firefinch	0.5299019298545512	1
+2	Spectrogram 1	1	261494.mp3.wav	12.0	15.0	150	15000	eupfly1	European Pied Flycatcher	0.23965421602108802	2
+3	Spectrogram 1	1	261494.mp3.wav	12.0	15.0	150	15000	laudov1	Laughing Dove	0.12191992200120151	3
+4	Spectrogram 1	1	261494.mp3.wav	15.0	18.0	150	15000	blutit	Eurasian Blue Tit	0.7280334101464901	1
+5	Spectrogram 1	1	261494.mp3.wav	15.0	18.0	150	15000	carchi	Carolina Chickadee	0.39642785073258163	2
+6	Spectrogram 1	1	261494.mp3.wav	15.0	18.0	150	15000	leskes1	Lesser Kestrel	0.2002823159593963	3
+7	Spectrogram 1	1	261494.mp3.wav	18.0	21.0	150	15000	tawowl1	Tawny Owl	0.2584318586248987	1
+8	Spectrogram 1	1	261494.mp3.wav	18.0	21.0	150	15000	tunswa	Tundra Swan	0.12658056263751974	2
+9	Spectrogram 1	1	261494.mp3.wav	18.0	21.0	150	15000	whoswa	Whooper Swan	0.11454230248415613	3
+10	Spectrogram 1	1	261494.mp3.wav	21.0	24.0	150	15000	blutit	Eurasian Blue Tit	0.395343925362369	1
+11	Spectrogram 1	1	261494.mp3.wav	21.0	24.0	150	15000	leskes1	Lesser Kestrel	0.12053409065846425	2
+12	Spectrogram 1	1	261494.mp3.wav	24.0	27.0	150	15000	blutit	Eurasian Blue Tit	0.16024720850958726	1
+13	Spectrogram 1	1	261494.mp3.wav	24.0	27.0	150	15000	bktgna	Black-tailed Gnatcatcher	0.15342571592327764	2
+14	Spectrogram 1	1	261494.mp3.wav	24.0	27.0	150	15000	buggna	Blue-gray Gnatcatcher	0.1251016633472886	3
+15	Spectrogram 1	1	261494.mp3.wav	3.0	6.0	150	15000	tawowl1	Tawny Owl	0.13322729747763387	1
+16	Spectrogram 1	1	261494.mp3.wav	30.0	33.0	150	15000	carchi	Carolina Chickadee	0.4989547916613363	1
+17	Spectrogram 1	1	261494.mp3.wav	30.0	33.0	150	15000	blutit	Eurasian Blue Tit	0.3701532519023113	2
+18	Spectrogram 1	1	261494.mp3.wav	30.0	33.0	150	15000	hoopoe	Eurasian Hoopoe	0.18679789677888275	3
+19	Spectrogram 1	1	261494.mp3.wav	6.0	9.0	150	15000	carchi	Carolina Chickadee	0.747932301525991	1
+20	Spectrogram 1	1	261494.mp3.wav	6.0	9.0	150	15000	blutit	Eurasian Blue Tit	0.20662168358347158	2
+21	Spectrogram 1	1	261494.mp3.wav	9.0	12.0	150	15000	blutit	Eurasian Blue Tit	0.9146543585445838	1
+22	Spectrogram 1	1	261494.mp3.wav	9.0	12.0	150	15000	carchi	Carolina Chickadee	0.35981915592832164	2
+23	Spectrogram 1	1	261494.mp3.wav	9.0	12.0	150	15000	gretit1	Great Tit	0.101452358180204	3
+24	Spectrogram 1	1	261494.mp3.wav	0.0	3.0	150	15000	carchi	Carolina Chickadee	0.45485708360193394	1
+25	Spectrogram 1	1	261494.mp3.wav	0.0	3.0	150	15000	leskes1	Lesser Kestrel	0.36624153484192284	2
+26	Spectrogram 1	1	261494.mp3.wav	0.0	3.0	150	15000	blutit	Eurasian Blue Tit	0.2587230589174024	3

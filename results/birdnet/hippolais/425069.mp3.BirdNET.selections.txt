@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	425069.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.7539911412995255	1
+2	Spectrogram 1	1	425069.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.5671792390958434	2
+3	Spectrogram 1	1	425069.mp3.wav	3.0	6.0	150	15000	thelar1	Thekla's Lark	0.12562094047070385	3
+4	Spectrogram 1	1	425069.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.6065593482064452	1
+5	Spectrogram 1	1	425069.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.35669210799785434	2
+6	Spectrogram 1	1	425069.mp3.wav	6.0	9.0	150	15000	wooshr1	Woodchat Shrike	0.19857366676608484	3
+7	Spectrogram 1	1	425069.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.7688100331365386	1
+8	Spectrogram 1	1	425069.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.44294265420818746	2
+9	Spectrogram 1	1	425069.mp3.wav	9.0	12.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.17607755264581745	3
+10	Spectrogram 1	1	425069.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.7147039426377617	1
+11	Spectrogram 1	1	425069.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.5565726197687256	2

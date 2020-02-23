@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386060.mp3.wav	12.0	15.0	150	15000	wlwwar	Willow Warbler	0.10703518262802049	1
+2	Spectrogram 1	1	386060.mp3.wav	15.0	18.0	150	15000	blueth	Bluethroat	0.1794751164389793	1
+3	Spectrogram 1	1	386060.mp3.wav	15.0	18.0	150	15000	houfin	House Finch	0.17590430079449337	2
+4	Spectrogram 1	1	386060.mp3.wav	15.0	18.0	150	15000	redcro	Red Crossbill	0.15960101694963558	3
+5	Spectrogram 1	1	386060.mp3.wav	18.0	21.0	150	15000	redcro	Red Crossbill	0.6747470997972613	1
+6	Spectrogram 1	1	386060.mp3.wav	18.0	21.0	150	15000	whwcro	White-winged Crossbill	0.1587287857677876	2
+7	Spectrogram 1	1	386060.mp3.wav	18.0	21.0	150	15000	parcro2	Parrot Crossbill	0.11922472397358203	3
+8	Spectrogram 1	1	386060.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9982773134331387	1
+9	Spectrogram 1	1	386060.mp3.wav	27.0	30.0	150	15000	subwar1	Subalpine Warbler	0.8261721616807579	1
+10	Spectrogram 1	1	386060.mp3.wav	27.0	30.0	150	15000	sarwar1	Sardinian Warbler	0.35262175573452753	2
+11	Spectrogram 1	1	386060.mp3.wav	27.0	30.0	150	15000	leswhi1	Lesser Whitethroat	0.23066865332317302	3
+12	Spectrogram 1	1	386060.mp3.wav	3.0	6.0	150	15000	comchi1	Common Chiffchaff	0.16656095245463676	1
+13	Spectrogram 1	1	386060.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9998479214338682	1
+14	Spectrogram 1	1	386060.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9995409396324182	1
+15	Spectrogram 1	1	386060.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9997117942543315	1
+16	Spectrogram 1	1	386060.mp3.wav	6.0	9.0	150	15000	cirbun1	Cirl Bunting	0.5214537536644459	1
+17	Spectrogram 1	1	386060.mp3.wav	6.0	9.0	150	15000	rocbun1	Rock Bunting	0.458748725618361	2
+18	Spectrogram 1	1	386060.mp3.wav	6.0	9.0	150	15000	yellow2	Yellowhammer	0.21191290897246584	3
+19	Spectrogram 1	1	386060.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9247144019109726	1
+20	Spectrogram 1	1	386060.mp3.wav	9.0	12.0	150	15000	marwar3	Marsh Warbler	0.4163118655322962	2
+21	Spectrogram 1	1	386060.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.999124381993825	1

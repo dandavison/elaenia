@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	137501.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9121592848286925	1
+2	Spectrogram 1	1	137501.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.2691162671625213	2
+3	Spectrogram 1	1	137501.mp3.wav	12.0	15.0	150	15000	barwar1	Barred Warbler	0.2617700535504523	3
+4	Spectrogram 1	1	137501.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.8432412149990451	1
+5	Spectrogram 1	1	137501.mp3.wav	15.0	18.0	150	15000	barwar1	Barred Warbler	0.248557369022112	2
+6	Spectrogram 1	1	137501.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.12695329069059852	3
+7	Spectrogram 1	1	137501.mp3.wav	18.0	21.0	150	15000	hooori	Hooded Oriole	0.3071751360473638	1
+8	Spectrogram 1	1	137501.mp3.wav	18.0	21.0	150	15000	barwar1	Barred Warbler	0.2564071240078388	2
+9	Spectrogram 1	1	137501.mp3.wav	18.0	21.0	150	15000	orcori	Orchard Oriole	0.2549452325225214	3
+10	Spectrogram 1	1	137501.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9873576000255575	1
+11	Spectrogram 1	1	137501.mp3.wav	3.0	6.0	150	15000	barwar1	Barred Warbler	0.1083608760890236	2
+12	Spectrogram 1	1	137501.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9950668892418462	1
+13	Spectrogram 1	1	137501.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.962414824121224	1
+14	Spectrogram 1	1	137501.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.5108302280017918	2
+15	Spectrogram 1	1	137501.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9818741575126578	1
+16	Spectrogram 1	1	137501.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.310987288403878	2

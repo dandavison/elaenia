@@ -1,0 +1,37 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	325205.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.8272571503386544	1
+2	Spectrogram 1	1	325205.mp3.wav	12.0	15.0	150	15000	eurgre1	European Greenfinch	0.2979545773769744	2
+3	Spectrogram 1	1	325205.mp3.wav	15.0	18.0	150	15000	marwar3	Marsh Warbler	0.8291882936141509	1
+4	Spectrogram 1	1	325205.mp3.wav	15.0	18.0	150	15000	eurwar1	Eurasian Reed Warbler	0.38501994932116934	2
+5	Spectrogram 1	1	325205.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.31132267169844485	3
+6	Spectrogram 1	1	325205.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9948657808224578	1
+7	Spectrogram 1	1	325205.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.12411202833402557	2
+8	Spectrogram 1	1	325205.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9945072743560096	1
+9	Spectrogram 1	1	325205.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9701762602560194	1
+10	Spectrogram 1	1	325205.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.269191314272867	2
+11	Spectrogram 1	1	325205.mp3.wav	24.0	27.0	150	15000	blrwar1	Blyth's Reed Warbler	0.2502005055584903	3
+12	Spectrogram 1	1	325205.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9646536451127238	1
+13	Spectrogram 1	1	325205.mp3.wav	27.0	30.0	150	15000	marwar3	Marsh Warbler	0.188335625894183	2
+14	Spectrogram 1	1	325205.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9767588812511562	1
+15	Spectrogram 1	1	325205.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.8886976920684032	1
+16	Spectrogram 1	1	325205.mp3.wav	30.0	33.0	150	15000	eurgre1	European Greenfinch	0.6516519183406989	2
+17	Spectrogram 1	1	325205.mp3.wav	33.0	36.0	150	15000	eurgre1	European Greenfinch	0.9494589524646188	1
+18	Spectrogram 1	1	325205.mp3.wav	33.0	36.0	150	15000	sposta1	Spotless Starling	0.2209363166873365	2
+19	Spectrogram 1	1	325205.mp3.wav	36.0	39.0	150	15000	eurgre1	European Greenfinch	0.6535578544112253	1
+20	Spectrogram 1	1	325205.mp3.wav	36.0	39.0	150	15000	sposta1	Spotless Starling	0.518178056695804	2
+21	Spectrogram 1	1	325205.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.1693410396413509	3
+22	Spectrogram 1	1	325205.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.998204601366348	1
+23	Spectrogram 1	1	325205.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.4918274549582971	1
+24	Spectrogram 1	1	325205.mp3.wav	42.0	45.0	150	15000	eurwar1	Eurasian Reed Warbler	0.4774996746633261	2
+25	Spectrogram 1	1	325205.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.996853049230229	1
+26	Spectrogram 1	1	325205.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.20413780862345815	1
+27	Spectrogram 1	1	325205.mp3.wav	48.0	51.0	150	15000	sonthr1	Song Thrush	0.1967811621849183	2
+28	Spectrogram 1	1	325205.mp3.wav	48.0	51.0	150	15000	sposta1	Spotless Starling	0.18507500594679313	3
+29	Spectrogram 1	1	325205.mp3.wav	51.0	54.0	150	15000	eurwar1	Eurasian Reed Warbler	0.4830315781966131	1
+30	Spectrogram 1	1	325205.mp3.wav	51.0	54.0	150	15000	garwar1	Garden Warbler	0.25850470160717903	2
+31	Spectrogram 1	1	325205.mp3.wav	51.0	54.0	150	15000	marwar3	Marsh Warbler	0.12787182584364626	3
+32	Spectrogram 1	1	325205.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9987483696670053	1
+33	Spectrogram 1	1	325205.mp3.wav	9.0	12.0	150	15000	eurgre1	European Greenfinch	0.9698900624230294	1
+34	Spectrogram 1	1	325205.mp3.wav	9.0	12.0	150	15000	amegfi	American Goldfinch	0.17177004178425334	2
+35	Spectrogram 1	1	325205.mp3.wav	0.0	3.0	150	15000	norcar	Northern Cardinal	0.6609422927101428	1
+36	Spectrogram 1	1	325205.mp3.wav	0.0	3.0	150	15000	pyrrhu	Pyrrhuloxia	0.32417328195201167	2

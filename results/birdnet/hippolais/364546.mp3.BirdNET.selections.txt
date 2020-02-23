@@ -1,0 +1,40 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	364546.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.45899623170337556	1
+2	Spectrogram 1	1	364546.mp3.wav	12.0	15.0	150	15000	wooshr1	Woodchat Shrike	0.38247470795376554	2
+3	Spectrogram 1	1	364546.mp3.wav	12.0	15.0	150	15000	eurlin1	Eurasian Linnet	0.17131968405554315	3
+4	Spectrogram 1	1	364546.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9790207402186951	1
+5	Spectrogram 1	1	364546.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.1479317459968198	2
+6	Spectrogram 1	1	364546.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.1265668790823741	3
+7	Spectrogram 1	1	364546.mp3.wav	18.0	21.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.7797522503563474	1
+8	Spectrogram 1	1	364546.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.5257969393571423	2
+9	Spectrogram 1	1	364546.mp3.wav	18.0	21.0	150	15000	thelar1	Thekla's Lark	0.2739928294059729	3
+10	Spectrogram 1	1	364546.mp3.wav	21.0	24.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.4846362972550454	1
+11	Spectrogram 1	1	364546.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.45919867423045607	2
+12	Spectrogram 1	1	364546.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.29398055425070124	3
+13	Spectrogram 1	1	364546.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9956663570529942	1
+14	Spectrogram 1	1	364546.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9912475906008373	1
+15	Spectrogram 1	1	364546.mp3.wav	27.0	30.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.1737835583305235	2
+16	Spectrogram 1	1	364546.mp3.wav	3.0	6.0	150	15000	thelar1	Thekla's Lark	0.4712347709575129	1
+17	Spectrogram 1	1	364546.mp3.wav	3.0	6.0	150	15000	crelar2	Crested Lark	0.12352453772961358	2
+18	Spectrogram 1	1	364546.mp3.wav	30.0	33.0	150	15000	sagthr	Sage Thrasher	0.48953652218998817	1
+19	Spectrogram 1	1	364546.mp3.wav	30.0	33.0	150	15000	garwar1	Garden Warbler	0.3015662975109852	2
+20	Spectrogram 1	1	364546.mp3.wav	30.0	33.0	150	15000	cubthr	Curve-billed Thrasher	0.1997949894769422	3
+21	Spectrogram 1	1	364546.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.985781752900675	1
+22	Spectrogram 1	1	364546.mp3.wav	33.0	36.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.1221438992813969	2
+23	Spectrogram 1	1	364546.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9634376127468776	1
+24	Spectrogram 1	1	364546.mp3.wav	36.0	39.0	150	15000	garwar1	Garden Warbler	0.11951135260979388	2
+25	Spectrogram 1	1	364546.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9808498053485147	1
+26	Spectrogram 1	1	364546.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.34518633082504757	1
+27	Spectrogram 1	1	364546.mp3.wav	42.0	45.0	150	15000	marwar3	Marsh Warbler	0.2786969568924078	2
+28	Spectrogram 1	1	364546.mp3.wav	42.0	45.0	150	15000	sonthr1	Song Thrush	0.2573597673928749	3
+29	Spectrogram 1	1	364546.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9999050161015007	1
+30	Spectrogram 1	1	364546.mp3.wav	48.0	51.0	150	15000	verdin	Verdin	0.24869487457086395	1
+31	Spectrogram 1	1	364546.mp3.wav	6.0	9.0	150	15000	combul2	Common Bulbul	0.4782071542012032	1
+32	Spectrogram 1	1	364546.mp3.wav	6.0	9.0	150	15000	calthr	California Thrasher	0.2574872886668522	2
+33	Spectrogram 1	1	364546.mp3.wav	6.0	9.0	150	15000	weskin	Western Kingbird	0.21965015289828127	3
+34	Spectrogram 1	1	364546.mp3.wav	9.0	12.0	150	15000	combuz1	Common Buzzard	0.34670701806727094	1
+35	Spectrogram 1	1	364546.mp3.wav	9.0	12.0	150	15000	sonthr1	Song Thrush	0.1368192722632162	2
+36	Spectrogram 1	1	364546.mp3.wav	9.0	12.0	150	15000	eurrob1	European Robin	0.10424957718110095	3
+37	Spectrogram 1	1	364546.mp3.wav	0.0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.41523883441274545	1
+38	Spectrogram 1	1	364546.mp3.wav	0.0	3.0	150	15000	algnut1	Algerian Nuthatch	0.34406394187955924	2
+39	Spectrogram 1	1	364546.mp3.wav	0.0	3.0	150	15000	boowar1	Booted Warbler	0.12349477330357202	3

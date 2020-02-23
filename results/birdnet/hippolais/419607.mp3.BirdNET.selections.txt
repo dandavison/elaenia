@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	419607.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.8282827968122903	1
+2	Spectrogram 1	1	419607.mp3.wav	12.0	15.0	150	15000	padwar1	Paddyfield Warbler	0.19251840673962142	2
+3	Spectrogram 1	1	419607.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.16687113211414303	3
+4	Spectrogram 1	1	419607.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.8988520774409821	1
+5	Spectrogram 1	1	419607.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.47821920878822866	2
+6	Spectrogram 1	1	419607.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.23830540574839773	3
+7	Spectrogram 1	1	419607.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9518353952025653	1
+8	Spectrogram 1	1	419607.mp3.wav	3.0	6.0	150	15000	padwar1	Paddyfield Warbler	0.1064533995106007	2
+9	Spectrogram 1	1	419607.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9907973344883929	1
+10	Spectrogram 1	1	419607.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9990053282997686	1
+11	Spectrogram 1	1	419607.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.6559960895888767	1
+12	Spectrogram 1	1	419607.mp3.wav	0.0	3.0	150	15000	marwar3	Marsh Warbler	0.25304906818970435	2
+13	Spectrogram 1	1	419607.mp3.wav	0.0	3.0	150	15000	padwar1	Paddyfield Warbler	0.10750581919094347	3

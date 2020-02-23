@@ -1,0 +1,31 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	218001.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9990982522953246	1
+2	Spectrogram 1	1	218001.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9969013110471889	1
+3	Spectrogram 1	1	218001.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9988220059978384	1
+4	Spectrogram 1	1	218001.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9971038348273192	1
+5	Spectrogram 1	1	218001.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9982361632032656	1
+6	Spectrogram 1	1	218001.mp3.wav	27.0	30.0	150	15000	subwar8	Moltoni's Warbler	0.3514399790533167	1
+7	Spectrogram 1	1	218001.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.3377749685551028	2
+8	Spectrogram 1	1	218001.mp3.wav	27.0	30.0	150	15000	whinch1	Whinchat	0.2506764671607413	3
+9	Spectrogram 1	1	218001.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9978679573935655	1
+10	Spectrogram 1	1	218001.mp3.wav	30.0	33.0	150	15000	blared1	Black Redstart	0.8171236536967947	1
+11	Spectrogram 1	1	218001.mp3.wav	30.0	33.0	150	15000	yellow2	Yellowhammer	0.2568202212959624	2
+12	Spectrogram 1	1	218001.mp3.wav	30.0	33.0	150	15000	ortbun1	Ortolan Bunting	0.18325162020687275	3
+13	Spectrogram 1	1	218001.mp3.wav	33.0	36.0	150	15000	blared1	Black Redstart	0.34714762695604634	1
+14	Spectrogram 1	1	218001.mp3.wav	33.0	36.0	150	15000	blueth	Bluethroat	0.19453346132416133	2
+15	Spectrogram 1	1	218001.mp3.wav	33.0	36.0	150	15000	whinch1	Whinchat	0.17665105350289415	3
+16	Spectrogram 1	1	218001.mp3.wav	36.0	39.0	150	15000	yellow2	Yellowhammer	0.8548727864269259	1
+17	Spectrogram 1	1	218001.mp3.wav	36.0	39.0	150	15000	ortbun1	Ortolan Bunting	0.16536933117932995	2
+18	Spectrogram 1	1	218001.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.9314214538978134	1
+19	Spectrogram 1	1	218001.mp3.wav	39.0	42.0	150	15000	marwar3	Marsh Warbler	0.17651156257975706	2
+20	Spectrogram 1	1	218001.mp3.wav	39.0	42.0	150	15000	grewhi1	Greater Whitethroat	0.16760836910695107	3
+21	Spectrogram 1	1	218001.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.99913671371698	1
+22	Spectrogram 1	1	218001.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.9976366008442964	1
+23	Spectrogram 1	1	218001.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.9995446405220062	1
+24	Spectrogram 1	1	218001.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.9949002520541663	1
+25	Spectrogram 1	1	218001.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.992876054465731	1
+26	Spectrogram 1	1	218001.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9992013487677235	1
+27	Spectrogram 1	1	218001.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9983015668549597	1
+28	Spectrogram 1	1	218001.mp3.wav	0.0	3.0	150	15000	botspa	Botteri's Sparrow	0.20749311797040526	1
+29	Spectrogram 1	1	218001.mp3.wav	0.0	3.0	150	15000	casspa	Cassin's Sparrow	0.19453038331609276	2
+30	Spectrogram 1	1	218001.mp3.wav	0.0	3.0	150	15000	woolar1	Wood Lark	0.15226453572095291	3

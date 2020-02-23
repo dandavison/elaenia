@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	186114.mp3.wav	12.0	15.0	150	15000	grycat	Gray Catbird	0.18057362535510502	1
+2	Spectrogram 1	1	186114.mp3.wav	12.0	15.0	150	15000	eursta	European Starling	0.1311974917632269	2
+3	Spectrogram 1	1	186114.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.10062720963017693	3
+4	Spectrogram 1	1	186114.mp3.wav	3.0	6.0	150	15000	grycat	Gray Catbird	0.9094677987884464	1
+5	Spectrogram 1	1	186114.mp3.wav	3.0	6.0	150	15000	buggna	Blue-gray Gnatcatcher	0.38571364256094287	2
+6	Spectrogram 1	1	186114.mp3.wav	6.0	9.0	150	15000	grycat	Gray Catbird	0.23730473388354847	1
+7	Spectrogram 1	1	186114.mp3.wav	6.0	9.0	150	15000	wiltit1	Willow Tit	0.18124922941668062	2
+8	Spectrogram 1	1	186114.mp3.wav	6.0	9.0	150	15000	buggna	Blue-gray Gnatcatcher	0.11405610962088296	3
+9	Spectrogram 1	1	186114.mp3.wav	9.0	12.0	150	15000	grycat	Gray Catbird	0.8846491891997194	1
+10	Spectrogram 1	1	186114.mp3.wav	9.0	12.0	150	15000	buggna	Blue-gray Gnatcatcher	0.14490061083266148	2
+11	Spectrogram 1	1	186114.mp3.wav	9.0	12.0	150	15000	gyhchi	Gray-headed Chickadee	0.14047990760736445	3
+12	Spectrogram 1	1	186114.mp3.wav	0.0	3.0	150	15000	sposta1	Spotless Starling	0.23601948077736215	1
+13	Spectrogram 1	1	186114.mp3.wav	0.0	3.0	150	15000	eursta	European Starling	0.1640111765162437	2

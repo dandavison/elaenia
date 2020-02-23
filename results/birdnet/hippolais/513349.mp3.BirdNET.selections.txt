@@ -1,0 +1,14 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	513349.mp3.wav	12.0	15.0	150	15000	eurlin1	Eurasian Linnet	0.6606684684500485	1
+2	Spectrogram 1	1	513349.mp3.wav	12.0	15.0	150	15000	barwar1	Barred Warbler	0.16677222033177386	2
+3	Spectrogram 1	1	513349.mp3.wav	15.0	18.0	150	15000	ortbun1	Ortolan Bunting	0.9375545276615725	1
+4	Spectrogram 1	1	513349.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.8760486794556125	1
+5	Spectrogram 1	1	513349.mp3.wav	3.0	6.0	150	15000	eurlin1	Eurasian Linnet	0.39220549235552127	2
+6	Spectrogram 1	1	513349.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.8360175722830675	1
+7	Spectrogram 1	1	513349.mp3.wav	6.0	9.0	150	15000	mouwar1	Moustached Warbler	0.161793786167044	2
+8	Spectrogram 1	1	513349.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.3026341372915791	1
+9	Spectrogram 1	1	513349.mp3.wav	9.0	12.0	150	15000	rerswa1	Red-rumped Swallow	0.27370396606219244	2
+10	Spectrogram 1	1	513349.mp3.wav	9.0	12.0	150	15000	litter1	Little Tern	0.2047998100045028	3
+11	Spectrogram 1	1	513349.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.820973687926803	1
+12	Spectrogram 1	1	513349.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.2006284200960457	2
+13	Spectrogram 1	1	513349.mp3.wav	0.0	3.0	150	15000	thelar1	Thekla's Lark	0.185845478835543	3

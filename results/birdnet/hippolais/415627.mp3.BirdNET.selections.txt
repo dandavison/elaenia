@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	415627.mp3.wav	12.0	15.0	150	15000	blackc1	Eurasian Blackcap	0.7954609066179458	1
+2	Spectrogram 1	1	415627.mp3.wav	12.0	15.0	150	15000	eurbla	Eurasian Blackbird	0.46694322486262624	2
+3	Spectrogram 1	1	415627.mp3.wav	12.0	15.0	150	15000	sonthr1	Song Thrush	0.37971836030356293	3
+4	Spectrogram 1	1	415627.mp3.wav	15.0	18.0	150	15000	marwar3	Marsh Warbler	0.975595319997997	1
+5	Spectrogram 1	1	415627.mp3.wav	15.0	18.0	150	15000	blackc1	Eurasian Blackcap	0.1220599577006768	2
+6	Spectrogram 1	1	415627.mp3.wav	15.0	18.0	150	15000	cetwar1	Cetti's Warbler	0.10237791072946258	3
+7	Spectrogram 1	1	415627.mp3.wav	18.0	21.0	150	15000	eurbla	Eurasian Blackbird	0.717442872028119	1
+8	Spectrogram 1	1	415627.mp3.wav	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.5817149705581854	2
+9	Spectrogram 1	1	415627.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.22466969498750344	3
+10	Spectrogram 1	1	415627.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.8232670428112497	1
+11	Spectrogram 1	1	415627.mp3.wav	21.0	24.0	150	15000	weowar1	Western Olivaceous Warbler	0.4291335809034257	2
+12	Spectrogram 1	1	415627.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.336142476642373	3
+13	Spectrogram 1	1	415627.mp3.wav	3.0	6.0	150	15000	comred2	Common Redstart	0.6379726011177705	1
+14	Spectrogram 1	1	415627.mp3.wav	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.4840853323014177	2
+15	Spectrogram 1	1	415627.mp3.wav	3.0	6.0	150	15000	grewhi1	Greater Whitethroat	0.30411115562442825	3
+16	Spectrogram 1	1	415627.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.45553197772545956	1
+17	Spectrogram 1	1	415627.mp3.wav	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.4223621792388872	2
+18	Spectrogram 1	1	415627.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.40852103739633594	3
+19	Spectrogram 1	1	415627.mp3.wav	9.0	12.0	150	15000	marwar3	Marsh Warbler	0.9948275860427701	1
+20	Spectrogram 1	1	415627.mp3.wav	0.0	3.0	150	15000	marwar3	Marsh Warbler	0.9987650636469989	1

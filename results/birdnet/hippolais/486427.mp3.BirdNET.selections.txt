@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	486427.mp3.wav	12.0	15.0	150	15000	eutdov	European Turtle-Dove	0.7090826044914241	1
+2	Spectrogram 1	1	486427.mp3.wav	12.0	15.0	150	15000	grewhi1	Greater Whitethroat	0.4321475796080709	2
+3	Spectrogram 1	1	486427.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.14471701667192546	3
+4	Spectrogram 1	1	486427.mp3.wav	15.0	18.0	150	15000	bearee1	Bearded Reedling	0.6676337051846496	1
+5	Spectrogram 1	1	486427.mp3.wav	15.0	18.0	150	15000	blhbun1	Black-headed Bunting	0.12482446671542957	2
+6	Spectrogram 1	1	486427.mp3.wav	18.0	21.0	150	15000	eutdov	European Turtle-Dove	0.5459989480282925	1
+7	Spectrogram 1	1	486427.mp3.wav	18.0	21.0	150	15000	stonec4	European Stonechat	0.12089355920358587	2
+8	Spectrogram 1	1	486427.mp3.wav	21.0	24.0	150	15000	eutdov	European Turtle-Dove	0.7164750479879214	1
+9	Spectrogram 1	1	486427.mp3.wav	21.0	24.0	150	15000	stonec4	European Stonechat	0.4263430644340319	2
+10	Spectrogram 1	1	486427.mp3.wav	3.0	6.0	150	15000	grewhi1	Greater Whitethroat	0.8547002705539486	1
+11	Spectrogram 1	1	486427.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.2389514318010989	2
+12	Spectrogram 1	1	486427.mp3.wav	3.0	6.0	150	15000	subwar1	Subalpine Warbler	0.11189770090257603	3
+13	Spectrogram 1	1	486427.mp3.wav	6.0	9.0	150	15000	subwar1	Subalpine Warbler	0.2550013702771922	1
+14	Spectrogram 1	1	486427.mp3.wav	6.0	9.0	150	15000	wooshr1	Woodchat Shrike	0.19324897001012206	2
+15	Spectrogram 1	1	486427.mp3.wav	6.0	9.0	150	15000	sarwar1	Sardinian Warbler	0.1765439281467448	3
+16	Spectrogram 1	1	486427.mp3.wav	9.0	12.0	150	15000	grewhi1	Greater Whitethroat	0.20493292882609587	1
+17	Spectrogram 1	1	486427.mp3.wav	9.0	12.0	150	15000	alpacc1	Alpine Accentor	0.19961364186987898	2
+18	Spectrogram 1	1	486427.mp3.wav	9.0	12.0	150	15000	burthr	Blue Rock-Thrush	0.18564418775943783	3
+19	Spectrogram 1	1	486427.mp3.wav	0.0	3.0	150	15000	grewhi1	Greater Whitethroat	0.3285852276866202	1
+20	Spectrogram 1	1	486427.mp3.wav	0.0	3.0	150	15000	whinch1	Whinchat	0.2630314406665595	2

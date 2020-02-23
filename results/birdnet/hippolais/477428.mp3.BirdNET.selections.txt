@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	477428.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.8252857663719448	1
+2	Spectrogram 1	1	477428.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.30338693030064645	2
+3	Spectrogram 1	1	477428.mp3.wav	12.0	15.0	150	15000	barwar1	Barred Warbler	0.14374299925360648	3
+4	Spectrogram 1	1	477428.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.7319192962623607	1
+5	Spectrogram 1	1	477428.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.43099085107893353	2
+6	Spectrogram 1	1	477428.mp3.wav	15.0	18.0	150	15000	grewhi1	Greater Whitethroat	0.13098788095971048	3
+7	Spectrogram 1	1	477428.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.7355738853031628	1
+8	Spectrogram 1	1	477428.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.5277293202138529	2
+9	Spectrogram 1	1	477428.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.8832994232244288	1
+10	Spectrogram 1	1	477428.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.6421657924017778	2
+11	Spectrogram 1	1	477428.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.8095402399502525	1
+12	Spectrogram 1	1	477428.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.5427487833671952	2
+13	Spectrogram 1	1	477428.mp3.wav	9.0	12.0	150	15000	barwar1	Barred Warbler	0.12389409508576943	3
+14	Spectrogram 1	1	477428.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.8952801584296227	1
+15	Spectrogram 1	1	477428.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.35397397698347144	2
+16	Spectrogram 1	1	477428.mp3.wav	0.0	3.0	150	15000	barwar1	Barred Warbler	0.1928065237731541	3

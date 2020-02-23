@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	486947.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.994962960616329	1
+2	Spectrogram 1	1	486947.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9950569119166026	1
+3	Spectrogram 1	1	486947.mp3.wav	15.0	18.0	150	15000	barwar1	Barred Warbler	0.1555150035355109	2
+4	Spectrogram 1	1	486947.mp3.wav	18.0	21.0	150	15000	rinphe	Ring-necked Pheasant	0.9885755852989089	1
+5	Spectrogram 1	1	486947.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9979012940064786	1
+6	Spectrogram 1	1	486947.mp3.wav	24.0	27.0	150	15000	rinphe	Ring-necked Pheasant	0.9993992564953201	1
+7	Spectrogram 1	1	486947.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9792167105667005	1
+8	Spectrogram 1	1	486947.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9522263109898348	1
+9	Spectrogram 1	1	486947.mp3.wav	3.0	6.0	150	15000	barwar1	Barred Warbler	0.1581411788284259	2
+10	Spectrogram 1	1	486947.mp3.wav	3.0	6.0	150	15000	rinphe	Ring-necked Pheasant	0.13690093360718472	3
+11	Spectrogram 1	1	486947.mp3.wav	30.0	33.0	150	15000	macwar	MacGillivray's Warbler	0.3990539042644388	1
+12	Spectrogram 1	1	486947.mp3.wav	30.0	33.0	150	15000	hawfin	Hawfinch	0.3348733735882652	2
+13	Spectrogram 1	1	486947.mp3.wav	30.0	33.0	150	15000	eurrob1	European Robin	0.15660491911494073	3
+14	Spectrogram 1	1	486947.mp3.wav	33.0	36.0	150	15000	rinphe	Ring-necked Pheasant	0.9997869050009235	1
+15	Spectrogram 1	1	486947.mp3.wav	36.0	39.0	150	15000	rinphe	Ring-necked Pheasant	0.9984920098929249	1
+16	Spectrogram 1	1	486947.mp3.wav	39.0	42.0	150	15000	rinphe	Ring-necked Pheasant	0.999224523183287	1
+17	Spectrogram 1	1	486947.mp3.wav	42.0	45.0	150	15000	rinphe	Ring-necked Pheasant	0.9999100939992972	1
+18	Spectrogram 1	1	486947.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.6003325270698227	1
+19	Spectrogram 1	1	486947.mp3.wav	6.0	9.0	150	15000	rinphe	Ring-necked Pheasant	0.41660832420887267	2
+20	Spectrogram 1	1	486947.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9366934929440242	1
+21	Spectrogram 1	1	486947.mp3.wav	9.0	12.0	150	15000	barwar1	Barred Warbler	0.18057108916764675	2
+22	Spectrogram 1	1	486947.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.14406014331900377	3
+23	Spectrogram 1	1	486947.mp3.wav	0.0	3.0	150	15000	rinphe	Ring-necked Pheasant	0.9955210704927363	1

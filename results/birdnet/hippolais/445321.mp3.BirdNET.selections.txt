@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	445321.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9758442000617106	1
+2	Spectrogram 1	1	445321.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.37521639295700004	2
+3	Spectrogram 1	1	445321.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.8171629212980762	1
+4	Spectrogram 1	1	445321.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.6502917250158317	2
+5	Spectrogram 1	1	445321.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.2043701922832452	3
+6	Spectrogram 1	1	445321.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.7129464830816397	1
+7	Spectrogram 1	1	445321.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.2537218590256612	2
+8	Spectrogram 1	1	445321.mp3.wav	18.0	21.0	150	15000	eurwar1	Eurasian Reed Warbler	0.2365132055968595	3
+9	Spectrogram 1	1	445321.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.8501980850920358	1
+10	Spectrogram 1	1	445321.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.32539546809628966	2
+11	Spectrogram 1	1	445321.mp3.wav	21.0	24.0	150	15000	weowar1	Western Olivaceous Warbler	0.23370713395655415	3
+12	Spectrogram 1	1	445321.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.7501716628806117	1
+13	Spectrogram 1	1	445321.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.5834152974272905	2
+14	Spectrogram 1	1	445321.mp3.wav	24.0	27.0	150	15000	weowar1	Western Olivaceous Warbler	0.2196505923632755	3
+15	Spectrogram 1	1	445321.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.999838392994988	1
+16	Spectrogram 1	1	445321.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9673860850857018	1
+17	Spectrogram 1	1	445321.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.20743710740882748	2
+18	Spectrogram 1	1	445321.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9998660984198395	1
+19	Spectrogram 1	1	445321.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.24177928938179583	1
+20	Spectrogram 1	1	445321.mp3.wav	33.0	36.0	150	15000	blackc1	Eurasian Blackcap	0.10228983861534185	2
+21	Spectrogram 1	1	445321.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9977970531455965	1
+22	Spectrogram 1	1	445321.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9994877678995154	1
+23	Spectrogram 1	1	445321.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9967868451629605	1

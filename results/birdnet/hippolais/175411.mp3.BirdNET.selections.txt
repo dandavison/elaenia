@@ -1,0 +1,16 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	175411.mp3.wav	12.0	15.0	150	15000	grewhi1	Greater Whitethroat	0.3154526627259127	1
+2	Spectrogram 1	1	175411.mp3.wav	12.0	15.0	150	15000	padwar1	Paddyfield Warbler	0.2626224608672096	2
+3	Spectrogram 1	1	175411.mp3.wav	12.0	15.0	150	15000	barwar1	Barred Warbler	0.17534324219022612	3
+4	Spectrogram 1	1	175411.mp3.wav	15.0	18.0	150	15000	purswa1	Western Swamphen	0.5050367320847123	1
+5	Spectrogram 1	1	175411.mp3.wav	15.0	18.0	150	15000	compoc	Common Pochard	0.18409710750929306	2
+6	Spectrogram 1	1	175411.mp3.wav	21.0	24.0	150	15000	compoc	Common Pochard	0.11763789812944238	1
+7	Spectrogram 1	1	175411.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.17052866604324213	1
+8	Spectrogram 1	1	175411.mp3.wav	27.0	30.0	150	15000	eubeat1	European Bee-eater	0.4901393841815646	1
+9	Spectrogram 1	1	175411.mp3.wav	27.0	30.0	150	15000	sarwar1	Sardinian Warbler	0.4548296120161554	2
+10	Spectrogram 1	1	175411.mp3.wav	27.0	30.0	150	15000	subwar1	Subalpine Warbler	0.27783054475811697	3
+11	Spectrogram 1	1	175411.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.954535713069187	1
+12	Spectrogram 1	1	175411.mp3.wav	3.0	6.0	150	15000	padwar1	Paddyfield Warbler	0.13754595352819618	2
+13	Spectrogram 1	1	175411.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9872876437132313	1
+14	Spectrogram 1	1	175411.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9913908831061744	1
+15	Spectrogram 1	1	175411.mp3.wav	0.0	3.0	150	15000	mouwar1	Moustached Warbler	0.27152595823994935	1

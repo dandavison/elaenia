@@ -1,0 +1,93 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	292862.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.5749782642839735	1
+2	Spectrogram 1	1	292862.mp3.wav	12.0	15.0	150	15000	herthr	Hermit Thrush	0.3383003048207216	2
+3	Spectrogram 1	1	292862.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9906438640998575	1
+4	Spectrogram 1	1	292862.mp3.wav	15.0	18.0	150	15000	blrwar1	Blyth's Reed Warbler	0.23787119988643027	2
+5	Spectrogram 1	1	292862.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9897490358900111	1
+6	Spectrogram 1	1	292862.mp3.wav	18.0	21.0	150	15000	weowar1	Western Olivaceous Warbler	0.46574916453185516	2
+7	Spectrogram 1	1	292862.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9995141716559024	1
+8	Spectrogram 1	1	292862.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9993638145143809	1
+9	Spectrogram 1	1	292862.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9988113875637994	1
+10	Spectrogram 1	1	292862.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9999735896122693	1
+11	Spectrogram 1	1	292862.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9984103980995417	1
+12	Spectrogram 1	1	292862.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9982633435193811	1
+13	Spectrogram 1	1	292862.mp3.wav	36.0	39.0	150	15000	weowar1	Western Olivaceous Warbler	0.772245452360997	1
+14	Spectrogram 1	1	292862.mp3.wav	36.0	39.0	150	15000	garwar1	Garden Warbler	0.269886912802706	2
+15	Spectrogram 1	1	292862.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.23937026735375883	3
+16	Spectrogram 1	1	292862.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.21034963680731766	1
+17	Spectrogram 1	1	292862.mp3.wav	39.0	42.0	150	15000	sonthr1	Song Thrush	0.1402024877964815	2
+18	Spectrogram 1	1	292862.mp3.wav	42.0	45.0	150	15000	euroys1	Eurasian Oystercatcher	0.5679191542207608	1
+19	Spectrogram 1	1	292862.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.3936764967426171	2
+20	Spectrogram 1	1	292862.mp3.wav	42.0	45.0	150	15000	marwar3	Marsh Warbler	0.30375463003142006	3
+21	Spectrogram 1	1	292862.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.8784440845990158	1
+22	Spectrogram 1	1	292862.mp3.wav	45.0	48.0	150	15000	sonthr1	Song Thrush	0.4771416168764567	2
+23	Spectrogram 1	1	292862.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.9999305893007182	1
+24	Spectrogram 1	1	292862.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.9994377270338791	1
+25	Spectrogram 1	1	292862.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.9996946799912583	1
+26	Spectrogram 1	1	292862.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.9998841031798568	1
+27	Spectrogram 1	1	292862.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9999722239009008	1
+28	Spectrogram 1	1	292862.mp3.wav	9.0	12.0	150	15000	herthr	Hermit Thrush	0.6536772773862308	1
+29	Spectrogram 1	1	292862.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.11244425364808779	2
+30	Spectrogram 1	1	292862.mp3.wav	60.0	63.0	150	15000	ictwar1	Icterine Warbler	0.9994332757449631	1
+31	Spectrogram 1	1	292862.mp3.wav	72.0	75.0	150	15000	ictwar1	Icterine Warbler	0.9997315705256893	1
+32	Spectrogram 1	1	292862.mp3.wav	75.0	78.0	150	15000	ictwar1	Icterine Warbler	0.9977382812225413	1
+33	Spectrogram 1	1	292862.mp3.wav	78.0	81.0	150	15000	ictwar1	Icterine Warbler	0.9998422139485973	1
+34	Spectrogram 1	1	292862.mp3.wav	81.0	84.0	150	15000	ictwar1	Icterine Warbler	0.9993104265353014	1
+35	Spectrogram 1	1	292862.mp3.wav	84.0	87.0	150	15000	wlswar	Wilson's Warbler	0.10733326052612371	1
+36	Spectrogram 1	1	292862.mp3.wav	87.0	90.0	150	15000	herthr	Hermit Thrush	0.8828844288912235	1
+37	Spectrogram 1	1	292862.mp3.wav	63.0	66.0	150	15000	ictwar1	Icterine Warbler	0.9996248406930567	1
+38	Spectrogram 1	1	292862.mp3.wav	90.0	93.0	150	15000	marwar3	Marsh Warbler	0.8261030966354805	1
+39	Spectrogram 1	1	292862.mp3.wav	90.0	93.0	150	15000	ictwar1	Icterine Warbler	0.6192302107583812	2
+40	Spectrogram 1	1	292862.mp3.wav	90.0	93.0	150	15000	melwar1	Melodious Warbler	0.12428056426936682	3
+41	Spectrogram 1	1	292862.mp3.wav	93.0	96.0	150	15000	barswa	Barn Swallow	0.22205825312340932	1
+42	Spectrogram 1	1	292862.mp3.wav	93.0	96.0	150	15000	eurgol	European Goldfinch	0.2042417263931564	2
+43	Spectrogram 1	1	292862.mp3.wav	96.0	99.0	150	15000	ictwar1	Icterine Warbler	0.9999318702923331	1
+44	Spectrogram 1	1	292862.mp3.wav	99.0	102.0	150	15000	marwar3	Marsh Warbler	0.9894858811841524	1
+45	Spectrogram 1	1	292862.mp3.wav	99.0	102.0	150	15000	ictwar1	Icterine Warbler	0.2215547733128363	2
+46	Spectrogram 1	1	292862.mp3.wav	99.0	102.0	150	15000	blrwar1	Blyth's Reed Warbler	0.14264062133805055	3
+47	Spectrogram 1	1	292862.mp3.wav	102.0	105.0	150	15000	ictwar1	Icterine Warbler	0.9993452673677998	1
+48	Spectrogram 1	1	292862.mp3.wav	105.0	108.0	150	15000	ictwar1	Icterine Warbler	0.9963004132838943	1
+49	Spectrogram 1	1	292862.mp3.wav	108.0	111.0	150	15000	ictwar1	Icterine Warbler	0.996651343190232	1
+50	Spectrogram 1	1	292862.mp3.wav	111.0	114.0	150	15000	ictwar1	Icterine Warbler	0.997914681427301	1
+51	Spectrogram 1	1	292862.mp3.wav	114.0	117.0	150	15000	ictwar1	Icterine Warbler	0.9727624160429662	1
+52	Spectrogram 1	1	292862.mp3.wav	114.0	117.0	150	15000	marwar3	Marsh Warbler	0.23906988966896814	2
+53	Spectrogram 1	1	292862.mp3.wav	114.0	117.0	150	15000	melwar1	Melodious Warbler	0.20323769352096366	3
+54	Spectrogram 1	1	292862.mp3.wav	117.0	120.0	150	15000	ictwar1	Icterine Warbler	0.9997238644718274	1
+55	Spectrogram 1	1	292862.mp3.wav	66.0	69.0	150	15000	martit2	Marsh Tit	0.7469535358220418	1
+56	Spectrogram 1	1	292862.mp3.wav	69.0	72.0	150	15000	ictwar1	Icterine Warbler	0.9381534531344754	1
+57	Spectrogram 1	1	292862.mp3.wav	69.0	72.0	150	15000	marwar3	Marsh Warbler	0.3007835492951357	2
+58	Spectrogram 1	1	292862.mp3.wav	120.0	123.0	150	15000	ictwar1	Icterine Warbler	0.9997170429896205	1
+59	Spectrogram 1	1	292862.mp3.wav	132.0	135.0	150	15000	ictwar1	Icterine Warbler	0.9997575272830871	1
+60	Spectrogram 1	1	292862.mp3.wav	135.0	138.0	150	15000	ictwar1	Icterine Warbler	0.99981224029783	1
+61	Spectrogram 1	1	292862.mp3.wav	138.0	141.0	150	15000	ictwar1	Icterine Warbler	0.9992850309979844	1
+62	Spectrogram 1	1	292862.mp3.wav	141.0	144.0	150	15000	weowar1	Western Olivaceous Warbler	0.395598354786871	1
+63	Spectrogram 1	1	292862.mp3.wav	141.0	144.0	150	15000	ictwar1	Icterine Warbler	0.17797469719057535	2
+64	Spectrogram 1	1	292862.mp3.wav	141.0	144.0	150	15000	garwar1	Garden Warbler	0.1079129647088684	3
+65	Spectrogram 1	1	292862.mp3.wav	144.0	147.0	150	15000	ictwar1	Icterine Warbler	0.9994811125247327	1
+66	Spectrogram 1	1	292862.mp3.wav	147.0	150.0	150	15000	ictwar1	Icterine Warbler	0.9994847384182363	1
+67	Spectrogram 1	1	292862.mp3.wav	123.0	126.0	150	15000	ictwar1	Icterine Warbler	0.99861071437331	1
+68	Spectrogram 1	1	292862.mp3.wav	150.0	153.0	150	15000	ictwar1	Icterine Warbler	0.9993711645095369	1
+69	Spectrogram 1	1	292862.mp3.wav	153.0	156.0	150	15000	ictwar1	Icterine Warbler	0.7463021952867488	1
+70	Spectrogram 1	1	292862.mp3.wav	153.0	156.0	150	15000	weowar1	Western Olivaceous Warbler	0.46106703477259836	2
+71	Spectrogram 1	1	292862.mp3.wav	153.0	156.0	150	15000	blrwar1	Blyth's Reed Warbler	0.33052777462231075	3
+72	Spectrogram 1	1	292862.mp3.wav	156.0	159.0	150	15000	ictwar1	Icterine Warbler	0.9972855032416642	1
+73	Spectrogram 1	1	292862.mp3.wav	159.0	162.0	150	15000	euroys1	Eurasian Oystercatcher	0.7701823057618089	1
+74	Spectrogram 1	1	292862.mp3.wav	159.0	162.0	150	15000	sonthr1	Song Thrush	0.6213266149932762	2
+75	Spectrogram 1	1	292862.mp3.wav	159.0	162.0	150	15000	ictwar1	Icterine Warbler	0.1402318777174554	3
+76	Spectrogram 1	1	292862.mp3.wav	162.0	165.0	150	15000	sonthr1	Song Thrush	0.5648603121495047	1
+77	Spectrogram 1	1	292862.mp3.wav	162.0	165.0	150	15000	ictwar1	Icterine Warbler	0.4655468176209372	2
+78	Spectrogram 1	1	292862.mp3.wav	162.0	165.0	150	15000	atlfly1	Atlas Flycatcher	0.3203087786050914	3
+79	Spectrogram 1	1	292862.mp3.wav	165.0	168.0	150	15000	euroys1	Eurasian Oystercatcher	0.888610058204711	1
+80	Spectrogram 1	1	292862.mp3.wav	165.0	168.0	150	15000	sonthr1	Song Thrush	0.2889606468106696	2
+81	Spectrogram 1	1	292862.mp3.wav	168.0	171.0	150	15000	ictwar1	Icterine Warbler	0.9960348468987364	1
+82	Spectrogram 1	1	292862.mp3.wav	171.0	174.0	150	15000	ictwar1	Icterine Warbler	0.999619860763377	1
+83	Spectrogram 1	1	292862.mp3.wav	174.0	177.0	150	15000	ictwar1	Icterine Warbler	0.9982046467756664	1
+84	Spectrogram 1	1	292862.mp3.wav	177.0	180.0	150	15000	ictwar1	Icterine Warbler	0.9970654102522437	1
+85	Spectrogram 1	1	292862.mp3.wav	126.0	129.0	150	15000	ictwar1	Icterine Warbler	0.9997827744143692	1
+86	Spectrogram 1	1	292862.mp3.wav	129.0	132.0	150	15000	ictwar1	Icterine Warbler	0.9998056394273578	1
+87	Spectrogram 1	1	292862.mp3.wav	180.0	183.0	150	15000	ictwar1	Icterine Warbler	0.9995623519575683	1
+88	Spectrogram 1	1	292862.mp3.wav	183.0	186.0	150	15000	ictwar1	Icterine Warbler	0.9997676667305071	1
+89	Spectrogram 1	1	292862.mp3.wav	186.0	189.0	150	15000	ictwar1	Icterine Warbler	0.9986840221372608	1
+90	Spectrogram 1	1	292862.mp3.wav	186.0	189.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1669816179019707	2
+91	Spectrogram 1	1	292862.mp3.wav	189.0	192.0	150	15000	ictwar1	Icterine Warbler	0.9991883369661173	1
+92	Spectrogram 1	1	292862.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9993916675711474	1

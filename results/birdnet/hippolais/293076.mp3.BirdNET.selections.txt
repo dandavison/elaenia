@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	293076.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.25746771888013364	1
+2	Spectrogram 1	1	293076.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.21994904545241942	2
+3	Spectrogram 1	1	293076.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.20725662714439388	3
+4	Spectrogram 1	1	293076.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.7160248440871803	1
+5	Spectrogram 1	1	293076.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.4605303289768098	2
+6	Spectrogram 1	1	293076.mp3.wav	3.0	6.0	150	15000	weowar1	Western Olivaceous Warbler	0.16033889365765325	3
+7	Spectrogram 1	1	293076.mp3.wav	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.1338334550018772	1
+8	Spectrogram 1	1	293076.mp3.wav	6.0	9.0	150	15000	sposta1	Spotless Starling	0.131532259346549	2
+9	Spectrogram 1	1	293076.mp3.wav	6.0	9.0	150	15000	comwax	Common Waxbill	0.1271010606141932	3
+10	Spectrogram 1	1	293076.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.36127369103414625	1
+11	Spectrogram 1	1	293076.mp3.wav	0.0	3.0	150	15000	weowar1	Western Olivaceous Warbler	0.2536082863579463	2
+12	Spectrogram 1	1	293076.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.14919634281127567	3

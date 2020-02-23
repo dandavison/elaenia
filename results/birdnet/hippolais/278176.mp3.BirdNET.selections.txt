@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	278176.mp3.wav	12.0	15.0	150	15000	subwar1	Subalpine Warbler	0.38411910480898503	1
+2	Spectrogram 1	1	278176.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.2710854931259377	2
+3	Spectrogram 1	1	278176.mp3.wav	12.0	15.0	150	15000	sarwar1	Sardinian Warbler	0.2448321569059899	3
+4	Spectrogram 1	1	278176.mp3.wav	15.0	18.0	150	15000	subwar1	Subalpine Warbler	0.5595927245235705	1
+5	Spectrogram 1	1	278176.mp3.wav	15.0	18.0	150	15000	blackc1	Eurasian Blackcap	0.4513615940161905	2
+6	Spectrogram 1	1	278176.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.40761966374698577	3
+7	Spectrogram 1	1	278176.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.45506890330471966	1
+8	Spectrogram 1	1	278176.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.11244131983634667	2
+9	Spectrogram 1	1	278176.mp3.wav	3.0	6.0	150	15000	hutvir	Hutton's Vireo	0.26160723384237244	1
+10	Spectrogram 1	1	278176.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.221666369301077	2
+11	Spectrogram 1	1	278176.mp3.wav	3.0	6.0	150	15000	wooshr1	Woodchat Shrike	0.12712842276028563	3
+12	Spectrogram 1	1	278176.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.732787697180431	1
+13	Spectrogram 1	1	278176.mp3.wav	9.0	12.0	150	15000	barwar1	Barred Warbler	0.31996212919875056	1
+14	Spectrogram 1	1	278176.mp3.wav	9.0	12.0	150	15000	sibrub	Siberian Rubythroat	0.24709168417013336	2
+15	Spectrogram 1	1	278176.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.2099008654530105	3
+16	Spectrogram 1	1	278176.mp3.wav	0.0	3.0	150	15000	wooshr1	Woodchat Shrike	0.6396214032421733	1
+17	Spectrogram 1	1	278176.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.48548497516285516	2
+18	Spectrogram 1	1	278176.mp3.wav	0.0	3.0	150	15000	barwar1	Barred Warbler	0.16386869667558907	3

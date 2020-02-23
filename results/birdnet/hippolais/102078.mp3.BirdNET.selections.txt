@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	102078.mp3.wav	12.0	15.0	150	15000	carcro1	Carrion Crow	0.5984327936798106	1
+2	Spectrogram 1	1	102078.mp3.wav	12.0	15.0	150	15000	hoocro1	Hooded Crow	0.42897480020731865	2
+3	Spectrogram 1	1	102078.mp3.wav	15.0	18.0	150	15000	carcro1	Carrion Crow	0.6671383887061356	1
+4	Spectrogram 1	1	102078.mp3.wav	15.0	18.0	150	15000	hoocro1	Hooded Crow	0.4710207219661498	2
+5	Spectrogram 1	1	102078.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.1305325431044275	3
+6	Spectrogram 1	1	102078.mp3.wav	18.0	21.0	150	15000	carcro1	Carrion Crow	0.7143431235143638	1
+7	Spectrogram 1	1	102078.mp3.wav	18.0	21.0	150	15000	hoocro1	Hooded Crow	0.5710553296115095	2
+8	Spectrogram 1	1	102078.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.3280070249562317	1
+9	Spectrogram 1	1	102078.mp3.wav	3.0	6.0	150	15000	blrwar1	Blyth's Reed Warbler	0.26836666110593743	2
+10	Spectrogram 1	1	102078.mp3.wav	6.0	9.0	150	15000	carcro1	Carrion Crow	0.36230095220298353	1
+11	Spectrogram 1	1	102078.mp3.wav	6.0	9.0	150	15000	hoocro1	Hooded Crow	0.3050425668210882	2
+12	Spectrogram 1	1	102078.mp3.wav	6.0	9.0	150	15000	leswhi1	Lesser Whitethroat	0.18502020441563002	3
+13	Spectrogram 1	1	102078.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9238814354681139	1
+14	Spectrogram 1	1	102078.mp3.wav	9.0	12.0	150	15000	weowar1	Western Olivaceous Warbler	0.41083894523305337	2
+15	Spectrogram 1	1	102078.mp3.wav	0.0	3.0	150	15000	carcro1	Carrion Crow	0.5851718181129716	1
+16	Spectrogram 1	1	102078.mp3.wav	0.0	3.0	150	15000	hoocro1	Hooded Crow	0.4869071216309121	2

@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	319420.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9274403798070352	1
+2	Spectrogram 1	1	319420.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.742623619388915	2
+3	Spectrogram 1	1	319420.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.7029653506051028	1
+4	Spectrogram 1	1	319420.mp3.wav	15.0	18.0	150	15000	weowar1	Western Olivaceous Warbler	0.5975604095119256	2
+5	Spectrogram 1	1	319420.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.6011139761445432	1
+6	Spectrogram 1	1	319420.mp3.wav	18.0	21.0	150	15000	weowar1	Western Olivaceous Warbler	0.1848651870839712	2
+7	Spectrogram 1	1	319420.mp3.wav	18.0	21.0	150	15000	blrwar1	Blyth's Reed Warbler	0.11211681963298546	3
+8	Spectrogram 1	1	319420.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9873468227085206	1
+9	Spectrogram 1	1	319420.mp3.wav	21.0	24.0	150	15000	weowar1	Western Olivaceous Warbler	0.2668379489092312	2
+10	Spectrogram 1	1	319420.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9879652081425078	1
+11	Spectrogram 1	1	319420.mp3.wav	24.0	27.0	150	15000	weowar1	Western Olivaceous Warbler	0.1376480890137139	2
+12	Spectrogram 1	1	319420.mp3.wav	27.0	30.0	150	15000	grewhi1	Greater Whitethroat	0.4119097047164072	1
+13	Spectrogram 1	1	319420.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.17891992846513347	2
+14	Spectrogram 1	1	319420.mp3.wav	27.0	30.0	150	15000	eupfly1	European Pied Flycatcher	0.16836491891076652	3
+15	Spectrogram 1	1	319420.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.8633550600554873	1
+16	Spectrogram 1	1	319420.mp3.wav	3.0	6.0	150	15000	weowar1	Western Olivaceous Warbler	0.5870479882462676	2
+17	Spectrogram 1	1	319420.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9939268048800339	1
+18	Spectrogram 1	1	319420.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9945562183880411	1
+19	Spectrogram 1	1	319420.mp3.wav	0.0	3.0	150	15000	shtgro	Sharp-tailed Grouse	0.5223451616488987	1
+20	Spectrogram 1	1	319420.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.5032358480813853	2

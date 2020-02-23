@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	360446.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.1258013452212624	1

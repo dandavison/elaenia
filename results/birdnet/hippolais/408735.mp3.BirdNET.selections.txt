@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	408735.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.7523929183468929	1
+2	Spectrogram 1	1	408735.mp3.wav	12.0	15.0	150	15000	barwar1	Barred Warbler	0.14643463367175855	2
+3	Spectrogram 1	1	408735.mp3.wav	12.0	15.0	150	15000	wooshr1	Woodchat Shrike	0.1407585159872752	3
+4	Spectrogram 1	1	408735.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.9804930973864839	1
+5	Spectrogram 1	1	408735.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.9709809702936856	1
+6	Spectrogram 1	1	408735.mp3.wav	6.0	9.0	150	15000	barwar1	Barred Warbler	0.38011507749099893	2
+7	Spectrogram 1	1	408735.mp3.wav	9.0	12.0	150	15000	barwar1	Barred Warbler	0.4599178303456455	1
+8	Spectrogram 1	1	408735.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.3095993090138643	2
+9	Spectrogram 1	1	408735.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.9874454514761575	1
+10	Spectrogram 1	1	408735.mp3.wav	0.0	3.0	150	15000	barwar1	Barred Warbler	0.1276062240194354	2

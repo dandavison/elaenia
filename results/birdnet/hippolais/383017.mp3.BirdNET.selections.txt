@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	383017.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9915400725138724	1
+2	Spectrogram 1	1	383017.mp3.wav	12.0	15.0	150	15000	blrwar1	Blyth's Reed Warbler	0.11003325261110865	2
+3	Spectrogram 1	1	383017.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.10293172499993265	3
+4	Spectrogram 1	1	383017.mp3.wav	15.0	18.0	150	15000	eurbla	Eurasian Blackbird	0.9549606742856179	1
+5	Spectrogram 1	1	383017.mp3.wav	15.0	18.0	150	15000	eugori2	Eurasian Golden Oriole	0.17472132326852474	2
+6	Spectrogram 1	1	383017.mp3.wav	18.0	21.0	150	15000	clcrob	Clay-colored Thrush	0.9545288343998216	1
+7	Spectrogram 1	1	383017.mp3.wav	18.0	21.0	150	15000	eurbla	Eurasian Blackbird	0.11455859916915487	2
+8	Spectrogram 1	1	383017.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9446366937488423	1
+9	Spectrogram 1	1	383017.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.3439603671362718	2
+10	Spectrogram 1	1	383017.mp3.wav	24.0	27.0	150	15000	eurbla	Eurasian Blackbird	0.9951324731821313	1
+11	Spectrogram 1	1	383017.mp3.wav	27.0	30.0	150	15000	sposta1	Spotless Starling	0.8709860353107083	1
+12	Spectrogram 1	1	383017.mp3.wav	27.0	30.0	150	15000	eursta	European Starling	0.45793677106028463	2
+13	Spectrogram 1	1	383017.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9820319205029969	1
+14	Spectrogram 1	1	383017.mp3.wav	3.0	6.0	150	15000	eurbla	Eurasian Blackbird	0.3722138682974612	2
+15	Spectrogram 1	1	383017.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9973331432556247	1
+16	Spectrogram 1	1	383017.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9993872186621436	1
+17	Spectrogram 1	1	383017.mp3.wav	36.0	39.0	150	15000	eurbla	Eurasian Blackbird	0.9132782107165853	1
+18	Spectrogram 1	1	383017.mp3.wav	36.0	39.0	150	15000	garwar1	Garden Warbler	0.13464229083207804	2
+19	Spectrogram 1	1	383017.mp3.wav	6.0	9.0	150	15000	eurbla	Eurasian Blackbird	0.9303685359781193	1
+20	Spectrogram 1	1	383017.mp3.wav	6.0	9.0	150	15000	clcrob	Clay-colored Thrush	0.6881779368209726	2
+21	Spectrogram 1	1	383017.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9973787909258829	1
+22	Spectrogram 1	1	383017.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9611000924306318	1

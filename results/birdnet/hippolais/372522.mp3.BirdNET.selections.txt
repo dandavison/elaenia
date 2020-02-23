@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	372522.mp3.wav	3.0	6.0	150	15000	paired	Painted Redstart	0.31307044403562484	1
+2	Spectrogram 1	1	372522.mp3.wav	3.0	6.0	150	15000	hutvir	Hutton's Vireo	0.13659601651264053	2
+3	Spectrogram 1	1	372522.mp3.wav	3.0	6.0	150	15000	eursco1	Eurasian Scops-Owl	0.13186764385177915	3
+4	Spectrogram 1	1	372522.mp3.wav	6.0	9.0	150	15000	graspa	Grasshopper Sparrow	0.75739892818249	1
+5	Spectrogram 1	1	372522.mp3.wav	6.0	9.0	150	15000	baispa	Baird's Sparrow	0.20744356195503172	2
+6	Spectrogram 1	1	372522.mp3.wav	0.0	3.0	150	15000	woolar1	Wood Lark	0.14187094117222449	1

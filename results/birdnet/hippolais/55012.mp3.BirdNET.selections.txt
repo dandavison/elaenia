@@ -1,0 +1,32 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	55012.mp3.wav	12.0	15.0	150	15000	yellow2	Yellowhammer	0.10283681715262956	1
+2	Spectrogram 1	1	55012.mp3.wav	15.0	18.0	150	15000	isawhe1	Isabelline Wheatear	0.657564561294706	1
+3	Spectrogram 1	1	55012.mp3.wav	18.0	21.0	150	15000	isawhe1	Isabelline Wheatear	0.2315673936825953	1
+4	Spectrogram 1	1	55012.mp3.wav	18.0	21.0	150	15000	wooshr1	Woodchat Shrike	0.10071764458781113	2
+5	Spectrogram 1	1	55012.mp3.wav	21.0	24.0	150	15000	blueth	Bluethroat	0.16926677235493745	1
+6	Spectrogram 1	1	55012.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9807348246166823	1
+7	Spectrogram 1	1	55012.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.8753289466283048	1
+8	Spectrogram 1	1	55012.mp3.wav	27.0	30.0	150	15000	grewhi1	Greater Whitethroat	0.11201650177815704	2
+9	Spectrogram 1	1	55012.mp3.wav	27.0	30.0	150	15000	padwar1	Paddyfield Warbler	0.11111774229393745	3
+10	Spectrogram 1	1	55012.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.6786584319237003	1
+11	Spectrogram 1	1	55012.mp3.wav	3.0	6.0	150	15000	grewhi1	Greater Whitethroat	0.21061789676562778	2
+12	Spectrogram 1	1	55012.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.17780886408327015	3
+13	Spectrogram 1	1	55012.mp3.wav	30.0	33.0	150	15000	norwhe	Northern Wheatear	0.6595438631775418	1
+14	Spectrogram 1	1	55012.mp3.wav	30.0	33.0	150	15000	piewhe1	Pied Wheatear	0.5634556378502408	2
+15	Spectrogram 1	1	55012.mp3.wav	30.0	33.0	150	15000	finwhe1	Finsch's Wheatear	0.3444019248841637	3
+16	Spectrogram 1	1	55012.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.9648442628739868	1
+17	Spectrogram 1	1	55012.mp3.wav	33.0	36.0	150	15000	garwar1	Garden Warbler	0.30280396458518566	2
+18	Spectrogram 1	1	55012.mp3.wav	33.0	36.0	150	15000	grewhi1	Greater Whitethroat	0.11371186057948396	3
+19	Spectrogram 1	1	55012.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.999571578642433	1
+20	Spectrogram 1	1	55012.mp3.wav	39.0	42.0	150	15000	garwar1	Garden Warbler	0.7193416276256979	1
+21	Spectrogram 1	1	55012.mp3.wav	39.0	42.0	150	15000	barwar1	Barred Warbler	0.6875563425257457	2
+22	Spectrogram 1	1	55012.mp3.wav	39.0	42.0	150	15000	grewhi1	Greater Whitethroat	0.5209013617545083	3
+23	Spectrogram 1	1	55012.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.7254174173095811	1
+24	Spectrogram 1	1	55012.mp3.wav	6.0	9.0	150	15000	grewhi1	Greater Whitethroat	0.2144111920568881	2
+25	Spectrogram 1	1	55012.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.2084357646930848	3
+26	Spectrogram 1	1	55012.mp3.wav	9.0	12.0	150	15000	rtsrob1	Rufous-tailed Scrub-Robin	0.23298462362658026	1
+27	Spectrogram 1	1	55012.mp3.wav	9.0	12.0	150	15000	eastow	Eastern Towhee	0.22717621983161396	2
+28	Spectrogram 1	1	55012.mp3.wav	9.0	12.0	150	15000	barwar1	Barred Warbler	0.1529051132335524	3
+29	Spectrogram 1	1	55012.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.7484603990801206	1
+30	Spectrogram 1	1	55012.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.30552537956437986	2
+31	Spectrogram 1	1	55012.mp3.wav	0.0	3.0	150	15000	barwar1	Barred Warbler	0.12937934435024503	3

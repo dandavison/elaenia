@@ -1,0 +1,23 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	478098.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9999436430654675	1
+2	Spectrogram 1	1	478098.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.8182247742805658	1
+3	Spectrogram 1	1	478098.mp3.wav	15.0	18.0	150	15000	eurbla	Eurasian Blackbird	0.6610384506621263	2
+4	Spectrogram 1	1	478098.mp3.wav	15.0	18.0	150	15000	sonthr1	Song Thrush	0.22919900175989988	3
+5	Spectrogram 1	1	478098.mp3.wav	18.0	21.0	150	15000	sonthr1	Song Thrush	0.4092649583762001	1
+6	Spectrogram 1	1	478098.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.2842506092587253	2
+7	Spectrogram 1	1	478098.mp3.wav	18.0	21.0	150	15000	grycat	Gray Catbird	0.12500434787047052	3
+8	Spectrogram 1	1	478098.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9916775133656834	1
+9	Spectrogram 1	1	478098.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9997991763028821	1
+10	Spectrogram 1	1	478098.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.982974375230377	1
+11	Spectrogram 1	1	478098.mp3.wav	27.0	30.0	150	15000	weowar1	Western Olivaceous Warbler	0.13877630169029886	2
+12	Spectrogram 1	1	478098.mp3.wav	27.0	30.0	150	15000	blrwar1	Blyth's Reed Warbler	0.11334643196590392	3
+13	Spectrogram 1	1	478098.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9999641324658887	1
+14	Spectrogram 1	1	478098.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9907335199189542	1
+15	Spectrogram 1	1	478098.mp3.wav	33.0	36.0	150	15000	brambl	Brambling	0.16091568593082178	1
+16	Spectrogram 1	1	478098.mp3.wav	33.0	36.0	150	15000	eurgre1	European Greenfinch	0.13044680842830494	2
+17	Spectrogram 1	1	478098.mp3.wav	33.0	36.0	150	15000	varthr	Varied Thrush	0.10260781536999361	3
+18	Spectrogram 1	1	478098.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.7827225490149621	1
+19	Spectrogram 1	1	478098.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.15279111431028078	2
+20	Spectrogram 1	1	478098.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9988570229399402	1
+21	Spectrogram 1	1	478098.mp3.wav	9.0	12.0	150	15000	blrwar1	Blyth's Reed Warbler	0.11507059671288732	2
+22	Spectrogram 1	1	478098.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9998890011231505	1

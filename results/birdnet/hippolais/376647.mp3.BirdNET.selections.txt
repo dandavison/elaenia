@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	376647.mp3.wav	12.0	15.0	150	15000	grewhi1	Greater Whitethroat	0.9911575869428823	1
+2	Spectrogram 1	1	376647.mp3.wav	12.0	15.0	150	15000	subwar1	Subalpine Warbler	0.2272941062263361	2
+3	Spectrogram 1	1	376647.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.1040755198168425	3
+4	Spectrogram 1	1	376647.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9988857032818407	1
+5	Spectrogram 1	1	376647.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9994386467686249	1
+6	Spectrogram 1	1	376647.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9966761013384937	1
+7	Spectrogram 1	1	376647.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9995728668733544	1

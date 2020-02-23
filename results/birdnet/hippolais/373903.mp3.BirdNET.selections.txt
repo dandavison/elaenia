@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	373903.mp3.wav	12.0	15.0	150	15000	comcha	Common Chaffinch	0.40322630864950243	1
+2	Spectrogram 1	1	373903.mp3.wav	12.0	15.0	150	15000	eupfly1	European Pied Flycatcher	0.13691160697678267	2
+3	Spectrogram 1	1	373903.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.991448531789336	1
+4	Spectrogram 1	1	373903.mp3.wav	18.0	21.0	150	15000	comcha	Common Chaffinch	0.43193415153606246	1
+5	Spectrogram 1	1	373903.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9439897083036685	1
+6	Spectrogram 1	1	373903.mp3.wav	3.0	6.0	150	15000	comros	Common Rosefinch	0.10329693006772474	2
+7	Spectrogram 1	1	373903.mp3.wav	6.0	9.0	150	15000	comcha	Common Chaffinch	0.15620398149658601	1
+8	Spectrogram 1	1	373903.mp3.wav	9.0	12.0	150	15000	redwin	Redwing	0.2102118114412425	1
+9	Spectrogram 1	1	373903.mp3.wav	9.0	12.0	150	15000	weowar1	Western Olivaceous Warbler	0.2018446630573445	2
+10	Spectrogram 1	1	373903.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.14193445122121118	3
+11	Spectrogram 1	1	373903.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.8945985828711166	1

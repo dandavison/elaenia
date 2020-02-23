@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386168.mp3.wav	12.0	15.0	150	15000	spotow	Spotted Towhee	0.8400040570999093	1
+2	Spectrogram 1	1	386168.mp3.wav	12.0	15.0	150	15000	cantow	Canyon Towhee	0.3261290467614278	2
+3	Spectrogram 1	1	386168.mp3.wav	15.0	18.0	150	15000	reebun	Reed Bunting	0.23528932375216488	1
+4	Spectrogram 1	1	386168.mp3.wav	15.0	18.0	150	15000	houspa	House Sparrow	0.13160979052048905	2
+5	Spectrogram 1	1	386168.mp3.wav	18.0	21.0	150	15000	eucdov	Eurasian Collared-Dove	0.3069958152591275	1
+6	Spectrogram 1	1	386168.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9986879801443486	1
+7	Spectrogram 1	1	386168.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.2004463089945867	1
+8	Spectrogram 1	1	386168.mp3.wav	24.0	27.0	150	15000	grekis	Great Kiskadee	0.11464392962171974	2
+9	Spectrogram 1	1	386168.mp3.wav	24.0	27.0	150	15000	bktgod	Black-tailed Godwit	0.112846556030346	3
+10	Spectrogram 1	1	386168.mp3.wav	27.0	30.0	150	15000	eucdov	Eurasian Collared-Dove	0.7046969820996467	1
+11	Spectrogram 1	1	386168.mp3.wav	27.0	30.0	150	15000	sonthr1	Song Thrush	0.10909009773852049	2
+12	Spectrogram 1	1	386168.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9896951720267974	1
+13	Spectrogram 1	1	386168.mp3.wav	3.0	6.0	150	15000	blrwar1	Blyth's Reed Warbler	0.2119513108591874	2
+14	Spectrogram 1	1	386168.mp3.wav	30.0	33.0	150	15000	whiwag	White Wagtail	0.7484526022467813	1
+15	Spectrogram 1	1	386168.mp3.wav	30.0	33.0	150	15000	grywag	Gray Wagtail	0.5748003167355381	2
+16	Spectrogram 1	1	386168.mp3.wav	30.0	33.0	150	15000	rocbun1	Rock Bunting	0.14759031105653322	3
+17	Spectrogram 1	1	386168.mp3.wav	33.0	36.0	150	15000	litowl1	Little Owl	0.9776266745391688	1
+18	Spectrogram 1	1	386168.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.11254931019214766	2
+19	Spectrogram 1	1	386168.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9968283407466856	1
+20	Spectrogram 1	1	386168.mp3.wav	9.0	12.0	150	15000	sposta1	Spotless Starling	0.4305033090610226	1
+21	Spectrogram 1	1	386168.mp3.wav	9.0	12.0	150	15000	eursta	European Starling	0.16269076511786384	2
+22	Spectrogram 1	1	386168.mp3.wav	0.0	3.0	150	15000	sonthr1	Song Thrush	0.7384044363750196	1
+23	Spectrogram 1	1	386168.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.6581670374126997	2

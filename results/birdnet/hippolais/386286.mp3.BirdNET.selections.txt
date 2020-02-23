@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386286.mp3.wav	12.0	15.0	150	15000	eutspa	Eurasian Tree Sparrow	0.939095772782055	1
+2	Spectrogram 1	1	386286.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9248335422955299	1
+3	Spectrogram 1	1	386286.mp3.wav	15.0	18.0	150	15000	weowar1	Western Olivaceous Warbler	0.31068154946763654	2
+4	Spectrogram 1	1	386286.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9994541464807805	1
+5	Spectrogram 1	1	386286.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9996450759778873	1
+6	Spectrogram 1	1	386286.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.999820824457177	1
+7	Spectrogram 1	1	386286.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9912299780438594	1
+8	Spectrogram 1	1	386286.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.3191182825918482	2
+9	Spectrogram 1	1	386286.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.6339125289893432	1
+10	Spectrogram 1	1	386286.mp3.wav	9.0	12.0	150	15000	weowar1	Western Olivaceous Warbler	0.4693482321261394	2
+11	Spectrogram 1	1	386286.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.22394210687754337	3
+12	Spectrogram 1	1	386286.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9994812066100379	1

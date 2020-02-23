@@ -1,0 +1,44 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	476939.mp3.wav	12.0	15.0	150	15000	whtdov	White-tipped Dove	0.9531062570003492	1
+2	Spectrogram 1	1	476939.mp3.wav	12.0	15.0	150	15000	flaowl	Flammulated Owl	0.6702994838142797	2
+3	Spectrogram 1	1	476939.mp3.wav	12.0	15.0	150	15000	moudov	Mourning Dove	0.6131296508996585	3
+4	Spectrogram 1	1	476939.mp3.wav	15.0	18.0	150	15000	whtdov	White-tipped Dove	0.2601308714401937	1
+5	Spectrogram 1	1	476939.mp3.wav	15.0	18.0	150	15000	moudov	Mourning Dove	0.1248361375119197	2
+6	Spectrogram 1	1	476939.mp3.wav	15.0	18.0	150	15000	eucdov	Eurasian Collared-Dove	0.10924891328300257	3
+7	Spectrogram 1	1	476939.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.9962006402897947	1
+8	Spectrogram 1	1	476939.mp3.wav	18.0	21.0	150	15000	blrwar1	Blyth's Reed Warbler	0.15622307942096833	2
+9	Spectrogram 1	1	476939.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.9777446222596012	1
+10	Spectrogram 1	1	476939.mp3.wav	21.0	24.0	150	15000	comcha	Common Chaffinch	0.24302872055785532	2
+11	Spectrogram 1	1	476939.mp3.wav	21.0	24.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1721044275137355	3
+12	Spectrogram 1	1	476939.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.8320907437799426	1
+13	Spectrogram 1	1	476939.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.3622581452014248	2
+14	Spectrogram 1	1	476939.mp3.wav	24.0	27.0	150	15000	blrwar1	Blyth's Reed Warbler	0.19880966992480736	3
+15	Spectrogram 1	1	476939.mp3.wav	27.0	30.0	150	15000	marwar3	Marsh Warbler	0.9987905679605091	1
+16	Spectrogram 1	1	476939.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.8751341007560429	1
+17	Spectrogram 1	1	476939.mp3.wav	3.0	6.0	150	15000	whtdov	White-tipped Dove	0.13078568926269474	2
+18	Spectrogram 1	1	476939.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.10289427025046465	3
+19	Spectrogram 1	1	476939.mp3.wav	30.0	33.0	150	15000	whtdov	White-tipped Dove	0.4372804882818536	1
+20	Spectrogram 1	1	476939.mp3.wav	30.0	33.0	150	15000	flaowl	Flammulated Owl	0.35819769222777814	2
+21	Spectrogram 1	1	476939.mp3.wav	30.0	33.0	150	15000	corbun1	Corn Bunting	0.22667429809301054	3
+22	Spectrogram 1	1	476939.mp3.wav	33.0	36.0	150	15000	whtdov	White-tipped Dove	0.5524999847829958	1
+23	Spectrogram 1	1	476939.mp3.wav	33.0	36.0	150	15000	corbun1	Corn Bunting	0.17703107579376526	2
+24	Spectrogram 1	1	476939.mp3.wav	33.0	36.0	150	15000	moudov	Mourning Dove	0.14995518402868507	3
+25	Spectrogram 1	1	476939.mp3.wav	36.0	39.0	150	15000	whtdov	White-tipped Dove	0.7229466984266296	1
+26	Spectrogram 1	1	476939.mp3.wav	36.0	39.0	150	15000	moudov	Mourning Dove	0.41467554305874726	2
+27	Spectrogram 1	1	476939.mp3.wav	36.0	39.0	150	15000	bewwre	Bewick's Wren	0.2940167437583926	3
+28	Spectrogram 1	1	476939.mp3.wav	39.0	42.0	150	15000	eurgol	European Goldfinch	0.7970380493175069	1
+29	Spectrogram 1	1	476939.mp3.wav	39.0	42.0	150	15000	whtdov	White-tipped Dove	0.395538342700885	2
+30	Spectrogram 1	1	476939.mp3.wav	39.0	42.0	150	15000	flaowl	Flammulated Owl	0.36086209117567686	3
+31	Spectrogram 1	1	476939.mp3.wav	42.0	45.0	150	15000	marwar3	Marsh Warbler	0.8858485306898941	1
+32	Spectrogram 1	1	476939.mp3.wav	45.0	48.0	150	15000	marwar3	Marsh Warbler	0.2769821581978229	1
+33	Spectrogram 1	1	476939.mp3.wav	45.0	48.0	150	15000	eurwar1	Eurasian Reed Warbler	0.16918349795804424	2
+34	Spectrogram 1	1	476939.mp3.wav	45.0	48.0	150	15000	afrwar1	African Reed Warbler	0.10193033247766589	3
+35	Spectrogram 1	1	476939.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.7913601464119654	1
+36	Spectrogram 1	1	476939.mp3.wav	6.0	9.0	150	15000	whtdov	White-tipped Dove	0.1302932001133422	2
+37	Spectrogram 1	1	476939.mp3.wav	6.0	9.0	150	15000	moudov	Mourning Dove	0.11636513578976262	3
+38	Spectrogram 1	1	476939.mp3.wav	9.0	12.0	150	15000	whtdov	White-tipped Dove	0.6294489069871511	1
+39	Spectrogram 1	1	476939.mp3.wav	9.0	12.0	150	15000	corbun1	Corn Bunting	0.410236559693989	2
+40	Spectrogram 1	1	476939.mp3.wav	9.0	12.0	150	15000	eucdov	Eurasian Collared-Dove	0.3013767542013407	3
+41	Spectrogram 1	1	476939.mp3.wav	0.0	3.0	150	15000	whtdov	White-tipped Dove	0.5758749278622679	1
+42	Spectrogram 1	1	476939.mp3.wav	0.0	3.0	150	15000	eucdov	Eurasian Collared-Dove	0.24643635335914674	2
+43	Spectrogram 1	1	476939.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.21046463404784382	3

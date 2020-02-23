@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	372523.mp3.wav	12.0	15.0	150	15000	paired	Painted Redstart	0.9835906222517309	1
+2	Spectrogram 1	1	372523.mp3.wav	12.0	15.0	150	15000	hutvir	Hutton's Vireo	0.16978501858403156	2
+3	Spectrogram 1	1	372523.mp3.wav	3.0	6.0	150	15000	eutdov	European Turtle-Dove	0.9099812346186636	1
+4	Spectrogram 1	1	372523.mp3.wav	6.0	9.0	150	15000	hutvir	Hutton's Vireo	0.9898950087616168	1
+5	Spectrogram 1	1	372523.mp3.wav	6.0	9.0	150	15000	paired	Painted Redstart	0.3509351812363063	2
+6	Spectrogram 1	1	372523.mp3.wav	9.0	12.0	150	15000	hutvir	Hutton's Vireo	0.35694080835436737	1
+7	Spectrogram 1	1	372523.mp3.wav	9.0	12.0	150	15000	paired	Painted Redstart	0.1294279242019237	2
+8	Spectrogram 1	1	372523.mp3.wav	0.0	3.0	150	15000	hutvir	Hutton's Vireo	0.6378017771650195	1
+9	Spectrogram 1	1	372523.mp3.wav	0.0	3.0	150	15000	paired	Painted Redstart	0.4572239984222566	2

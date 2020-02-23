@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386163.mp3.wav	12.0	15.0	150	15000	wesgre	Western Grebe	0.2696717614237131	1
+2	Spectrogram 1	1	386163.mp3.wav	12.0	15.0	150	15000	euroys1	Eurasian Oystercatcher	0.21169026612529834	2
+3	Spectrogram 1	1	386163.mp3.wav	3.0	6.0	150	15000	sposta1	Spotless Starling	0.7396794371970391	1
+4	Spectrogram 1	1	386163.mp3.wav	3.0	6.0	150	15000	eursta	European Starling	0.6226344647865762	2
+5	Spectrogram 1	1	386163.mp3.wav	6.0	9.0	150	15000	euroys1	Eurasian Oystercatcher	0.8728621419671577	1
+6	Spectrogram 1	1	386163.mp3.wav	6.0	9.0	150	15000	ameoys	American Oystercatcher	0.3232411107533042	2
+7	Spectrogram 1	1	386163.mp3.wav	9.0	12.0	150	15000	euroys1	Eurasian Oystercatcher	0.49526671545796214	1
+8	Spectrogram 1	1	386163.mp3.wav	9.0	12.0	150	15000	grnpar	Green Parakeet	0.16340101531428436	2
+9	Spectrogram 1	1	386163.mp3.wav	9.0	12.0	150	15000	recwoo	Red-cockaded Woodpecker	0.13466626721003921	3
+10	Spectrogram 1	1	386163.mp3.wav	0.0	3.0	150	15000	commyn	Common Myna	0.4816760866996892	1
+11	Spectrogram 1	1	386163.mp3.wav	0.0	3.0	150	15000	grtgra	Great-tailed Grackle	0.2680766600322933	2

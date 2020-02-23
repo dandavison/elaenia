@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	48053.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.8447397118732828	1
+2	Spectrogram 1	1	48053.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.3105877506621061	2
+3	Spectrogram 1	1	48053.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.23708955735782208	3
+4	Spectrogram 1	1	48053.mp3.wav	15.0	18.0	150	15000	comcha	Common Chaffinch	0.8362617069500018	1
+5	Spectrogram 1	1	48053.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9567549928578206	1
+6	Spectrogram 1	1	48053.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.6116669934127824	2
+7	Spectrogram 1	1	48053.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.23702789892101694	3
+8	Spectrogram 1	1	48053.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9994873650233557	1
+9	Spectrogram 1	1	48053.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9993317972503242	1
+10	Spectrogram 1	1	48053.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.99957548058389	1
+11	Spectrogram 1	1	48053.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9970071545121307	1
+12	Spectrogram 1	1	48053.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.1447426735015795	2
+13	Spectrogram 1	1	48053.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9978772450754352	1
+14	Spectrogram 1	1	48053.mp3.wav	6.0	9.0	150	15000	sarwar1	Sardinian Warbler	0.658777403447399	1
+15	Spectrogram 1	1	48053.mp3.wav	6.0	9.0	150	15000	subwar1	Subalpine Warbler	0.46603652234102544	2
+16	Spectrogram 1	1	48053.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.3256658637570347	3
+17	Spectrogram 1	1	48053.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9813410136815873	1
+18	Spectrogram 1	1	48053.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.21705850081577244	2
+19	Spectrogram 1	1	48053.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.1273341535819018	3
+20	Spectrogram 1	1	48053.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9988265368991666	1

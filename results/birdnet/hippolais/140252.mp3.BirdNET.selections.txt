@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	140252.mp3.wav	12.0	15.0	150	15000	comchi1	Common Chiffchaff	0.2448370843481855	1
+2	Spectrogram 1	1	140252.mp3.wav	12.0	15.0	150	15000	wlwwar	Willow Warbler	0.10411134546069903	2
+3	Spectrogram 1	1	140252.mp3.wav	15.0	18.0	150	15000	colfly1	Collared Flycatcher	0.13562110890165366	1
+4	Spectrogram 1	1	140252.mp3.wav	3.0	6.0	150	15000	colfly1	Collared Flycatcher	0.14213334653927345	1
+5	Spectrogram 1	1	140252.mp3.wav	3.0	6.0	150	15000	eugori2	Eurasian Golden Oriole	0.12736013289877748	2
+6	Spectrogram 1	1	140252.mp3.wav	3.0	6.0	150	15000	comchi1	Common Chiffchaff	0.10267762100588951	3
+7	Spectrogram 1	1	140252.mp3.wav	6.0	9.0	150	15000	comchi1	Common Chiffchaff	0.33478202631815207	1
+8	Spectrogram 1	1	140252.mp3.wav	6.0	9.0	150	15000	ibechi2	Iberian Chiffchaff	0.1060369909165726	2
+9	Spectrogram 1	1	140252.mp3.wav	9.0	12.0	150	15000	comchi1	Common Chiffchaff	0.3122842714643141	1
+10	Spectrogram 1	1	140252.mp3.wav	0.0	3.0	150	15000	comchi1	Common Chiffchaff	0.20351311076145576	1

@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	78215.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.7500817598803278	1
+2	Spectrogram 1	1	78215.mp3.wav	12.0	15.0	150	15000	padwar1	Paddyfield Warbler	0.4642528643417028	2
+3	Spectrogram 1	1	78215.mp3.wav	12.0	15.0	150	15000	sarwar1	Sardinian Warbler	0.11458645955726089	3
+4	Spectrogram 1	1	78215.mp3.wav	15.0	18.0	150	15000	padwar1	Paddyfield Warbler	0.8107883008014214	1
+5	Spectrogram 1	1	78215.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.44386554515144594	2
+6	Spectrogram 1	1	78215.mp3.wav	15.0	18.0	150	15000	mouwar1	Moustached Warbler	0.26753383195275954	3
+7	Spectrogram 1	1	78215.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9136357377829407	1
+8	Spectrogram 1	1	78215.mp3.wav	18.0	21.0	150	15000	spewar2	Spectacled Warbler	0.12545705993050907	2
+9	Spectrogram 1	1	78215.mp3.wav	18.0	21.0	150	15000	darwar1	Dartford Warbler	0.1176581290934088	3
+10	Spectrogram 1	1	78215.mp3.wav	3.0	6.0	150	15000	padwar1	Paddyfield Warbler	0.42996995952249983	1
+11	Spectrogram 1	1	78215.mp3.wav	3.0	6.0	150	15000	mouwar1	Moustached Warbler	0.15112889355045597	2
+12	Spectrogram 1	1	78215.mp3.wav	3.0	6.0	150	15000	blueth	Bluethroat	0.11898717921748689	3
+13	Spectrogram 1	1	78215.mp3.wav	6.0	9.0	150	15000	padwar1	Paddyfield Warbler	0.8473856191242958	1
+14	Spectrogram 1	1	78215.mp3.wav	6.0	9.0	150	15000	mouwar1	Moustached Warbler	0.36754185452583854	2
+15	Spectrogram 1	1	78215.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.23384631518473448	3
+16	Spectrogram 1	1	78215.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9810856575371637	1
+17	Spectrogram 1	1	78215.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9949081049986847	1

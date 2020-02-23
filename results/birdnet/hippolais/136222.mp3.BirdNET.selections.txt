@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	136222.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.44826653078328715	1
+2	Spectrogram 1	1	136222.mp3.wav	3.0	6.0	150	15000	rorpar	Rose-ringed Parakeet	0.18984987228284167	2
+3	Spectrogram 1	1	136222.mp3.wav	3.0	6.0	150	15000	eurwry	Eurasian Wryneck	0.10442708610974645	3
+4	Spectrogram 1	1	136222.mp3.wav	6.0	9.0	150	15000	eurwry	Eurasian Wryneck	0.4316833432955667	1
+5	Spectrogram 1	1	136222.mp3.wav	6.0	9.0	150	15000	miswoo1	Middle Spotted Woodpecker	0.1498964319862085	2
+6	Spectrogram 1	1	136222.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.12062850717000544	3
+7	Spectrogram 1	1	136222.mp3.wav	9.0	12.0	150	15000	grawar	Grace's Warbler	0.18743566927974634	1
+8	Spectrogram 1	1	136222.mp3.wav	9.0	12.0	150	15000	trepip	Tree Pipit	0.16565614409581006	2
+9	Spectrogram 1	1	136222.mp3.wav	9.0	12.0	150	15000	comcha	Common Chaffinch	0.12340285146371165	3
+10	Spectrogram 1	1	136222.mp3.wav	0.0	3.0	150	15000	oliwar	Olive Warbler	0.8596210793777934	1
+11	Spectrogram 1	1	136222.mp3.wav	0.0	3.0	150	15000	osprey	Osprey	0.7864532327904903	2

@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	144414.mp3.wav	12.0	15.0	150	15000	eutspa	Eurasian Tree Sparrow	0.2789791940388175	1
+2	Spectrogram 1	1	144414.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.12943684661287355	2
+3	Spectrogram 1	1	144414.mp3.wav	12.0	15.0	150	15000	houspa	House Sparrow	0.11308791568593007	3
+4	Spectrogram 1	1	144414.mp3.wav	15.0	18.0	150	15000	gretit1	Great Tit	0.20908652466280483	1
+5	Spectrogram 1	1	144414.mp3.wav	18.0	21.0	150	15000	gretit1	Great Tit	0.30035435116292564	1
+6	Spectrogram 1	1	144414.mp3.wav	18.0	21.0	150	15000	blutit	Eurasian Blue Tit	0.26238602827109153	2
+7	Spectrogram 1	1	144414.mp3.wav	18.0	21.0	150	15000	martit2	Marsh Tit	0.15600712704749753	3
+8	Spectrogram 1	1	144414.mp3.wav	21.0	24.0	150	15000	gretit1	Great Tit	0.15676767378824974	1
+9	Spectrogram 1	1	144414.mp3.wav	21.0	24.0	150	15000	eurjay1	Eurasian Jay	0.10540622888419239	2
+10	Spectrogram 1	1	144414.mp3.wav	24.0	27.0	150	15000	gretit1	Great Tit	0.22929954757728338	1
+11	Spectrogram 1	1	144414.mp3.wav	24.0	27.0	150	15000	wiltit1	Willow Tit	0.20602705070588814	2
+12	Spectrogram 1	1	144414.mp3.wav	24.0	27.0	150	15000	eutspa	Eurasian Tree Sparrow	0.11215523820215115	3
+13	Spectrogram 1	1	144414.mp3.wav	27.0	30.0	150	15000	eutspa	Eurasian Tree Sparrow	0.7123274774716672	1
+14	Spectrogram 1	1	144414.mp3.wav	27.0	30.0	150	15000	houspa	House Sparrow	0.2486971075101712	2
+15	Spectrogram 1	1	144414.mp3.wav	27.0	30.0	150	15000	gretit1	Great Tit	0.14086136162848562	3
+16	Spectrogram 1	1	144414.mp3.wav	3.0	6.0	150	15000	eutspa	Eurasian Tree Sparrow	0.24742083498905432	1
+17	Spectrogram 1	1	144414.mp3.wav	3.0	6.0	150	15000	gretit1	Great Tit	0.23204680183462265	2
+18	Spectrogram 1	1	144414.mp3.wav	30.0	33.0	150	15000	wiltit1	Willow Tit	0.12778530757545836	1
+19	Spectrogram 1	1	144414.mp3.wav	30.0	33.0	150	15000	bkcchi	Black-capped Chickadee	0.11399623688338041	2
+20	Spectrogram 1	1	144414.mp3.wav	6.0	9.0	150	15000	gretit1	Great Tit	0.5073652065723477	1
+21	Spectrogram 1	1	144414.mp3.wav	6.0	9.0	150	15000	wiltit1	Willow Tit	0.1313083382080885	2
+22	Spectrogram 1	1	144414.mp3.wav	6.0	9.0	150	15000	blutit	Eurasian Blue Tit	0.1300222472099337	3
+23	Spectrogram 1	1	144414.mp3.wav	9.0	12.0	150	15000	eutspa	Eurasian Tree Sparrow	0.5047227605691277	1
+24	Spectrogram 1	1	144414.mp3.wav	9.0	12.0	150	15000	brambl	Brambling	0.11544867000092832	2

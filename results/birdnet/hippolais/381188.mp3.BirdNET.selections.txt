@@ -1,0 +1,44 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	381188.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.28942779646481454	1
+2	Spectrogram 1	1	381188.mp3.wav	12.0	15.0	150	15000	afrwar1	African Reed Warbler	0.20044138302718312	2
+3	Spectrogram 1	1	381188.mp3.wav	12.0	15.0	150	15000	mouwar1	Moustached Warbler	0.15488924867151907	3
+4	Spectrogram 1	1	381188.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9964094028901852	1
+5	Spectrogram 1	1	381188.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.996877439911352	1
+6	Spectrogram 1	1	381188.mp3.wav	24.0	27.0	150	15000	sedwar1	Sedge Warbler	0.32784087965130243	1
+7	Spectrogram 1	1	381188.mp3.wav	24.0	27.0	150	15000	sedwre	Sedge Wren	0.15815880031210205	2
+8	Spectrogram 1	1	381188.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.1503276971080516	3
+9	Spectrogram 1	1	381188.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9290907128956728	1
+10	Spectrogram 1	1	381188.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9973397028273194	1
+11	Spectrogram 1	1	381188.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9934621136538023	1
+12	Spectrogram 1	1	381188.mp3.wav	33.0	36.0	150	15000	padwar1	Paddyfield Warbler	0.23307518158561363	1
+13	Spectrogram 1	1	381188.mp3.wav	33.0	36.0	150	15000	mouwar1	Moustached Warbler	0.17017223310677373	2
+14	Spectrogram 1	1	381188.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.16623873105513615	3
+15	Spectrogram 1	1	381188.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.7158715096678512	1
+16	Spectrogram 1	1	381188.mp3.wav	36.0	39.0	150	15000	wooshr1	Woodchat Shrike	0.30608391968321785	2
+17	Spectrogram 1	1	381188.mp3.wav	36.0	39.0	150	15000	barwar1	Barred Warbler	0.11101258043341262	3
+18	Spectrogram 1	1	381188.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.9980050625578649	1
+19	Spectrogram 1	1	381188.mp3.wav	42.0	45.0	150	15000	padwar1	Paddyfield Warbler	0.5838295103829823	1
+20	Spectrogram 1	1	381188.mp3.wav	42.0	45.0	150	15000	mouwar1	Moustached Warbler	0.3889699450208018	2
+21	Spectrogram 1	1	381188.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.17208382382921142	3
+22	Spectrogram 1	1	381188.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.9732316423925977	1
+23	Spectrogram 1	1	381188.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.998514360580888	1
+24	Spectrogram 1	1	381188.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.9967718156445233	1
+25	Spectrogram 1	1	381188.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.998074249805382	1
+26	Spectrogram 1	1	381188.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9992777647784143	1
+27	Spectrogram 1	1	381188.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9922545978855798	1
+28	Spectrogram 1	1	381188.mp3.wav	60.0	63.0	150	15000	sykwar2	Sykes's Warbler	0.5145496207135691	1
+29	Spectrogram 1	1	381188.mp3.wav	60.0	63.0	150	15000	melwar1	Melodious Warbler	0.2409323472376993	2
+30	Spectrogram 1	1	381188.mp3.wav	60.0	63.0	150	15000	krunut1	Krueper's Nuthatch	0.11781962119288354	3
+31	Spectrogram 1	1	381188.mp3.wav	72.0	75.0	150	15000	melwar1	Melodious Warbler	0.9698712950960917	1
+32	Spectrogram 1	1	381188.mp3.wav	75.0	78.0	150	15000	melwar1	Melodious Warbler	0.9994567708455371	1
+33	Spectrogram 1	1	381188.mp3.wav	78.0	81.0	150	15000	melwar1	Melodious Warbler	0.9890701395538526	1
+34	Spectrogram 1	1	381188.mp3.wav	81.0	84.0	150	15000	melwar1	Melodious Warbler	0.9469898276581672	1
+35	Spectrogram 1	1	381188.mp3.wav	81.0	84.0	150	15000	thelar1	Thekla's Lark	0.21179845763478636	2
+36	Spectrogram 1	1	381188.mp3.wav	63.0	66.0	150	15000	melwar1	Melodious Warbler	0.997546501304709	1
+37	Spectrogram 1	1	381188.mp3.wav	66.0	69.0	150	15000	sykwar2	Sykes's Warbler	0.6232113964574597	1
+38	Spectrogram 1	1	381188.mp3.wav	66.0	69.0	150	15000	darwar1	Dartford Warbler	0.3451184524414572	2
+39	Spectrogram 1	1	381188.mp3.wav	66.0	69.0	150	15000	menwar1	Menetries's Warbler	0.27907221564666723	3
+40	Spectrogram 1	1	381188.mp3.wav	69.0	72.0	150	15000	padwar1	Paddyfield Warbler	0.34081809848016975	1
+41	Spectrogram 1	1	381188.mp3.wav	69.0	72.0	150	15000	melwar1	Melodious Warbler	0.29902263382886823	2
+42	Spectrogram 1	1	381188.mp3.wav	69.0	72.0	150	15000	mouwar1	Moustached Warbler	0.1213353773934447	3
+43	Spectrogram 1	1	381188.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9935007625327783	1

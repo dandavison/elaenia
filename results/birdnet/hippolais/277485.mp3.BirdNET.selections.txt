@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	277485.mp3.wav	12.0	15.0	150	15000	zitcis1	Zitting Cisticola	0.32089102080991766	1
+2	Spectrogram 1	1	277485.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.2944162923845138	2
+3	Spectrogram 1	1	277485.mp3.wav	12.0	15.0	150	15000	afrwar1	African Reed Warbler	0.25641791876566483	3
+4	Spectrogram 1	1	277485.mp3.wav	15.0	18.0	150	15000	zitcis1	Zitting Cisticola	0.9500650874175692	1
+5	Spectrogram 1	1	277485.mp3.wav	3.0	6.0	150	15000	zitcis1	Zitting Cisticola	0.4303704178385945	1
+6	Spectrogram 1	1	277485.mp3.wav	3.0	6.0	150	15000	sedwar1	Sedge Warbler	0.19546808340871952	2
+7	Spectrogram 1	1	277485.mp3.wav	3.0	6.0	150	15000	afrwar1	African Reed Warbler	0.16858782155357452	3
+8	Spectrogram 1	1	277485.mp3.wav	6.0	9.0	150	15000	weowar1	Western Olivaceous Warbler	0.4128217983141675	1
+9	Spectrogram 1	1	277485.mp3.wav	6.0	9.0	150	15000	zitcis1	Zitting Cisticola	0.3366218716188874	2
+10	Spectrogram 1	1	277485.mp3.wav	6.0	9.0	150	15000	afrwar1	African Reed Warbler	0.14490930600416607	3
+11	Spectrogram 1	1	277485.mp3.wav	9.0	12.0	150	15000	zitcis1	Zitting Cisticola	0.9868477222082584	1
+12	Spectrogram 1	1	277485.mp3.wav	0.0	3.0	150	15000	zitcis1	Zitting Cisticola	0.6383465020285027	1
+13	Spectrogram 1	1	277485.mp3.wav	0.0	3.0	150	15000	sedwar1	Sedge Warbler	0.15870767857705095	2
+14	Spectrogram 1	1	277485.mp3.wav	0.0	3.0	150	15000	afrwar1	African Reed Warbler	0.11955822820805014	3

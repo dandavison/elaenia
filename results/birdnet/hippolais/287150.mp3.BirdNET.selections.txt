@@ -1,0 +1,30 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	287150.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.999974199190592	1
+2	Spectrogram 1	1	287150.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9997596216123082	1
+3	Spectrogram 1	1	287150.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9986462750297461	1
+4	Spectrogram 1	1	287150.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9970121938620815	1
+5	Spectrogram 1	1	287150.mp3.wav	24.0	27.0	150	15000	eurwar1	Eurasian Reed Warbler	0.3626840093811724	1
+6	Spectrogram 1	1	287150.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.2890966430199517	2
+7	Spectrogram 1	1	287150.mp3.wav	24.0	27.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.24684082824799283	3
+8	Spectrogram 1	1	287150.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9999102407701869	1
+9	Spectrogram 1	1	287150.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9992424226387109	1
+10	Spectrogram 1	1	287150.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.99777344561491	1
+11	Spectrogram 1	1	287150.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9974325241567383	1
+12	Spectrogram 1	1	287150.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9978404025359698	1
+13	Spectrogram 1	1	287150.mp3.wav	36.0	39.0	150	15000	fieldf	Fieldfare	0.24374907275509405	2
+14	Spectrogram 1	1	287150.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9994540393301049	1
+15	Spectrogram 1	1	287150.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.9998463335039395	1
+16	Spectrogram 1	1	287150.mp3.wav	45.0	48.0	150	15000	wooshr1	Woodchat Shrike	0.26029244694979364	1
+17	Spectrogram 1	1	287150.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.1850867260943847	2
+18	Spectrogram 1	1	287150.mp3.wav	45.0	48.0	150	15000	weowar2	Western Orphean Warbler	0.17525340730594427	3
+19	Spectrogram 1	1	287150.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.9997822349105887	1
+20	Spectrogram 1	1	287150.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.9996312969498868	1
+21	Spectrogram 1	1	287150.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.9997602028925735	1
+22	Spectrogram 1	1	287150.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.9995725841528792	1
+23	Spectrogram 1	1	287150.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9998653124406374	1
+24	Spectrogram 1	1	287150.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.44065579853478765	1
+25	Spectrogram 1	1	287150.mp3.wav	9.0	12.0	150	15000	sora	Sora	0.18818422724814265	2
+26	Spectrogram 1	1	287150.mp3.wav	9.0	12.0	150	15000	blkter	Black Tern	0.13730786145114784	3
+27	Spectrogram 1	1	287150.mp3.wav	60.0	63.0	150	15000	ictwar1	Icterine Warbler	0.9999053144671985	1
+28	Spectrogram 1	1	287150.mp3.wav	63.0	66.0	150	15000	ictwar1	Icterine Warbler	0.9999004269897436	1
+29	Spectrogram 1	1	287150.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9997413480378553	1

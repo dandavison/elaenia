@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	364544.mp3.wav	12.0	15.0	150	15000	wooshr1	Woodchat Shrike	0.8663612467956752	1
+2	Spectrogram 1	1	364544.mp3.wav	12.0	15.0	150	15000	isashr1	Isabelline Shrike	0.34451813548344534	2
+3	Spectrogram 1	1	364544.mp3.wav	12.0	15.0	150	15000	bulori	Bullock's Oriole	0.23053196141911775	3
+4	Spectrogram 1	1	364544.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9997995033966001	1
+5	Spectrogram 1	1	364544.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9828731195011147	1
+6	Spectrogram 1	1	364544.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.15388348698814827	2
+7	Spectrogram 1	1	364544.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9673459471155771	1
+8	Spectrogram 1	1	364544.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.18732457522479293	2
+9	Spectrogram 1	1	364544.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9730761581272216	1
+10	Spectrogram 1	1	364544.mp3.wav	27.0	30.0	150	15000	nopowl	Northern Pygmy-Owl	0.12404296011470238	1
+11	Spectrogram 1	1	364544.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9996271867596553	1
+12	Spectrogram 1	1	364544.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9876836317307521	1
+13	Spectrogram 1	1	364544.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.3512388835511127	1
+14	Spectrogram 1	1	364544.mp3.wav	0.0	3.0	150	15000	eurwar1	Eurasian Reed Warbler	0.5939357754927284	1
+15	Spectrogram 1	1	364544.mp3.wav	0.0	3.0	150	15000	mouwar1	Moustached Warbler	0.361864201667007	2
+16	Spectrogram 1	1	364544.mp3.wav	0.0	3.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.35015801906632404	3

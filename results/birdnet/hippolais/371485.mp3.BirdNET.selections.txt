@@ -1,0 +1,39 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	371485.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9892944624807372	1
+2	Spectrogram 1	1	371485.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9650812368483672	1
+3	Spectrogram 1	1	371485.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9969944474648242	1
+4	Spectrogram 1	1	371485.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9993828784458864	1
+5	Spectrogram 1	1	371485.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9988592776632524	1
+6	Spectrogram 1	1	371485.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9917497509130434	1
+7	Spectrogram 1	1	371485.mp3.wav	30.0	33.0	150	15000	eurser1	European Serin	0.7303572484843821	1
+8	Spectrogram 1	1	371485.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9914899324215367	1
+9	Spectrogram 1	1	371485.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9996167388272962	1
+10	Spectrogram 1	1	371485.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9998592766371882	1
+11	Spectrogram 1	1	371485.mp3.wav	42.0	45.0	150	15000	weowar1	Western Olivaceous Warbler	0.48088599860930736	1
+12	Spectrogram 1	1	371485.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.388671961373984	2
+13	Spectrogram 1	1	371485.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.18883582572862545	3
+14	Spectrogram 1	1	371485.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.7583199172901484	1
+15	Spectrogram 1	1	371485.mp3.wav	48.0	51.0	150	15000	eurser1	European Serin	0.9997255389783336	1
+16	Spectrogram 1	1	371485.mp3.wav	51.0	54.0	150	15000	eurser1	European Serin	0.9988741141153024	1
+17	Spectrogram 1	1	371485.mp3.wav	54.0	57.0	150	15000	eurser1	European Serin	0.8764132808597971	1
+18	Spectrogram 1	1	371485.mp3.wav	57.0	60.0	150	15000	eurser1	European Serin	0.8389160412691948	1
+19	Spectrogram 1	1	371485.mp3.wav	6.0	9.0	150	15000	eurser1	European Serin	0.5066944572891061	1
+20	Spectrogram 1	1	371485.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.21891867834381964	2
+21	Spectrogram 1	1	371485.mp3.wav	9.0	12.0	150	15000	eurser1	European Serin	0.9696555040995494	1
+22	Spectrogram 1	1	371485.mp3.wav	60.0	63.0	150	15000	eurser1	European Serin	0.979693439040766	1
+23	Spectrogram 1	1	371485.mp3.wav	72.0	75.0	150	15000	eurser1	European Serin	0.6410530566196864	1
+24	Spectrogram 1	1	371485.mp3.wav	75.0	78.0	150	15000	eurser1	European Serin	0.5779511317614239	1
+25	Spectrogram 1	1	371485.mp3.wav	78.0	81.0	150	15000	ictwar1	Icterine Warbler	0.9829935075740835	1
+26	Spectrogram 1	1	371485.mp3.wav	78.0	81.0	150	15000	melwar1	Melodious Warbler	0.1277846622811831	2
+27	Spectrogram 1	1	371485.mp3.wav	81.0	84.0	150	15000	ictwar1	Icterine Warbler	0.7171875939263139	1
+28	Spectrogram 1	1	371485.mp3.wav	81.0	84.0	150	15000	litter1	Little Tern	0.14880386990536718	2
+29	Spectrogram 1	1	371485.mp3.wav	81.0	84.0	150	15000	weowar1	Western Olivaceous Warbler	0.10195624052697845	3
+30	Spectrogram 1	1	371485.mp3.wav	84.0	87.0	150	15000	woolar1	Wood Lark	0.4489456373106786	1
+31	Spectrogram 1	1	371485.mp3.wav	63.0	66.0	150	15000	eurser1	European Serin	0.8551506331356774	1
+32	Spectrogram 1	1	371485.mp3.wav	66.0	69.0	150	15000	ictwar1	Icterine Warbler	0.8812105014001317	1
+33	Spectrogram 1	1	371485.mp3.wav	66.0	69.0	150	15000	weowar1	Western Olivaceous Warbler	0.3425581931248531	2
+34	Spectrogram 1	1	371485.mp3.wav	66.0	69.0	150	15000	melwar1	Melodious Warbler	0.12135816185665559	3
+35	Spectrogram 1	1	371485.mp3.wav	69.0	72.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.40073058767295566	1
+36	Spectrogram 1	1	371485.mp3.wav	69.0	72.0	150	15000	melwar1	Melodious Warbler	0.22981962176292586	2
+37	Spectrogram 1	1	371485.mp3.wav	69.0	72.0	150	15000	ictwar1	Icterine Warbler	0.1323098311588394	3
+38	Spectrogram 1	1	371485.mp3.wav	0.0	3.0	150	15000	eurser1	European Serin	0.525826726036749	1

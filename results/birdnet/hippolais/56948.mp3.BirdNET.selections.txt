@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	56948.mp3.wav	12.0	15.0	150	15000	blrwar1	Blyth's Reed Warbler	0.9444529053841247	1
+2	Spectrogram 1	1	56948.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.8766318897537522	2
+3	Spectrogram 1	1	56948.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9994228363186141	1
+4	Spectrogram 1	1	56948.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9993544191670848	1
+5	Spectrogram 1	1	56948.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9990290754796348	1
+6	Spectrogram 1	1	56948.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9994718232125301	1
+7	Spectrogram 1	1	56948.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9997710641615455	1
+8	Spectrogram 1	1	56948.mp3.wav	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.7831248154360133	1
+9	Spectrogram 1	1	56948.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.21453695615022708	2
+10	Spectrogram 1	1	56948.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9999362411936815	1
+11	Spectrogram 1	1	56948.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9993189185328291	1
+12	Spectrogram 1	1	56948.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9999265033824138	1
+13	Spectrogram 1	1	56948.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9924174181260059	1
+14	Spectrogram 1	1	56948.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.9998802995493615	1
+15	Spectrogram 1	1	56948.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9992368244499834	1
+16	Spectrogram 1	1	56948.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9997853969275232	1
+17	Spectrogram 1	1	56948.mp3.wav	0.0	3.0	150	15000	blackc1	Eurasian Blackcap	0.8215530159548604	1
+18	Spectrogram 1	1	56948.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.4765291220232232	2

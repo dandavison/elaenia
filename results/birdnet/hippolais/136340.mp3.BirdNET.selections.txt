@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	136340.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9568679880021085	1
+2	Spectrogram 1	1	136340.mp3.wav	6.0	9.0	150	15000	brnthr	Brown Thrasher	0.36021162528659967	1
+3	Spectrogram 1	1	136340.mp3.wav	6.0	9.0	150	15000	grycat	Gray Catbird	0.22212833743610494	2
+4	Spectrogram 1	1	136340.mp3.wav	6.0	9.0	150	15000	yebcha	Yellow-breasted Chat	0.12375963065042499	3
+5	Spectrogram 1	1	136340.mp3.wav	0.0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.9342114502181526	1
+6	Spectrogram 1	1	136340.mp3.wav	0.0	3.0	150	15000	eurjay1	Eurasian Jay	0.3112945383558347	2

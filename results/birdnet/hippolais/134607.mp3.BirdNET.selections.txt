@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	134607.mp3.wav	12.0	15.0	150	15000	wlwwar	Willow Warbler	0.14334739724826803	1
+2	Spectrogram 1	1	134607.mp3.wav	12.0	15.0	150	15000	eurwry	Eurasian Wryneck	0.10739497437291257	2
+3	Spectrogram 1	1	134607.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.999654442220844	1
+4	Spectrogram 1	1	134607.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9996699130992562	1
+5	Spectrogram 1	1	134607.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9862959432923349	1
+6	Spectrogram 1	1	134607.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.23551084068316308	2
+7	Spectrogram 1	1	134607.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9995388177501562	1
+8	Spectrogram 1	1	134607.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.998285841710823	1
+9	Spectrogram 1	1	134607.mp3.wav	9.0	12.0	150	15000	wlwwar	Willow Warbler	0.18539203546448826	1
+10	Spectrogram 1	1	134607.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9994516581557288	1

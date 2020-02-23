@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386294.mp3.wav	12.0	15.0	150	15000	eutspa	Eurasian Tree Sparrow	0.28560011124356033	1
+2	Spectrogram 1	1	386294.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.2804388764699114	2
+3	Spectrogram 1	1	386294.mp3.wav	12.0	15.0	150	15000	houspa	House Sparrow	0.27301794561438913	3
+4	Spectrogram 1	1	386294.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9978246191479943	1
+5	Spectrogram 1	1	386294.mp3.wav	3.0	6.0	150	15000	grcgre1	Great Crested Grebe	0.9879171638847417	1
+6	Spectrogram 1	1	386294.mp3.wav	3.0	6.0	150	15000	wesgre	Western Grebe	0.2159762829685017	2
+7	Spectrogram 1	1	386294.mp3.wav	6.0	9.0	150	15000	grcgre1	Great Crested Grebe	0.4269705223916308	1
+8	Spectrogram 1	1	386294.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.13521947265596343	2
+9	Spectrogram 1	1	386294.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.12892654118744304	3
+10	Spectrogram 1	1	386294.mp3.wav	9.0	12.0	150	15000	barswa	Barn Swallow	0.7242826532731311	1
+11	Spectrogram 1	1	386294.mp3.wav	9.0	12.0	150	15000	rerswa1	Red-rumped Swallow	0.40041503911410026	2
+12	Spectrogram 1	1	386294.mp3.wav	9.0	12.0	150	15000	cohmar1	Common House-Martin	0.1541072372602083	3
+13	Spectrogram 1	1	386294.mp3.wav	0.0	3.0	150	15000	grcgre1	Great Crested Grebe	0.9822748870415773	1
+14	Spectrogram 1	1	386294.mp3.wav	0.0	3.0	150	15000	wesgre	Western Grebe	0.5644324655770198	2

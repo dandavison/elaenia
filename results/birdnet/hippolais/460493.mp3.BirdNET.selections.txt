@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	460493.mp3.wav	12.0	15.0	150	15000	eurlin1	Eurasian Linnet	0.3398472425395447	1
+2	Spectrogram 1	1	460493.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.21639985549329188	2
+3	Spectrogram 1	1	460493.mp3.wav	12.0	15.0	150	15000	barwar1	Barred Warbler	0.1776559285032589	3
+4	Spectrogram 1	1	460493.mp3.wav	15.0	18.0	150	15000	scoori	Scott's Oriole	0.5824712985681563	1
+5	Spectrogram 1	1	460493.mp3.wav	15.0	18.0	150	15000	robgro	Rose-breasted Grosbeak	0.23319588094337107	2
+6	Spectrogram 1	1	460493.mp3.wav	15.0	18.0	150	15000	balori	Baltimore Oriole	0.19999120718588925	3
+7	Spectrogram 1	1	460493.mp3.wav	3.0	6.0	150	15000	eueowl1	Eurasian Eagle-Owl	0.8468097389093807	1
+8	Spectrogram 1	1	460493.mp3.wav	3.0	6.0	150	15000	grhowl	Great Horned Owl	0.39543283594908823	2
+9	Spectrogram 1	1	460493.mp3.wav	3.0	6.0	150	15000	loeowl	Long-eared Owl	0.24424270255119465	3
+10	Spectrogram 1	1	460493.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.14679253784174595	1
+11	Spectrogram 1	1	460493.mp3.wav	6.0	9.0	150	15000	eurbul	Eurasian Bullfinch	0.11269572442182635	2
+12	Spectrogram 1	1	460493.mp3.wav	9.0	12.0	150	15000	sora	Sora	0.44955527846405535	1
+13	Spectrogram 1	1	460493.mp3.wav	9.0	12.0	150	15000	eurcoo	Eurasian Coot	0.15112059617241624	2
+14	Spectrogram 1	1	460493.mp3.wav	0.0	3.0	150	15000	rebshr1	Red-backed Shrike	0.2779624252874965	1
+15	Spectrogram 1	1	460493.mp3.wav	0.0	3.0	150	15000	eurwar1	Eurasian Reed Warbler	0.12569841162706705	2
+16	Spectrogram 1	1	460493.mp3.wav	0.0	3.0	150	15000	wooshr1	Woodchat Shrike	0.12429396324630519	3

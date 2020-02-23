@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	243767.mp3.wav	12.0	15.0	150	15000	eurkes	Eurasian Kestrel	0.8240948901732987	1
+2	Spectrogram 1	1	243767.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.19465633426765427	2
+3	Spectrogram 1	1	243767.mp3.wav	15.0	18.0	150	15000	eurkes	Eurasian Kestrel	0.9939345661746085	1
+4	Spectrogram 1	1	243767.mp3.wav	18.0	21.0	150	15000	lesgol	Lesser Goldfinch	0.5258192530269525	1
+5	Spectrogram 1	1	243767.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.10497382671505687	2
+6	Spectrogram 1	1	243767.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.995443800101809	1
+7	Spectrogram 1	1	243767.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.16911225566430504	1
+8	Spectrogram 1	1	243767.mp3.wav	9.0	12.0	150	15000	eurbla	Eurasian Blackbird	0.11524441038317523	2
+9	Spectrogram 1	1	243767.mp3.wav	0.0	3.0	150	15000	rocpet1	Rock Sparrow	0.9771765994208245	1
+10	Spectrogram 1	1	243767.mp3.wav	0.0	3.0	150	15000	wooduc	Wood Duck	0.2490676295959158	2

@@ -1,0 +1,32 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	375105.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9121221513585174	1
+2	Spectrogram 1	1	375105.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.39358492845047366	2
+3	Spectrogram 1	1	375105.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9626969878354328	1
+4	Spectrogram 1	1	375105.mp3.wav	15.0	18.0	150	15000	weowar1	Western Olivaceous Warbler	0.37455148778348474	2
+5	Spectrogram 1	1	375105.mp3.wav	18.0	21.0	150	15000	miswoo1	Middle Spotted Woodpecker	0.15117867359430653	1
+6	Spectrogram 1	1	375105.mp3.wav	18.0	21.0	150	15000	eurjay1	Eurasian Jay	0.14653203222295158	2
+7	Spectrogram 1	1	375105.mp3.wav	18.0	21.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.13412458032491295	3
+8	Spectrogram 1	1	375105.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9980881980363729	1
+9	Spectrogram 1	1	375105.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9983286317471771	1
+10	Spectrogram 1	1	375105.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.999601673424226	1
+11	Spectrogram 1	1	375105.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9992680455155669	1
+12	Spectrogram 1	1	375105.mp3.wav	30.0	33.0	150	15000	colfly1	Collared Flycatcher	0.17816216322242442	1
+13	Spectrogram 1	1	375105.mp3.wav	30.0	33.0	150	15000	woowar	Wood Warbler	0.12976068567652582	2
+14	Spectrogram 1	1	375105.mp3.wav	30.0	33.0	150	15000	gyfwoo1	Gray-headed Woodpecker	0.12061702872352413	3
+15	Spectrogram 1	1	375105.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9983385487662408	1
+16	Spectrogram 1	1	375105.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9981534656837509	1
+17	Spectrogram 1	1	375105.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.9967865250912353	1
+18	Spectrogram 1	1	375105.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.8707070650376812	1
+19	Spectrogram 1	1	375105.mp3.wav	48.0	51.0	150	15000	colfly1	Collared Flycatcher	0.18787611355300754	1
+20	Spectrogram 1	1	375105.mp3.wav	48.0	51.0	150	15000	woowar	Wood Warbler	0.17821028308585438	2
+21	Spectrogram 1	1	375105.mp3.wav	48.0	51.0	150	15000	rebfly	Red-breasted Flycatcher	0.11693939142269047	3
+22	Spectrogram 1	1	375105.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.983292304798076	1
+23	Spectrogram 1	1	375105.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.989606813606478	1
+24	Spectrogram 1	1	375105.mp3.wav	57.0	60.0	150	15000	shttre1	Short-toed Treecreeper	0.10874773603216584	1
+25	Spectrogram 1	1	375105.mp3.wav	57.0	60.0	150	15000	gyfwoo1	Gray-headed Woodpecker	0.10495483726220824	2
+26	Spectrogram 1	1	375105.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9997624644734758	1
+27	Spectrogram 1	1	375105.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9620634316286529	1
+28	Spectrogram 1	1	375105.mp3.wav	9.0	12.0	150	15000	weowar1	Western Olivaceous Warbler	0.26797716496251267	2
+29	Spectrogram 1	1	375105.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.6779122799141568	1
+30	Spectrogram 1	1	375105.mp3.wav	0.0	3.0	150	15000	sonthr1	Song Thrush	0.3517941284743789	2
+31	Spectrogram 1	1	375105.mp3.wav	0.0	3.0	150	15000	blackc1	Eurasian Blackcap	0.12460475647750217	3

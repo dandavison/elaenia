@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	377723.mp3.wav	12.0	15.0	150	15000	houfin	House Finch	0.10033119323007678	1
+2	Spectrogram 1	1	377723.mp3.wav	12.0	15.0	150	15000	hooori	Hooded Oriole	0.1002014034919578	2
+3	Spectrogram 1	1	377723.mp3.wav	15.0	18.0	150	15000	grawar	Grace's Warbler	0.2133934022151631	1
+4	Spectrogram 1	1	377723.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9983510262334735	1
+5	Spectrogram 1	1	377723.mp3.wav	21.0	24.0	150	15000	subwar1	Subalpine Warbler	0.6189833045561839	1
+6	Spectrogram 1	1	377723.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.5077420915670151	2
+7	Spectrogram 1	1	377723.mp3.wav	21.0	24.0	150	15000	sarwar1	Sardinian Warbler	0.347313341637614	3
+8	Spectrogram 1	1	377723.mp3.wav	3.0	6.0	150	15000	subwar1	Subalpine Warbler	0.5671098276688146	1
+9	Spectrogram 1	1	377723.mp3.wav	3.0	6.0	150	15000	sarwar1	Sardinian Warbler	0.5453769820209622	2
+10	Spectrogram 1	1	377723.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.28920372951864404	3
+11	Spectrogram 1	1	377723.mp3.wav	6.0	9.0	150	15000	subwar1	Subalpine Warbler	0.7462981281465566	1
+12	Spectrogram 1	1	377723.mp3.wav	6.0	9.0	150	15000	sarwar1	Sardinian Warbler	0.33679858870616064	2
+13	Spectrogram 1	1	377723.mp3.wav	6.0	9.0	150	15000	darwar1	Dartford Warbler	0.3305138063597395	3
+14	Spectrogram 1	1	377723.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9939122373028139	1
+15	Spectrogram 1	1	377723.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.7526727184392239	1
+16	Spectrogram 1	1	377723.mp3.wav	0.0	3.0	150	15000	ruewar1	Rueppell's Warbler	0.5994226641948366	2
+17	Spectrogram 1	1	377723.mp3.wav	0.0	3.0	150	15000	subwar1	Subalpine Warbler	0.44221661656757405	3

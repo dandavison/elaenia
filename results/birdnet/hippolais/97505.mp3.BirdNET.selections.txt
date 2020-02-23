@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	97505.mp3.wav	12.0	15.0	150	15000	yebcha	Yellow-breasted Chat	0.360716685793725	1
+2	Spectrogram 1	1	97505.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.3603313238199365	2
+3	Spectrogram 1	1	97505.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.358307743915631	3
+4	Spectrogram 1	1	97505.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.8351907160180102	1
+5	Spectrogram 1	1	97505.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.44895773580419857	2
+6	Spectrogram 1	1	97505.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.23030270335480954	3
+7	Spectrogram 1	1	97505.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.571911859602333	1
+8	Spectrogram 1	1	97505.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.45379624370876437	2
+9	Spectrogram 1	1	97505.mp3.wav	18.0	21.0	150	15000	yebcha	Yellow-breasted Chat	0.3386405958305912	3
+10	Spectrogram 1	1	97505.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.8919385945545558	1
+11	Spectrogram 1	1	97505.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.4569145318912255	2
+12	Spectrogram 1	1	97505.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.204359157571129	3
+13	Spectrogram 1	1	97505.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9778753877013943	1
+14	Spectrogram 1	1	97505.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.4336201963512047	2
+15	Spectrogram 1	1	97505.mp3.wav	24.0	27.0	150	15000	garwar1	Garden Warbler	0.13540952793797917	3
+16	Spectrogram 1	1	97505.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.7453452083547106	1
+17	Spectrogram 1	1	97505.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.5782697363049839	2
+18	Spectrogram 1	1	97505.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.3273757484796699	3
+19	Spectrogram 1	1	97505.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9647434530825942	1
+20	Spectrogram 1	1	97505.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.5480146950129103	2
+21	Spectrogram 1	1	97505.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.11188213065199676	3
+22	Spectrogram 1	1	97505.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.6613483058364534	1
+23	Spectrogram 1	1	97505.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.5312492831817923	2
+24	Spectrogram 1	1	97505.mp3.wav	9.0	12.0	150	15000	houwre	House Wren	0.35029593773484696	3
+25	Spectrogram 1	1	97505.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9806496023357605	1
+26	Spectrogram 1	1	97505.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.12470208181779345	2

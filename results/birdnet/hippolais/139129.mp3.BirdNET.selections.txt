@@ -1,0 +1,44 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	139129.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.8581024839143208	1
+2	Spectrogram 1	1	139129.mp3.wav	12.0	15.0	150	15000	eurbla	Eurasian Blackbird	0.4580444707717249	2
+3	Spectrogram 1	1	139129.mp3.wav	12.0	15.0	150	15000	fieldf	Fieldfare	0.3590834423374358	3
+4	Spectrogram 1	1	139129.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9927318347638294	1
+5	Spectrogram 1	1	139129.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9997753823886605	1
+6	Spectrogram 1	1	139129.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.998576252034682	1
+7	Spectrogram 1	1	139129.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.10072761892207399	2
+8	Spectrogram 1	1	139129.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9998527323275108	1
+9	Spectrogram 1	1	139129.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9997324087907864	1
+10	Spectrogram 1	1	139129.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9998543240044275	1
+11	Spectrogram 1	1	139129.mp3.wav	30.0	33.0	150	15000	comcha	Common Chaffinch	0.14533882278292407	1
+12	Spectrogram 1	1	139129.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9997656135487362	1
+13	Spectrogram 1	1	139129.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9998387402088863	1
+14	Spectrogram 1	1	139129.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9998269499438934	1
+15	Spectrogram 1	1	139129.mp3.wav	42.0	45.0	150	15000	comnig1	Common Nightingale	0.14649678897373053	1
+16	Spectrogram 1	1	139129.mp3.wav	42.0	45.0	150	15000	blueth	Bluethroat	0.11765602460800693	2
+17	Spectrogram 1	1	139129.mp3.wav	42.0	45.0	150	15000	gretit1	Great Tit	0.11383612628006369	3
+18	Spectrogram 1	1	139129.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9998444784407275	1
+19	Spectrogram 1	1	139129.mp3.wav	48.0	51.0	150	15000	fieldf	Fieldfare	0.4501894344189756	1
+20	Spectrogram 1	1	139129.mp3.wav	48.0	51.0	150	15000	sonthr1	Song Thrush	0.25137167439072056	2
+21	Spectrogram 1	1	139129.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.2275913148159122	3
+22	Spectrogram 1	1	139129.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.9993782624269039	1
+23	Spectrogram 1	1	139129.mp3.wav	54.0	57.0	150	15000	cowpig1	Common Wood-Pigeon	0.18610719221677058	1
+24	Spectrogram 1	1	139129.mp3.wav	54.0	57.0	150	15000	stodov1	Stock Dove	0.15927654427300292	2
+25	Spectrogram 1	1	139129.mp3.wav	54.0	57.0	150	15000	webwar1	Western Bonelli's Warbler	0.10161333749518689	3
+26	Spectrogram 1	1	139129.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.9990066500338707	1
+27	Spectrogram 1	1	139129.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9999440250415055	1
+28	Spectrogram 1	1	139129.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9999681684511893	1
+29	Spectrogram 1	1	139129.mp3.wav	60.0	63.0	150	15000	ictwar1	Icterine Warbler	0.9988865260313252	1
+30	Spectrogram 1	1	139129.mp3.wav	72.0	75.0	150	15000	ictwar1	Icterine Warbler	0.9991722648082372	1
+31	Spectrogram 1	1	139129.mp3.wav	72.0	75.0	150	15000	fieldf	Fieldfare	0.19189294363682738	2
+32	Spectrogram 1	1	139129.mp3.wav	75.0	78.0	150	15000	ictwar1	Icterine Warbler	0.9999151254906142	1
+33	Spectrogram 1	1	139129.mp3.wav	78.0	81.0	150	15000	comcha	Common Chaffinch	0.4724624014056461	1
+34	Spectrogram 1	1	139129.mp3.wav	78.0	81.0	150	15000	ictwar1	Icterine Warbler	0.3495887627782981	2
+35	Spectrogram 1	1	139129.mp3.wav	78.0	81.0	150	15000	fieldf	Fieldfare	0.22126113206143477	3
+36	Spectrogram 1	1	139129.mp3.wav	63.0	66.0	150	15000	fieldf	Fieldfare	0.34882375221044976	1
+37	Spectrogram 1	1	139129.mp3.wav	63.0	66.0	150	15000	ictwar1	Icterine Warbler	0.15496823208034013	2
+38	Spectrogram 1	1	139129.mp3.wav	63.0	66.0	150	15000	subfly	Sulphur-bellied Flycatcher	0.10400684047741662	3
+39	Spectrogram 1	1	139129.mp3.wav	66.0	69.0	150	15000	ictwar1	Icterine Warbler	0.7388645398673649	1
+40	Spectrogram 1	1	139129.mp3.wav	66.0	69.0	150	15000	sonthr1	Song Thrush	0.20159794381959184	2
+41	Spectrogram 1	1	139129.mp3.wav	66.0	69.0	150	15000	fieldf	Fieldfare	0.10874894342227126	3
+42	Spectrogram 1	1	139129.mp3.wav	69.0	72.0	150	15000	ictwar1	Icterine Warbler	0.9997713449715739	1
+43	Spectrogram 1	1	139129.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9999591285387606	1

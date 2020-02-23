@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	183182.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9996466316586151	1
+2	Spectrogram 1	1	183182.mp3.wav	15.0	18.0	150	15000	mallar3	Mallard	0.9786703124642258	1
+3	Spectrogram 1	1	183182.mp3.wav	15.0	18.0	150	15000	purswa1	Western Swamphen	0.21931017303777403	2
+4	Spectrogram 1	1	183182.mp3.wav	18.0	21.0	150	15000	comcha	Common Chaffinch	0.15623442284216976	1
+5	Spectrogram 1	1	183182.mp3.wav	18.0	21.0	150	15000	rebfly	Red-breasted Flycatcher	0.1378109042329272	2
+6	Spectrogram 1	1	183182.mp3.wav	18.0	21.0	150	15000	stodov1	Stock Dove	0.1098296130911736	3
+7	Spectrogram 1	1	183182.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9857399560628916	1
+8	Spectrogram 1	1	183182.mp3.wav	21.0	24.0	150	15000	blackc1	Eurasian Blackcap	0.11346795397971254	2
+9	Spectrogram 1	1	183182.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.997543128954598	1
+10	Spectrogram 1	1	183182.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9578642154439604	1
+11	Spectrogram 1	1	183182.mp3.wav	3.0	6.0	150	15000	weowar1	Western Olivaceous Warbler	0.4565552461265746	2
+12	Spectrogram 1	1	183182.mp3.wav	6.0	9.0	150	15000	comcha	Common Chaffinch	0.4911230684685705	1
+13	Spectrogram 1	1	183182.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.12149759898934535	2
+14	Spectrogram 1	1	183182.mp3.wav	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.12038265747887127	3
+15	Spectrogram 1	1	183182.mp3.wav	9.0	12.0	150	15000	comcha	Common Chaffinch	0.6549509406277446	1
+16	Spectrogram 1	1	183182.mp3.wav	9.0	12.0	150	15000	rebfly	Red-breasted Flycatcher	0.10831529786144121	2
+17	Spectrogram 1	1	183182.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9976665404455763	1

@@ -1,0 +1,31 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	388505.mp3.wav	12.0	15.0	150	15000	blutit	Eurasian Blue Tit	0.9908276015696461	1
+2	Spectrogram 1	1	388505.mp3.wav	15.0	18.0	150	15000	whiwag	White Wagtail	0.38731416926720097	1
+3	Spectrogram 1	1	388505.mp3.wav	18.0	21.0	150	15000	lawgol	Lawrence's Goldfinch	0.15435232514660158	1
+4	Spectrogram 1	1	388505.mp3.wav	18.0	21.0	150	15000	caltow	California Towhee	0.11481890388829188	2
+5	Spectrogram 1	1	388505.mp3.wav	21.0	24.0	150	15000	fieldf	Fieldfare	0.3257689378682058	1
+6	Spectrogram 1	1	388505.mp3.wav	21.0	24.0	150	15000	sonthr1	Song Thrush	0.256586612204511	2
+7	Spectrogram 1	1	388505.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.21886741187128966	3
+8	Spectrogram 1	1	388505.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9956126968825822	1
+9	Spectrogram 1	1	388505.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9990719434558735	1
+10	Spectrogram 1	1	388505.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9993919001939022	1
+11	Spectrogram 1	1	388505.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9998414306167762	1
+12	Spectrogram 1	1	388505.mp3.wav	33.0	36.0	150	15000	stodov1	Stock Dove	0.14078597334145956	1
+13	Spectrogram 1	1	388505.mp3.wav	33.0	36.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.12632387223735483	2
+14	Spectrogram 1	1	388505.mp3.wav	33.0	36.0	150	15000	cowpig1	Common Wood-Pigeon	0.1070804211151906	3
+15	Spectrogram 1	1	388505.mp3.wav	36.0	39.0	150	15000	blutit	Eurasian Blue Tit	0.9933360907176805	1
+16	Spectrogram 1	1	388505.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9989246168759678	1
+17	Spectrogram 1	1	388505.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.9997352482661761	1
+18	Spectrogram 1	1	388505.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9977831598246095	1
+19	Spectrogram 1	1	388505.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.9550148289339342	1
+20	Spectrogram 1	1	388505.mp3.wav	48.0	51.0	150	15000	blackc1	Eurasian Blackcap	0.17084280661088588	2
+21	Spectrogram 1	1	388505.mp3.wav	48.0	51.0	150	15000	grycat	Gray Catbird	0.10554716587053828	3
+22	Spectrogram 1	1	388505.mp3.wav	51.0	54.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.11547459962576202	1
+23	Spectrogram 1	1	388505.mp3.wav	51.0	54.0	150	15000	gyfwoo1	Gray-headed Woodpecker	0.10697749954419825	2
+24	Spectrogram 1	1	388505.mp3.wav	51.0	54.0	150	15000	comcha	Common Chaffinch	0.10287442248079472	3
+25	Spectrogram 1	1	388505.mp3.wav	54.0	57.0	150	15000	whbwoo1	White-backed Woodpecker	0.11273700469431948	1
+26	Spectrogram 1	1	388505.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9987166405224572	1
+27	Spectrogram 1	1	388505.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.8905400726742179	1
+28	Spectrogram 1	1	388505.mp3.wav	0.0	3.0	150	15000	rebshr1	Red-backed Shrike	0.13503425486516082	1
+29	Spectrogram 1	1	388505.mp3.wav	0.0	3.0	150	15000	comsni	Common Snipe	0.1124058194549684	2
+30	Spectrogram 1	1	388505.mp3.wav	0.0	3.0	150	15000	grrwar1	Great Reed Warbler	0.10662545874904396	3

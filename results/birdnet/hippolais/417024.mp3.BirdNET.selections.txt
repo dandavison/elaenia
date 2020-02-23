@@ -1,0 +1,105 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	417024.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9970686770248284	1
+2	Spectrogram 1	1	417024.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9994022609507692	1
+3	Spectrogram 1	1	417024.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9995014247367827	1
+4	Spectrogram 1	1	417024.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9967628465947665	1
+5	Spectrogram 1	1	417024.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9990549059650852	1
+6	Spectrogram 1	1	417024.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9988840019225683	1
+7	Spectrogram 1	1	417024.mp3.wav	30.0	33.0	150	15000	hooori	Hooded Oriole	0.6104335561573137	1
+8	Spectrogram 1	1	417024.mp3.wav	33.0	36.0	150	15000	rocpta1	Rock Ptarmigan	0.153823762489485	1
+9	Spectrogram 1	1	417024.mp3.wav	36.0	39.0	150	15000	grrwar1	Great Reed Warbler	0.4206368105812605	1
+10	Spectrogram 1	1	417024.mp3.wav	36.0	39.0	150	15000	rocpta1	Rock Ptarmigan	0.18514398864715553	2
+11	Spectrogram 1	1	417024.mp3.wav	39.0	42.0	150	15000	hooori	Hooded Oriole	0.3038897107373051	1
+12	Spectrogram 1	1	417024.mp3.wav	45.0	48.0	150	15000	rinduc	Ring-necked Duck	0.21207848898026738	1
+13	Spectrogram 1	1	417024.mp3.wav	45.0	48.0	150	15000	wesgre	Western Grebe	0.1002313192849714	2
+14	Spectrogram 1	1	417024.mp3.wav	48.0	51.0	150	15000	grrwar1	Great Reed Warbler	0.18063337802256782	1
+15	Spectrogram 1	1	417024.mp3.wav	51.0	54.0	150	15000	comqua1	Common Quail	0.12500524529585672	1
+16	Spectrogram 1	1	417024.mp3.wav	57.0	60.0	150	15000	hooori	Hooded Oriole	0.28722417867964095	1
+17	Spectrogram 1	1	417024.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9970845387859264	1
+18	Spectrogram 1	1	417024.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9947128396927734	1
+19	Spectrogram 1	1	417024.mp3.wav	72.0	75.0	150	15000	melwar1	Melodious Warbler	0.9956953352986928	1
+20	Spectrogram 1	1	417024.mp3.wav	75.0	78.0	150	15000	melwar1	Melodious Warbler	0.9140504140060546	1
+21	Spectrogram 1	1	417024.mp3.wav	75.0	78.0	150	15000	sarwar1	Sardinian Warbler	0.2364386154413572	2
+22	Spectrogram 1	1	417024.mp3.wav	75.0	78.0	150	15000	subwar1	Subalpine Warbler	0.1328147841389416	3
+23	Spectrogram 1	1	417024.mp3.wav	81.0	84.0	150	15000	kirwar	Kirtland's Warbler	0.1858903301335435	1
+24	Spectrogram 1	1	417024.mp3.wav	84.0	87.0	150	15000	eurlin1	Eurasian Linnet	0.40532862100384864	1
+25	Spectrogram 1	1	417024.mp3.wav	87.0	90.0	150	15000	marwar3	Marsh Warbler	0.25767145770116107	1
+26	Spectrogram 1	1	417024.mp3.wav	87.0	90.0	150	15000	sedwar1	Sedge Warbler	0.18295388766767412	2
+27	Spectrogram 1	1	417024.mp3.wav	87.0	90.0	150	15000	blueth	Bluethroat	0.15903373784616956	3
+28	Spectrogram 1	1	417024.mp3.wav	63.0	66.0	150	15000	woolar1	Wood Lark	0.3851215648436151	1
+29	Spectrogram 1	1	417024.mp3.wav	90.0	93.0	150	15000	melwar1	Melodious Warbler	0.9966580045616912	1
+30	Spectrogram 1	1	417024.mp3.wav	93.0	96.0	150	15000	wooshr1	Woodchat Shrike	0.4384985105692415	1
+31	Spectrogram 1	1	417024.mp3.wav	93.0	96.0	150	15000	marwar3	Marsh Warbler	0.20462021420089413	2
+32	Spectrogram 1	1	417024.mp3.wav	93.0	96.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.1883922141142053	3
+33	Spectrogram 1	1	417024.mp3.wav	96.0	99.0	150	15000	purgal2	Purple Gallinule	0.12831800581018904	1
+34	Spectrogram 1	1	417024.mp3.wav	96.0	99.0	150	15000	comgal1	Common Gallinule	0.11689688471040685	2
+35	Spectrogram 1	1	417024.mp3.wav	99.0	102.0	150	15000	sposan	Spotted Sandpiper	0.33300067010403844	1
+36	Spectrogram 1	1	417024.mp3.wav	99.0	102.0	150	15000	woolar1	Wood Lark	0.17972837628416796	2
+37	Spectrogram 1	1	417024.mp3.wav	99.0	102.0	150	15000	pibgre	Pied-billed Grebe	0.11194943195750078	3
+38	Spectrogram 1	1	417024.mp3.wav	102.0	105.0	150	15000	melwar1	Melodious Warbler	0.9983705243265464	1
+39	Spectrogram 1	1	417024.mp3.wav	105.0	108.0	150	15000	melwar1	Melodious Warbler	0.9957171751801157	1
+40	Spectrogram 1	1	417024.mp3.wav	108.0	111.0	150	15000	melwar1	Melodious Warbler	0.9940677374836803	1
+41	Spectrogram 1	1	417024.mp3.wav	114.0	117.0	150	15000	rocpta1	Rock Ptarmigan	0.38613251440473767	1
+42	Spectrogram 1	1	417024.mp3.wav	114.0	117.0	150	15000	greegr	Great Egret	0.15482755869249895	2
+43	Spectrogram 1	1	417024.mp3.wav	114.0	117.0	150	15000	razorb	Razorbill	0.10854849652353728	3
+44	Spectrogram 1	1	417024.mp3.wav	117.0	120.0	150	15000	lottit1	Long-tailed Tit	0.3061034280024628	1
+45	Spectrogram 1	1	417024.mp3.wav	66.0	69.0	150	15000	litgre1	Little Grebe	0.3917379794244352	1
+46	Spectrogram 1	1	417024.mp3.wav	66.0	69.0	150	15000	pibgre	Pied-billed Grebe	0.3783103657767709	2
+47	Spectrogram 1	1	417024.mp3.wav	66.0	69.0	150	15000	woolar1	Wood Lark	0.15381052639351087	3
+48	Spectrogram 1	1	417024.mp3.wav	69.0	72.0	150	15000	melwar1	Melodious Warbler	0.8942904801789131	1
+49	Spectrogram 1	1	417024.mp3.wav	120.0	123.0	150	15000	sarwar1	Sardinian Warbler	0.62039454600987	1
+50	Spectrogram 1	1	417024.mp3.wav	120.0	123.0	150	15000	subwar1	Subalpine Warbler	0.29590498197157983	2
+51	Spectrogram 1	1	417024.mp3.wav	120.0	123.0	150	15000	melwar1	Melodious Warbler	0.14746401091022596	3
+52	Spectrogram 1	1	417024.mp3.wav	132.0	135.0	150	15000	melwar1	Melodious Warbler	0.9979634111151058	1
+53	Spectrogram 1	1	417024.mp3.wav	135.0	138.0	150	15000	melwar1	Melodious Warbler	0.9990401625697731	1
+54	Spectrogram 1	1	417024.mp3.wav	138.0	141.0	150	15000	melwar1	Melodious Warbler	0.9988137566797874	1
+55	Spectrogram 1	1	417024.mp3.wav	141.0	144.0	150	15000	melwar1	Melodious Warbler	0.9989572987385255	1
+56	Spectrogram 1	1	417024.mp3.wav	144.0	147.0	150	15000	grewhi1	Greater Whitethroat	0.3691853556911035	1
+57	Spectrogram 1	1	417024.mp3.wav	144.0	147.0	150	15000	garwar1	Garden Warbler	0.14083587663356187	2
+58	Spectrogram 1	1	417024.mp3.wav	144.0	147.0	150	15000	blugrb1	Blue Grosbeak	0.10690932102902294	3
+59	Spectrogram 1	1	417024.mp3.wav	147.0	150.0	150	15000	razorb	Razorbill	0.6034348568541595	1
+60	Spectrogram 1	1	417024.mp3.wav	147.0	150.0	150	15000	greegr	Great Egret	0.39262233112107636	2
+61	Spectrogram 1	1	417024.mp3.wav	147.0	150.0	150	15000	rocpta1	Rock Ptarmigan	0.12937767464411407	3
+62	Spectrogram 1	1	417024.mp3.wav	123.0	126.0	150	15000	melwar1	Melodious Warbler	0.9995794440094329	1
+63	Spectrogram 1	1	417024.mp3.wav	150.0	153.0	150	15000	sancra	Sandhill Crane	0.6959239028242247	1
+64	Spectrogram 1	1	417024.mp3.wav	150.0	153.0	150	15000	barpet	Band-rumped Storm-Petrel	0.19399608882970845	2
+65	Spectrogram 1	1	417024.mp3.wav	150.0	153.0	150	15000	bripet	European Storm-Petrel	0.1232571059374584	3
+66	Spectrogram 1	1	417024.mp3.wav	156.0	159.0	150	15000	marwar3	Marsh Warbler	0.6365546258715947	1
+67	Spectrogram 1	1	417024.mp3.wav	156.0	159.0	150	15000	sonspa	Song Sparrow	0.1461907767401683	2
+68	Spectrogram 1	1	417024.mp3.wav	159.0	162.0	150	15000	melwar1	Melodious Warbler	0.9881514755141565	1
+69	Spectrogram 1	1	417024.mp3.wav	162.0	165.0	150	15000	melwar1	Melodious Warbler	0.9995511270176465	1
+70	Spectrogram 1	1	417024.mp3.wav	165.0	168.0	150	15000	melwar1	Melodious Warbler	0.9883473066959736	1
+71	Spectrogram 1	1	417024.mp3.wav	168.0	171.0	150	15000	melwar1	Melodious Warbler	0.9973089852174596	1
+72	Spectrogram 1	1	417024.mp3.wav	171.0	174.0	150	15000	melwar1	Melodious Warbler	0.998819112289418	1
+73	Spectrogram 1	1	417024.mp3.wav	174.0	177.0	150	15000	melwar1	Melodious Warbler	0.9957499300371975	1
+74	Spectrogram 1	1	417024.mp3.wav	126.0	129.0	150	15000	melwar1	Melodious Warbler	0.9979907448507499	1
+75	Spectrogram 1	1	417024.mp3.wav	129.0	132.0	150	15000	melwar1	Melodious Warbler	0.9974218229130869	1
+76	Spectrogram 1	1	417024.mp3.wav	180.0	183.0	150	15000	larbun	Lark Bunting	0.12810996949503828	1
+77	Spectrogram 1	1	417024.mp3.wav	180.0	183.0	150	15000	baispa	Baird's Sparrow	0.10183386944320212	2
+78	Spectrogram 1	1	417024.mp3.wav	192.0	195.0	150	15000	melwar1	Melodious Warbler	0.3382045466612357	1
+79	Spectrogram 1	1	417024.mp3.wav	192.0	195.0	150	15000	blrwar1	Blyth's Reed Warbler	0.26608720816870174	2
+80	Spectrogram 1	1	417024.mp3.wav	192.0	195.0	150	15000	blueth	Bluethroat	0.18883271970642726	3
+81	Spectrogram 1	1	417024.mp3.wav	195.0	198.0	150	15000	marwar3	Marsh Warbler	0.6635392060165818	1
+82	Spectrogram 1	1	417024.mp3.wav	195.0	198.0	150	15000	melwar1	Melodious Warbler	0.42363703945753733	2
+83	Spectrogram 1	1	417024.mp3.wav	195.0	198.0	150	15000	blueth	Bluethroat	0.1943769860784295	3
+84	Spectrogram 1	1	417024.mp3.wav	198.0	201.0	150	15000	melwar1	Melodious Warbler	0.9967005789718208	1
+85	Spectrogram 1	1	417024.mp3.wav	201.0	204.0	150	15000	whinch1	Whinchat	0.11554925845094134	1
+86	Spectrogram 1	1	417024.mp3.wav	204.0	207.0	150	15000	ortbun1	Ortolan Bunting	0.10485229367414037	1
+87	Spectrogram 1	1	417024.mp3.wav	183.0	186.0	150	15000	commer	Common Merganser	0.10942444017429537	1
+88	Spectrogram 1	1	417024.mp3.wav	183.0	186.0	150	15000	wescap1	Western Capercaillie	0.10665334520511677	2
+89	Spectrogram 1	1	417024.mp3.wav	213.0	216.0	150	15000	wesowl1	Western Screech-Owl	0.17002432711998147	1
+90	Spectrogram 1	1	417024.mp3.wav	213.0	216.0	150	15000	pibgre	Pied-billed Grebe	0.12161122521635986	2
+91	Spectrogram 1	1	417024.mp3.wav	213.0	216.0	150	15000	elfowl	Elf Owl	0.11064030256686	3
+92	Spectrogram 1	1	417024.mp3.wav	216.0	219.0	150	15000	litgre1	Little Grebe	0.5187251974889951	1
+93	Spectrogram 1	1	417024.mp3.wav	216.0	219.0	150	15000	compoc	Common Pochard	0.2476418541141712	2
+94	Spectrogram 1	1	417024.mp3.wav	216.0	219.0	150	15000	eurcoo	Eurasian Coot	0.19811062245922068	3
+95	Spectrogram 1	1	417024.mp3.wav	219.0	222.0	150	15000	melwar1	Melodious Warbler	0.9722369320696317	1
+96	Spectrogram 1	1	417024.mp3.wav	219.0	222.0	150	15000	marwar3	Marsh Warbler	0.21449782982854143	2
+97	Spectrogram 1	1	417024.mp3.wav	222.0	225.0	150	15000	melwar1	Melodious Warbler	0.9875227277654953	1
+98	Spectrogram 1	1	417024.mp3.wav	225.0	228.0	150	15000	comqua1	Common Quail	0.13037429694824107	1
+99	Spectrogram 1	1	417024.mp3.wav	228.0	231.0	150	15000	comsni	Common Snipe	0.1747429136972992	1
+100	Spectrogram 1	1	417024.mp3.wav	228.0	231.0	150	15000	litgre1	Little Grebe	0.11214877057153279	2
+101	Spectrogram 1	1	417024.mp3.wav	231.0	234.0	150	15000	compoc	Common Pochard	0.14016476441959183	1
+102	Spectrogram 1	1	417024.mp3.wav	231.0	234.0	150	15000	litgre1	Little Grebe	0.1355586846770255	2
+103	Spectrogram 1	1	417024.mp3.wav	0.0	3.0	150	15000	meapip1	Meadow Pipit	0.5383960461558297	1
+104	Spectrogram 1	1	417024.mp3.wav	0.0	3.0	150	15000	blueth	Bluethroat	0.36023561387781156	2

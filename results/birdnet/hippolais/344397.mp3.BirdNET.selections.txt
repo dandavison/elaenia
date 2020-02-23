@@ -1,0 +1,34 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	344397.mp3.wav	12.0	15.0	150	15000	blrwar1	Blyth's Reed Warbler	0.4884125038897097	1
+2	Spectrogram 1	1	344397.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.31916999811149843	2
+3	Spectrogram 1	1	344397.mp3.wav	12.0	15.0	150	15000	comnig1	Common Nightingale	0.2731020455319049	3
+4	Spectrogram 1	1	344397.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9968286728062264	1
+5	Spectrogram 1	1	344397.mp3.wav	18.0	21.0	150	15000	sarwar1	Sardinian Warbler	0.7286654061341563	1
+6	Spectrogram 1	1	344397.mp3.wav	18.0	21.0	150	15000	subwar1	Subalpine Warbler	0.17765940827242432	2
+7	Spectrogram 1	1	344397.mp3.wav	18.0	21.0	150	15000	darwar1	Dartford Warbler	0.16260739631016669	3
+8	Spectrogram 1	1	344397.mp3.wav	21.0	24.0	150	15000	eurwar1	Eurasian Reed Warbler	0.17955635369932138	1
+9	Spectrogram 1	1	344397.mp3.wav	21.0	24.0	150	15000	afrwar1	African Reed Warbler	0.14764152149731177	2
+10	Spectrogram 1	1	344397.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.99976554786782	1
+11	Spectrogram 1	1	344397.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9997576698823789	1
+12	Spectrogram 1	1	344397.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9930256926476901	1
+13	Spectrogram 1	1	344397.mp3.wav	33.0	36.0	150	15000	wlwwar	Willow Warbler	0.10459998781544108	1
+14	Spectrogram 1	1	344397.mp3.wav	36.0	39.0	150	15000	stonec4	European Stonechat	0.8087546534937659	1
+15	Spectrogram 1	1	344397.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.1075005749654569	2
+16	Spectrogram 1	1	344397.mp3.wav	39.0	42.0	150	15000	stonec4	European Stonechat	0.9933941398404529	1
+17	Spectrogram 1	1	344397.mp3.wav	42.0	45.0	150	15000	comqua1	Common Quail	0.2645373001443659	1
+18	Spectrogram 1	1	344397.mp3.wav	42.0	45.0	150	15000	corbun1	Corn Bunting	0.1350861510199671	2
+19	Spectrogram 1	1	344397.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.967430799629154	1
+20	Spectrogram 1	1	344397.mp3.wav	45.0	48.0	150	15000	wooshr1	Woodchat Shrike	0.11519366258285928	2
+21	Spectrogram 1	1	344397.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.9975102815993612	1
+22	Spectrogram 1	1	344397.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.9993177534574228	1
+23	Spectrogram 1	1	344397.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.2416068467168455	1
+24	Spectrogram 1	1	344397.mp3.wav	54.0	57.0	150	15000	padwar1	Paddyfield Warbler	0.16752629877559921	2
+25	Spectrogram 1	1	344397.mp3.wav	57.0	60.0	150	15000	comqua1	Common Quail	0.10931592543923412	1
+26	Spectrogram 1	1	344397.mp3.wav	57.0	60.0	150	15000	corbun1	Corn Bunting	0.10403948233180552	2
+27	Spectrogram 1	1	344397.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9986634664353042	1
+28	Spectrogram 1	1	344397.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.21084693413550595	1
+29	Spectrogram 1	1	344397.mp3.wav	9.0	12.0	150	15000	mouwar1	Moustached Warbler	0.10968392620170854	2
+30	Spectrogram 1	1	344397.mp3.wav	60.0	63.0	150	15000	melwar1	Melodious Warbler	0.997009319171272	1
+31	Spectrogram 1	1	344397.mp3.wav	63.0	66.0	150	15000	melwar1	Melodious Warbler	0.8070036278987297	1
+32	Spectrogram 1	1	344397.mp3.wav	63.0	66.0	150	15000	sarwar1	Sardinian Warbler	0.1342974627533351	2
+33	Spectrogram 1	1	344397.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9987236945329261	1

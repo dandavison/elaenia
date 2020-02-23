@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	256497.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9723237533955056	1
+2	Spectrogram 1	1	256497.mp3.wav	12.0	15.0	150	15000	blrwar1	Blyth's Reed Warbler	0.700908272261765	2
+3	Spectrogram 1	1	256497.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9582267908586515	1
+4	Spectrogram 1	1	256497.mp3.wav	18.0	21.0	150	15000	blrwar1	Blyth's Reed Warbler	0.41963611641184717	1
+5	Spectrogram 1	1	256497.mp3.wav	18.0	21.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.38103682519172316	2
+6	Spectrogram 1	1	256497.mp3.wav	18.0	21.0	150	15000	weowar1	Western Olivaceous Warbler	0.21263554893396852	3
+7	Spectrogram 1	1	256497.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9930927607895529	1
+8	Spectrogram 1	1	256497.mp3.wav	21.0	24.0	150	15000	weowar1	Western Olivaceous Warbler	0.2559576921305286	2
+9	Spectrogram 1	1	256497.mp3.wav	24.0	27.0	150	15000	houspa	House Sparrow	0.1314808819128472	1
+10	Spectrogram 1	1	256497.mp3.wav	24.0	27.0	150	15000	itaspa1	Italian Sparrow	0.11300791609134062	2
+11	Spectrogram 1	1	256497.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9849592740679022	1
+12	Spectrogram 1	1	256497.mp3.wav	3.0	6.0	150	15000	blrwar1	Blyth's Reed Warbler	0.446234878836396	2
+13	Spectrogram 1	1	256497.mp3.wav	6.0	9.0	150	15000	wlwwar	Willow Warbler	0.9848797060748535	1
+14	Spectrogram 1	1	256497.mp3.wav	6.0	9.0	150	15000	comred2	Common Redstart	0.1721400772646833	2
+15	Spectrogram 1	1	256497.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9945155249394019	1
+16	Spectrogram 1	1	256497.mp3.wav	9.0	12.0	150	15000	blrwar1	Blyth's Reed Warbler	0.2107806466514785	2
+17	Spectrogram 1	1	256497.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.14541434343882512	3
+18	Spectrogram 1	1	256497.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9989300302652668	1

@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	137500.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.5562305190307182	1
+2	Spectrogram 1	1	137500.mp3.wav	12.0	15.0	150	15000	bkcvir1	Black-capped Vireo	0.11408795333271707	2
+3	Spectrogram 1	1	137500.mp3.wav	12.0	15.0	150	15000	wooshr1	Woodchat Shrike	0.10334966701510401	3
+4	Spectrogram 1	1	137500.mp3.wav	15.0	18.0	150	15000	swathr	Swainson's Thrush	0.24986560424213375	1
+5	Spectrogram 1	1	137500.mp3.wav	15.0	18.0	150	15000	eubeat1	European Bee-eater	0.18041583606998343	2
+6	Spectrogram 1	1	137500.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.9801707051802463	1
+7	Spectrogram 1	1	137500.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.8579482360939648	1
+8	Spectrogram 1	1	137500.mp3.wav	21.0	24.0	150	15000	bkcvir1	Black-capped Vireo	0.36127881942504814	2
+9	Spectrogram 1	1	137500.mp3.wav	21.0	24.0	150	15000	blrwar1	Blyth's Reed Warbler	0.17126614215398292	3
+10	Spectrogram 1	1	137500.mp3.wav	24.0	27.0	150	15000	rinduc	Ring-necked Duck	0.13616367089290815	1
+11	Spectrogram 1	1	137500.mp3.wav	24.0	27.0	150	15000	commer	Common Merganser	0.1300642872671378	2
+12	Spectrogram 1	1	137500.mp3.wav	27.0	30.0	150	15000	marwar3	Marsh Warbler	0.8931100712828614	1
+13	Spectrogram 1	1	137500.mp3.wav	27.0	30.0	150	15000	blrwar1	Blyth's Reed Warbler	0.10404047966255879	2
+14	Spectrogram 1	1	137500.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9950487408640529	1
+15	Spectrogram 1	1	137500.mp3.wav	30.0	33.0	150	15000	marwar3	Marsh Warbler	0.974357186612372	1
+16	Spectrogram 1	1	137500.mp3.wav	30.0	33.0	150	15000	blrwar1	Blyth's Reed Warbler	0.24511314811248783	2
+17	Spectrogram 1	1	137500.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9205342264541865	1
+18	Spectrogram 1	1	137500.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.5179189017755808	2
+19	Spectrogram 1	1	137500.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.41442378672065805	3
+20	Spectrogram 1	1	137500.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9551658353774952	1
+21	Spectrogram 1	1	137500.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.3762939849134418	2

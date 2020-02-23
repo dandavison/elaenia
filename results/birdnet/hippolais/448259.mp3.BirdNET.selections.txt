@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	448259.mp3.wav	12.0	15.0	150	15000	grrwar1	Great Reed Warbler	0.3364814173435428	1
+2	Spectrogram 1	1	448259.mp3.wav	12.0	15.0	150	15000	wiltit1	Willow Tit	0.25216092188415357	2
+3	Spectrogram 1	1	448259.mp3.wav	15.0	18.0	150	15000	wiltit1	Willow Tit	0.23664978968726927	1
+4	Spectrogram 1	1	448259.mp3.wav	15.0	18.0	150	15000	eurjay1	Eurasian Jay	0.10746936524573844	2
+5	Spectrogram 1	1	448259.mp3.wav	18.0	21.0	150	15000	eurjay1	Eurasian Jay	0.13717362462371863	1
+6	Spectrogram 1	1	448259.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9916542270882927	1
+7	Spectrogram 1	1	448259.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9383996786217402	1
+8	Spectrogram 1	1	448259.mp3.wav	3.0	6.0	150	15000	buhvir	Blue-headed Vireo	0.12380431941927332	2
+9	Spectrogram 1	1	448259.mp3.wav	30.0	33.0	150	15000	eurtre1	Eurasian Treecreeper	0.2048168719590174	1
+10	Spectrogram 1	1	448259.mp3.wav	30.0	33.0	150	15000	colfly1	Collared Flycatcher	0.10560142844908965	2
+11	Spectrogram 1	1	448259.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9735323541406856	1
+12	Spectrogram 1	1	448259.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.8519910905362801	1
+13	Spectrogram 1	1	448259.mp3.wav	9.0	12.0	150	15000	bulori	Bullock's Oriole	0.23605046670931865	2
+14	Spectrogram 1	1	448259.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9971177011643025	1

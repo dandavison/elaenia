@@ -1,0 +1,29 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	179129.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9944788201841738	1
+2	Spectrogram 1	1	179129.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.13402569570719552	1
+3	Spectrogram 1	1	179129.mp3.wav	15.0	18.0	150	15000	comqua1	Common Quail	0.11255025529314765	2
+4	Spectrogram 1	1	179129.mp3.wav	15.0	18.0	150	15000	barwar1	Barred Warbler	0.10439734578813589	3
+5	Spectrogram 1	1	179129.mp3.wav	18.0	21.0	150	15000	comnig1	Common Nightingale	0.19673315437190642	1
+6	Spectrogram 1	1	179129.mp3.wav	18.0	21.0	150	15000	woolar1	Wood Lark	0.11415668235684157	2
+7	Spectrogram 1	1	179129.mp3.wav	18.0	21.0	150	15000	barwar1	Barred Warbler	0.10634331525368682	3
+8	Spectrogram 1	1	179129.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9992643754562539	1
+9	Spectrogram 1	1	179129.mp3.wav	24.0	27.0	150	15000	comqua1	Common Quail	0.22238980113926896	1
+10	Spectrogram 1	1	179129.mp3.wav	24.0	27.0	150	15000	corbun1	Corn Bunting	0.1824979903146521	2
+11	Spectrogram 1	1	179129.mp3.wav	24.0	27.0	150	15000	weowar2	Western Orphean Warbler	0.1746961696243685	3
+12	Spectrogram 1	1	179129.mp3.wav	27.0	30.0	150	15000	calhum	Calliope Hummingbird	0.1789399363698836	1
+13	Spectrogram 1	1	179129.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9998002061513505	1
+14	Spectrogram 1	1	179129.mp3.wav	30.0	33.0	150	15000	weowar2	Western Orphean Warbler	0.4271877992086367	1
+15	Spectrogram 1	1	179129.mp3.wav	30.0	33.0	150	15000	barwar1	Barred Warbler	0.23265076369266524	2
+16	Spectrogram 1	1	179129.mp3.wav	30.0	33.0	150	15000	garwar1	Garden Warbler	0.2247236303454314	3
+17	Spectrogram 1	1	179129.mp3.wav	33.0	36.0	150	15000	comqua1	Common Quail	0.11464060542027545	1
+18	Spectrogram 1	1	179129.mp3.wav	33.0	36.0	150	15000	corbun1	Corn Bunting	0.10948048631076239	2
+19	Spectrogram 1	1	179129.mp3.wav	36.0	39.0	150	15000	comqua1	Common Quail	0.47738403850687317	1
+20	Spectrogram 1	1	179129.mp3.wav	36.0	39.0	150	15000	corbun1	Corn Bunting	0.3157711391980024	2
+21	Spectrogram 1	1	179129.mp3.wav	36.0	39.0	150	15000	skylar	Eurasian Skylark	0.16465384734299954	3
+22	Spectrogram 1	1	179129.mp3.wav	6.0	9.0	150	15000	comqua1	Common Quail	0.4646367797700743	1
+23	Spectrogram 1	1	179129.mp3.wav	6.0	9.0	150	15000	corbun1	Corn Bunting	0.3160813215246725	2
+24	Spectrogram 1	1	179129.mp3.wav	6.0	9.0	150	15000	relpar1	Red-legged Partridge	0.14427280505976647	3
+25	Spectrogram 1	1	179129.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.24030690802725505	1
+26	Spectrogram 1	1	179129.mp3.wav	9.0	12.0	150	15000	barwar1	Barred Warbler	0.22095130688094658	2
+27	Spectrogram 1	1	179129.mp3.wav	9.0	12.0	150	15000	comqua1	Common Quail	0.10771825175219009	3
+28	Spectrogram 1	1	179129.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9993923757776967	1

@@ -1,0 +1,38 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	456563.mp3.wav	12.0	15.0	150	15000	eurwar1	Eurasian Reed Warbler	0.8291023647060927	1
+2	Spectrogram 1	1	456563.mp3.wav	12.0	15.0	150	15000	afrwar1	African Reed Warbler	0.28102291884782593	2
+3	Spectrogram 1	1	456563.mp3.wav	12.0	15.0	150	15000	grebit1	Great Bittern	0.17476704769309048	3
+4	Spectrogram 1	1	456563.mp3.wav	15.0	18.0	150	15000	eurwar1	Eurasian Reed Warbler	0.43694122685256837	1
+5	Spectrogram 1	1	456563.mp3.wav	15.0	18.0	150	15000	afrwar1	African Reed Warbler	0.2412530532796269	2
+6	Spectrogram 1	1	456563.mp3.wav	15.0	18.0	150	15000	grebit1	Great Bittern	0.1738029516407802	3
+7	Spectrogram 1	1	456563.mp3.wav	21.0	24.0	150	15000	barpar2	Barbary Partridge	0.1311193405869462	1
+8	Spectrogram 1	1	456563.mp3.wav	21.0	24.0	150	15000	grebit1	Great Bittern	0.10348023093866067	2
+9	Spectrogram 1	1	456563.mp3.wav	24.0	27.0	150	15000	eurwar1	Eurasian Reed Warbler	0.24726077437674493	1
+10	Spectrogram 1	1	456563.mp3.wav	24.0	27.0	150	15000	afrwar1	African Reed Warbler	0.15260544465092027	2
+11	Spectrogram 1	1	456563.mp3.wav	24.0	27.0	150	15000	grebit1	Great Bittern	0.10136225314017018	3
+12	Spectrogram 1	1	456563.mp3.wav	27.0	30.0	150	15000	eurwar1	Eurasian Reed Warbler	0.5912940197320199	1
+13	Spectrogram 1	1	456563.mp3.wav	27.0	30.0	150	15000	grebit1	Great Bittern	0.23144953310797617	2
+14	Spectrogram 1	1	456563.mp3.wav	27.0	30.0	150	15000	afrwar1	African Reed Warbler	0.22381052417636457	3
+15	Spectrogram 1	1	456563.mp3.wav	3.0	6.0	150	15000	eurwar1	Eurasian Reed Warbler	0.5968470150792963	1
+16	Spectrogram 1	1	456563.mp3.wav	3.0	6.0	150	15000	grebit1	Great Bittern	0.2926988739907171	2
+17	Spectrogram 1	1	456563.mp3.wav	3.0	6.0	150	15000	afrwar1	African Reed Warbler	0.1986653940401827	3
+18	Spectrogram 1	1	456563.mp3.wav	30.0	33.0	150	15000	eurwar1	Eurasian Reed Warbler	0.6174829108577375	1
+19	Spectrogram 1	1	456563.mp3.wav	30.0	33.0	150	15000	grebit1	Great Bittern	0.3217107293542659	2
+20	Spectrogram 1	1	456563.mp3.wav	30.0	33.0	150	15000	afrwar1	African Reed Warbler	0.15096816309572314	3
+21	Spectrogram 1	1	456563.mp3.wav	33.0	36.0	150	15000	eurwar1	Eurasian Reed Warbler	0.484174233830432	1
+22	Spectrogram 1	1	456563.mp3.wav	33.0	36.0	150	15000	afrwar1	African Reed Warbler	0.4089123074328652	2
+23	Spectrogram 1	1	456563.mp3.wav	33.0	36.0	150	15000	grebit1	Great Bittern	0.2638563602102615	3
+24	Spectrogram 1	1	456563.mp3.wav	36.0	39.0	150	15000	mouwar1	Moustached Warbler	0.47778877427565125	1
+25	Spectrogram 1	1	456563.mp3.wav	36.0	39.0	150	15000	grebit1	Great Bittern	0.4367253905864066	2
+26	Spectrogram 1	1	456563.mp3.wav	36.0	39.0	150	15000	eurwar1	Eurasian Reed Warbler	0.33977568873212743	3
+27	Spectrogram 1	1	456563.mp3.wav	39.0	42.0	150	15000	monqua	Montezuma Quail	0.16636362792112486	1
+28	Spectrogram 1	1	456563.mp3.wav	39.0	42.0	150	15000	rebpig1	Red-billed Pigeon	0.11195845050525653	2
+29	Spectrogram 1	1	456563.mp3.wav	42.0	45.0	150	15000	eurwar1	Eurasian Reed Warbler	0.6468337247568496	1
+30	Spectrogram 1	1	456563.mp3.wav	42.0	45.0	150	15000	afrwar1	African Reed Warbler	0.23064685033952803	2
+31	Spectrogram 1	1	456563.mp3.wav	42.0	45.0	150	15000	sykwar2	Sykes's Warbler	0.12626013526501145	3
+32	Spectrogram 1	1	456563.mp3.wav	6.0	9.0	150	15000	afrwar1	African Reed Warbler	0.2156673805200506	1
+33	Spectrogram 1	1	456563.mp3.wav	6.0	9.0	150	15000	eurwar1	Eurasian Reed Warbler	0.15598680802917833	2
+34	Spectrogram 1	1	456563.mp3.wav	6.0	9.0	150	15000	oltwar1	Olive-tree Warbler	0.12926440265320527	3
+35	Spectrogram 1	1	456563.mp3.wav	9.0	12.0	150	15000	eurwar1	Eurasian Reed Warbler	0.785197326521566	1
+36	Spectrogram 1	1	456563.mp3.wav	9.0	12.0	150	15000	grebit1	Great Bittern	0.35017294038189606	2
+37	Spectrogram 1	1	456563.mp3.wav	9.0	12.0	150	15000	afrwar1	African Reed Warbler	0.26349682849879913	3

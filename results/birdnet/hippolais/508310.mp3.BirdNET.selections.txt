@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	508310.mp3.wav	12.0	15.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.36105855459364716	1
+2	Spectrogram 1	1	508310.mp3.wav	12.0	15.0	150	15000	boowar1	Booted Warbler	0.23145331571501956	2
+3	Spectrogram 1	1	508310.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.19345307033013098	3
+4	Spectrogram 1	1	508310.mp3.wav	18.0	21.0	150	15000	hooori	Hooded Oriole	0.257159471094951	1
+5	Spectrogram 1	1	508310.mp3.wav	21.0	24.0	150	15000	meapip1	Meadow Pipit	0.18856592954036422	1
+6	Spectrogram 1	1	508310.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.8904462140329344	1
+7	Spectrogram 1	1	508310.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.18923148062409878	2
+8	Spectrogram 1	1	508310.mp3.wav	6.0	9.0	150	15000	mouwar1	Moustached Warbler	0.15984282083441853	1
+9	Spectrogram 1	1	508310.mp3.wav	6.0	9.0	150	15000	comsni	Common Snipe	0.1583362405254286	2
+10	Spectrogram 1	1	508310.mp3.wav	6.0	9.0	150	15000	boowar1	Booted Warbler	0.13375963128505203	3
+11	Spectrogram 1	1	508310.mp3.wav	9.0	12.0	150	15000	barswa	Barn Swallow	0.32318114432698536	1
+12	Spectrogram 1	1	508310.mp3.wav	9.0	12.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.30748894117729597	2
+13	Spectrogram 1	1	508310.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.2772240975838461	3
+14	Spectrogram 1	1	508310.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.6165502109979296	1
+15	Spectrogram 1	1	508310.mp3.wav	0.0	3.0	150	15000	sykwar2	Sykes's Warbler	0.3867855542661283	2
+16	Spectrogram 1	1	508310.mp3.wav	0.0	3.0	150	15000	mouwar1	Moustached Warbler	0.3534476695860486	3

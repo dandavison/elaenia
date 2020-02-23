@@ -1,0 +1,32 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	524482.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9326469519132744	1
+2	Spectrogram 1	1	524482.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.310523243770179	2
+3	Spectrogram 1	1	524482.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.7820551441102433	1
+4	Spectrogram 1	1	524482.mp3.wav	15.0	18.0	150	15000	weowar1	Western Olivaceous Warbler	0.4444843979966778	2
+5	Spectrogram 1	1	524482.mp3.wav	15.0	18.0	150	15000	blackc1	Eurasian Blackcap	0.12554597958049382	3
+6	Spectrogram 1	1	524482.mp3.wav	18.0	21.0	150	15000	weowar1	Western Olivaceous Warbler	0.6552009106654856	1
+7	Spectrogram 1	1	524482.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.46053582359364426	2
+8	Spectrogram 1	1	524482.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.4516420898202327	3
+9	Spectrogram 1	1	524482.mp3.wav	21.0	24.0	150	15000	weowar1	Western Olivaceous Warbler	0.793887655767891	1
+10	Spectrogram 1	1	524482.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.4241919776013899	2
+11	Spectrogram 1	1	524482.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.24725084847693998	3
+12	Spectrogram 1	1	524482.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9971584082006053	1
+13	Spectrogram 1	1	524482.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.8027529402531185	1
+14	Spectrogram 1	1	524482.mp3.wav	27.0	30.0	150	15000	weowar1	Western Olivaceous Warbler	0.3268625241814164	2
+15	Spectrogram 1	1	524482.mp3.wav	3.0	6.0	150	15000	weowar1	Western Olivaceous Warbler	0.2744066509617074	1
+16	Spectrogram 1	1	524482.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.2727700141126814	2
+17	Spectrogram 1	1	524482.mp3.wav	3.0	6.0	150	15000	afrwar1	African Reed Warbler	0.23784000309832648	3
+18	Spectrogram 1	1	524482.mp3.wav	30.0	33.0	150	15000	weowar1	Western Olivaceous Warbler	0.8581941114251826	1
+19	Spectrogram 1	1	524482.mp3.wav	30.0	33.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.472368187932368	2
+20	Spectrogram 1	1	524482.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.4463081437273398	3
+21	Spectrogram 1	1	524482.mp3.wav	33.0	36.0	150	15000	weowar1	Western Olivaceous Warbler	0.9093727560035396	1
+22	Spectrogram 1	1	524482.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.21459629251578363	2
+23	Spectrogram 1	1	524482.mp3.wav	36.0	39.0	150	15000	weowar1	Western Olivaceous Warbler	0.6819330189343932	1
+24	Spectrogram 1	1	524482.mp3.wav	36.0	39.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.29266188045372316	2
+25	Spectrogram 1	1	524482.mp3.wav	36.0	39.0	150	15000	afrwar1	African Reed Warbler	0.15678179487631028	3
+26	Spectrogram 1	1	524482.mp3.wav	6.0	9.0	150	15000	boowar1	Booted Warbler	0.22750351235729763	1
+27	Spectrogram 1	1	524482.mp3.wav	6.0	9.0	150	15000	combul2	Common Bulbul	0.16019310239774398	2
+28	Spectrogram 1	1	524482.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.755276199101656	1
+29	Spectrogram 1	1	524482.mp3.wav	9.0	12.0	150	15000	orcori	Orchard Oriole	0.28139165836836916	2
+30	Spectrogram 1	1	524482.mp3.wav	9.0	12.0	150	15000	blrwar1	Blyth's Reed Warbler	0.2288940762975435	3
+31	Spectrogram 1	1	524482.mp3.wav	0.0	3.0	150	15000	blrwar1	Blyth's Reed Warbler	0.9764054806816862	1

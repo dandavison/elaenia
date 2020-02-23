@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	369620.mp3.wav	3.0	6.0	150	15000	comnig1	Common Nightingale	0.5236625286763037	1
+2	Spectrogram 1	1	369620.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.35183933862753664	2
+3	Spectrogram 1	1	369620.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.2730155581462513	3
+4	Spectrogram 1	1	369620.mp3.wav	6.0	9.0	150	15000	comnig1	Common Nightingale	0.6163692437638418	1
+5	Spectrogram 1	1	369620.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.2411222598346612	2
+6	Spectrogram 1	1	369620.mp3.wav	6.0	9.0	150	15000	eaowar2	Eastern Orphean Warbler	0.21476677098051972	3
+7	Spectrogram 1	1	369620.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9979563685952535	1
+8	Spectrogram 1	1	369620.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9785902276591409	1
+9	Spectrogram 1	1	369620.mp3.wav	0.0	3.0	150	15000	barwar1	Barred Warbler	0.23384413412031632	2
+10	Spectrogram 1	1	369620.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.15182474606747737	3

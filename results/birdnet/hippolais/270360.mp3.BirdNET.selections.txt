@@ -1,0 +1,55 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	270360.mp3.wav	12.0	15.0	150	15000	savwar1	Savi's Warbler	0.12643100456126238	1
+2	Spectrogram 1	1	270360.mp3.wav	15.0	18.0	150	15000	grebit1	Great Bittern	0.102957895931892	1
+3	Spectrogram 1	1	270360.mp3.wav	18.0	21.0	150	15000	rook1	Rook	0.12897538871487238	1
+4	Spectrogram 1	1	270360.mp3.wav	18.0	21.0	150	15000	graher1	Gray Heron	0.10045348864003634	2
+5	Spectrogram 1	1	270360.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.8123220332572626	1
+6	Spectrogram 1	1	270360.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.765750716567351	2
+7	Spectrogram 1	1	270360.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.22965939098104574	3
+8	Spectrogram 1	1	270360.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9981929526348874	1
+9	Spectrogram 1	1	270360.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.11151263218762247	1
+10	Spectrogram 1	1	270360.mp3.wav	27.0	30.0	150	15000	grrwar1	Great Reed Warbler	0.10610664284662319	2
+11	Spectrogram 1	1	270360.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9997701935312818	1
+12	Spectrogram 1	1	270360.mp3.wav	30.0	33.0	150	15000	boowar1	Booted Warbler	0.10882127276054845	1
+13	Spectrogram 1	1	270360.mp3.wav	33.0	36.0	150	15000	rook1	Rook	0.12583210436050107	1
+14	Spectrogram 1	1	270360.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.9714225710437688	1
+15	Spectrogram 1	1	270360.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.6565098436266648	2
+16	Spectrogram 1	1	270360.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.982944250657677	1
+17	Spectrogram 1	1	270360.mp3.wav	39.0	42.0	150	15000	garwar1	Garden Warbler	0.3882751272000466	2
+18	Spectrogram 1	1	270360.mp3.wav	42.0	45.0	150	15000	grebit1	Great Bittern	0.9172894270518529	1
+19	Spectrogram 1	1	270360.mp3.wav	42.0	45.0	150	15000	savwar1	Savi's Warbler	0.1682854961874723	2
+20	Spectrogram 1	1	270360.mp3.wav	42.0	45.0	150	15000	grcgre1	Great Crested Grebe	0.11836060164999405	3
+21	Spectrogram 1	1	270360.mp3.wav	45.0	48.0	150	15000	grebit1	Great Bittern	0.47430676601524213	1
+22	Spectrogram 1	1	270360.mp3.wav	45.0	48.0	150	15000	relpar1	Red-legged Partridge	0.13993874704881493	2
+23	Spectrogram 1	1	270360.mp3.wav	51.0	54.0	150	15000	combul2	Common Bulbul	0.19150355416712048	1
+24	Spectrogram 1	1	270360.mp3.wav	51.0	54.0	150	15000	grrwar1	Great Reed Warbler	0.13111403087316403	2
+25	Spectrogram 1	1	270360.mp3.wav	51.0	54.0	150	15000	wooshr1	Woodchat Shrike	0.13096165337874505	3
+26	Spectrogram 1	1	270360.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.9992741186969375	1
+27	Spectrogram 1	1	270360.mp3.wav	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.9933054713547754	1
+28	Spectrogram 1	1	270360.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.999604090508573	1
+29	Spectrogram 1	1	270360.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9985024239150468	1
+30	Spectrogram 1	1	270360.mp3.wav	60.0	63.0	150	15000	barwar1	Barred Warbler	0.4986170641610585	1
+31	Spectrogram 1	1	270360.mp3.wav	60.0	63.0	150	15000	garwar1	Garden Warbler	0.348618196296948	2
+32	Spectrogram 1	1	270360.mp3.wav	60.0	63.0	150	15000	sibrub	Siberian Rubythroat	0.32662440601861753	3
+33	Spectrogram 1	1	270360.mp3.wav	72.0	75.0	150	15000	melwar1	Melodious Warbler	0.9843365592160891	1
+34	Spectrogram 1	1	270360.mp3.wav	72.0	75.0	150	15000	garwar1	Garden Warbler	0.27732890374411767	2
+35	Spectrogram 1	1	270360.mp3.wav	75.0	78.0	150	15000	melwar1	Melodious Warbler	0.9893689462914755	1
+36	Spectrogram 1	1	270360.mp3.wav	75.0	78.0	150	15000	garwar1	Garden Warbler	0.4136845946795624	2
+37	Spectrogram 1	1	270360.mp3.wav	78.0	81.0	150	15000	grrwar1	Great Reed Warbler	0.2071507166540368	1
+38	Spectrogram 1	1	270360.mp3.wav	78.0	81.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1274733178589216	2
+39	Spectrogram 1	1	270360.mp3.wav	78.0	81.0	150	15000	wooshr1	Woodchat Shrike	0.11122175135866681	3
+40	Spectrogram 1	1	270360.mp3.wav	81.0	84.0	150	15000	rook1	Rook	0.5412486374795364	1
+41	Spectrogram 1	1	270360.mp3.wav	81.0	84.0	150	15000	blakit1	Black Kite	0.2526258568494306	2
+42	Spectrogram 1	1	270360.mp3.wav	81.0	84.0	150	15000	eurjay1	Eurasian Jay	0.11886074890624325	3
+43	Spectrogram 1	1	270360.mp3.wav	84.0	87.0	150	15000	melwar1	Melodious Warbler	0.6106984905264913	1
+44	Spectrogram 1	1	270360.mp3.wav	84.0	87.0	150	15000	ictwar1	Icterine Warbler	0.4380994685646591	2
+45	Spectrogram 1	1	270360.mp3.wav	84.0	87.0	150	15000	marwar3	Marsh Warbler	0.28549459388251747	3
+46	Spectrogram 1	1	270360.mp3.wav	87.0	90.0	150	15000	melwar1	Melodious Warbler	0.9915397520434426	1
+47	Spectrogram 1	1	270360.mp3.wav	87.0	90.0	150	15000	garwar1	Garden Warbler	0.38458543940471485	2
+48	Spectrogram 1	1	270360.mp3.wav	63.0	66.0	150	15000	rook1	Rook	0.7516749937020801	1
+49	Spectrogram 1	1	270360.mp3.wav	96.0	99.0	150	15000	melwar1	Melodious Warbler	0.9971404681722187	1
+50	Spectrogram 1	1	270360.mp3.wav	99.0	102.0	150	15000	melwar1	Melodious Warbler	0.9827282731216064	1
+51	Spectrogram 1	1	270360.mp3.wav	99.0	102.0	150	15000	garwar1	Garden Warbler	0.15806815670280233	2
+52	Spectrogram 1	1	270360.mp3.wav	66.0	69.0	150	15000	rook1	Rook	0.9264530659883602	1
+53	Spectrogram 1	1	270360.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.8456835435502691	1
+54	Spectrogram 1	1	270360.mp3.wav	0.0	3.0	150	15000	eutdov	European Turtle-Dove	0.26425812001057	2

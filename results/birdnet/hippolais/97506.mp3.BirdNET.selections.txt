@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	97506.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.5806038170685893	1
+2	Spectrogram 1	1	97506.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.5585052329807266	2
+3	Spectrogram 1	1	97506.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.44356970437859783	3
+4	Spectrogram 1	1	97506.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.37632245297141487	1
+5	Spectrogram 1	1	97506.mp3.wav	15.0	18.0	150	15000	houwre	House Wren	0.1886661918432134	2
+6	Spectrogram 1	1	97506.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.15124395650639255	3
+7	Spectrogram 1	1	97506.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.6421606184750858	1
+8	Spectrogram 1	1	97506.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.444115510598961	2
+9	Spectrogram 1	1	97506.mp3.wav	18.0	21.0	150	15000	garwar1	Garden Warbler	0.16796774823260008	3
+10	Spectrogram 1	1	97506.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.6924995232755952	1
+11	Spectrogram 1	1	97506.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.4883249620688609	2
+12	Spectrogram 1	1	97506.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.3601095662095409	3
+13	Spectrogram 1	1	97506.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.8747537286111172	1
+14	Spectrogram 1	1	97506.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.5960412705972264	2
+15	Spectrogram 1	1	97506.mp3.wav	6.0	9.0	150	15000	yebcha	Yellow-breasted Chat	0.2054323628940697	3
+16	Spectrogram 1	1	97506.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.8358131406630319	1
+17	Spectrogram 1	1	97506.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.7121460626395724	2
+18	Spectrogram 1	1	97506.mp3.wav	9.0	12.0	150	15000	barwar1	Barred Warbler	0.11404466332238826	3
+19	Spectrogram 1	1	97506.mp3.wav	0.0	3.0	150	15000	rewbla	Red-winged Blackbird	0.6797029223106128	1
+20	Spectrogram 1	1	97506.mp3.wav	0.0	3.0	150	15000	eursta	European Starling	0.5202252273371001	2
+21	Spectrogram 1	1	97506.mp3.wav	0.0	3.0	150	15000	brebla	Brewer's Blackbird	0.3840883149469993	3

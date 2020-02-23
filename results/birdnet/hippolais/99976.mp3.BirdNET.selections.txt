@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	99976.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9107804962607688	1
+2	Spectrogram 1	1	99976.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.6417531279144583	2
+3	Spectrogram 1	1	99976.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.1952587717042016	3
+4	Spectrogram 1	1	99976.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.4174444409146056	1
+5	Spectrogram 1	1	99976.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.22503969271393556	2
+6	Spectrogram 1	1	99976.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.1241183731569517	3
+7	Spectrogram 1	1	99976.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9882044086723479	1
+8	Spectrogram 1	1	99976.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.27583076468153256	2
+9	Spectrogram 1	1	99976.mp3.wav	18.0	21.0	150	15000	garwar1	Garden Warbler	0.17202530495532453	3
+10	Spectrogram 1	1	99976.mp3.wav	3.0	6.0	150	15000	misthr1	Mistle Thrush	0.3470190687021814	1
+11	Spectrogram 1	1	99976.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.17896006550533292	2
+12	Spectrogram 1	1	99976.mp3.wav	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.15344874481162857	3
+13	Spectrogram 1	1	99976.mp3.wav	6.0	9.0	150	15000	weowar1	Western Olivaceous Warbler	0.8676634256825912	1
+14	Spectrogram 1	1	99976.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.7461897490047967	2
+15	Spectrogram 1	1	99976.mp3.wav	6.0	9.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.202486080025904	3
+16	Spectrogram 1	1	99976.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9941057207418914	1
+17	Spectrogram 1	1	99976.mp3.wav	9.0	12.0	150	15000	weowar1	Western Olivaceous Warbler	0.14145252872080646	2
+18	Spectrogram 1	1	99976.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.11784979717653048	3
+19	Spectrogram 1	1	99976.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9589679276169479	1
+20	Spectrogram 1	1	99976.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.4326421225138982	2
+21	Spectrogram 1	1	99976.mp3.wav	0.0	3.0	150	15000	marwar3	Marsh Warbler	0.15063249425474454	3

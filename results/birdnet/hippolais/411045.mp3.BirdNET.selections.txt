@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	411045.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.5584273867227547	1
+2	Spectrogram 1	1	411045.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.23915783544734528	2
+3	Spectrogram 1	1	411045.mp3.wav	12.0	15.0	150	15000	blrwar1	Blyth's Reed Warbler	0.12192082097673643	3
+4	Spectrogram 1	1	411045.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.2465963633699626	1
+5	Spectrogram 1	1	411045.mp3.wav	15.0	18.0	150	15000	marwar3	Marsh Warbler	0.1675218842553699	2
+6	Spectrogram 1	1	411045.mp3.wav	15.0	18.0	150	15000	grycat	Gray Catbird	0.16323276885399385	3
+7	Spectrogram 1	1	411045.mp3.wav	18.0	21.0	150	15000	eurjay1	Eurasian Jay	0.22938924018674367	1
+8	Spectrogram 1	1	411045.mp3.wav	18.0	21.0	150	15000	comnig1	Common Nightingale	0.17446508989992246	2
+9	Spectrogram 1	1	411045.mp3.wav	18.0	21.0	150	15000	grycat	Gray Catbird	0.16265867458169295	3
+10	Spectrogram 1	1	411045.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.254048906770498	1
+11	Spectrogram 1	1	411045.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.21447553925588528	2
+12	Spectrogram 1	1	411045.mp3.wav	3.0	6.0	150	15000	carwre	Carolina Wren	0.1107398156362962	3
+13	Spectrogram 1	1	411045.mp3.wav	6.0	9.0	150	15000	grycat	Gray Catbird	0.4086345006744182	1
+14	Spectrogram 1	1	411045.mp3.wav	6.0	9.0	150	15000	logshr	Loggerhead Shrike	0.3568846130289918	2
+15	Spectrogram 1	1	411045.mp3.wav	6.0	9.0	150	15000	bewwre	Bewick's Wren	0.13121912171041086	3
+16	Spectrogram 1	1	411045.mp3.wav	9.0	12.0	150	15000	marwar3	Marsh Warbler	0.27985647768512273	1
+17	Spectrogram 1	1	411045.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.21085514087433185	2
+18	Spectrogram 1	1	411045.mp3.wav	0.0	3.0	150	15000	marwar3	Marsh Warbler	0.28304740578401777	1
+19	Spectrogram 1	1	411045.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.20006878467205388	2
+20	Spectrogram 1	1	411045.mp3.wav	0.0	3.0	150	15000	houwre	House Wren	0.11335106315010769	3

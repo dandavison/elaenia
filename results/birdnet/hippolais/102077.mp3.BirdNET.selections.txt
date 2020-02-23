@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	102077.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.7161765569240665	1
+2	Spectrogram 1	1	102077.mp3.wav	12.0	15.0	150	15000	blackc1	Eurasian Blackcap	0.5696535374242002	2
+3	Spectrogram 1	1	102077.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.24345284323614735	3
+4	Spectrogram 1	1	102077.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.7315133527320342	1
+5	Spectrogram 1	1	102077.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.16053283854657777	2
+6	Spectrogram 1	1	102077.mp3.wav	15.0	18.0	150	15000	barwar1	Barred Warbler	0.12733884552604646	3
+7	Spectrogram 1	1	102077.mp3.wav	18.0	21.0	150	15000	garwar1	Garden Warbler	0.5694005238308985	1
+8	Spectrogram 1	1	102077.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.5258824300023235	2
+9	Spectrogram 1	1	102077.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.5153961058563296	3
+10	Spectrogram 1	1	102077.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9832852515749048	1
+11	Spectrogram 1	1	102077.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.306689151258191	2
+12	Spectrogram 1	1	102077.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.14272125946004566	3
+13	Spectrogram 1	1	102077.mp3.wav	24.0	27.0	150	15000	eurgol	European Goldfinch	0.456026696749673	1
+14	Spectrogram 1	1	102077.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.44487148085461153	2
+15	Spectrogram 1	1	102077.mp3.wav	24.0	27.0	150	15000	garwar1	Garden Warbler	0.16102622539556108	3
+16	Spectrogram 1	1	102077.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.2721983643110146	1
+17	Spectrogram 1	1	102077.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.2624247647356932	2
+18	Spectrogram 1	1	102077.mp3.wav	27.0	30.0	150	15000	blrwar1	Blyth's Reed Warbler	0.18420812837432204	3
+19	Spectrogram 1	1	102077.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.986202216726362	1
+20	Spectrogram 1	1	102077.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.5387411476648919	2
+21	Spectrogram 1	1	102077.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.2203220084867442	3
+22	Spectrogram 1	1	102077.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.48101298993287356	1
+23	Spectrogram 1	1	102077.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.31711809749186504	2
+24	Spectrogram 1	1	102077.mp3.wav	30.0	33.0	150	15000	sibrub	Siberian Rubythroat	0.27441480516787436	3
+25	Spectrogram 1	1	102077.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9972420591121792	1
+26	Spectrogram 1	1	102077.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9997472887676909	1
+27	Spectrogram 1	1	102077.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.893370575662817	1
+28	Spectrogram 1	1	102077.mp3.wav	6.0	9.0	150	15000	orcori	Orchard Oriole	0.36247893221536015	2
+29	Spectrogram 1	1	102077.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.877762991677014	1
+30	Spectrogram 1	1	102077.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.4375872084920145	2
+31	Spectrogram 1	1	102077.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.3021360243661861	3
+32	Spectrogram 1	1	102077.mp3.wav	0.0	3.0	150	15000	eurwry	Eurasian Wryneck	0.9251971532364618	1
+33	Spectrogram 1	1	102077.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.3581791990047801	2
+34	Spectrogram 1	1	102077.mp3.wav	0.0	3.0	150	15000	eugori2	Eurasian Golden Oriole	0.2721157716086751	3

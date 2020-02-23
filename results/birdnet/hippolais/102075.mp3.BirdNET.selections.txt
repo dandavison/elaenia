@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	102075.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9965011806009304	1
+2	Spectrogram 1	1	102075.mp3.wav	12.0	15.0	150	15000	grycat	Gray Catbird	0.364360404302103	2
+3	Spectrogram 1	1	102075.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9988919873528661	1
+4	Spectrogram 1	1	102075.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9979181428735748	1
+5	Spectrogram 1	1	102075.mp3.wav	18.0	21.0	150	15000	blrwar1	Blyth's Reed Warbler	0.17862060758756426	2
+6	Spectrogram 1	1	102075.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9993939234399448	1
+7	Spectrogram 1	1	102075.mp3.wav	24.0	27.0	150	15000	amegfi	American Goldfinch	0.8196562509040299	1
+8	Spectrogram 1	1	102075.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.5759466757827026	2
+9	Spectrogram 1	1	102075.mp3.wav	24.0	27.0	150	15000	lesgol	Lesser Goldfinch	0.23471074352977858	3
+10	Spectrogram 1	1	102075.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9995061995600095	1
+11	Spectrogram 1	1	102075.mp3.wav	3.0	6.0	150	15000	norfli	Northern Flicker	0.7847662842308362	1
+12	Spectrogram 1	1	102075.mp3.wav	3.0	6.0	150	15000	wrenti	Wrentit	0.18592071460283047	2
+13	Spectrogram 1	1	102075.mp3.wav	3.0	6.0	150	15000	eurnut2	Eurasian Nuthatch	0.120130154070772	3
+14	Spectrogram 1	1	102075.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9996382518381386	1
+15	Spectrogram 1	1	102075.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9934160896164698	1
+16	Spectrogram 1	1	102075.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.999907433546976	1
+17	Spectrogram 1	1	102075.mp3.wav	39.0	42.0	150	15000	blrwar1	Blyth's Reed Warbler	0.4947699645490502	1
+18	Spectrogram 1	1	102075.mp3.wav	39.0	42.0	150	15000	sonspa	Song Sparrow	0.3030048093197313	2
+19	Spectrogram 1	1	102075.mp3.wav	39.0	42.0	150	15000	marwar3	Marsh Warbler	0.15001730400171728	3
+20	Spectrogram 1	1	102075.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.997403769277954	1
+21	Spectrogram 1	1	102075.mp3.wav	6.0	9.0	150	15000	sonthr1	Song Thrush	0.16963888300795651	2
+22	Spectrogram 1	1	102075.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9819918730694576	1
+23	Spectrogram 1	1	102075.mp3.wav	9.0	12.0	150	15000	grycat	Gray Catbird	0.16366340800273788	2
+24	Spectrogram 1	1	102075.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9996643930328235	1

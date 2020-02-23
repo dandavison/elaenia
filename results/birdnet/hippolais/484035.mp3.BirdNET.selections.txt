@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	484035.mp3.wav	12.0	15.0	150	15000	grewhi1	Greater Whitethroat	0.28050919031311033	1
+2	Spectrogram 1	1	484035.mp3.wav	12.0	15.0	150	15000	leswhi1	Lesser Whitethroat	0.2086098787892684	2
+3	Spectrogram 1	1	484035.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.16900088251871132	3
+4	Spectrogram 1	1	484035.mp3.wav	15.0	18.0	150	15000	norwhe	Northern Wheatear	0.13705481647327544	1
+5	Spectrogram 1	1	484035.mp3.wav	15.0	18.0	150	15000	grewhi1	Greater Whitethroat	0.12141285467848364	2
+6	Spectrogram 1	1	484035.mp3.wav	15.0	18.0	150	15000	whwsno1	White-winged Snowfinch	0.10672335904422506	3
+7	Spectrogram 1	1	484035.mp3.wav	18.0	21.0	150	15000	lirplo	Little Ringed Plover	0.6830813436163335	1
+8	Spectrogram 1	1	484035.mp3.wav	21.0	24.0	150	15000	belspa2	Bell's Sparrow	0.9791509066780574	1
+9	Spectrogram 1	1	484035.mp3.wav	24.0	27.0	150	15000	sander	Sanderling	0.12652705339164746	1
+10	Spectrogram 1	1	484035.mp3.wav	27.0	30.0	150	15000	grewhi1	Greater Whitethroat	0.2013385636961761	1
+11	Spectrogram 1	1	484035.mp3.wav	27.0	30.0	150	15000	redwin	Redwing	0.18206008261357945	2
+12	Spectrogram 1	1	484035.mp3.wav	27.0	30.0	150	15000	burthr	Blue Rock-Thrush	0.1528949649298594	3
+13	Spectrogram 1	1	484035.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.7722373835880821	1
+14	Spectrogram 1	1	484035.mp3.wav	3.0	6.0	150	15000	sedwar1	Sedge Warbler	0.13508098300928026	2
+15	Spectrogram 1	1	484035.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.47540929406802945	1
+16	Spectrogram 1	1	484035.mp3.wav	6.0	9.0	150	15000	comwax	Common Waxbill	0.13287630912762236	2
+17	Spectrogram 1	1	484035.mp3.wav	6.0	9.0	150	15000	blueth	Bluethroat	0.10381607679861574	3
+18	Spectrogram 1	1	484035.mp3.wav	9.0	12.0	150	15000	marwar3	Marsh Warbler	0.877340769552526	1
+19	Spectrogram 1	1	484035.mp3.wav	9.0	12.0	150	15000	leswhi1	Lesser Whitethroat	0.18907730183325105	2
+20	Spectrogram 1	1	484035.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.13355557514901806	3
+21	Spectrogram 1	1	484035.mp3.wav	0.0	3.0	150	15000	whtdip1	White-throated Dipper	0.28267771302512473	1
+22	Spectrogram 1	1	484035.mp3.wav	0.0	3.0	150	15000	grewhi1	Greater Whitethroat	0.2821332631281168	2
+23	Spectrogram 1	1	484035.mp3.wav	0.0	3.0	150	15000	blueth	Bluethroat	0.2682769061891705	3

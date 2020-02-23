@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	496259.mp3.wav	12.0	15.0	150	15000	blared1	Black Redstart	0.9917133420205175	1
+2	Spectrogram 1	1	496259.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9823252527088294	1
+3	Spectrogram 1	1	496259.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.24326237789839586	2
+4	Spectrogram 1	1	496259.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.16519527981984267	3
+5	Spectrogram 1	1	496259.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9791116749167167	1
+6	Spectrogram 1	1	496259.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.13858956826371002	2
+7	Spectrogram 1	1	496259.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9235290229569194	1
+8	Spectrogram 1	1	496259.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.2622879338353303	2
+9	Spectrogram 1	1	496259.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.11327847726118516	3
+10	Spectrogram 1	1	496259.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9790095140152728	1
+11	Spectrogram 1	1	496259.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.1844172735067558	2
+12	Spectrogram 1	1	496259.mp3.wav	24.0	27.0	150	15000	garwar1	Garden Warbler	0.16466745710674935	3
+13	Spectrogram 1	1	496259.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.795891921733824	1
+14	Spectrogram 1	1	496259.mp3.wav	27.0	30.0	150	15000	garwar1	Garden Warbler	0.3127420714130453	2
+15	Spectrogram 1	1	496259.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.2658759413004232	3
+16	Spectrogram 1	1	496259.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9803277168414979	1
+17	Spectrogram 1	1	496259.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.18752217646607983	2
+18	Spectrogram 1	1	496259.mp3.wav	30.0	33.0	150	15000	rebfly	Red-breasted Flycatcher	0.20353470018120473	1
+19	Spectrogram 1	1	496259.mp3.wav	30.0	33.0	150	15000	woowar	Wood Warbler	0.1791614260187498	2
+20	Spectrogram 1	1	496259.mp3.wav	30.0	33.0	150	15000	colfly1	Collared Flycatcher	0.1519044956500443	3
+21	Spectrogram 1	1	496259.mp3.wav	9.0	12.0	150	15000	blared1	Black Redstart	0.908660986906542	1
+22	Spectrogram 1	1	496259.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.8243843177836484	1
+23	Spectrogram 1	1	496259.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.7001102295302314	2
+24	Spectrogram 1	1	496259.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.17817891964209054	3

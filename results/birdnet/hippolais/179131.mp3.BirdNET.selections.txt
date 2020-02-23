@@ -1,0 +1,31 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	179131.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9128307086855465	1
+2	Spectrogram 1	1	179131.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.33725002050899594	2
+3	Spectrogram 1	1	179131.mp3.wav	12.0	15.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1271790680707981	3
+4	Spectrogram 1	1	179131.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9992525760216548	1
+5	Spectrogram 1	1	179131.mp3.wav	18.0	21.0	150	15000	spofly1	Spotted Flycatcher	0.7808699236462724	1
+6	Spectrogram 1	1	179131.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.999814668848931	1
+7	Spectrogram 1	1	179131.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9998416582018781	1
+8	Spectrogram 1	1	179131.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9087875297391352	1
+9	Spectrogram 1	1	179131.mp3.wav	27.0	30.0	150	15000	blackc1	Eurasian Blackcap	0.20323941265246886	2
+10	Spectrogram 1	1	179131.mp3.wav	27.0	30.0	150	15000	garwar1	Garden Warbler	0.12818340214505236	3
+11	Spectrogram 1	1	179131.mp3.wav	3.0	6.0	150	15000	wlwwar	Willow Warbler	0.16355699490742936	1
+12	Spectrogram 1	1	179131.mp3.wav	3.0	6.0	150	15000	comred2	Common Redstart	0.13331289311831154	2
+13	Spectrogram 1	1	179131.mp3.wav	3.0	6.0	150	15000	webwar1	Western Bonelli's Warbler	0.10159562786136139	3
+14	Spectrogram 1	1	179131.mp3.wav	33.0	36.0	150	15000	yellow2	Yellowhammer	0.6738333908946256	1
+15	Spectrogram 1	1	179131.mp3.wav	33.0	36.0	150	15000	relpar1	Red-legged Partridge	0.3933377846071507	2
+16	Spectrogram 1	1	179131.mp3.wav	36.0	39.0	150	15000	rinouz1	Ring Ouzel	0.16247293452310616	1
+17	Spectrogram 1	1	179131.mp3.wav	36.0	39.0	150	15000	eurbul	Eurasian Bullfinch	0.10281470165407283	2
+18	Spectrogram 1	1	179131.mp3.wav	39.0	42.0	150	15000	yellow2	Yellowhammer	0.5377704187669511	1
+19	Spectrogram 1	1	179131.mp3.wav	39.0	42.0	150	15000	ortbun1	Ortolan Bunting	0.15988405815097623	2
+20	Spectrogram 1	1	179131.mp3.wav	42.0	45.0	150	15000	whbwoo1	White-backed Woodpecker	0.3655493051902031	1
+21	Spectrogram 1	1	179131.mp3.wav	42.0	45.0	150	15000	grswoo	Great Spotted Woodpecker	0.3223895576746612	2
+22	Spectrogram 1	1	179131.mp3.wav	42.0	45.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.2907348336002297	3
+23	Spectrogram 1	1	179131.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.6188114247747043	1
+24	Spectrogram 1	1	179131.mp3.wav	6.0	9.0	150	15000	colfly1	Collared Flycatcher	0.1437454350694528	2
+25	Spectrogram 1	1	179131.mp3.wav	6.0	9.0	150	15000	blrwar1	Blyth's Reed Warbler	0.11937184947899793	3
+26	Spectrogram 1	1	179131.mp3.wav	9.0	12.0	150	15000	colfly1	Collared Flycatcher	0.5444737443773671	1
+27	Spectrogram 1	1	179131.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.2295651136290213	2
+28	Spectrogram 1	1	179131.mp3.wav	9.0	12.0	150	15000	eupfly1	European Pied Flycatcher	0.172907605954101	3
+29	Spectrogram 1	1	179131.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9989148698161201	1
+30	Spectrogram 1	1	179131.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.10917797547794354	2

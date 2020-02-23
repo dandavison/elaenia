@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	139425.mp3.wav	12.0	15.0	150	15000	sedwar1	Sedge Warbler	0.9786493907733086	1
+2	Spectrogram 1	1	139425.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.11378400938667374	2
+3	Spectrogram 1	1	139425.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.8638155874361786	1
+4	Spectrogram 1	1	139425.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.20699703882990672	2
+5	Spectrogram 1	1	139425.mp3.wav	15.0	18.0	150	15000	mouwar1	Moustached Warbler	0.16525819480501971	3
+6	Spectrogram 1	1	139425.mp3.wav	18.0	21.0	150	15000	sedwar1	Sedge Warbler	0.8982160871647902	1
+7	Spectrogram 1	1	139425.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.27844319851273097	2
+8	Spectrogram 1	1	139425.mp3.wav	18.0	21.0	150	15000	blrwar1	Blyth's Reed Warbler	0.18906430828357973	3
+9	Spectrogram 1	1	139425.mp3.wav	21.0	24.0	150	15000	sedwar1	Sedge Warbler	0.964557747608608	1
+10	Spectrogram 1	1	139425.mp3.wav	21.0	24.0	150	15000	blrwar1	Blyth's Reed Warbler	0.4932313463392098	2
+11	Spectrogram 1	1	139425.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.16569086450388154	3
+12	Spectrogram 1	1	139425.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9973109376905394	1
+13	Spectrogram 1	1	139425.mp3.wav	27.0	30.0	150	15000	sedwar1	Sedge Warbler	0.23174874451055663	1
+14	Spectrogram 1	1	139425.mp3.wav	27.0	30.0	150	15000	gretit1	Great Tit	0.1402977787527151	2
+15	Spectrogram 1	1	139425.mp3.wav	30.0	33.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.13299640902206183	1
+16	Spectrogram 1	1	139425.mp3.wav	30.0	33.0	150	15000	comcha	Common Chaffinch	0.1122672711145188	2
+17	Spectrogram 1	1	139425.mp3.wav	30.0	33.0	150	15000	webwar1	Western Bonelli's Warbler	0.11007428393167572	3
+18	Spectrogram 1	1	139425.mp3.wav	6.0	9.0	150	15000	sedwar1	Sedge Warbler	0.91033290822571	1
+19	Spectrogram 1	1	139425.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.4290117159923331	2
+20	Spectrogram 1	1	139425.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.26601724758145645	3
+21	Spectrogram 1	1	139425.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9962522613370675	1
+22	Spectrogram 1	1	139425.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.11779233190097277	2
+23	Spectrogram 1	1	139425.mp3.wav	0.0	3.0	150	15000	sedwar1	Sedge Warbler	0.38143277788661734	1
+24	Spectrogram 1	1	139425.mp3.wav	0.0	3.0	150	15000	blrwar1	Blyth's Reed Warbler	0.279995839943005	2
+25	Spectrogram 1	1	139425.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.23867706093640947	3

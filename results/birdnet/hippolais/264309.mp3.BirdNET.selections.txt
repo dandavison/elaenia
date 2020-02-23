@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	264309.mp3.wav	12.0	15.0	150	15000	grrwar1	Great Reed Warbler	0.2682692250883283	1
+2	Spectrogram 1	1	264309.mp3.wav	12.0	15.0	150	15000	carwre	Carolina Wren	0.15343691017187697	2
+3	Spectrogram 1	1	264309.mp3.wav	12.0	15.0	150	15000	comnig1	Common Nightingale	0.1204954086120363	3
+4	Spectrogram 1	1	264309.mp3.wav	15.0	18.0	150	15000	grrwar1	Great Reed Warbler	0.17779256272204644	1
+5	Spectrogram 1	1	264309.mp3.wav	15.0	18.0	150	15000	grycat	Gray Catbird	0.16937924079965969	2
+6	Spectrogram 1	1	264309.mp3.wav	15.0	18.0	150	15000	blrwar1	Blyth's Reed Warbler	0.13360077347577945	3
+7	Spectrogram 1	1	264309.mp3.wav	3.0	6.0	150	15000	comnig1	Common Nightingale	0.2976302137748411	1
+8	Spectrogram 1	1	264309.mp3.wav	3.0	6.0	150	15000	grrwar1	Great Reed Warbler	0.2560664926011543	2
+9	Spectrogram 1	1	264309.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.17999753871103955	3
+10	Spectrogram 1	1	264309.mp3.wav	6.0	9.0	150	15000	grrwar1	Great Reed Warbler	0.5691522093085539	1
+11	Spectrogram 1	1	264309.mp3.wav	6.0	9.0	150	15000	comnig1	Common Nightingale	0.11160218128201028	2
+12	Spectrogram 1	1	264309.mp3.wav	9.0	12.0	150	15000	grrwar1	Great Reed Warbler	0.3807919412426558	1
+13	Spectrogram 1	1	264309.mp3.wav	9.0	12.0	150	15000	comnig1	Common Nightingale	0.2034713686053663	2
+14	Spectrogram 1	1	264309.mp3.wav	9.0	12.0	150	15000	krunut1	Krueper's Nuthatch	0.11939734982007091	3
+15	Spectrogram 1	1	264309.mp3.wav	0.0	3.0	150	15000	grrwar1	Great Reed Warbler	0.419490824416386	1
+16	Spectrogram 1	1	264309.mp3.wav	0.0	3.0	150	15000	comnig1	Common Nightingale	0.13575348645144314	2

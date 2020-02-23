@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	449085.mp3.wav	18.0	21.0	150	15000	lesgol	Lesser Goldfinch	0.5202109392745677	1
+2	Spectrogram 1	1	449085.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.2798880896950071	2
+3	Spectrogram 1	1	449085.mp3.wav	18.0	21.0	150	15000	amegfi	American Goldfinch	0.17041645374788844	3
+4	Spectrogram 1	1	449085.mp3.wav	21.0	24.0	150	15000	wesmea	Western Meadowlark	0.19572077595903917	1
+5	Spectrogram 1	1	449085.mp3.wav	21.0	24.0	150	15000	baispa	Baird's Sparrow	0.140931825279545	2
+6	Spectrogram 1	1	449085.mp3.wav	24.0	27.0	150	15000	wesmea	Western Meadowlark	0.47375711222885525	1
+7	Spectrogram 1	1	449085.mp3.wav	24.0	27.0	150	15000	baispa	Baird's Sparrow	0.17641677319966825	2
+8	Spectrogram 1	1	449085.mp3.wav	24.0	27.0	150	15000	larbun	Lark Bunting	0.13672609266631403	3
+9	Spectrogram 1	1	449085.mp3.wav	27.0	30.0	150	15000	eurnut1	Eurasian Nutcracker	0.4652100916555314	1
+10	Spectrogram 1	1	449085.mp3.wav	27.0	30.0	150	15000	eurhob	Eurasian Hobby	0.33371912273222987	2
+11	Spectrogram 1	1	449085.mp3.wav	27.0	30.0	150	15000	eurbul	Eurasian Bullfinch	0.2516288784348994	3
+12	Spectrogram 1	1	449085.mp3.wav	3.0	6.0	150	15000	lobcur	Long-billed Curlew	0.37823388791084595	1
+13	Spectrogram 1	1	449085.mp3.wav	3.0	6.0	150	15000	wesmea	Western Meadowlark	0.2406572048558337	2
+14	Spectrogram 1	1	449085.mp3.wav	3.0	6.0	150	15000	retloo	Red-throated Loon	0.10168949867400812	3
+15	Spectrogram 1	1	449085.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.5145057505132903	1
+16	Spectrogram 1	1	449085.mp3.wav	30.0	33.0	150	15000	eurhob	Eurasian Hobby	0.4076351345207763	2
+17	Spectrogram 1	1	449085.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9891001235897084	1
+18	Spectrogram 1	1	449085.mp3.wav	33.0	36.0	150	15000	eurwar1	Eurasian Reed Warbler	0.11419705007070531	2
+19	Spectrogram 1	1	449085.mp3.wav	36.0	39.0	150	15000	wesmea	Western Meadowlark	0.19826117102323695	1
+20	Spectrogram 1	1	449085.mp3.wav	36.0	39.0	150	15000	baispa	Baird's Sparrow	0.12214713658537725	2
+21	Spectrogram 1	1	449085.mp3.wav	6.0	9.0	150	15000	easmea	Eastern Meadowlark	0.523377077538744	1
+22	Spectrogram 1	1	449085.mp3.wav	6.0	9.0	150	15000	graspa	Grasshopper Sparrow	0.11515760870913647	2
+23	Spectrogram 1	1	449085.mp3.wav	6.0	9.0	150	15000	savspa	Savannah Sparrow	0.10169094732512626	3
+24	Spectrogram 1	1	449085.mp3.wav	9.0	12.0	150	15000	eurlin1	Eurasian Linnet	0.796291680066349	1
+25	Spectrogram 1	1	449085.mp3.wav	0.0	3.0	150	15000	sibjay1	Siberian Jay	0.46956587264683175	1

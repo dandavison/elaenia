@@ -1,0 +1,43 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	496260.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9410629649825835	1
+2	Spectrogram 1	1	496260.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.30431632470487713	2
+3	Spectrogram 1	1	496260.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.21372066820676794	3
+4	Spectrogram 1	1	496260.mp3.wav	15.0	18.0	150	15000	eurrob1	European Robin	0.26272600864165646	1
+5	Spectrogram 1	1	496260.mp3.wav	15.0	18.0	150	15000	comred2	Common Redstart	0.24736337790298468	2
+6	Spectrogram 1	1	496260.mp3.wav	15.0	18.0	150	15000	dunnoc1	Dunnock	0.21191975295767773	3
+7	Spectrogram 1	1	496260.mp3.wav	18.0	21.0	150	15000	dunnoc1	Dunnock	0.9653565881635955	1
+8	Spectrogram 1	1	496260.mp3.wav	18.0	21.0	150	15000	gretit1	Great Tit	0.13109120020007697	2
+9	Spectrogram 1	1	496260.mp3.wav	21.0	24.0	150	15000	wlwwar	Willow Warbler	0.11272126833565152	1
+10	Spectrogram 1	1	496260.mp3.wav	24.0	27.0	150	15000	dunnoc1	Dunnock	0.9975582335242866	1
+11	Spectrogram 1	1	496260.mp3.wav	27.0	30.0	150	15000	eurgol	European Goldfinch	0.17359987230536983	1
+12	Spectrogram 1	1	496260.mp3.wav	27.0	30.0	150	15000	gretit1	Great Tit	0.14113931904686544	2
+13	Spectrogram 1	1	496260.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.8822735496160937	1
+14	Spectrogram 1	1	496260.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.577758052021025	2
+15	Spectrogram 1	1	496260.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.23834704313182029	3
+16	Spectrogram 1	1	496260.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.14971810650609624	1
+17	Spectrogram 1	1	496260.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.12048234968707199	2
+18	Spectrogram 1	1	496260.mp3.wav	30.0	33.0	150	15000	blueth	Bluethroat	0.10683360502686998	3
+19	Spectrogram 1	1	496260.mp3.wav	39.0	42.0	150	15000	gretit1	Great Tit	0.34301939817998867	1
+20	Spectrogram 1	1	496260.mp3.wav	42.0	45.0	150	15000	comred2	Common Redstart	0.11730469121453008	1
+21	Spectrogram 1	1	496260.mp3.wav	45.0	48.0	150	15000	dunnoc1	Dunnock	0.8743985648494671	1
+22	Spectrogram 1	1	496260.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.6253378471203566	1
+23	Spectrogram 1	1	496260.mp3.wav	48.0	51.0	150	15000	dunnoc1	Dunnock	0.10588244825263032	2
+24	Spectrogram 1	1	496260.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.9857069989868064	1
+25	Spectrogram 1	1	496260.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.17113244716444784	2
+26	Spectrogram 1	1	496260.mp3.wav	54.0	57.0	150	15000	dunnoc1	Dunnock	0.3521392523153577	1
+27	Spectrogram 1	1	496260.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.10212357493992796	2
+28	Spectrogram 1	1	496260.mp3.wav	57.0	60.0	150	15000	garwar1	Garden Warbler	0.402739514080798	1
+29	Spectrogram 1	1	496260.mp3.wav	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.31848879568339067	2
+30	Spectrogram 1	1	496260.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.17417041937705346	3
+31	Spectrogram 1	1	496260.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.972847271733126	1
+32	Spectrogram 1	1	496260.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.25679967470779697	2
+33	Spectrogram 1	1	496260.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.14409155813794108	3
+34	Spectrogram 1	1	496260.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.7273056313101245	1
+35	Spectrogram 1	1	496260.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.18207649834400388	2
+36	Spectrogram 1	1	496260.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.1246636349427842	3
+37	Spectrogram 1	1	496260.mp3.wav	60.0	63.0	150	15000	melwar1	Melodious Warbler	0.7910648086134379	1
+38	Spectrogram 1	1	496260.mp3.wav	60.0	63.0	150	15000	garwar1	Garden Warbler	0.2678378293368665	2
+39	Spectrogram 1	1	496260.mp3.wav	60.0	63.0	150	15000	ictwar1	Icterine Warbler	0.1837930880430895	3
+40	Spectrogram 1	1	496260.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9224805709608714	1
+41	Spectrogram 1	1	496260.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.2963893395182621	2
+42	Spectrogram 1	1	496260.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.1982819615005893	3

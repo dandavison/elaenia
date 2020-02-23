@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	383018.mp3.wav	12.0	15.0	150	15000	comswi	Common Swift	0.7020669689478611	1
+2	Spectrogram 1	1	383018.mp3.wav	12.0	15.0	150	15000	eurbla	Eurasian Blackbird	0.538950255600904	2
+3	Spectrogram 1	1	383018.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9994065921550946	1
+4	Spectrogram 1	1	383018.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9996806763017039	1
+5	Spectrogram 1	1	383018.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.22811070880242082	1
+6	Spectrogram 1	1	383018.mp3.wav	21.0	24.0	150	15000	swathr	Swainson's Thrush	0.12766755572183558	2
+7	Spectrogram 1	1	383018.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9995797562413808	1
+8	Spectrogram 1	1	383018.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.948471577669708	1
+9	Spectrogram 1	1	383018.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.8985294432843273	1
+10	Spectrogram 1	1	383018.mp3.wav	9.0	12.0	150	15000	eurbla	Eurasian Blackbird	0.6371857533286993	2
+11	Spectrogram 1	1	383018.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9988129481528008	1

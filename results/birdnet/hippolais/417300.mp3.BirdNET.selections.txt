@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	417300.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.826966281653853	1
+2	Spectrogram 1	1	417300.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.29951658949670074	2
+3	Spectrogram 1	1	417300.mp3.wav	12.0	15.0	150	15000	thrnig1	Thrush Nightingale	0.20967718825038534	3
+4	Spectrogram 1	1	417300.mp3.wav	18.0	21.0	150	15000	thrnig1	Thrush Nightingale	0.8737000863803231	1
+5	Spectrogram 1	1	417300.mp3.wav	18.0	21.0	150	15000	comnig1	Common Nightingale	0.374942688842963	2
+6	Spectrogram 1	1	417300.mp3.wav	21.0	24.0	150	15000	thrnig1	Thrush Nightingale	0.9914812658009784	1
+7	Spectrogram 1	1	417300.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9548390246503062	1
+8	Spectrogram 1	1	417300.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.31226454841743867	2
+9	Spectrogram 1	1	417300.mp3.wav	9.0	12.0	150	15000	eubeat1	European Bee-eater	0.13149655318863468	1
+10	Spectrogram 1	1	417300.mp3.wav	9.0	12.0	150	15000	comqua1	Common Quail	0.11707329561435342	2
+11	Spectrogram 1	1	417300.mp3.wav	9.0	12.0	150	15000	relpar1	Red-legged Partridge	0.11234274342549147	3
+12	Spectrogram 1	1	417300.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9994330866639181	1

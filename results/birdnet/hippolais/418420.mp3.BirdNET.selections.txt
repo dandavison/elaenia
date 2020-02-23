@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	418420.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9664935649110192	1
+2	Spectrogram 1	1	418420.mp3.wav	12.0	15.0	150	15000	houspa	House Sparrow	0.29994893642927095	2
+3	Spectrogram 1	1	418420.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.797821486157277	1
+4	Spectrogram 1	1	418420.mp3.wav	15.0	18.0	150	15000	houspa	House Sparrow	0.6586034482186431	2
+5	Spectrogram 1	1	418420.mp3.wav	18.0	21.0	150	15000	eurgol	European Goldfinch	0.9796075880182729	1
+6	Spectrogram 1	1	418420.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9990536832680467	1
+7	Spectrogram 1	1	418420.mp3.wav	6.0	9.0	150	15000	sposta1	Spotless Starling	0.16673031665787388	1
+8	Spectrogram 1	1	418420.mp3.wav	6.0	9.0	150	15000	eurser1	European Serin	0.11858256729545022	2
+9	Spectrogram 1	1	418420.mp3.wav	9.0	12.0	150	15000	sposta1	Spotless Starling	0.11199161764659252	1
+10	Spectrogram 1	1	418420.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9942900145460808	1
+11	Spectrogram 1	1	418420.mp3.wav	0.0	3.0	150	15000	darwar1	Dartford Warbler	0.20732950454450746	2

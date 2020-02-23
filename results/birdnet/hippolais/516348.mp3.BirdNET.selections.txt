@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	516348.mp3.wav	12.0	15.0	150	15000	eurtre1	Eurasian Treecreeper	0.20705630452949192	1
+2	Spectrogram 1	1	516348.mp3.wav	12.0	15.0	150	15000	sarwar1	Sardinian Warbler	0.14059727387167828	2
+3	Spectrogram 1	1	516348.mp3.wav	12.0	15.0	150	15000	darwar1	Dartford Warbler	0.12667974222884942	3
+4	Spectrogram 1	1	516348.mp3.wav	15.0	18.0	150	15000	eursta	European Starling	0.22666382402240556	1
+5	Spectrogram 1	1	516348.mp3.wav	15.0	18.0	150	15000	eurtre1	Eurasian Treecreeper	0.155018984346935	2
+6	Spectrogram 1	1	516348.mp3.wav	18.0	21.0	150	15000	houspa	House Sparrow	0.38398585966430965	1
+7	Spectrogram 1	1	516348.mp3.wav	18.0	21.0	150	15000	eursta	European Starling	0.10552434960440955	2
+8	Spectrogram 1	1	516348.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.1025573147501211	3
+9	Spectrogram 1	1	516348.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.5800439668532688	1
+10	Spectrogram 1	1	516348.mp3.wav	21.0	24.0	150	15000	blrwar1	Blyth's Reed Warbler	0.5617562434850508	2
+11	Spectrogram 1	1	516348.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.36279221928103167	3
+12	Spectrogram 1	1	516348.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9017978834149433	1
+13	Spectrogram 1	1	516348.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.23096763701060508	2
+14	Spectrogram 1	1	516348.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9954063291492282	1
+15	Spectrogram 1	1	516348.mp3.wav	27.0	30.0	150	15000	marwar3	Marsh Warbler	0.12442588326956763	2
+16	Spectrogram 1	1	516348.mp3.wav	3.0	6.0	150	15000	eursta	European Starling	0.13888601320123165	1
+17	Spectrogram 1	1	516348.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9960969434002331	1
+18	Spectrogram 1	1	516348.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.9996104148419914	1
+19	Spectrogram 1	1	516348.mp3.wav	6.0	9.0	150	15000	eursta	European Starling	0.2570478477482313	1
+20	Spectrogram 1	1	516348.mp3.wav	6.0	9.0	150	15000	eurtre1	Eurasian Treecreeper	0.24988290278974434	2
+21	Spectrogram 1	1	516348.mp3.wav	9.0	12.0	150	15000	sarwar1	Sardinian Warbler	0.48985311323238534	1
+22	Spectrogram 1	1	516348.mp3.wav	9.0	12.0	150	15000	darwar1	Dartford Warbler	0.45342538526750886	2
+23	Spectrogram 1	1	516348.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.2609979284474176	3
+24	Spectrogram 1	1	516348.mp3.wav	0.0	3.0	150	15000	goldcr1	Goldcrest	0.1392912983498818	1
+25	Spectrogram 1	1	516348.mp3.wav	0.0	3.0	150	15000	casspa	Cassin's Sparrow	0.10264340992761413	2

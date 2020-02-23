@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386178.mp3.wav	3.0	6.0	150	15000	eucdov	Eurasian Collared-Dove	0.35384802726942627	1
+2	Spectrogram 1	1	386178.mp3.wav	3.0	6.0	150	15000	houspa	House Sparrow	0.30097171050436267	2
+3	Spectrogram 1	1	386178.mp3.wav	3.0	6.0	150	15000	barswa	Barn Swallow	0.2768340963029155	3
+4	Spectrogram 1	1	386178.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.8087018793055505	1
+5	Spectrogram 1	1	386178.mp3.wav	6.0	9.0	150	15000	weowar1	Western Olivaceous Warbler	0.41066960500552396	2
+6	Spectrogram 1	1	386178.mp3.wav	6.0	9.0	150	15000	eutspa	Eurasian Tree Sparrow	0.15283652857951754	3
+7	Spectrogram 1	1	386178.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.8220039177285297	1
+8	Spectrogram 1	1	386178.mp3.wav	9.0	12.0	150	15000	blrwar1	Blyth's Reed Warbler	0.6029874934739233	2
+9	Spectrogram 1	1	386178.mp3.wav	9.0	12.0	150	15000	weowar1	Western Olivaceous Warbler	0.10110979314439902	3
+10	Spectrogram 1	1	386178.mp3.wav	0.0	3.0	150	15000	eucdov	Eurasian Collared-Dove	0.5227469578681893	1
+11	Spectrogram 1	1	386178.mp3.wav	0.0	3.0	150	15000	barswa	Barn Swallow	0.1736272206394884	2
+12	Spectrogram 1	1	386178.mp3.wav	0.0	3.0	150	15000	houspa	House Sparrow	0.11779269820054537	3

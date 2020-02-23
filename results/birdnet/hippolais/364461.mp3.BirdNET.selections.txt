@@ -1,0 +1,54 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	364461.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.33009682460472645	1
+2	Spectrogram 1	1	364461.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.2800170113824787	2
+3	Spectrogram 1	1	364461.mp3.wav	15.0	18.0	150	15000	weowar1	Western Olivaceous Warbler	0.42127859305961335	1
+4	Spectrogram 1	1	364461.mp3.wav	15.0	18.0	150	15000	marwar3	Marsh Warbler	0.19821690296962588	2
+5	Spectrogram 1	1	364461.mp3.wav	15.0	18.0	150	15000	eutspa	Eurasian Tree Sparrow	0.1737347952589024	3
+6	Spectrogram 1	1	364461.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.6290125402922823	1
+7	Spectrogram 1	1	364461.mp3.wav	18.0	21.0	150	15000	marwar3	Marsh Warbler	0.2556861644053187	2
+8	Spectrogram 1	1	364461.mp3.wav	18.0	21.0	150	15000	weowar1	Western Olivaceous Warbler	0.16059698866553263	3
+9	Spectrogram 1	1	364461.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.5294290852787071	1
+10	Spectrogram 1	1	364461.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.20549617140342769	2
+11	Spectrogram 1	1	364461.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.1345040694629415	3
+12	Spectrogram 1	1	364461.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.8550145799390351	1
+13	Spectrogram 1	1	364461.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.6445367600198842	2
+14	Spectrogram 1	1	364461.mp3.wav	24.0	27.0	150	15000	garwar1	Garden Warbler	0.35242849635924345	3
+15	Spectrogram 1	1	364461.mp3.wav	27.0	30.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.4661874683650924	1
+16	Spectrogram 1	1	364461.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.33341910503148664	2
+17	Spectrogram 1	1	364461.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.3322555092229681	3
+18	Spectrogram 1	1	364461.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.7204613504515004	1
+19	Spectrogram 1	1	364461.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.5064138471922068	2
+20	Spectrogram 1	1	364461.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.11949569083890776	3
+21	Spectrogram 1	1	364461.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9861996887320744	1
+22	Spectrogram 1	1	364461.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.5654371530377474	2
+23	Spectrogram 1	1	364461.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.5263138469293137	1
+24	Spectrogram 1	1	364461.mp3.wav	33.0	36.0	150	15000	garwar1	Garden Warbler	0.5033702472200727	2
+25	Spectrogram 1	1	364461.mp3.wav	33.0	36.0	150	15000	marwar3	Marsh Warbler	0.3472964337819675	3
+26	Spectrogram 1	1	364461.mp3.wav	36.0	39.0	150	15000	marwar3	Marsh Warbler	0.8521102186022824	1
+27	Spectrogram 1	1	364461.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.11406405492132174	2
+28	Spectrogram 1	1	364461.mp3.wav	36.0	39.0	150	15000	weowar1	Western Olivaceous Warbler	0.11179801335677889	3
+29	Spectrogram 1	1	364461.mp3.wav	39.0	42.0	150	15000	marwar3	Marsh Warbler	0.488254805041963	1
+30	Spectrogram 1	1	364461.mp3.wav	39.0	42.0	150	15000	weowar1	Western Olivaceous Warbler	0.19696041706844292	2
+31	Spectrogram 1	1	364461.mp3.wav	39.0	42.0	150	15000	eutspa	Eurasian Tree Sparrow	0.18325151853978622	3
+32	Spectrogram 1	1	364461.mp3.wav	42.0	45.0	150	15000	garwar1	Garden Warbler	0.7047490565688764	1
+33	Spectrogram 1	1	364461.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.5515349775006422	2
+34	Spectrogram 1	1	364461.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.12267855520748293	3
+35	Spectrogram 1	1	364461.mp3.wav	45.0	48.0	150	15000	garwar1	Garden Warbler	0.5229401262183947	1
+36	Spectrogram 1	1	364461.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.31975837435627225	2
+37	Spectrogram 1	1	364461.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.2882660593713386	3
+38	Spectrogram 1	1	364461.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.9793159298599435	1
+39	Spectrogram 1	1	364461.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.44912859191756194	2
+40	Spectrogram 1	1	364461.mp3.wav	48.0	51.0	150	15000	marwar3	Marsh Warbler	0.17755442865624835	3
+41	Spectrogram 1	1	364461.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.9907711140915652	1
+42	Spectrogram 1	1	364461.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.3979015641494178	2
+43	Spectrogram 1	1	364461.mp3.wav	54.0	57.0	150	15000	weowar1	Western Olivaceous Warbler	0.8309591758409487	1
+44	Spectrogram 1	1	364461.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.3737916912787558	2
+45	Spectrogram 1	1	364461.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.2800922911782112	3
+46	Spectrogram 1	1	364461.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9098229844272622	1
+47	Spectrogram 1	1	364461.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.40388953706680997	2
+48	Spectrogram 1	1	364461.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.25084856703519576	3
+49	Spectrogram 1	1	364461.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.5760216269789539	1
+50	Spectrogram 1	1	364461.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.20681074430828322	2
+51	Spectrogram 1	1	364461.mp3.wav	9.0	12.0	150	15000	marwar3	Marsh Warbler	0.19015517183021297	3
+52	Spectrogram 1	1	364461.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9428671768435537	1
+53	Spectrogram 1	1	364461.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.651430433717355	2

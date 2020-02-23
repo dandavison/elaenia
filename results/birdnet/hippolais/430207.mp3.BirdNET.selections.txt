@@ -1,0 +1,43 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	430207.mp3.wav	18.0	21.0	150	15000	trepip	Tree Pipit	0.8336191109402448	1
+2	Spectrogram 1	1	430207.mp3.wav	18.0	21.0	150	15000	sposan	Spotted Sandpiper	0.1735116363205122	2
+3	Spectrogram 1	1	430207.mp3.wav	18.0	21.0	150	15000	woolar1	Wood Lark	0.11730477937252383	3
+4	Spectrogram 1	1	430207.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9980626991781866	1
+5	Spectrogram 1	1	430207.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9993618386803882	1
+6	Spectrogram 1	1	430207.mp3.wav	27.0	30.0	150	15000	spewar2	Spectacled Warbler	0.9045596496123943	1
+7	Spectrogram 1	1	430207.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.5228076864632687	2
+8	Spectrogram 1	1	430207.mp3.wav	27.0	30.0	150	15000	darwar1	Dartford Warbler	0.10409251241903464	3
+9	Spectrogram 1	1	430207.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9961109126221463	1
+10	Spectrogram 1	1	430207.mp3.wav	30.0	33.0	150	15000	crelar2	Crested Lark	0.7344275805465947	1
+11	Spectrogram 1	1	430207.mp3.wav	30.0	33.0	150	15000	snobun	Snow Bunting	0.2519500186603579	2
+12	Spectrogram 1	1	430207.mp3.wav	30.0	33.0	150	15000	evegro	Evening Grosbeak	0.19061445297937765	3
+13	Spectrogram 1	1	430207.mp3.wav	39.0	42.0	150	15000	eurser1	European Serin	0.17794052830266108	1
+14	Spectrogram 1	1	430207.mp3.wav	42.0	45.0	150	15000	lawgol	Lawrence's Goldfinch	0.12140775816082165	1
+15	Spectrogram 1	1	430207.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.9982781322915962	1
+16	Spectrogram 1	1	430207.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.9992647235372204	1
+17	Spectrogram 1	1	430207.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.9953238970876609	1
+18	Spectrogram 1	1	430207.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.13399222731959815	2
+19	Spectrogram 1	1	430207.mp3.wav	57.0	60.0	150	15000	krunut1	Krueper's Nuthatch	0.6410613965978929	1
+20	Spectrogram 1	1	430207.mp3.wav	57.0	60.0	150	15000	britit	Bridled Titmouse	0.28151416003764773	2
+21	Spectrogram 1	1	430207.mp3.wav	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.22538247435579717	3
+22	Spectrogram 1	1	430207.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9943885703794306	1
+23	Spectrogram 1	1	430207.mp3.wav	9.0	12.0	150	15000	larspa	Lark Sparrow	0.5847794935985033	1
+24	Spectrogram 1	1	430207.mp3.wav	9.0	12.0	150	15000	botspa	Botteri's Sparrow	0.21394418088456857	2
+25	Spectrogram 1	1	430207.mp3.wav	9.0	12.0	150	15000	cantow	Canyon Towhee	0.13842797153902336	3
+26	Spectrogram 1	1	430207.mp3.wav	60.0	63.0	150	15000	melwar1	Melodious Warbler	0.9992137340875141	1
+27	Spectrogram 1	1	430207.mp3.wav	72.0	75.0	150	15000	woolar1	Wood Lark	0.8986382562455968	1
+28	Spectrogram 1	1	430207.mp3.wav	75.0	78.0	150	15000	melwar1	Melodious Warbler	0.9980885276860575	1
+29	Spectrogram 1	1	430207.mp3.wav	78.0	81.0	150	15000	melwar1	Melodious Warbler	0.9961891899701069	1
+30	Spectrogram 1	1	430207.mp3.wav	81.0	84.0	150	15000	melwar1	Melodious Warbler	0.874032003240605	1
+31	Spectrogram 1	1	430207.mp3.wav	81.0	84.0	150	15000	subwar1	Subalpine Warbler	0.38908295387211966	2
+32	Spectrogram 1	1	430207.mp3.wav	81.0	84.0	150	15000	padwar1	Paddyfield Warbler	0.11453152039395073	3
+33	Spectrogram 1	1	430207.mp3.wav	63.0	66.0	150	15000	melwar1	Melodious Warbler	0.9961396514052072	1
+34	Spectrogram 1	1	430207.mp3.wav	66.0	69.0	150	15000	stonec4	European Stonechat	0.7529420012381023	1
+35	Spectrogram 1	1	430207.mp3.wav	66.0	69.0	150	15000	whinch1	Whinchat	0.15693799022796126	2
+36	Spectrogram 1	1	430207.mp3.wav	66.0	69.0	150	15000	reebun	Reed Bunting	0.13854749400445834	3
+37	Spectrogram 1	1	430207.mp3.wav	69.0	72.0	150	15000	crelar2	Crested Lark	0.2651599077042977	1
+38	Spectrogram 1	1	430207.mp3.wav	69.0	72.0	150	15000	thelar1	Thekla's Lark	0.131118877349132	2
+39	Spectrogram 1	1	430207.mp3.wav	69.0	72.0	150	15000	gstlar1	Greater Short-toed Lark	0.11316806304727685	3
+40	Spectrogram 1	1	430207.mp3.wav	0.0	3.0	150	15000	wooshr1	Woodchat Shrike	0.675764004247891	1
+41	Spectrogram 1	1	430207.mp3.wav	0.0	3.0	150	15000	eurlin1	Eurasian Linnet	0.1840799953466486	2
+42	Spectrogram 1	1	430207.mp3.wav	0.0	3.0	150	15000	rebshr1	Red-backed Shrike	0.17774720582531844	3

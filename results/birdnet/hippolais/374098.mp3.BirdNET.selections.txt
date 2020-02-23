@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	374098.mp3.wav	12.0	15.0	150	15000	darwar1	Dartford Warbler	0.40841167033484926	1
+2	Spectrogram 1	1	374098.mp3.wav	12.0	15.0	150	15000	norwhe	Northern Wheatear	0.404715109261923	2
+3	Spectrogram 1	1	374098.mp3.wav	12.0	15.0	150	15000	sarwar1	Sardinian Warbler	0.22268178033351854	3
+4	Spectrogram 1	1	374098.mp3.wav	15.0	18.0	150	15000	cangoo	Canada Goose	0.1058725298537944	1
+5	Spectrogram 1	1	374098.mp3.wav	18.0	21.0	150	15000	stonec4	European Stonechat	0.25674558945796616	1
+6	Spectrogram 1	1	374098.mp3.wav	18.0	21.0	150	15000	rudshe	Ruddy Shelduck	0.12725211876031617	2
+7	Spectrogram 1	1	374098.mp3.wav	18.0	21.0	150	15000	norwhe	Northern Wheatear	0.12368523214927232	3
+8	Spectrogram 1	1	374098.mp3.wav	21.0	24.0	150	15000	menwar1	Menetries's Warbler	0.5696491935462786	1
+9	Spectrogram 1	1	374098.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.24795591797373712	2
+10	Spectrogram 1	1	374098.mp3.wav	21.0	24.0	150	15000	mouwar1	Moustached Warbler	0.2229620641603445	3
+11	Spectrogram 1	1	374098.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9967629225841372	1
+12	Spectrogram 1	1	374098.mp3.wav	27.0	30.0	150	15000	darwar1	Dartford Warbler	0.8051259004950378	1
+13	Spectrogram 1	1	374098.mp3.wav	27.0	30.0	150	15000	spewar2	Spectacled Warbler	0.20629061230942786	2
+14	Spectrogram 1	1	374098.mp3.wav	27.0	30.0	150	15000	norwhe	Northern Wheatear	0.15169940170521914	3
+15	Spectrogram 1	1	374098.mp3.wav	3.0	6.0	150	15000	thelar1	Thekla's Lark	0.319194553362694	1
+16	Spectrogram 1	1	374098.mp3.wav	3.0	6.0	150	15000	wooshr1	Woodchat Shrike	0.27899320421300156	2
+17	Spectrogram 1	1	374098.mp3.wav	3.0	6.0	150	15000	crelar2	Crested Lark	0.2467163478472794	3
+18	Spectrogram 1	1	374098.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9991802323834207	1
+19	Spectrogram 1	1	374098.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9961922601215378	1
+20	Spectrogram 1	1	374098.mp3.wav	0.0	3.0	150	15000	litter1	Little Tern	0.9890017511865608	1
+21	Spectrogram 1	1	374098.mp3.wav	0.0	3.0	150	15000	whtlap1	White-tailed Lapwing	0.15479846715310575	2

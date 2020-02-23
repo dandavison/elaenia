@@ -1,0 +1,43 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	341166.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9409457783107746	1
+2	Spectrogram 1	1	341166.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9980174781248395	1
+3	Spectrogram 1	1	341166.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.955534550422381	1
+4	Spectrogram 1	1	341166.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9937970647709263	1
+5	Spectrogram 1	1	341166.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9886507987873427	1
+6	Spectrogram 1	1	341166.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9992046240706243	1
+7	Spectrogram 1	1	341166.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9685208597428769	1
+8	Spectrogram 1	1	341166.mp3.wav	30.0	33.0	150	15000	kirwar	Kirtland's Warbler	0.37887099114300643	1
+9	Spectrogram 1	1	341166.mp3.wav	30.0	33.0	150	15000	brebla	Brewer's Blackbird	0.30963394408415984	2
+10	Spectrogram 1	1	341166.mp3.wav	30.0	33.0	150	15000	norhar2	Northern Harrier	0.17351821747203547	3
+11	Spectrogram 1	1	341166.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.9735141619400419	1
+12	Spectrogram 1	1	341166.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.9991213658173802	1
+13	Spectrogram 1	1	341166.mp3.wav	39.0	42.0	150	15000	easblu	Eastern Bluebird	0.1468540295649298	1
+14	Spectrogram 1	1	341166.mp3.wav	39.0	42.0	150	15000	boboli	Bobolink	0.14198018409088353	2
+15	Spectrogram 1	1	341166.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.9910391519662831	1
+16	Spectrogram 1	1	341166.mp3.wav	45.0	48.0	150	15000	bohwax	Bohemian Waxwing	0.7953634618745994	1
+17	Spectrogram 1	1	341166.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.8136067261649208	1
+18	Spectrogram 1	1	341166.mp3.wav	48.0	51.0	150	15000	afrwar1	African Reed Warbler	0.1791780753657026	2
+19	Spectrogram 1	1	341166.mp3.wav	48.0	51.0	150	15000	eurwar1	Eurasian Reed Warbler	0.12390915076746463	3
+20	Spectrogram 1	1	341166.mp3.wav	51.0	54.0	150	15000	orcori	Orchard Oriole	0.7479153728884383	1
+21	Spectrogram 1	1	341166.mp3.wav	51.0	54.0	150	15000	bulori	Bullock's Oriole	0.38291069276662093	2
+22	Spectrogram 1	1	341166.mp3.wav	51.0	54.0	150	15000	balori	Baltimore Oriole	0.20701593552816433	3
+23	Spectrogram 1	1	341166.mp3.wav	54.0	57.0	150	15000	orcori	Orchard Oriole	0.8480773844488829	1
+24	Spectrogram 1	1	341166.mp3.wav	54.0	57.0	150	15000	bulori	Bullock's Oriole	0.15661180549446074	2
+25	Spectrogram 1	1	341166.mp3.wav	57.0	60.0	150	15000	bulori	Bullock's Oriole	0.366555428251687	1
+26	Spectrogram 1	1	341166.mp3.wav	57.0	60.0	150	15000	orcori	Orchard Oriole	0.35496259228323424	2
+27	Spectrogram 1	1	341166.mp3.wav	57.0	60.0	150	15000	yebcha	Yellow-breasted Chat	0.15776264197772596	3
+28	Spectrogram 1	1	341166.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9997266384207169	1
+29	Spectrogram 1	1	341166.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9986669738049541	1
+30	Spectrogram 1	1	341166.mp3.wav	60.0	63.0	150	15000	bulori	Bullock's Oriole	0.5552293497422937	1
+31	Spectrogram 1	1	341166.mp3.wav	60.0	63.0	150	15000	orcori	Orchard Oriole	0.5473936995810861	2
+32	Spectrogram 1	1	341166.mp3.wav	60.0	63.0	150	15000	boboli	Bobolink	0.11957938534531788	3
+33	Spectrogram 1	1	341166.mp3.wav	72.0	75.0	150	15000	orcori	Orchard Oriole	0.6414590569635736	1
+34	Spectrogram 1	1	341166.mp3.wav	72.0	75.0	150	15000	easblu	Eastern Bluebird	0.17242955969850468	2
+35	Spectrogram 1	1	341166.mp3.wav	72.0	75.0	150	15000	yebcha	Yellow-breasted Chat	0.13457566209784658	3
+36	Spectrogram 1	1	341166.mp3.wav	63.0	66.0	150	15000	rebshr1	Red-backed Shrike	0.14571372780405262	1
+37	Spectrogram 1	1	341166.mp3.wav	63.0	66.0	150	15000	boboli	Bobolink	0.1414994988399145	2
+38	Spectrogram 1	1	341166.mp3.wav	63.0	66.0	150	15000	weowar1	Western Olivaceous Warbler	0.10360576735948582	3
+39	Spectrogram 1	1	341166.mp3.wav	66.0	69.0	150	15000	boboli	Bobolink	0.3172788962910354	1
+40	Spectrogram 1	1	341166.mp3.wav	66.0	69.0	150	15000	orcori	Orchard Oriole	0.29081478440448894	2
+41	Spectrogram 1	1	341166.mp3.wav	69.0	72.0	150	15000	boboli	Bobolink	0.1583650810406258	1
+42	Spectrogram 1	1	341166.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9997685861530379	1

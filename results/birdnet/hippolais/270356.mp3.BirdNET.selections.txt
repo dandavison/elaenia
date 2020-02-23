@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	270356.mp3.wav	12.0	15.0	150	15000	bulori	Bullock's Oriole	0.5202919071698042	1
+2	Spectrogram 1	1	270356.mp3.wav	12.0	15.0	150	15000	wooshr1	Woodchat Shrike	0.30681079132001643	2
+3	Spectrogram 1	1	270356.mp3.wav	12.0	15.0	150	15000	isashr1	Isabelline Shrike	0.10781587242635819	3
+4	Spectrogram 1	1	270356.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.36502610567154536	1
+5	Spectrogram 1	1	270356.mp3.wav	3.0	6.0	150	15000	bulori	Bullock's Oriole	0.2848144164870159	2
+6	Spectrogram 1	1	270356.mp3.wav	3.0	6.0	150	15000	yebcha	Yellow-breasted Chat	0.22838884421797231	3
+7	Spectrogram 1	1	270356.mp3.wav	0.0	3.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.437754192960487	1
+8	Spectrogram 1	1	270356.mp3.wav	0.0	3.0	150	15000	wooshr1	Woodchat Shrike	0.41864598891211585	2
+9	Spectrogram 1	1	270356.mp3.wav	0.0	3.0	150	15000	rebshr1	Red-backed Shrike	0.26567951785983057	3

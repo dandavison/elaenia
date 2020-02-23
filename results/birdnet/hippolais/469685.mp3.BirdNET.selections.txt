@@ -1,0 +1,57 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	469685.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9988007052621952	1
+2	Spectrogram 1	1	469685.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9217891034920909	1
+3	Spectrogram 1	1	469685.mp3.wav	15.0	18.0	150	15000	sarwar1	Sardinian Warbler	0.700063891927903	2
+4	Spectrogram 1	1	469685.mp3.wav	18.0	21.0	150	15000	abetow	Abert's Towhee	0.42107064289556595	1
+5	Spectrogram 1	1	469685.mp3.wav	18.0	21.0	150	15000	blueth	Bluethroat	0.1058851260959247	2
+6	Spectrogram 1	1	469685.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9990173788512526	1
+7	Spectrogram 1	1	469685.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.999557449753253	1
+8	Spectrogram 1	1	469685.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9995335213677969	1
+9	Spectrogram 1	1	469685.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9992419781707581	1
+10	Spectrogram 1	1	469685.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9984935957404878	1
+11	Spectrogram 1	1	469685.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.996794694932252	1
+12	Spectrogram 1	1	469685.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.9988823648929523	1
+13	Spectrogram 1	1	469685.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.9988675834620585	1
+14	Spectrogram 1	1	469685.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.9982086329464969	1
+15	Spectrogram 1	1	469685.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.9984322621284952	1
+16	Spectrogram 1	1	469685.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.9992600014814155	1
+17	Spectrogram 1	1	469685.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.99756006194461	1
+18	Spectrogram 1	1	469685.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.978022234697737	1
+19	Spectrogram 1	1	469685.mp3.wav	54.0	57.0	150	15000	garwar1	Garden Warbler	0.16969347288532377	2
+20	Spectrogram 1	1	469685.mp3.wav	54.0	57.0	150	15000	grewhi1	Greater Whitethroat	0.12767311104862925	3
+21	Spectrogram 1	1	469685.mp3.wav	57.0	60.0	150	15000	brebla	Brewer's Blackbird	0.1747283598909012	1
+22	Spectrogram 1	1	469685.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9994740009278831	1
+23	Spectrogram 1	1	469685.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9994710586452389	1
+24	Spectrogram 1	1	469685.mp3.wav	60.0	63.0	150	15000	corbun1	Corn Bunting	0.2972084411628388	1
+25	Spectrogram 1	1	469685.mp3.wav	60.0	63.0	150	15000	yellow2	Yellowhammer	0.16526110392355903	2
+26	Spectrogram 1	1	469685.mp3.wav	72.0	75.0	150	15000	comnig1	Common Nightingale	0.9364261543200616	1
+27	Spectrogram 1	1	469685.mp3.wav	72.0	75.0	150	15000	thrnig1	Thrush Nightingale	0.21567085523312973	2
+28	Spectrogram 1	1	469685.mp3.wav	75.0	78.0	150	15000	comnig1	Common Nightingale	0.8433031065171311	1
+29	Spectrogram 1	1	469685.mp3.wav	75.0	78.0	150	15000	thrnig1	Thrush Nightingale	0.2194627404739341	2
+30	Spectrogram 1	1	469685.mp3.wav	75.0	78.0	150	15000	comcha	Common Chaffinch	0.13631236925574025	3
+31	Spectrogram 1	1	469685.mp3.wav	78.0	81.0	150	15000	comnig1	Common Nightingale	0.8517520641689703	1
+32	Spectrogram 1	1	469685.mp3.wav	81.0	84.0	150	15000	corbun1	Corn Bunting	0.3046421175879144	1
+33	Spectrogram 1	1	469685.mp3.wav	84.0	87.0	150	15000	comnig1	Common Nightingale	0.11738121183860277	1
+34	Spectrogram 1	1	469685.mp3.wav	87.0	90.0	150	15000	comnig1	Common Nightingale	0.9588569929686004	1
+35	Spectrogram 1	1	469685.mp3.wav	87.0	90.0	150	15000	thrnig1	Thrush Nightingale	0.14554962344188954	2
+36	Spectrogram 1	1	469685.mp3.wav	63.0	66.0	150	15000	corbun1	Corn Bunting	0.606786884442163	1
+37	Spectrogram 1	1	469685.mp3.wav	63.0	66.0	150	15000	yellow2	Yellowhammer	0.10081422589806867	2
+38	Spectrogram 1	1	469685.mp3.wav	90.0	93.0	150	15000	melwar1	Melodious Warbler	0.9197560279447704	1
+39	Spectrogram 1	1	469685.mp3.wav	90.0	93.0	150	15000	ictwar1	Icterine Warbler	0.6935176670268365	2
+40	Spectrogram 1	1	469685.mp3.wav	93.0	96.0	150	15000	melwar1	Melodious Warbler	0.9989148298101468	1
+41	Spectrogram 1	1	469685.mp3.wav	96.0	99.0	150	15000	melwar1	Melodious Warbler	0.9997038535195754	1
+42	Spectrogram 1	1	469685.mp3.wav	99.0	102.0	150	15000	melwar1	Melodious Warbler	0.9953092315731549	1
+43	Spectrogram 1	1	469685.mp3.wav	102.0	105.0	150	15000	comnig1	Common Nightingale	0.9791184378845799	1
+44	Spectrogram 1	1	469685.mp3.wav	105.0	108.0	150	15000	comred2	Common Redstart	0.6188191759917542	1
+45	Spectrogram 1	1	469685.mp3.wav	105.0	108.0	150	15000	comnig1	Common Nightingale	0.6154534694696522	2
+46	Spectrogram 1	1	469685.mp3.wav	105.0	108.0	150	15000	rebfly	Red-breasted Flycatcher	0.17977637938738322	3
+47	Spectrogram 1	1	469685.mp3.wav	108.0	111.0	150	15000	comnig1	Common Nightingale	0.9934041531499364	1
+48	Spectrogram 1	1	469685.mp3.wav	111.0	114.0	150	15000	comnig1	Common Nightingale	0.8905165568398921	1
+49	Spectrogram 1	1	469685.mp3.wav	111.0	114.0	150	15000	comred2	Common Redstart	0.6080626798174418	2
+50	Spectrogram 1	1	469685.mp3.wav	66.0	69.0	150	15000	comnig1	Common Nightingale	0.30221712475794044	1
+51	Spectrogram 1	1	469685.mp3.wav	66.0	69.0	150	15000	blueth	Bluethroat	0.10163099423907597	2
+52	Spectrogram 1	1	469685.mp3.wav	69.0	72.0	150	15000	comnig1	Common Nightingale	0.12212504906008649	1
+53	Spectrogram 1	1	469685.mp3.wav	69.0	72.0	150	15000	eurwar2	Eurasian River Warbler	0.11210059598390434	2
+54	Spectrogram 1	1	469685.mp3.wav	0.0	3.0	150	15000	subwar1	Subalpine Warbler	0.1686512414392333	1
+55	Spectrogram 1	1	469685.mp3.wav	0.0	3.0	150	15000	marwar3	Marsh Warbler	0.14542828991796314	2
+56	Spectrogram 1	1	469685.mp3.wav	0.0	3.0	150	15000	grewhi1	Greater Whitethroat	0.13967839425614056	3

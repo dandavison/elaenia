@@ -1,0 +1,38 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	523683.mp3.wav	15.0	18.0	150	15000	winwre4	Eurasian Wren	0.25369630543262106	1
+2	Spectrogram 1	1	523683.mp3.wav	15.0	18.0	150	15000	wlwwar	Willow Warbler	0.1309625590546935	2
+3	Spectrogram 1	1	523683.mp3.wav	18.0	21.0	150	15000	winwre4	Eurasian Wren	0.30700070292705756	1
+4	Spectrogram 1	1	523683.mp3.wav	21.0	24.0	150	15000	lesgol	Lesser Goldfinch	0.3746442568146531	1
+5	Spectrogram 1	1	523683.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.21542870728036784	2
+6	Spectrogram 1	1	523683.mp3.wav	21.0	24.0	150	15000	blueth	Bluethroat	0.15073042495527103	3
+7	Spectrogram 1	1	523683.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.44644915370546984	1
+8	Spectrogram 1	1	523683.mp3.wav	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.12218940304290052	2
+9	Spectrogram 1	1	523683.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.11013989359495777	3
+10	Spectrogram 1	1	523683.mp3.wav	27.0	30.0	150	15000	winwre4	Eurasian Wren	0.3572132139499625	1
+11	Spectrogram 1	1	523683.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9459757521844395	1
+12	Spectrogram 1	1	523683.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.1368042110707045	2
+13	Spectrogram 1	1	523683.mp3.wav	3.0	6.0	150	15000	houspa	House Sparrow	0.10284886106222249	3
+14	Spectrogram 1	1	523683.mp3.wav	30.0	33.0	150	15000	winwre4	Eurasian Wren	0.34765617174887087	1
+15	Spectrogram 1	1	523683.mp3.wav	33.0	36.0	150	15000	eurgol	European Goldfinch	0.26609392595259485	1
+16	Spectrogram 1	1	523683.mp3.wav	33.0	36.0	150	15000	comred2	Common Redstart	0.13966801568387527	2
+17	Spectrogram 1	1	523683.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.10374229334093779	3
+18	Spectrogram 1	1	523683.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.33820223943349215	1
+19	Spectrogram 1	1	523683.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.29196305775948506	2
+20	Spectrogram 1	1	523683.mp3.wav	36.0	39.0	150	15000	blrwar1	Blyth's Reed Warbler	0.17545257380931703	3
+21	Spectrogram 1	1	523683.mp3.wav	39.0	42.0	150	15000	winwre4	Eurasian Wren	0.40168985310478433	1
+22	Spectrogram 1	1	523683.mp3.wav	42.0	45.0	150	15000	cogwar1	Common Grasshopper-Warbler	0.6560157571271336	1
+23	Spectrogram 1	1	523683.mp3.wav	42.0	45.0	150	15000	eurgol	European Goldfinch	0.13539019683231945	2
+24	Spectrogram 1	1	523683.mp3.wav	42.0	45.0	150	15000	wlwwar	Willow Warbler	0.10602325825128192	3
+25	Spectrogram 1	1	523683.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.23429383571556242	1
+26	Spectrogram 1	1	523683.mp3.wav	45.0	48.0	150	15000	comred2	Common Redstart	0.12835515884583537	2
+27	Spectrogram 1	1	523683.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.9074989522814643	1
+28	Spectrogram 1	1	523683.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.2030511876309683	2
+29	Spectrogram 1	1	523683.mp3.wav	48.0	51.0	150	15000	grewhi1	Greater Whitethroat	0.17554215042936006	3
+30	Spectrogram 1	1	523683.mp3.wav	51.0	54.0	150	15000	winwre4	Eurasian Wren	0.24947378774738607	1
+31	Spectrogram 1	1	523683.mp3.wav	51.0	54.0	150	15000	coatit2	Coal Tit	0.20556414411806903	2
+32	Spectrogram 1	1	523683.mp3.wav	51.0	54.0	150	15000	gretit1	Great Tit	0.16685617666716104	3
+33	Spectrogram 1	1	523683.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.868210735672359	1
+34	Spectrogram 1	1	523683.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.4194813607792715	2
+35	Spectrogram 1	1	523683.mp3.wav	9.0	12.0	150	15000	citfin1	Citril Finch	0.215327736643357	1
+36	Spectrogram 1	1	523683.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.27796089261767865	1
+37	Spectrogram 1	1	523683.mp3.wav	0.0	3.0	150	15000	houspa	House Sparrow	0.1005232303545332	2

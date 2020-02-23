@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	477344.mp3.wav	3.0	6.0	150	15000	warvir	Warbling Vireo	0.976987064692218	1
+2	Spectrogram 1	1	477344.mp3.wav	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.23001100324373996	2
+3	Spectrogram 1	1	477344.mp3.wav	6.0	9.0	150	15000	barswa	Barn Swallow	0.9150619463100428	1
+4	Spectrogram 1	1	477344.mp3.wav	9.0	12.0	150	15000	houspa	House Sparrow	0.16824082927035058	1
+5	Spectrogram 1	1	477344.mp3.wav	9.0	12.0	150	15000	sposta1	Spotless Starling	0.13222927046964525	2
+6	Spectrogram 1	1	477344.mp3.wav	9.0	12.0	150	15000	spaspa1	Spanish Sparrow	0.12881687899918817	3
+7	Spectrogram 1	1	477344.mp3.wav	0.0	3.0	150	15000	eurbla	Eurasian Blackbird	0.172139845725084	1
+8	Spectrogram 1	1	477344.mp3.wav	0.0	3.0	150	15000	thrnig1	Thrush Nightingale	0.12053774369640671	2
+9	Spectrogram 1	1	477344.mp3.wav	0.0	3.0	150	15000	comnig1	Common Nightingale	0.10718902464771919	3

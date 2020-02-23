@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	256728.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9601814969174559	1
+2	Spectrogram 1	1	256728.mp3.wav	12.0	15.0	150	15000	barwar1	Barred Warbler	0.2760353883948904	2
+3	Spectrogram 1	1	256728.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.23385499556768138	3
+4	Spectrogram 1	1	256728.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.8494320157700078	1
+5	Spectrogram 1	1	256728.mp3.wav	15.0	18.0	150	15000	barwar1	Barred Warbler	0.36697220658485147	2
+6	Spectrogram 1	1	256728.mp3.wav	18.0	21.0	150	15000	houspa	House Sparrow	0.4147361830263943	1
+7	Spectrogram 1	1	256728.mp3.wav	18.0	21.0	150	15000	eutspa	Eurasian Tree Sparrow	0.28542942763085727	2
+8	Spectrogram 1	1	256728.mp3.wav	18.0	21.0	150	15000	yebcha	Yellow-breasted Chat	0.1696470764751284	3
+9	Spectrogram 1	1	256728.mp3.wav	3.0	6.0	150	15000	eutspa	Eurasian Tree Sparrow	0.3434631349204452	1
+10	Spectrogram 1	1	256728.mp3.wav	3.0	6.0	150	15000	weowar1	Western Olivaceous Warbler	0.2844153854742754	2
+11	Spectrogram 1	1	256728.mp3.wav	3.0	6.0	150	15000	gretit1	Great Tit	0.15940074184494524	3
+12	Spectrogram 1	1	256728.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.8116988877329854	1
+13	Spectrogram 1	1	256728.mp3.wav	6.0	9.0	150	15000	barwar1	Barred Warbler	0.5549609201913012	2
+14	Spectrogram 1	1	256728.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.14533739023152267	3
+15	Spectrogram 1	1	256728.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.7701820189533912	1
+16	Spectrogram 1	1	256728.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.2457176399615888	2
+17	Spectrogram 1	1	256728.mp3.wav	9.0	12.0	150	15000	barwar1	Barred Warbler	0.22715791461581716	3
+18	Spectrogram 1	1	256728.mp3.wav	0.0	3.0	150	15000	yebcha	Yellow-breasted Chat	0.983947595778952	1
+19	Spectrogram 1	1	256728.mp3.wav	0.0	3.0	150	15000	barwar1	Barred Warbler	0.1968711583520998	2

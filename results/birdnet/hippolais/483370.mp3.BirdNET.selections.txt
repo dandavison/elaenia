@@ -1,0 +1,42 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	483370.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9841262612800526	1
+2	Spectrogram 1	1	483370.mp3.wav	12.0	15.0	150	15000	sonthr1	Song Thrush	0.18880653516955972	2
+3	Spectrogram 1	1	483370.mp3.wav	12.0	15.0	150	15000	eurbla	Eurasian Blackbird	0.11211918247204032	3
+4	Spectrogram 1	1	483370.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9974535087142197	1
+5	Spectrogram 1	1	483370.mp3.wav	18.0	21.0	150	15000	grycat	Gray Catbird	0.6606376770731713	1
+6	Spectrogram 1	1	483370.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.6071837933981247	2
+7	Spectrogram 1	1	483370.mp3.wav	18.0	21.0	150	15000	blackc1	Eurasian Blackcap	0.351246635770277	3
+8	Spectrogram 1	1	483370.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9835212189616707	1
+9	Spectrogram 1	1	483370.mp3.wav	21.0	24.0	150	15000	eurbla	Eurasian Blackbird	0.116705542278239	2
+10	Spectrogram 1	1	483370.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9934174408803497	1
+11	Spectrogram 1	1	483370.mp3.wav	24.0	27.0	150	15000	grycat	Gray Catbird	0.1767398288345739	2
+12	Spectrogram 1	1	483370.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.999824938203131	1
+13	Spectrogram 1	1	483370.mp3.wav	3.0	6.0	150	15000	sedwar1	Sedge Warbler	0.9594832222294175	1
+14	Spectrogram 1	1	483370.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.31346524984610036	2
+15	Spectrogram 1	1	483370.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.20938907656964045	3
+16	Spectrogram 1	1	483370.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9997074347601367	1
+17	Spectrogram 1	1	483370.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9954596117408082	1
+18	Spectrogram 1	1	483370.mp3.wav	36.0	39.0	150	15000	comqua1	Common Quail	0.3838819548899553	1
+19	Spectrogram 1	1	483370.mp3.wav	36.0	39.0	150	15000	corbun1	Corn Bunting	0.21535816312150205	2
+20	Spectrogram 1	1	483370.mp3.wav	36.0	39.0	150	15000	barwar1	Barred Warbler	0.14022457936971455	3
+21	Spectrogram 1	1	483370.mp3.wav	39.0	42.0	150	15000	blhbun1	Black-headed Bunting	0.42041792115814863	1
+22	Spectrogram 1	1	483370.mp3.wav	39.0	42.0	150	15000	whinch1	Whinchat	0.19113388421477845	2
+23	Spectrogram 1	1	483370.mp3.wav	39.0	42.0	150	15000	comqua1	Common Quail	0.16828109921586806	3
+24	Spectrogram 1	1	483370.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.23628821194145785	1
+25	Spectrogram 1	1	483370.mp3.wav	42.0	45.0	150	15000	barwar1	Barred Warbler	0.1916001996394493	2
+26	Spectrogram 1	1	483370.mp3.wav	42.0	45.0	150	15000	grrwar1	Great Reed Warbler	0.17923542602410325	3
+27	Spectrogram 1	1	483370.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9993235934995309	1
+28	Spectrogram 1	1	483370.mp3.wav	48.0	51.0	150	15000	eurlin1	Eurasian Linnet	0.7224270200767695	1
+29	Spectrogram 1	1	483370.mp3.wav	48.0	51.0	150	15000	barwar1	Barred Warbler	0.19672570085426247	2
+30	Spectrogram 1	1	483370.mp3.wav	48.0	51.0	150	15000	skylar	Eurasian Skylark	0.18135302486600838	3
+31	Spectrogram 1	1	483370.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.9998481969810343	1
+32	Spectrogram 1	1	483370.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.7729235035982323	1
+33	Spectrogram 1	1	483370.mp3.wav	54.0	57.0	150	15000	comros	Common Rosefinch	0.3315802388466607	2
+34	Spectrogram 1	1	483370.mp3.wav	54.0	57.0	150	15000	weowar2	Western Orphean Warbler	0.1573404192245599	3
+35	Spectrogram 1	1	483370.mp3.wav	57.0	60.0	150	15000	ortbun1	Ortolan Bunting	0.12333854256249564	1
+36	Spectrogram 1	1	483370.mp3.wav	57.0	60.0	150	15000	eurlin1	Eurasian Linnet	0.10002647839756391	2
+37	Spectrogram 1	1	483370.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9983122416480205	1
+38	Spectrogram 1	1	483370.mp3.wav	6.0	9.0	150	15000	sonthr1	Song Thrush	0.28110419879020904	2
+39	Spectrogram 1	1	483370.mp3.wav	9.0	12.0	150	15000	rtsrob1	Rufous-tailed Scrub-Robin	0.2180657958917461	1
+40	Spectrogram 1	1	483370.mp3.wav	9.0	12.0	150	15000	sonthr1	Song Thrush	0.167201068457888	2
+41	Spectrogram 1	1	483370.mp3.wav	0.0	3.0	150	15000	eurlin1	Eurasian Linnet	0.12236855290978668	1

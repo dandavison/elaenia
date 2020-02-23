@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	164941.mp3.wav	12.0	15.0	150	15000	subwar1	Subalpine Warbler	0.53653486446037	1
+2	Spectrogram 1	1	164941.mp3.wav	12.0	15.0	150	15000	sarwar1	Sardinian Warbler	0.25881595495240983	2
+3	Spectrogram 1	1	164941.mp3.wav	12.0	15.0	150	15000	darwar1	Dartford Warbler	0.16308154898061192	3
+4	Spectrogram 1	1	164941.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9697066734858628	1
+5	Spectrogram 1	1	164941.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9980929512272251	1
+6	Spectrogram 1	1	164941.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9945521912933579	1
+7	Spectrogram 1	1	164941.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9991192075881917	1

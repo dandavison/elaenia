@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	78414.mp3.wav	12.0	15.0	150	15000	norcar	Northern Cardinal	0.3879459991623013	1
+2	Spectrogram 1	1	78414.mp3.wav	12.0	15.0	150	15000	comnig1	Common Nightingale	0.353212290346947	2
+3	Spectrogram 1	1	78414.mp3.wav	12.0	15.0	150	15000	pyrrhu	Pyrrhuloxia	0.2842842923148379	3
+4	Spectrogram 1	1	78414.mp3.wav	15.0	18.0	150	15000	wlwwar	Willow Warbler	0.8573231299443597	1
+5	Spectrogram 1	1	78414.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9987700022743239	1
+6	Spectrogram 1	1	78414.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.6904423265675432	1
+7	Spectrogram 1	1	78414.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.6197433474217585	2
+8	Spectrogram 1	1	78414.mp3.wav	21.0	24.0	150	15000	houwre	House Wren	0.19658335415034586	3
+9	Spectrogram 1	1	78414.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9996193108279168	1
+10	Spectrogram 1	1	78414.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9918216125300314	1
+11	Spectrogram 1	1	78414.mp3.wav	27.0	30.0	150	15000	blrwar1	Blyth's Reed Warbler	0.21634036378329352	2
+12	Spectrogram 1	1	78414.mp3.wav	27.0	30.0	150	15000	weowar1	Western Olivaceous Warbler	0.11212425813938456	3
+13	Spectrogram 1	1	78414.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9971789955254398	1
+14	Spectrogram 1	1	78414.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9974920857912954	1
+15	Spectrogram 1	1	78414.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.7436139637585076	1
+16	Spectrogram 1	1	78414.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.14579301446656062	2
+17	Spectrogram 1	1	78414.mp3.wav	6.0	9.0	150	15000	wlwwar	Willow Warbler	0.11789832364488413	3
+18	Spectrogram 1	1	78414.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9996979581568189	1
+19	Spectrogram 1	1	78414.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9982133817848571	1

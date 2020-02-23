@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	241933.mp3.wav	12.0	15.0	150	15000	botgra	Boat-tailed Grackle	0.16515750894011227	1
+2	Spectrogram 1	1	241933.mp3.wav	12.0	15.0	150	15000	rorpar	Rose-ringed Parakeet	0.12790607434317822	2
+3	Spectrogram 1	1	241933.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.873737816856906	1
+4	Spectrogram 1	1	241933.mp3.wav	3.0	6.0	150	15000	comcha	Common Chaffinch	0.4117594951540241	2
+5	Spectrogram 1	1	241933.mp3.wav	3.0	6.0	150	15000	sonthr1	Song Thrush	0.11503463508503621	3
+6	Spectrogram 1	1	241933.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9992522124392567	1
+7	Spectrogram 1	1	241933.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.999759989332238	1
+8	Spectrogram 1	1	241933.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9997732300442721	1

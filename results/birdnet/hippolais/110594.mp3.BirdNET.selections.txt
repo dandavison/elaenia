@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	110594.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.5268449332752885	1
+2	Spectrogram 1	1	110594.mp3.wav	12.0	15.0	150	15000	euroys1	Eurasian Oystercatcher	0.5133670003055775	2
+3	Spectrogram 1	1	110594.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.2239623335208691	3
+4	Spectrogram 1	1	110594.mp3.wav	15.0	18.0	150	15000	euroys1	Eurasian Oystercatcher	0.9986859287215835	1
+5	Spectrogram 1	1	110594.mp3.wav	18.0	21.0	150	15000	euroys1	Eurasian Oystercatcher	0.9914216674187835	1
+6	Spectrogram 1	1	110594.mp3.wav	3.0	6.0	150	15000	eurcur	Eurasian Curlew	0.8966965246228111	1
+7	Spectrogram 1	1	110594.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.7097647202132619	1
+8	Spectrogram 1	1	110594.mp3.wav	6.0	9.0	150	15000	sonthr1	Song Thrush	0.22421402854467873	2
+9	Spectrogram 1	1	110594.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.18729298357679228	3
+10	Spectrogram 1	1	110594.mp3.wav	9.0	12.0	150	15000	euroys1	Eurasian Oystercatcher	0.6858575868638913	1
+11	Spectrogram 1	1	110594.mp3.wav	9.0	12.0	150	15000	booeag1	Booted Eagle	0.3383457150312955	2
+12	Spectrogram 1	1	110594.mp3.wav	9.0	12.0	150	15000	wrenti	Wrentit	0.1359156430049465	3
+13	Spectrogram 1	1	110594.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9935684922191834	1
+14	Spectrogram 1	1	110594.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.14888615156309262	2

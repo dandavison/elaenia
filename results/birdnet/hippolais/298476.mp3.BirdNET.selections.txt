@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	298476.mp3.wav	12.0	15.0	150	15000	whbwoo1	White-backed Woodpecker	0.9283434203016316	1
+2	Spectrogram 1	1	298476.mp3.wav	12.0	15.0	150	15000	grswoo	Great Spotted Woodpecker	0.4292681602077884	2
+3	Spectrogram 1	1	298476.mp3.wav	12.0	15.0	150	15000	miswoo1	Middle Spotted Woodpecker	0.3583540098742458	3
+4	Spectrogram 1	1	298476.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9958640842504232	1
+5	Spectrogram 1	1	298476.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9000542347451878	1
+6	Spectrogram 1	1	298476.mp3.wav	21.0	24.0	150	15000	grswoo	Great Spotted Woodpecker	0.9723732124351371	1
+7	Spectrogram 1	1	298476.mp3.wav	21.0	24.0	150	15000	whbwoo1	White-backed Woodpecker	0.23447351785607476	2
+8	Spectrogram 1	1	298476.mp3.wav	21.0	24.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.18613547855365514	3
+9	Spectrogram 1	1	298476.mp3.wav	24.0	27.0	150	15000	grswoo	Great Spotted Woodpecker	0.9297356632222274	1
+10	Spectrogram 1	1	298476.mp3.wav	24.0	27.0	150	15000	miswoo1	Middle Spotted Woodpecker	0.2953782648327957	2
+11	Spectrogram 1	1	298476.mp3.wav	24.0	27.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.18971641204657888	3
+12	Spectrogram 1	1	298476.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.5092849049938101	1
+13	Spectrogram 1	1	298476.mp3.wav	27.0	30.0	150	15000	grswoo	Great Spotted Woodpecker	0.3153946894774861	2
+14	Spectrogram 1	1	298476.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9992624394809606	1
+15	Spectrogram 1	1	298476.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9994796575931134	1
+16	Spectrogram 1	1	298476.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.3675208365863243	1
+17	Spectrogram 1	1	298476.mp3.wav	33.0	36.0	150	15000	colfly1	Collared Flycatcher	0.312467068154374	2
+18	Spectrogram 1	1	298476.mp3.wav	33.0	36.0	150	15000	rebfly	Red-breasted Flycatcher	0.2636690793874851	3
+19	Spectrogram 1	1	298476.mp3.wav	36.0	39.0	150	15000	grswoo	Great Spotted Woodpecker	0.8175278477033051	1
+20	Spectrogram 1	1	298476.mp3.wav	36.0	39.0	150	15000	miswoo1	Middle Spotted Woodpecker	0.6008329106542508	2
+21	Spectrogram 1	1	298476.mp3.wav	36.0	39.0	150	15000	whbwoo1	White-backed Woodpecker	0.26245998663444287	3
+22	Spectrogram 1	1	298476.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9990635984599304	1
+23	Spectrogram 1	1	298476.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.969037732671946	1
+24	Spectrogram 1	1	298476.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9991253124055213	1

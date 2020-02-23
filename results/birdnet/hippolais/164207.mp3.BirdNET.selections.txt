@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	164207.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.7612317099928062	1
+2	Spectrogram 1	1	164207.mp3.wav	12.0	15.0	150	15000	krunut1	Krueper's Nuthatch	0.20487231486765853	2
+3	Spectrogram 1	1	164207.mp3.wav	12.0	15.0	150	15000	rebnut	Red-breasted Nuthatch	0.12155145332013333	3
+4	Spectrogram 1	1	164207.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9972235107445679	1
+5	Spectrogram 1	1	164207.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9983942859226193	1
+6	Spectrogram 1	1	164207.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.993783124882979	1
+7	Spectrogram 1	1	164207.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.12946277003622267	2
+8	Spectrogram 1	1	164207.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9786326488608966	1
+9	Spectrogram 1	1	164207.mp3.wav	24.0	27.0	150	15000	garwar1	Garden Warbler	0.23184381107727664	2
+10	Spectrogram 1	1	164207.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9581171850469236	1
+11	Spectrogram 1	1	164207.mp3.wav	27.0	30.0	150	15000	garwar1	Garden Warbler	0.1366120201566844	2
+12	Spectrogram 1	1	164207.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.8867986294069278	1
+13	Spectrogram 1	1	164207.mp3.wav	3.0	6.0	150	15000	subwar1	Subalpine Warbler	0.2894325162721079	2
+14	Spectrogram 1	1	164207.mp3.wav	3.0	6.0	150	15000	darwar1	Dartford Warbler	0.16750242391978412	3
+15	Spectrogram 1	1	164207.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9744836951672183	1
+16	Spectrogram 1	1	164207.mp3.wav	30.0	33.0	150	15000	garwar1	Garden Warbler	0.21118131778176882	2
+17	Spectrogram 1	1	164207.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.991479947694935	1
+18	Spectrogram 1	1	164207.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.21396165442518925	2
+19	Spectrogram 1	1	164207.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.10465718371675828	3
+20	Spectrogram 1	1	164207.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9964587011066426	1
+21	Spectrogram 1	1	164207.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.998256113442098	1

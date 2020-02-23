@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386143.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.8616393211742359	1
+2	Spectrogram 1	1	386143.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.5019195065133373	2
+3	Spectrogram 1	1	386143.mp3.wav	12.0	15.0	150	15000	afrwar1	African Reed Warbler	0.27145131869346184	3
+4	Spectrogram 1	1	386143.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9990138548359477	1
+5	Spectrogram 1	1	386143.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9987029832439962	1
+6	Spectrogram 1	1	386143.mp3.wav	3.0	6.0	150	15000	grswoo	Great Spotted Woodpecker	0.6099389413243514	1
+7	Spectrogram 1	1	386143.mp3.wav	3.0	6.0	150	15000	leswoo1	Lesser Spotted Woodpecker	0.28558256888507955	2
+8	Spectrogram 1	1	386143.mp3.wav	3.0	6.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.15604119054270357	3
+9	Spectrogram 1	1	386143.mp3.wav	6.0	9.0	150	15000	bulori	Bullock's Oriole	0.48153909250300625	1
+10	Spectrogram 1	1	386143.mp3.wav	6.0	9.0	150	15000	calthr	California Thrasher	0.34721868538595535	2
+11	Spectrogram 1	1	386143.mp3.wav	6.0	9.0	150	15000	syrwoo1	Syrian Woodpecker	0.3338603324698788	3
+12	Spectrogram 1	1	386143.mp3.wav	9.0	12.0	150	15000	marwar3	Marsh Warbler	0.6559309377716852	1
+13	Spectrogram 1	1	386143.mp3.wav	9.0	12.0	150	15000	afrwar1	African Reed Warbler	0.24609616107423943	2
+14	Spectrogram 1	1	386143.mp3.wav	9.0	12.0	150	15000	eurwar1	Eurasian Reed Warbler	0.20852569307695723	3
+15	Spectrogram 1	1	386143.mp3.wav	0.0	3.0	150	15000	marwar3	Marsh Warbler	0.8028570359384687	1
+16	Spectrogram 1	1	386143.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.5414583156825904	2
+17	Spectrogram 1	1	386143.mp3.wav	0.0	3.0	150	15000	afrwar1	African Reed Warbler	0.4769312778863204	3

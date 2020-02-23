@@ -1,0 +1,29 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	55010.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9982714113335108	1
+2	Spectrogram 1	1	55010.mp3.wav	15.0	18.0	150	15000	barwar1	Barred Warbler	0.4930645481647228	1
+3	Spectrogram 1	1	55010.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.3099618461859875	2
+4	Spectrogram 1	1	55010.mp3.wav	15.0	18.0	150	15000	grewhi1	Greater Whitethroat	0.25475216716587556	3
+5	Spectrogram 1	1	55010.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.8617934036716128	1
+6	Spectrogram 1	1	55010.mp3.wav	18.0	21.0	150	15000	garwar1	Garden Warbler	0.590244212473855	2
+7	Spectrogram 1	1	55010.mp3.wav	18.0	21.0	150	15000	grewhi1	Greater Whitethroat	0.11598622660134092	3
+8	Spectrogram 1	1	55010.mp3.wav	21.0	24.0	150	15000	boboli	Bobolink	0.49096168583142374	1
+9	Spectrogram 1	1	55010.mp3.wav	21.0	24.0	150	15000	barwar1	Barred Warbler	0.3951799962300917	2
+10	Spectrogram 1	1	55010.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9988538168334785	1
+11	Spectrogram 1	1	55010.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9655314999166419	1
+12	Spectrogram 1	1	55010.mp3.wav	27.0	30.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.23969834785304178	2
+13	Spectrogram 1	1	55010.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9978975689549886	1
+14	Spectrogram 1	1	55010.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9971953679191837	1
+15	Spectrogram 1	1	55010.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.9977762106681984	1
+16	Spectrogram 1	1	55010.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.9921498362262502	1
+17	Spectrogram 1	1	55010.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.971131760359087	1
+18	Spectrogram 1	1	55010.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.29681918955558795	2
+19	Spectrogram 1	1	55010.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.9979464172160452	1
+20	Spectrogram 1	1	55010.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.9948900740605594	1
+21	Spectrogram 1	1	55010.mp3.wav	48.0	51.0	150	15000	orcori	Orchard Oriole	0.7093899833327042	1
+22	Spectrogram 1	1	55010.mp3.wav	48.0	51.0	150	15000	foxspa	Fox Sparrow	0.5583032381301333	2
+23	Spectrogram 1	1	55010.mp3.wav	48.0	51.0	150	15000	barwar1	Barred Warbler	0.10299553466765575	3
+24	Spectrogram 1	1	55010.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9626914037834898	1
+25	Spectrogram 1	1	55010.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.4036132704754291	2
+26	Spectrogram 1	1	55010.mp3.wav	6.0	9.0	150	15000	barwar1	Barred Warbler	0.11347233845296376	3
+27	Spectrogram 1	1	55010.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9992397395024872	1
+28	Spectrogram 1	1	55010.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9956524072455327	1

@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	136232.mp3.wav	12.0	15.0	150	15000	combuz1	Common Buzzard	0.16096214944270515	1
+2	Spectrogram 1	1	136232.mp3.wav	12.0	15.0	150	15000	norgos	Northern Goshawk	0.15573017039126066	2
+3	Spectrogram 1	1	136232.mp3.wav	12.0	15.0	150	15000	mewgul	Mew Gull	0.12982294314702916	3
+4	Spectrogram 1	1	136232.mp3.wav	15.0	18.0	150	15000	osprey	Osprey	0.23283206222767983	1
+5	Spectrogram 1	1	136232.mp3.wav	15.0	18.0	150	15000	sonthr1	Song Thrush	0.2135808028662497	2
+6	Spectrogram 1	1	136232.mp3.wav	18.0	21.0	150	15000	amegfi	American Goldfinch	0.47834269774867816	1
+7	Spectrogram 1	1	136232.mp3.wav	18.0	21.0	150	15000	grtgra	Great-tailed Grackle	0.10249422846636974	2
+8	Spectrogram 1	1	136232.mp3.wav	21.0	24.0	150	15000	rebfly	Red-breasted Flycatcher	0.19246242701933958	1
+9	Spectrogram 1	1	136232.mp3.wav	21.0	24.0	150	15000	colfly1	Collared Flycatcher	0.16953285110055014	2
+10	Spectrogram 1	1	136232.mp3.wav	21.0	24.0	150	15000	woowar	Wood Warbler	0.13923574958272047	3
+11	Spectrogram 1	1	136232.mp3.wav	3.0	6.0	150	15000	sonthr1	Song Thrush	0.24581315320213953	1
+12	Spectrogram 1	1	136232.mp3.wav	3.0	6.0	150	15000	rinouz1	Ring Ouzel	0.19948924262618234	2
+13	Spectrogram 1	1	136232.mp3.wav	3.0	6.0	150	15000	osprey	Osprey	0.16343529091206144	3
+14	Spectrogram 1	1	136232.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.12410521876577456	1
+15	Spectrogram 1	1	136232.mp3.wav	6.0	9.0	150	15000	sonthr1	Song Thrush	0.11970162007871137	2
+16	Spectrogram 1	1	136232.mp3.wav	9.0	12.0	150	15000	rorpar	Rose-ringed Parakeet	0.25783542645592533	1
+17	Spectrogram 1	1	136232.mp3.wav	9.0	12.0	150	15000	cavswa	Cave Swallow	0.2020164339872646	2
+18	Spectrogram 1	1	136232.mp3.wav	9.0	12.0	150	15000	commyn	Common Myna	0.11745868719106521	3
+19	Spectrogram 1	1	136232.mp3.wav	0.0	3.0	150	15000	rorpar	Rose-ringed Parakeet	0.4063654954243704	1
+20	Spectrogram 1	1	136232.mp3.wav	0.0	3.0	150	15000	cavswa	Cave Swallow	0.2317751021118903	2
+21	Spectrogram 1	1	136232.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.220781200180755	3

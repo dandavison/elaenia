@@ -1,0 +1,42 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	178907.mp3.wav	12.0	15.0	150	15000	????	Human	0.10061691470929505	1
+2	Spectrogram 1	1	178907.mp3.wav	15.0	18.0	150	15000	whisto1	White Stork	0.13532088459726951	1
+3	Spectrogram 1	1	178907.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.36852822759223647	1
+4	Spectrogram 1	1	178907.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.872586999533609	1
+5	Spectrogram 1	1	178907.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.21745876560726307	2
+6	Spectrogram 1	1	178907.mp3.wav	21.0	24.0	150	15000	weowar1	Western Olivaceous Warbler	0.1258425456747189	3
+7	Spectrogram 1	1	178907.mp3.wav	24.0	27.0	150	15000	eurser1	European Serin	0.11880176658902464	1
+8	Spectrogram 1	1	178907.mp3.wav	27.0	30.0	150	15000	sposta1	Spotless Starling	0.34421680851096204	1
+9	Spectrogram 1	1	178907.mp3.wav	3.0	6.0	150	15000	bearee1	Bearded Reedling	0.119544336829933	1
+10	Spectrogram 1	1	178907.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.6584895191880086	1
+11	Spectrogram 1	1	178907.mp3.wav	30.0	33.0	150	15000	subwar1	Subalpine Warbler	0.5700750600386867	2
+12	Spectrogram 1	1	178907.mp3.wav	30.0	33.0	150	15000	garwar1	Garden Warbler	0.31233993452146536	3
+13	Spectrogram 1	1	178907.mp3.wav	36.0	39.0	150	15000	sposta1	Spotless Starling	0.16438586834772734	1
+14	Spectrogram 1	1	178907.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.9981884839908405	1
+15	Spectrogram 1	1	178907.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.8804837039196913	1
+16	Spectrogram 1	1	178907.mp3.wav	42.0	45.0	150	15000	subwar1	Subalpine Warbler	0.3065767507507272	2
+17	Spectrogram 1	1	178907.mp3.wav	42.0	45.0	150	15000	sarwar1	Sardinian Warbler	0.19972291632070116	3
+18	Spectrogram 1	1	178907.mp3.wav	45.0	48.0	150	15000	eurgol	European Goldfinch	0.10462992090251935	1
+19	Spectrogram 1	1	178907.mp3.wav	48.0	51.0	150	15000	eurgol	European Goldfinch	0.33160244449758425	1
+20	Spectrogram 1	1	178907.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.8759247601904488	1
+21	Spectrogram 1	1	178907.mp3.wav	51.0	54.0	150	15000	subwar1	Subalpine Warbler	0.16396652977260262	2
+22	Spectrogram 1	1	178907.mp3.wav	54.0	57.0	150	15000	darwar1	Dartford Warbler	0.6216437494161473	1
+23	Spectrogram 1	1	178907.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.5688073545763711	2
+24	Spectrogram 1	1	178907.mp3.wav	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.997657038268167	1
+25	Spectrogram 1	1	178907.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9945919511203754	1
+26	Spectrogram 1	1	178907.mp3.wav	9.0	12.0	150	15000	darwar1	Dartford Warbler	0.7865622368896653	1
+27	Spectrogram 1	1	178907.mp3.wav	9.0	12.0	150	15000	sarwar1	Sardinian Warbler	0.3739875320657937	2
+28	Spectrogram 1	1	178907.mp3.wav	9.0	12.0	150	15000	triwar1	Tristram's Warbler	0.2869172731083598	3
+29	Spectrogram 1	1	178907.mp3.wav	60.0	63.0	150	15000	melwar1	Melodious Warbler	0.47358344146809705	1
+30	Spectrogram 1	1	178907.mp3.wav	60.0	63.0	150	15000	marwar3	Marsh Warbler	0.36185377442446304	2
+31	Spectrogram 1	1	178907.mp3.wav	60.0	63.0	150	15000	eurwar1	Eurasian Reed Warbler	0.12942769477420107	3
+32	Spectrogram 1	1	178907.mp3.wav	78.0	81.0	150	15000	melwar1	Melodious Warbler	0.8437324158490891	1
+33	Spectrogram 1	1	178907.mp3.wav	78.0	81.0	150	15000	subwar1	Subalpine Warbler	0.38080747414026694	2
+34	Spectrogram 1	1	178907.mp3.wav	78.0	81.0	150	15000	sarwar1	Sardinian Warbler	0.16331786691100975	3
+35	Spectrogram 1	1	178907.mp3.wav	81.0	84.0	150	15000	itaspa1	Italian Sparrow	0.1914121712665915	1
+36	Spectrogram 1	1	178907.mp3.wav	81.0	84.0	150	15000	sposta1	Spotless Starling	0.15395260063534802	2
+37	Spectrogram 1	1	178907.mp3.wav	81.0	84.0	150	15000	houspa	House Sparrow	0.1038268182487802	3
+38	Spectrogram 1	1	178907.mp3.wav	63.0	66.0	150	15000	lottit1	Long-tailed Tit	0.34516670225380036	1
+39	Spectrogram 1	1	178907.mp3.wav	66.0	69.0	150	15000	melwar1	Melodious Warbler	0.9990715463330891	1
+40	Spectrogram 1	1	178907.mp3.wav	69.0	72.0	150	15000	melwar1	Melodious Warbler	0.8867034446574678	1
+41	Spectrogram 1	1	178907.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9949866888572009	1

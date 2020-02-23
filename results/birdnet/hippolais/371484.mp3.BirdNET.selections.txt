@@ -1,0 +1,57 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	371484.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9862073283217857	1
+2	Spectrogram 1	1	371484.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.11129404274286699	2
+3	Spectrogram 1	1	371484.mp3.wav	15.0	18.0	150	15000	eurser1	European Serin	0.4816916916371182	1
+4	Spectrogram 1	1	371484.mp3.wav	15.0	18.0	150	15000	eurgol	European Goldfinch	0.1614160443087426	2
+5	Spectrogram 1	1	371484.mp3.wav	18.0	21.0	150	15000	eurser1	European Serin	0.45404276644643643	1
+6	Spectrogram 1	1	371484.mp3.wav	21.0	24.0	150	15000	weowar1	Western Olivaceous Warbler	0.48040072826995006	1
+7	Spectrogram 1	1	371484.mp3.wav	21.0	24.0	150	15000	euptit1	Eurasian Penduline-Tit	0.1791068285992002	2
+8	Spectrogram 1	1	371484.mp3.wav	21.0	24.0	150	15000	afrwar1	African Reed Warbler	0.12994182549910555	3
+9	Spectrogram 1	1	371484.mp3.wav	24.0	27.0	150	15000	eurser1	European Serin	0.2419969415982419	1
+10	Spectrogram 1	1	371484.mp3.wav	24.0	27.0	150	15000	wlwwar	Willow Warbler	0.1302281511227093	2
+11	Spectrogram 1	1	371484.mp3.wav	27.0	30.0	150	15000	eurser1	European Serin	0.6864184570050915	1
+12	Spectrogram 1	1	371484.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9995757656036827	1
+13	Spectrogram 1	1	371484.mp3.wav	30.0	33.0	150	15000	eurser1	European Serin	0.16746019183787667	1
+14	Spectrogram 1	1	371484.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9069121227429869	1
+15	Spectrogram 1	1	371484.mp3.wav	36.0	39.0	150	15000	weowar1	Western Olivaceous Warbler	0.11827533577875667	2
+16	Spectrogram 1	1	371484.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9114741466976473	1
+17	Spectrogram 1	1	371484.mp3.wav	39.0	42.0	150	15000	weowar1	Western Olivaceous Warbler	0.9090050377274366	2
+18	Spectrogram 1	1	371484.mp3.wav	42.0	45.0	150	15000	weowar1	Western Olivaceous Warbler	0.8248902161384146	1
+19	Spectrogram 1	1	371484.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.6107227508244156	2
+20	Spectrogram 1	1	371484.mp3.wav	42.0	45.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.4307112952615592	3
+21	Spectrogram 1	1	371484.mp3.wav	45.0	48.0	150	15000	lesgol	Lesser Goldfinch	0.36416101198968587	1
+22	Spectrogram 1	1	371484.mp3.wav	45.0	48.0	150	15000	grycat	Gray Catbird	0.14267888668577902	2
+23	Spectrogram 1	1	371484.mp3.wav	45.0	48.0	150	15000	sposta1	Spotless Starling	0.12341503817220716	3
+24	Spectrogram 1	1	371484.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.731437955009158	1
+25	Spectrogram 1	1	371484.mp3.wav	48.0	51.0	150	15000	blkter	Black Tern	0.698122521771498	2
+26	Spectrogram 1	1	371484.mp3.wav	48.0	51.0	150	15000	grycat	Gray Catbird	0.10610715433750541	3
+27	Spectrogram 1	1	371484.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.9432433991400888	1
+28	Spectrogram 1	1	371484.mp3.wav	54.0	57.0	150	15000	weowar1	Western Olivaceous Warbler	0.8140547042392978	1
+29	Spectrogram 1	1	371484.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.4755079196028078	2
+30	Spectrogram 1	1	371484.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.193963821225954	3
+31	Spectrogram 1	1	371484.mp3.wav	57.0	60.0	150	15000	burthr	Blue Rock-Thrush	0.13348743117057235	1
+32	Spectrogram 1	1	371484.mp3.wav	57.0	60.0	150	15000	redwin	Redwing	0.11695499000788012	2
+33	Spectrogram 1	1	371484.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.5334922804035548	1
+34	Spectrogram 1	1	371484.mp3.wav	6.0	9.0	150	15000	weowar1	Western Olivaceous Warbler	0.4591404936735982	2
+35	Spectrogram 1	1	371484.mp3.wav	9.0	12.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.7252568276073263	1
+36	Spectrogram 1	1	371484.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.1326268775377225	2
+37	Spectrogram 1	1	371484.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.13136011807631792	3
+38	Spectrogram 1	1	371484.mp3.wav	60.0	63.0	150	15000	ictwar1	Icterine Warbler	0.755277527996565	1
+39	Spectrogram 1	1	371484.mp3.wav	60.0	63.0	150	15000	garwar1	Garden Warbler	0.6657067935663392	2
+40	Spectrogram 1	1	371484.mp3.wav	60.0	63.0	150	15000	blackc1	Eurasian Blackcap	0.14415137919093807	3
+41	Spectrogram 1	1	371484.mp3.wav	72.0	75.0	150	15000	eurgol	European Goldfinch	0.81276626283025	1
+42	Spectrogram 1	1	371484.mp3.wav	75.0	78.0	150	15000	ictwar1	Icterine Warbler	0.7825812085717193	1
+43	Spectrogram 1	1	371484.mp3.wav	78.0	81.0	150	15000	ictwar1	Icterine Warbler	0.994364720614574	1
+44	Spectrogram 1	1	371484.mp3.wav	81.0	84.0	150	15000	ictwar1	Icterine Warbler	0.9746547741266546	1
+45	Spectrogram 1	1	371484.mp3.wav	84.0	87.0	150	15000	eurser1	European Serin	0.6325769140288012	1
+46	Spectrogram 1	1	371484.mp3.wav	84.0	87.0	150	15000	eurgol	European Goldfinch	0.21627140663302577	2
+47	Spectrogram 1	1	371484.mp3.wav	87.0	90.0	150	15000	ictwar1	Icterine Warbler	0.9604821909711809	1
+48	Spectrogram 1	1	371484.mp3.wav	87.0	90.0	150	15000	amegfi	American Goldfinch	0.1096183905358676	2
+49	Spectrogram 1	1	371484.mp3.wav	63.0	66.0	150	15000	ictwar1	Icterine Warbler	0.9961177608494782	1
+50	Spectrogram 1	1	371484.mp3.wav	90.0	93.0	150	15000	eurgol	European Goldfinch	0.8833036461361086	1
+51	Spectrogram 1	1	371484.mp3.wav	66.0	69.0	150	15000	ictwar1	Icterine Warbler	0.8259968899568676	1
+52	Spectrogram 1	1	371484.mp3.wav	66.0	69.0	150	15000	weowar1	Western Olivaceous Warbler	0.5784497250334295	2
+53	Spectrogram 1	1	371484.mp3.wav	66.0	69.0	150	15000	melwar1	Melodious Warbler	0.23131646972495673	3
+54	Spectrogram 1	1	371484.mp3.wav	69.0	72.0	150	15000	eurgol	European Goldfinch	0.6105540465974798	1
+55	Spectrogram 1	1	371484.mp3.wav	69.0	72.0	150	15000	eurser1	European Serin	0.11596957326246307	2
+56	Spectrogram 1	1	371484.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9992012179944735	1

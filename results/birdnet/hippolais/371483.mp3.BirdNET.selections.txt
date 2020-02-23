@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	371483.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.973857681244165	1
+2	Spectrogram 1	1	371483.mp3.wav	12.0	15.0	150	15000	eurser1	European Serin	0.18554776023171382	2
+3	Spectrogram 1	1	371483.mp3.wav	15.0	18.0	150	15000	weowar1	Western Olivaceous Warbler	0.48373737786400073	1
+4	Spectrogram 1	1	371483.mp3.wav	15.0	18.0	150	15000	eurser1	European Serin	0.41092357519732936	2
+5	Spectrogram 1	1	371483.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.30908791426537136	3
+6	Spectrogram 1	1	371483.mp3.wav	18.0	21.0	150	15000	weowar1	Western Olivaceous Warbler	0.9979827426324633	1
+7	Spectrogram 1	1	371483.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9530131708624702	1
+8	Spectrogram 1	1	371483.mp3.wav	21.0	24.0	150	15000	weowar1	Western Olivaceous Warbler	0.2889332281222584	2
+9	Spectrogram 1	1	371483.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.13164790644930513	3
+10	Spectrogram 1	1	371483.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9069956331008941	1
+11	Spectrogram 1	1	371483.mp3.wav	24.0	27.0	150	15000	weowar1	Western Olivaceous Warbler	0.5284055632658682	2
+12	Spectrogram 1	1	371483.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.8041404707527181	1
+13	Spectrogram 1	1	371483.mp3.wav	27.0	30.0	150	15000	blackc1	Eurasian Blackcap	0.13576559274290534	2
+14	Spectrogram 1	1	371483.mp3.wav	27.0	30.0	150	15000	garwar1	Garden Warbler	0.10666347524227328	3
+15	Spectrogram 1	1	371483.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9936589659930691	1
+16	Spectrogram 1	1	371483.mp3.wav	30.0	33.0	150	15000	eurser1	European Serin	0.7147226925076753	1
+17	Spectrogram 1	1	371483.mp3.wav	6.0	9.0	150	15000	eurser1	European Serin	0.5800653963279339	1
+18	Spectrogram 1	1	371483.mp3.wav	6.0	9.0	150	15000	sposta1	Spotless Starling	0.10266151084379135	2
+19	Spectrogram 1	1	371483.mp3.wav	9.0	12.0	150	15000	eurser1	European Serin	0.7463270409540013	1
+20	Spectrogram 1	1	371483.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9995170549301253	1

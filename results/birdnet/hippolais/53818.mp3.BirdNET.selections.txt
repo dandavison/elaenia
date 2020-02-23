@@ -1,0 +1,41 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	53818.mp3.wav	12.0	15.0	150	15000	sonthr1	Song Thrush	0.7290566651382083	1
+2	Spectrogram 1	1	53818.mp3.wav	12.0	15.0	150	15000	euroys1	Eurasian Oystercatcher	0.5545784849902671	2
+3	Spectrogram 1	1	53818.mp3.wav	12.0	15.0	150	15000	wrenti	Wrentit	0.30619684435519035	3
+4	Spectrogram 1	1	53818.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.4250278290275238	1
+5	Spectrogram 1	1	53818.mp3.wav	15.0	18.0	150	15000	miswoo1	Middle Spotted Woodpecker	0.12520317182866755	2
+6	Spectrogram 1	1	53818.mp3.wav	15.0	18.0	150	15000	fieldf	Fieldfare	0.12060201373101591	3
+7	Spectrogram 1	1	53818.mp3.wav	18.0	21.0	150	15000	eurbla	Eurasian Blackbird	0.22530492637670108	1
+8	Spectrogram 1	1	53818.mp3.wav	18.0	21.0	150	15000	rinouz1	Ring Ouzel	0.1333492416562356	2
+9	Spectrogram 1	1	53818.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.8867610281661956	1
+10	Spectrogram 1	1	53818.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.13475816405681715	2
+11	Spectrogram 1	1	53818.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9636259561468161	1
+12	Spectrogram 1	1	53818.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.25818640004752336	2
+13	Spectrogram 1	1	53818.mp3.wav	24.0	27.0	150	15000	afrwar1	African Reed Warbler	0.24803618971386962	3
+14	Spectrogram 1	1	53818.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.978377337810086	1
+15	Spectrogram 1	1	53818.mp3.wav	27.0	30.0	150	15000	blrwar1	Blyth's Reed Warbler	0.27846540912819623	2
+16	Spectrogram 1	1	53818.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9997895912774681	1
+17	Spectrogram 1	1	53818.mp3.wav	30.0	33.0	150	15000	eurbla	Eurasian Blackbird	0.7777781468718473	1
+18	Spectrogram 1	1	53818.mp3.wav	33.0	36.0	150	15000	eurbla	Eurasian Blackbird	0.7059389006843853	1
+19	Spectrogram 1	1	53818.mp3.wav	36.0	39.0	150	15000	norgos	Northern Goshawk	0.4932737138183163	1
+20	Spectrogram 1	1	53818.mp3.wav	36.0	39.0	150	15000	grnwoo1	Eurasian Green Woodpecker	0.18066228430053377	2
+21	Spectrogram 1	1	53818.mp3.wav	36.0	39.0	150	15000	commoo3	Eurasian Moorhen	0.11141203206425972	3
+22	Spectrogram 1	1	53818.mp3.wav	39.0	42.0	150	15000	bulori	Bullock's Oriole	0.399030604741734	1
+23	Spectrogram 1	1	53818.mp3.wav	39.0	42.0	150	15000	cantow	Canyon Towhee	0.19424830403840326	2
+24	Spectrogram 1	1	53818.mp3.wav	39.0	42.0	150	15000	redwin	Redwing	0.13503938022910628	3
+25	Spectrogram 1	1	53818.mp3.wav	42.0	45.0	150	15000	norgos	Northern Goshawk	0.9126101458518975	1
+26	Spectrogram 1	1	53818.mp3.wav	42.0	45.0	150	15000	eurspa1	Eurasian Sparrowhawk	0.1201860304337407	2
+27	Spectrogram 1	1	53818.mp3.wav	42.0	45.0	150	15000	mewgul	Mew Gull	0.10111651511728373	3
+28	Spectrogram 1	1	53818.mp3.wav	45.0	48.0	150	15000	eupfly1	European Pied Flycatcher	0.8494891836032609	1
+29	Spectrogram 1	1	53818.mp3.wav	45.0	48.0	150	15000	varbun	Varied Bunting	0.6051696363540192	2
+30	Spectrogram 1	1	53818.mp3.wav	45.0	48.0	150	15000	paibun	Painted Bunting	0.12433993865195203	3
+31	Spectrogram 1	1	53818.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.4182585409076754	1
+32	Spectrogram 1	1	53818.mp3.wav	48.0	51.0	150	15000	grnwoo1	Eurasian Green Woodpecker	0.24978559192544034	2
+33	Spectrogram 1	1	53818.mp3.wav	51.0	54.0	150	15000	eupfly1	European Pied Flycatcher	0.9796356156949482	1
+34	Spectrogram 1	1	53818.mp3.wav	51.0	54.0	150	15000	varbun	Varied Bunting	0.1936336462195865	2
+35	Spectrogram 1	1	53818.mp3.wav	51.0	54.0	150	15000	paibun	Painted Bunting	0.11812515069804583	3
+36	Spectrogram 1	1	53818.mp3.wav	6.0	9.0	150	15000	sonthr1	Song Thrush	0.966531592611474	1
+37	Spectrogram 1	1	53818.mp3.wav	9.0	12.0	150	15000	sonthr1	Song Thrush	0.7771133944627451	1
+38	Spectrogram 1	1	53818.mp3.wav	9.0	12.0	150	15000	euroys1	Eurasian Oystercatcher	0.559535931947161	2
+39	Spectrogram 1	1	53818.mp3.wav	9.0	12.0	150	15000	wrenti	Wrentit	0.10322535351308283	3
+40	Spectrogram 1	1	53818.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9997593181371472	1

@@ -1,0 +1,29 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	448261.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9624705825009107	1
+2	Spectrogram 1	1	448261.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.5322809294535165	2
+3	Spectrogram 1	1	448261.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9492572479290733	1
+4	Spectrogram 1	1	448261.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.6490401370460154	2
+5	Spectrogram 1	1	448261.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9992369296932541	1
+6	Spectrogram 1	1	448261.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.12342167157880676	2
+7	Spectrogram 1	1	448261.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.4276790593031321	1
+8	Spectrogram 1	1	448261.mp3.wav	21.0	24.0	150	15000	barwar1	Barred Warbler	0.4092296910907017	2
+9	Spectrogram 1	1	448261.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.21494385058195262	3
+10	Spectrogram 1	1	448261.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9537164901246422	1
+11	Spectrogram 1	1	448261.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.700137689878686	2
+12	Spectrogram 1	1	448261.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.2875763818173366	3
+13	Spectrogram 1	1	448261.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9993250468719586	1
+14	Spectrogram 1	1	448261.mp3.wav	27.0	30.0	150	15000	blrwar1	Blyth's Reed Warbler	0.11699487404665326	2
+15	Spectrogram 1	1	448261.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.973109991954898	1
+16	Spectrogram 1	1	448261.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.29962934104491734	2
+17	Spectrogram 1	1	448261.mp3.wav	3.0	6.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1249125666636702	3
+18	Spectrogram 1	1	448261.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9258966935037649	1
+19	Spectrogram 1	1	448261.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.33554749447966475	2
+20	Spectrogram 1	1	448261.mp3.wav	33.0	36.0	150	15000	bkbwoo	Black-backed Woodpecker	0.16673770204183036	1
+21	Spectrogram 1	1	448261.mp3.wav	33.0	36.0	150	15000	whbwoo1	White-backed Woodpecker	0.1385047027477344	2
+22	Spectrogram 1	1	448261.mp3.wav	33.0	36.0	150	15000	leswoo1	Lesser Spotted Woodpecker	0.1229805881783728	3
+23	Spectrogram 1	1	448261.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.8848220123046356	1
+24	Spectrogram 1	1	448261.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.3625872936653115	2
+25	Spectrogram 1	1	448261.mp3.wav	6.0	9.0	150	15000	barwar1	Barred Warbler	0.3179638233543154	3
+26	Spectrogram 1	1	448261.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.6646511837012616	1
+27	Spectrogram 1	1	448261.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.6559275850167517	2
+28	Spectrogram 1	1	448261.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.6411467697429439	3

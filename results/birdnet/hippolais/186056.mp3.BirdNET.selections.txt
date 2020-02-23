@@ -1,0 +1,25 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	186056.mp3.wav	12.0	15.0	150	15000	leafly	Least Flycatcher	0.16350057516503208	1
+2	Spectrogram 1	1	186056.mp3.wav	12.0	15.0	150	15000	norwat	Northern Waterthrush	0.1282593366736933	2
+3	Spectrogram 1	1	186056.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9996491294122781	1
+4	Spectrogram 1	1	186056.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9934929941568994	1
+5	Spectrogram 1	1	186056.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9996233969766	1
+6	Spectrogram 1	1	186056.mp3.wav	24.0	27.0	150	15000	garwar1	Garden Warbler	0.39520988720973943	1
+7	Spectrogram 1	1	186056.mp3.wav	24.0	27.0	150	15000	blackc1	Eurasian Blackcap	0.3198683337253971	2
+8	Spectrogram 1	1	186056.mp3.wav	24.0	27.0	150	15000	grewhi1	Greater Whitethroat	0.3163368292271039	3
+9	Spectrogram 1	1	186056.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9995525404195456	1
+10	Spectrogram 1	1	186056.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9982554796819886	1
+11	Spectrogram 1	1	186056.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9876918068452155	1
+12	Spectrogram 1	1	186056.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.7089464665525949	1
+13	Spectrogram 1	1	186056.mp3.wav	33.0	36.0	150	15000	garwar1	Garden Warbler	0.5388378863369191	2
+14	Spectrogram 1	1	186056.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.4891020828313978	3
+15	Spectrogram 1	1	186056.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.8648175687528025	1
+16	Spectrogram 1	1	186056.mp3.wav	36.0	39.0	150	15000	weowar1	Western Olivaceous Warbler	0.5336498471551162	2
+17	Spectrogram 1	1	186056.mp3.wav	36.0	39.0	150	15000	blackc1	Eurasian Blackcap	0.15216027418192932	3
+18	Spectrogram 1	1	186056.mp3.wav	39.0	42.0	150	15000	grewhi1	Greater Whitethroat	0.8106977191962977	1
+19	Spectrogram 1	1	186056.mp3.wav	39.0	42.0	150	15000	garwar1	Garden Warbler	0.47688645081438713	2
+20	Spectrogram 1	1	186056.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.27113880435323434	3
+21	Spectrogram 1	1	186056.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9999121910259549	1
+22	Spectrogram 1	1	186056.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.9998139975111897	1
+23	Spectrogram 1	1	186056.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9996842988141019	1
+24	Spectrogram 1	1	186056.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9892668947209042	1

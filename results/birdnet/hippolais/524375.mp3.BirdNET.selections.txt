@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	524375.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9732911229605338	1
+2	Spectrogram 1	1	524375.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.22225775013365592	2
+3	Spectrogram 1	1	524375.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.2166140383034233	3
+4	Spectrogram 1	1	524375.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9964683298274272	1
+5	Spectrogram 1	1	524375.mp3.wav	21.0	24.0	150	15000	comred2	Common Redstart	0.8129379193055317	1
+6	Spectrogram 1	1	524375.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.32822031534867296	2
+7	Spectrogram 1	1	524375.mp3.wav	24.0	27.0	150	15000	eutdov	European Turtle-Dove	0.16793554338509908	1
+8	Spectrogram 1	1	524375.mp3.wav	24.0	27.0	150	15000	whtdov	White-tipped Dove	0.159364963730755	2
+9	Spectrogram 1	1	524375.mp3.wav	24.0	27.0	150	15000	cowpig1	Common Wood-Pigeon	0.11624750588029967	3
+10	Spectrogram 1	1	524375.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.5738605105015196	1
+11	Spectrogram 1	1	524375.mp3.wav	27.0	30.0	150	15000	sedwar1	Sedge Warbler	0.2795390217829265	2
+12	Spectrogram 1	1	524375.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.16383787038183095	3
+13	Spectrogram 1	1	524375.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.8199048248159276	1
+14	Spectrogram 1	1	524375.mp3.wav	3.0	6.0	150	15000	darwar1	Dartford Warbler	0.42704596395402583	2
+15	Spectrogram 1	1	524375.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.996426410770595	1
+16	Spectrogram 1	1	524375.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9711130978736989	1
+17	Spectrogram 1	1	524375.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.6034062272340391	2
+18	Spectrogram 1	1	524375.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9993933786967731	1

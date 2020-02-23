@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	136224.mp3.wav	3.0	6.0	150	15000	truswa	Trumpeter Swan	0.29491828396481784	1
+2	Spectrogram 1	1	136224.mp3.wav	3.0	6.0	150	15000	rudshe	Ruddy Shelduck	0.1838971249375241	2
+3	Spectrogram 1	1	136224.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.3463634876838409	1
+4	Spectrogram 1	1	136224.mp3.wav	0.0	3.0	150	15000	sonthr1	Song Thrush	0.32451389076280734	2
+5	Spectrogram 1	1	136224.mp3.wav	0.0	3.0	150	15000	rorpar	Rose-ringed Parakeet	0.12961188668861903	3

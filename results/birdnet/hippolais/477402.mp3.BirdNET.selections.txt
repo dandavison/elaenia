@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	477402.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.4437679614909769	1
+2	Spectrogram 1	1	477402.mp3.wav	15.0	18.0	150	15000	afbtit2	African Blue Tit	0.34604208290497984	2
+3	Spectrogram 1	1	477402.mp3.wav	15.0	18.0	150	15000	gretit1	Great Tit	0.26202299306019894	3
+4	Spectrogram 1	1	477402.mp3.wav	18.0	21.0	150	15000	britit	Bridled Titmouse	0.7531754393841925	1
+5	Spectrogram 1	1	477402.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.14670488935602122	2
+6	Spectrogram 1	1	477402.mp3.wav	18.0	21.0	150	15000	sarwar1	Sardinian Warbler	0.11717148918001691	3
+7	Spectrogram 1	1	477402.mp3.wav	21.0	24.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.1673435716848864	1
+8	Spectrogram 1	1	477402.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.15635606686066744	2
+9	Spectrogram 1	1	477402.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.776476695031084	1
+10	Spectrogram 1	1	477402.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.15176058422702576	2
+11	Spectrogram 1	1	477402.mp3.wav	24.0	27.0	150	15000	wooshr1	Woodchat Shrike	0.10769975494088688	3
+12	Spectrogram 1	1	477402.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.8093080517222684	1
+13	Spectrogram 1	1	477402.mp3.wav	27.0	30.0	150	15000	krunut1	Krueper's Nuthatch	0.2654186412039716	2
+14	Spectrogram 1	1	477402.mp3.wav	3.0	6.0	150	15000	sarwar1	Sardinian Warbler	0.4684717264374674	1
+15	Spectrogram 1	1	477402.mp3.wav	3.0	6.0	150	15000	subwar8	Moltoni's Warbler	0.2992842964540363	2
+16	Spectrogram 1	1	477402.mp3.wav	3.0	6.0	150	15000	subwar1	Subalpine Warbler	0.16197274193515832	3
+17	Spectrogram 1	1	477402.mp3.wav	30.0	33.0	150	15000	ruckin	Ruby-crowned Kinglet	0.5893930638148918	1
+18	Spectrogram 1	1	477402.mp3.wav	30.0	33.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.1657246892729673	2
+19	Spectrogram 1	1	477402.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.13388046312763172	3
+20	Spectrogram 1	1	477402.mp3.wav	6.0	9.0	150	15000	britit	Bridled Titmouse	0.6522438142038564	1
+21	Spectrogram 1	1	477402.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.2852665837353661	2
+22	Spectrogram 1	1	477402.mp3.wav	6.0	9.0	150	15000	sarwar1	Sardinian Warbler	0.19814685247277464	3
+23	Spectrogram 1	1	477402.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.4787289759520269	1
+24	Spectrogram 1	1	477402.mp3.wav	9.0	12.0	150	15000	britit	Bridled Titmouse	0.1867548632765889	2
+25	Spectrogram 1	1	477402.mp3.wav	9.0	12.0	150	15000	leswhi1	Lesser Whitethroat	0.13793105070783812	3
+26	Spectrogram 1	1	477402.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9233087609106257	1

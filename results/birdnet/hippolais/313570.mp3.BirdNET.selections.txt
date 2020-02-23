@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	313570.mp3.wav	12.0	15.0	150	15000	comqua1	Common Quail	0.9723908622663433	1
+2	Spectrogram 1	1	313570.mp3.wav	12.0	15.0	150	15000	corbun1	Corn Bunting	0.3170004155775256	2
+3	Spectrogram 1	1	313570.mp3.wav	12.0	15.0	150	15000	litbus1	Little Bustard	0.20893172308704197	3
+4	Spectrogram 1	1	313570.mp3.wav	15.0	18.0	150	15000	blueth	Bluethroat	0.5670202472419038	1
+5	Spectrogram 1	1	313570.mp3.wav	15.0	18.0	150	15000	stonec4	European Stonechat	0.19904562843320997	2
+6	Spectrogram 1	1	313570.mp3.wav	15.0	18.0	150	15000	reebun	Reed Bunting	0.19763676299938454	3
+7	Spectrogram 1	1	313570.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9992976114058675	1
+8	Spectrogram 1	1	313570.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9949038365727415	1
+9	Spectrogram 1	1	313570.mp3.wav	24.0	27.0	150	15000	zitcis1	Zitting Cisticola	0.2783357612477719	1
+10	Spectrogram 1	1	313570.mp3.wav	24.0	27.0	150	15000	sedwre	Sedge Wren	0.15796282293807606	2
+11	Spectrogram 1	1	313570.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.998756529031795	1
+12	Spectrogram 1	1	313570.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9616499244957732	1
+13	Spectrogram 1	1	313570.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.20640681279566434	2
+14	Spectrogram 1	1	313570.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.40076905421916686	1
+15	Spectrogram 1	1	313570.mp3.wav	30.0	33.0	150	15000	grewhi1	Greater Whitethroat	0.14720392446786543	2
+16	Spectrogram 1	1	313570.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9983454562931006	1
+17	Spectrogram 1	1	313570.mp3.wav	9.0	12.0	150	15000	corbun1	Corn Bunting	0.4643584215383585	1
+18	Spectrogram 1	1	313570.mp3.wav	9.0	12.0	150	15000	horlar	Horned Lark	0.15561208851320385	2
+19	Spectrogram 1	1	313570.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9978818737041351	1

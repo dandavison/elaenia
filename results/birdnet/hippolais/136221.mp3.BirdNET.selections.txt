@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	136221.mp3.wav	3.0	6.0	150	15000	colfly1	Collared Flycatcher	0.15608553430596808	1
+2	Spectrogram 1	1	136221.mp3.wav	3.0	6.0	150	15000	rebfly	Red-breasted Flycatcher	0.14342595004478179	2
+3	Spectrogram 1	1	136221.mp3.wav	3.0	6.0	150	15000	eurtre1	Eurasian Treecreeper	0.1390310322469357	3
+4	Spectrogram 1	1	136221.mp3.wav	6.0	9.0	150	15000	rebfly	Red-breasted Flycatcher	0.11432070887349038	1
+5	Spectrogram 1	1	136221.mp3.wav	6.0	9.0	150	15000	woowar	Wood Warbler	0.10816999014825164	2
+6	Spectrogram 1	1	136221.mp3.wav	0.0	3.0	150	15000	sonthr1	Song Thrush	0.5830461912558498	1
+7	Spectrogram 1	1	136221.mp3.wav	0.0	3.0	150	15000	blackc1	Eurasian Blackcap	0.28849358896575855	2
+8	Spectrogram 1	1	136221.mp3.wav	0.0	3.0	150	15000	eurrob1	European Robin	0.12147290142603318	3

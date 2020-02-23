@@ -1,0 +1,44 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	520411.mp3.wav	12.0	15.0	150	15000	eurbul	Eurasian Bullfinch	0.340874941830748	1
+2	Spectrogram 1	1	520411.mp3.wav	12.0	15.0	150	15000	rtrthr1	Rufous-tailed Rock-Thrush	0.1471311286102834	2
+3	Spectrogram 1	1	520411.mp3.wav	12.0	15.0	150	15000	gnwtea	Green-winged Teal	0.14567157274243556	3
+4	Spectrogram 1	1	520411.mp3.wav	15.0	18.0	150	15000	whtpta1	White-tailed Ptarmigan	0.13926132509804182	1
+5	Spectrogram 1	1	520411.mp3.wav	18.0	21.0	150	15000	lirplo	Little Ringed Plover	0.7161632246263897	1
+6	Spectrogram 1	1	520411.mp3.wav	21.0	24.0	150	15000	wooduc	Wood Duck	0.4021888134204671	1
+7	Spectrogram 1	1	520411.mp3.wav	21.0	24.0	150	15000	eurcoo	Eurasian Coot	0.32328643952693475	2
+8	Spectrogram 1	1	520411.mp3.wav	21.0	24.0	150	15000	mewgul	Mew Gull	0.103656652757992	3
+9	Spectrogram 1	1	520411.mp3.wav	24.0	27.0	150	15000	lirplo	Little Ringed Plover	0.40891320240365436	1
+10	Spectrogram 1	1	520411.mp3.wav	3.0	6.0	150	15000	bulori	Bullock's Oriole	0.599901423812054	1
+11	Spectrogram 1	1	520411.mp3.wav	3.0	6.0	150	15000	wooshr1	Woodchat Shrike	0.4710437704911878	2
+12	Spectrogram 1	1	520411.mp3.wav	3.0	6.0	150	15000	gryjay	Canada Jay	0.12233003284615308	3
+13	Spectrogram 1	1	520411.mp3.wav	33.0	36.0	150	15000	rinouz1	Ring Ouzel	0.21471468877052566	1
+14	Spectrogram 1	1	520411.mp3.wav	33.0	36.0	150	15000	crithr	Crissal Thrasher	0.17691780560407866	2
+15	Spectrogram 1	1	520411.mp3.wav	33.0	36.0	150	15000	sibjay1	Siberian Jay	0.16733166510391512	3
+16	Spectrogram 1	1	520411.mp3.wav	36.0	39.0	150	15000	laudov1	Laughing Dove	0.999473551102252	1
+17	Spectrogram 1	1	520411.mp3.wav	39.0	42.0	150	15000	laudov1	Laughing Dove	0.9989531537506346	1
+18	Spectrogram 1	1	520411.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.975285656979543	1
+19	Spectrogram 1	1	520411.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.785598584394751	1
+20	Spectrogram 1	1	520411.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.5862097800501894	2
+21	Spectrogram 1	1	520411.mp3.wav	45.0	48.0	150	15000	wooshr1	Woodchat Shrike	0.10291949751353041	3
+22	Spectrogram 1	1	520411.mp3.wav	48.0	51.0	150	15000	wooshr1	Woodchat Shrike	0.33998119375048486	1
+23	Spectrogram 1	1	520411.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.3022579333368818	2
+24	Spectrogram 1	1	520411.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.25404405160652704	3
+25	Spectrogram 1	1	520411.mp3.wav	51.0	54.0	150	15000	wooshr1	Woodchat Shrike	0.6126253229859916	1
+26	Spectrogram 1	1	520411.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.2800277942578579	2
+27	Spectrogram 1	1	520411.mp3.wav	51.0	54.0	150	15000	rebshr1	Red-backed Shrike	0.25914057706561777	3
+28	Spectrogram 1	1	520411.mp3.wav	54.0	57.0	150	15000	ridrai1	Ridgway's Rail	0.4277393005579209	1
+29	Spectrogram 1	1	520411.mp3.wav	54.0	57.0	150	15000	brebla	Brewer's Blackbird	0.1469293076950561	2
+30	Spectrogram 1	1	520411.mp3.wav	54.0	57.0	150	15000	clarai11	Clapper Rail	0.10853450570008588	3
+31	Spectrogram 1	1	520411.mp3.wav	57.0	60.0	150	15000	weowar1	Western Olivaceous Warbler	0.20663160893796592	1
+32	Spectrogram 1	1	520411.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.19410675765554772	2
+33	Spectrogram 1	1	520411.mp3.wav	57.0	60.0	150	15000	garwar1	Garden Warbler	0.15285498210704546	3
+34	Spectrogram 1	1	520411.mp3.wav	6.0	9.0	150	15000	brnthr	Brown Thrasher	0.1426521263812907	1
+35	Spectrogram 1	1	520411.mp3.wav	6.0	9.0	150	15000	isawhe1	Isabelline Wheatear	0.13437996754408468	2
+36	Spectrogram 1	1	520411.mp3.wav	6.0	9.0	150	15000	crithr	Crissal Thrasher	0.11603608797969593	3
+37	Spectrogram 1	1	520411.mp3.wav	9.0	12.0	150	15000	mewgul	Mew Gull	0.29347747837367205	1
+38	Spectrogram 1	1	520411.mp3.wav	9.0	12.0	150	15000	laugul	Laughing Gull	0.2864747940239606	2
+39	Spectrogram 1	1	520411.mp3.wav	9.0	12.0	150	15000	marmur	Marbled Murrelet	0.23030821600893528	3
+40	Spectrogram 1	1	520411.mp3.wav	60.0	63.0	150	15000	yellow2	Yellowhammer	0.9557409393311388	1
+41	Spectrogram 1	1	520411.mp3.wav	0.0	3.0	150	15000	bulori	Bullock's Oriole	0.713854303493688	1
+42	Spectrogram 1	1	520411.mp3.wav	0.0	3.0	150	15000	wooshr1	Woodchat Shrike	0.29393113822976386	2
+43	Spectrogram 1	1	520411.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.20189393891829321	3

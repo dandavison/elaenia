@@ -1,0 +1,28 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	519557.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.6471324062795034	1
+2	Spectrogram 1	1	519557.mp3.wav	12.0	15.0	150	15000	blrwar1	Blyth's Reed Warbler	0.5168786966297586	2
+3	Spectrogram 1	1	519557.mp3.wav	12.0	15.0	150	15000	grycat	Gray Catbird	0.1446313537206821	3
+4	Spectrogram 1	1	519557.mp3.wav	15.0	18.0	150	15000	comsni	Common Snipe	0.4368046339104136	1
+5	Spectrogram 1	1	519557.mp3.wav	15.0	18.0	150	15000	aquwar1	Aquatic Warbler	0.1915444416012514	2
+6	Spectrogram 1	1	519557.mp3.wav	15.0	18.0	150	15000	litgre1	Little Grebe	0.13078416576488344	3
+7	Spectrogram 1	1	519557.mp3.wav	18.0	21.0	150	15000	comsni	Common Snipe	0.7700133755577159	1
+8	Spectrogram 1	1	519557.mp3.wav	18.0	21.0	150	15000	aquwar1	Aquatic Warbler	0.10242516874490822	2
+9	Spectrogram 1	1	519557.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9582256114501775	1
+10	Spectrogram 1	1	519557.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.25040379675180424	2
+11	Spectrogram 1	1	519557.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9958641153618724	1
+12	Spectrogram 1	1	519557.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9930156158262551	1
+13	Spectrogram 1	1	519557.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.1263544414332715	2
+14	Spectrogram 1	1	519557.mp3.wav	30.0	33.0	150	15000	ortbun1	Ortolan Bunting	0.11995779811280553	1
+15	Spectrogram 1	1	519557.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9958690543331129	1
+16	Spectrogram 1	1	519557.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.15780763553348334	2
+17	Spectrogram 1	1	519557.mp3.wav	36.0	39.0	150	15000	rewbul	Red-whiskered Bulbul	0.33839104503002887	1
+18	Spectrogram 1	1	519557.mp3.wav	36.0	39.0	150	15000	brnthr	Brown Thrasher	0.212780747297693	2
+19	Spectrogram 1	1	519557.mp3.wav	36.0	39.0	150	15000	bkhgro	Black-headed Grosbeak	0.1845900351457375	3
+20	Spectrogram 1	1	519557.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9360547440805213	1
+21	Spectrogram 1	1	519557.mp3.wav	39.0	42.0	150	15000	marwar3	Marsh Warbler	0.23806906721821558	2
+22	Spectrogram 1	1	519557.mp3.wav	39.0	42.0	150	15000	bkcvir1	Black-capped Vireo	0.16340164466910448	3
+23	Spectrogram 1	1	519557.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.999853645016252	1
+24	Spectrogram 1	1	519557.mp3.wav	45.0	48.0	150	15000	comqua1	Common Quail	0.2015020316690578	1
+25	Spectrogram 1	1	519557.mp3.wav	45.0	48.0	150	15000	corbun1	Corn Bunting	0.1706712649478691	2
+26	Spectrogram 1	1	519557.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.994919337977374	1
+27	Spectrogram 1	1	519557.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9993390549091797	1

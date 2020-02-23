@@ -1,0 +1,12 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	523089.mp3.wav	12.0	15.0	150	15000	ettwoo1	Eurasian Three-toed Woodpecker	0.5013891747556418	1
+2	Spectrogram 1	1	523089.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9766149793731084	1
+3	Spectrogram 1	1	523089.mp3.wav	3.0	6.0	150	15000	sonthr1	Song Thrush	0.22785181545925734	1
+4	Spectrogram 1	1	523089.mp3.wav	3.0	6.0	150	15000	buggna	Blue-gray Gnatcatcher	0.18560194187251947	2
+5	Spectrogram 1	1	523089.mp3.wav	3.0	6.0	150	15000	eursta	European Starling	0.18169916320171267	3
+6	Spectrogram 1	1	523089.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.6701575969023202	1
+7	Spectrogram 1	1	523089.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.3830089659078491	2
+8	Spectrogram 1	1	523089.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.2518173594371324	3
+9	Spectrogram 1	1	523089.mp3.wav	9.0	12.0	150	15000	corbun1	Corn Bunting	0.1994895369928883	1
+10	Spectrogram 1	1	523089.mp3.wav	0.0	3.0	150	15000	eursta	European Starling	0.8605495177775917	1
+11	Spectrogram 1	1	523089.mp3.wav	0.0	3.0	150	15000	sposta1	Spotless Starling	0.5311667274212317	2

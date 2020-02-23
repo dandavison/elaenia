@@ -1,0 +1,41 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	287146.mp3.wav	12.0	15.0	150	15000	comred2	Common Redstart	0.4316300362520268	1
+2	Spectrogram 1	1	287146.mp3.wav	12.0	15.0	150	15000	blrwar1	Blyth's Reed Warbler	0.25846741066378554	2
+3	Spectrogram 1	1	287146.mp3.wav	12.0	15.0	150	15000	whinch1	Whinchat	0.22483978643122002	3
+4	Spectrogram 1	1	287146.mp3.wav	15.0	18.0	150	15000	garwar1	Garden Warbler	0.4938824003406846	1
+5	Spectrogram 1	1	287146.mp3.wav	15.0	18.0	150	15000	grewhi1	Greater Whitethroat	0.18928242025652317	2
+6	Spectrogram 1	1	287146.mp3.wav	15.0	18.0	150	15000	blackc1	Eurasian Blackcap	0.15798841903754032	3
+7	Spectrogram 1	1	287146.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9970722467086229	1
+8	Spectrogram 1	1	287146.mp3.wav	21.0	24.0	150	15000	duplar1	Dupont's Lark	0.3481291491290779	1
+9	Spectrogram 1	1	287146.mp3.wav	21.0	24.0	150	15000	thelar1	Thekla's Lark	0.3056009250606917	2
+10	Spectrogram 1	1	287146.mp3.wav	21.0	24.0	150	15000	crelar2	Crested Lark	0.2574614919566309	3
+11	Spectrogram 1	1	287146.mp3.wav	24.0	27.0	150	15000	carcro1	Carrion Crow	0.39638973240273523	1
+12	Spectrogram 1	1	287146.mp3.wav	24.0	27.0	150	15000	hoocro1	Hooded Crow	0.3462738218707689	2
+13	Spectrogram 1	1	287146.mp3.wav	24.0	27.0	150	15000	rook1	Rook	0.15369588604695816	3
+14	Spectrogram 1	1	287146.mp3.wav	27.0	30.0	150	15000	carcro1	Carrion Crow	0.6205250457402871	1
+15	Spectrogram 1	1	287146.mp3.wav	27.0	30.0	150	15000	hoocro1	Hooded Crow	0.5409051168875001	2
+16	Spectrogram 1	1	287146.mp3.wav	27.0	30.0	150	15000	rook1	Rook	0.11433521363561382	3
+17	Spectrogram 1	1	287146.mp3.wav	3.0	6.0	150	15000	bktgod	Black-tailed Godwit	0.49355183946367853	1
+18	Spectrogram 1	1	287146.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.4116726899580421	2
+19	Spectrogram 1	1	287146.mp3.wav	3.0	6.0	150	15000	comter	Common Tern	0.11681237064187808	3
+20	Spectrogram 1	1	287146.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9984351683076692	1
+21	Spectrogram 1	1	287146.mp3.wav	30.0	33.0	150	15000	grycat	Gray Catbird	0.11619653196161567	2
+22	Spectrogram 1	1	287146.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9974572934936728	1
+23	Spectrogram 1	1	287146.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.7533658098186714	1
+24	Spectrogram 1	1	287146.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.962810820782274	1
+25	Spectrogram 1	1	287146.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.9998793671480644	1
+26	Spectrogram 1	1	287146.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9961798347800332	1
+27	Spectrogram 1	1	287146.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.9985715666454987	1
+28	Spectrogram 1	1	287146.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.9903736820136955	1
+29	Spectrogram 1	1	287146.mp3.wav	54.0	57.0	150	15000	carcro1	Carrion Crow	0.4585033123659712	1
+30	Spectrogram 1	1	287146.mp3.wav	54.0	57.0	150	15000	hoocro1	Hooded Crow	0.2981071715486069	2
+31	Spectrogram 1	1	287146.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.23946580041982207	3
+32	Spectrogram 1	1	287146.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.9998235801001573	1
+33	Spectrogram 1	1	287146.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9921744551722549	1
+34	Spectrogram 1	1	287146.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.7297845111657768	1
+35	Spectrogram 1	1	287146.mp3.wav	9.0	12.0	150	15000	weowar1	Western Olivaceous Warbler	0.17650834749007652	2
+36	Spectrogram 1	1	287146.mp3.wav	60.0	63.0	150	15000	ictwar1	Icterine Warbler	0.9996743789702284	1
+37	Spectrogram 1	1	287146.mp3.wav	63.0	66.0	150	15000	wooshr1	Woodchat Shrike	0.17820964186603305	1
+38	Spectrogram 1	1	287146.mp3.wav	63.0	66.0	150	15000	yellow2	Yellowhammer	0.14375203899955258	2
+39	Spectrogram 1	1	287146.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.7180416386562869	1
+40	Spectrogram 1	1	287146.mp3.wav	0.0	3.0	150	15000	bktgod	Black-tailed Godwit	0.3849816646386635	2

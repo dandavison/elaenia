@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	99656.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.43266155187844996	1
+2	Spectrogram 1	1	99656.mp3.wav	3.0	6.0	150	15000	barswa	Barn Swallow	0.28064294412780044	2
+3	Spectrogram 1	1	99656.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.1843648347706739	3
+4	Spectrogram 1	1	99656.mp3.wav	6.0	9.0	150	15000	eugori2	Eurasian Golden Oriole	0.42071244607020586	1
+5	Spectrogram 1	1	99656.mp3.wav	6.0	9.0	150	15000	azwmag3	Iberian Magpie	0.12441959503786372	2
+6	Spectrogram 1	1	99656.mp3.wav	6.0	9.0	150	15000	algnut1	Algerian Nuthatch	0.1104403660244778	3
+7	Spectrogram 1	1	99656.mp3.wav	0.0	3.0	150	15000	miswoo1	Middle Spotted Woodpecker	0.11138392496325505	1
+8	Spectrogram 1	1	99656.mp3.wav	0.0	3.0	150	15000	sonthr1	Song Thrush	0.10361353844568545	2

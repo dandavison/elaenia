@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	375620.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.270275836742238	1
+2	Spectrogram 1	1	375620.mp3.wav	12.0	15.0	150	15000	comswi	Common Swift	0.13137399950545872	2
+3	Spectrogram 1	1	375620.mp3.wav	12.0	15.0	150	15000	weowar2	Western Orphean Warbler	0.1207027358459572	3
+4	Spectrogram 1	1	375620.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9343632018088595	1
+5	Spectrogram 1	1	375620.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.15661390969055972	2
+6	Spectrogram 1	1	375620.mp3.wav	15.0	18.0	150	15000	barwar1	Barred Warbler	0.1257983656748112	3
+7	Spectrogram 1	1	375620.mp3.wav	18.0	21.0	150	15000	rook1	Rook	0.19403176979503828	1
+8	Spectrogram 1	1	375620.mp3.wav	18.0	21.0	150	15000	rocbun1	Rock Bunting	0.14144348582789168	2
+9	Spectrogram 1	1	375620.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9853274144151998	1
+10	Spectrogram 1	1	375620.mp3.wav	21.0	24.0	150	15000	barwar1	Barred Warbler	0.1671913304008954	2
+11	Spectrogram 1	1	375620.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.102646114240144	3
+12	Spectrogram 1	1	375620.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.8976504775781102	1
+13	Spectrogram 1	1	375620.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.3146510543776088	2
+14	Spectrogram 1	1	375620.mp3.wav	24.0	27.0	150	15000	garwar1	Garden Warbler	0.15196035555078777	3
+15	Spectrogram 1	1	375620.mp3.wav	3.0	6.0	150	15000	houspa	House Sparrow	0.8591441025778612	1
+16	Spectrogram 1	1	375620.mp3.wav	3.0	6.0	150	15000	spaspa1	Spanish Sparrow	0.27900948932639463	2
+17	Spectrogram 1	1	375620.mp3.wav	3.0	6.0	150	15000	itaspa1	Italian Sparrow	0.1771252672454901	3
+18	Spectrogram 1	1	375620.mp3.wav	6.0	9.0	150	15000	houspa	House Sparrow	0.7892594649535019	1
+19	Spectrogram 1	1	375620.mp3.wav	6.0	9.0	150	15000	itaspa1	Italian Sparrow	0.1544207661289454	2
+20	Spectrogram 1	1	375620.mp3.wav	6.0	9.0	150	15000	eutspa	Eurasian Tree Sparrow	0.13729726371494733	3
+21	Spectrogram 1	1	375620.mp3.wav	9.0	12.0	150	15000	houspa	House Sparrow	0.465172605458166	1
+22	Spectrogram 1	1	375620.mp3.wav	9.0	12.0	150	15000	eutspa	Eurasian Tree Sparrow	0.17313832606805768	2
+23	Spectrogram 1	1	375620.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.10783310720210904	3
+24	Spectrogram 1	1	375620.mp3.wav	0.0	3.0	150	15000	houspa	House Sparrow	0.6786846277242513	1
+25	Spectrogram 1	1	375620.mp3.wav	0.0	3.0	150	15000	eutspa	Eurasian Tree Sparrow	0.18636758253892574	2

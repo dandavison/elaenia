@@ -1,0 +1,28 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	264305.mp3.wav	12.0	15.0	150	15000	rebshr1	Red-backed Shrike	0.24547329072402488	1
+2	Spectrogram 1	1	264305.mp3.wav	12.0	15.0	150	15000	grrwar1	Great Reed Warbler	0.17853274356943372	2
+3	Spectrogram 1	1	264305.mp3.wav	15.0	18.0	150	15000	rebshr1	Red-backed Shrike	0.17997751474567972	1
+4	Spectrogram 1	1	264305.mp3.wav	15.0	18.0	150	15000	grrwar1	Great Reed Warbler	0.17429805830519138	2
+5	Spectrogram 1	1	264305.mp3.wav	15.0	18.0	150	15000	krunut1	Krueper's Nuthatch	0.172388804643249	3
+6	Spectrogram 1	1	264305.mp3.wav	18.0	21.0	150	15000	brnowl	Barn Owl	0.9961031734577105	1
+7	Spectrogram 1	1	264305.mp3.wav	21.0	24.0	150	15000	calgna	California Gnatcatcher	0.6950533263948093	1
+8	Spectrogram 1	1	264305.mp3.wav	21.0	24.0	150	15000	rebshr1	Red-backed Shrike	0.23605452873269359	2
+9	Spectrogram 1	1	264305.mp3.wav	24.0	27.0	150	15000	wiltit1	Willow Tit	0.24391201266279403	1
+10	Spectrogram 1	1	264305.mp3.wav	24.0	27.0	150	15000	calgna	California Gnatcatcher	0.21263394663611926	2
+11	Spectrogram 1	1	264305.mp3.wav	24.0	27.0	150	15000	buggna	Blue-gray Gnatcatcher	0.20693639582237097	3
+12	Spectrogram 1	1	264305.mp3.wav	27.0	30.0	150	15000	grycat	Gray Catbird	0.26576300179824697	1
+13	Spectrogram 1	1	264305.mp3.wav	27.0	30.0	150	15000	gyhchi	Gray-headed Chickadee	0.12197106544039216	2
+14	Spectrogram 1	1	264305.mp3.wav	27.0	30.0	150	15000	buggna	Blue-gray Gnatcatcher	0.1104413199690137	3
+15	Spectrogram 1	1	264305.mp3.wav	3.0	6.0	150	15000	belvir	Bell's Vireo	0.18997331653529434	1
+16	Spectrogram 1	1	264305.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.15879608975971674	2
+17	Spectrogram 1	1	264305.mp3.wav	3.0	6.0	150	15000	eutspa	Eurasian Tree Sparrow	0.14431639062063376	3
+18	Spectrogram 1	1	264305.mp3.wav	30.0	33.0	150	15000	eutspa	Eurasian Tree Sparrow	0.7846506846605363	1
+19	Spectrogram 1	1	264305.mp3.wav	30.0	33.0	150	15000	weowar1	Western Olivaceous Warbler	0.14227030264915366	2
+20	Spectrogram 1	1	264305.mp3.wav	30.0	33.0	150	15000	trufin2	Trumpeter Finch	0.12412031908553199	3
+21	Spectrogram 1	1	264305.mp3.wav	6.0	9.0	150	15000	calgna	California Gnatcatcher	0.8074837123981812	1
+22	Spectrogram 1	1	264305.mp3.wav	6.0	9.0	150	15000	bktgna	Black-tailed Gnatcatcher	0.5590545689474877	2
+23	Spectrogram 1	1	264305.mp3.wav	9.0	12.0	150	15000	grrwar1	Great Reed Warbler	0.4665599249369534	1
+24	Spectrogram 1	1	264305.mp3.wav	9.0	12.0	150	15000	rebshr1	Red-backed Shrike	0.10496033033474961	2
+25	Spectrogram 1	1	264305.mp3.wav	0.0	3.0	150	15000	lesgol	Lesser Goldfinch	0.17497193755099874	1
+26	Spectrogram 1	1	264305.mp3.wav	0.0	3.0	150	15000	asdwar1	Asian Desert Warbler	0.1466648009690242	2
+27	Spectrogram 1	1	264305.mp3.wav	0.0	3.0	150	15000	bkcvir1	Black-capped Vireo	0.10823989927233914	3

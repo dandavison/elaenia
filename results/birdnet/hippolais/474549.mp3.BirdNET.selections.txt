@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	474549.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.7173599562715169	1
+2	Spectrogram 1	1	474549.mp3.wav	15.0	18.0	150	15000	amegfi	American Goldfinch	0.10586785582358868	2
+3	Spectrogram 1	1	474549.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.998495645472877	1
+4	Spectrogram 1	1	474549.mp3.wav	21.0	24.0	150	15000	eurlin1	Eurasian Linnet	0.3925791475206567	1
+5	Spectrogram 1	1	474549.mp3.wav	21.0	24.0	150	15000	amegfi	American Goldfinch	0.20361026230816598	2
+6	Spectrogram 1	1	474549.mp3.wav	21.0	24.0	150	15000	blackc1	Eurasian Blackcap	0.12736007517958928	3
+7	Spectrogram 1	1	474549.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.3476194611921142	1
+8	Spectrogram 1	1	474549.mp3.wav	24.0	27.0	150	15000	eurlin1	Eurasian Linnet	0.18702647472590692	2
+9	Spectrogram 1	1	474549.mp3.wav	27.0	30.0	150	15000	amegfi	American Goldfinch	0.41712393316189156	1
+10	Spectrogram 1	1	474549.mp3.wav	27.0	30.0	150	15000	foxspa	Fox Sparrow	0.18981651004875577	2
+11	Spectrogram 1	1	474549.mp3.wav	27.0	30.0	150	15000	purfin	Purple Finch	0.10155982773839024	3
+12	Spectrogram 1	1	474549.mp3.wav	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.25858199582103664	1
+13	Spectrogram 1	1	474549.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.1494671262297349	2
+14	Spectrogram 1	1	474549.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.8606139784711296	1
+15	Spectrogram 1	1	474549.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9982334182310395	1
+16	Spectrogram 1	1	474549.mp3.wav	0.0	3.0	150	15000	amegfi	American Goldfinch	0.5778924676863271	1
+17	Spectrogram 1	1	474549.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.42040482384898825	2
+18	Spectrogram 1	1	474549.mp3.wav	0.0	3.0	150	15000	lesgol	Lesser Goldfinch	0.26219534785845644	3

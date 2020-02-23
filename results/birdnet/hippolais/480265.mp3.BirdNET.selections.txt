@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	480265.mp3.wav	3.0	6.0	150	15000	amtspa	American Tree Sparrow	0.5872474584921704	1
+2	Spectrogram 1	1	480265.mp3.wav	3.0	6.0	150	15000	houspa	House Sparrow	0.23177085723615684	2
+3	Spectrogram 1	1	480265.mp3.wav	6.0	9.0	150	15000	norwhe	Northern Wheatear	0.39591750366426065	1
+4	Spectrogram 1	1	480265.mp3.wav	6.0	9.0	150	15000	blrwar1	Blyth's Reed Warbler	0.12261547351666288	2
+5	Spectrogram 1	1	480265.mp3.wav	6.0	9.0	150	15000	comcha	Common Chaffinch	0.10100060611965916	3
+6	Spectrogram 1	1	480265.mp3.wav	9.0	12.0	150	15000	burthr	Blue Rock-Thrush	0.5218999862594651	1
+7	Spectrogram 1	1	480265.mp3.wav	9.0	12.0	150	15000	orcori	Orchard Oriole	0.44905987226027594	2
+8	Spectrogram 1	1	480265.mp3.wav	9.0	12.0	150	15000	rtrthr1	Rufous-tailed Rock-Thrush	0.20141888759311588	3
+9	Spectrogram 1	1	480265.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9940276692474989	1

@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	452079.mp3.wav	12.0	15.0	150	15000	whiwag	White Wagtail	0.9414599249547185	1
+2	Spectrogram 1	1	452079.mp3.wav	12.0	15.0	150	15000	reebun	Reed Bunting	0.18058439342215812	2
+3	Spectrogram 1	1	452079.mp3.wav	12.0	15.0	150	15000	eaywag1	Western Yellow Wagtail	0.14860834183724228	3
+4	Spectrogram 1	1	452079.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.6969117338759798	1
+5	Spectrogram 1	1	452079.mp3.wav	15.0	18.0	150	15000	atlfly1	Atlas Flycatcher	0.5227825534850014	2
+6	Spectrogram 1	1	452079.mp3.wav	15.0	18.0	150	15000	blackc1	Eurasian Blackcap	0.3100913873209957	3
+7	Spectrogram 1	1	452079.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9460202084579608	1
+8	Spectrogram 1	1	452079.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.4905756972889233	2
+9	Spectrogram 1	1	452079.mp3.wav	21.0	24.0	150	15000	oliwar	Olive Warbler	0.8765329823016257	1
+10	Spectrogram 1	1	452079.mp3.wav	21.0	24.0	150	15000	foxspa	Fox Sparrow	0.6172692216311494	2
+11	Spectrogram 1	1	452079.mp3.wav	21.0	24.0	150	15000	blctit4	Black-crested Titmouse	0.20208094857723446	3
+12	Spectrogram 1	1	452079.mp3.wav	24.0	27.0	150	15000	woosan	Wood Sandpiper	0.4666240787779852	1
+13	Spectrogram 1	1	452079.mp3.wav	24.0	27.0	150	15000	lesyel	Lesser Yellowlegs	0.13114670106290824	2
+14	Spectrogram 1	1	452079.mp3.wav	24.0	27.0	150	15000	lobdow	Long-billed Dowitcher	0.12146792624183406	3
+15	Spectrogram 1	1	452079.mp3.wav	27.0	30.0	150	15000	woosan	Wood Sandpiper	0.7694508309678291	1
+16	Spectrogram 1	1	452079.mp3.wav	27.0	30.0	150	15000	commyn	Common Myna	0.13066290822232043	2
+17	Spectrogram 1	1	452079.mp3.wav	27.0	30.0	150	15000	marsan	Marsh Sandpiper	0.11588090129537808	3
+18	Spectrogram 1	1	452079.mp3.wav	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.48426628185378817	1
+19	Spectrogram 1	1	452079.mp3.wav	3.0	6.0	150	15000	sibrub	Siberian Rubythroat	0.21617114117199518	2
+20	Spectrogram 1	1	452079.mp3.wav	30.0	33.0	150	15000	normoc	Northern Mockingbird	0.5558656413894899	1
+21	Spectrogram 1	1	452079.mp3.wav	30.0	33.0	150	15000	brnthr	Brown Thrasher	0.2698169590509619	2
+22	Spectrogram 1	1	452079.mp3.wav	30.0	33.0	150	15000	commyn	Common Myna	0.23235935561235602	3
+23	Spectrogram 1	1	452079.mp3.wav	33.0	36.0	150	15000	marwar3	Marsh Warbler	0.776740916157402	1
+24	Spectrogram 1	1	452079.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.6952442241590208	2
+25	Spectrogram 1	1	452079.mp3.wav	33.0	36.0	150	15000	blackc1	Eurasian Blackcap	0.19076074353953426	3
+26	Spectrogram 1	1	452079.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.8964968906408131	1
+27	Spectrogram 1	1	452079.mp3.wav	36.0	39.0	150	15000	weowar1	Western Olivaceous Warbler	0.3151754563133877	2
+28	Spectrogram 1	1	452079.mp3.wav	39.0	42.0	150	15000	balori	Baltimore Oriole	0.12263272470500095	1
+29	Spectrogram 1	1	452079.mp3.wav	6.0	9.0	150	15000	comchi1	Common Chiffchaff	0.23577433586974617	1
+30	Spectrogram 1	1	452079.mp3.wav	6.0	9.0	150	15000	weowar1	Western Olivaceous Warbler	0.15512175383647162	2
+31	Spectrogram 1	1	452079.mp3.wav	9.0	12.0	150	15000	weowar1	Western Olivaceous Warbler	0.7688329344652377	1
+32	Spectrogram 1	1	452079.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.6524471929359953	2
+33	Spectrogram 1	1	452079.mp3.wav	9.0	12.0	150	15000	blackc1	Eurasian Blackcap	0.22349258416432843	3
+34	Spectrogram 1	1	452079.mp3.wav	0.0	3.0	150	15000	rocpet1	Rock Sparrow	0.8990478251788927	1

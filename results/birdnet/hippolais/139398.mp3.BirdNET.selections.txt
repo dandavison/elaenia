@@ -1,0 +1,31 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	139398.mp3.wav	12.0	15.0	150	15000	eursis	Eurasian Siskin	0.26869814197135455	1
+2	Spectrogram 1	1	139398.mp3.wav	12.0	15.0	150	15000	grtgra	Great-tailed Grackle	0.25122466683160927	2
+3	Spectrogram 1	1	139398.mp3.wav	12.0	15.0	150	15000	leater1	Least Tern	0.14735731804523894	3
+4	Spectrogram 1	1	139398.mp3.wav	15.0	18.0	150	15000	eursis	Eurasian Siskin	0.925581945508464	1
+5	Spectrogram 1	1	139398.mp3.wav	15.0	18.0	150	15000	lesgol	Lesser Goldfinch	0.16773376557091121	2
+6	Spectrogram 1	1	139398.mp3.wav	18.0	21.0	150	15000	virrai	Virginia Rail	0.4663783871922294	1
+7	Spectrogram 1	1	139398.mp3.wav	18.0	21.0	150	15000	trufin2	Trumpeter Finch	0.17069066017812565	2
+8	Spectrogram 1	1	139398.mp3.wav	18.0	21.0	150	15000	eurwar1	Eurasian Reed Warbler	0.12059691535128597	3
+9	Spectrogram 1	1	139398.mp3.wav	21.0	24.0	150	15000	lesgol	Lesser Goldfinch	0.31211258389215	1
+10	Spectrogram 1	1	139398.mp3.wav	21.0	24.0	150	15000	grycat	Gray Catbird	0.26148039556301855	2
+11	Spectrogram 1	1	139398.mp3.wav	21.0	24.0	150	15000	eursis	Eurasian Siskin	0.1789696712984135	3
+12	Spectrogram 1	1	139398.mp3.wav	24.0	27.0	150	15000	trufin2	Trumpeter Finch	0.23975370943232205	1
+13	Spectrogram 1	1	139398.mp3.wav	24.0	27.0	150	15000	eutspa	Eurasian Tree Sparrow	0.2153609074397471	2
+14	Spectrogram 1	1	139398.mp3.wav	24.0	27.0	150	15000	houfin	House Finch	0.1955307604260482	3
+15	Spectrogram 1	1	139398.mp3.wav	27.0	30.0	150	15000	eursis	Eurasian Siskin	0.9137852625825694	1
+16	Spectrogram 1	1	139398.mp3.wav	27.0	30.0	150	15000	twite1	Twite	0.21747375415111359	2
+17	Spectrogram 1	1	139398.mp3.wav	27.0	30.0	150	15000	lesgol	Lesser Goldfinch	0.20088579781248037	3
+18	Spectrogram 1	1	139398.mp3.wav	3.0	6.0	150	15000	virrai	Virginia Rail	0.32546731754152186	1
+19	Spectrogram 1	1	139398.mp3.wav	3.0	6.0	150	15000	leater1	Least Tern	0.1878298473560252	2
+20	Spectrogram 1	1	139398.mp3.wav	3.0	6.0	150	15000	eursis	Eurasian Siskin	0.1252689995384461	3
+21	Spectrogram 1	1	139398.mp3.wav	30.0	33.0	150	15000	eursis	Eurasian Siskin	0.5180512041507893	1
+22	Spectrogram 1	1	139398.mp3.wav	30.0	33.0	150	15000	lesgol	Lesser Goldfinch	0.2208236654881016	2
+23	Spectrogram 1	1	139398.mp3.wav	6.0	9.0	150	15000	eursis	Eurasian Siskin	0.877692457825885	1
+24	Spectrogram 1	1	139398.mp3.wav	6.0	9.0	150	15000	leater1	Least Tern	0.13458876290453387	2
+25	Spectrogram 1	1	139398.mp3.wav	6.0	9.0	150	15000	norshr1	Great Gray Shrike	0.12693860977170257	3
+26	Spectrogram 1	1	139398.mp3.wav	9.0	12.0	150	15000	eursis	Eurasian Siskin	0.20811983786568308	1
+27	Spectrogram 1	1	139398.mp3.wav	9.0	12.0	150	15000	norshr1	Great Gray Shrike	0.12205303128397509	2
+28	Spectrogram 1	1	139398.mp3.wav	9.0	12.0	150	15000	grycat	Gray Catbird	0.12055806775600068	3
+29	Spectrogram 1	1	139398.mp3.wav	0.0	3.0	150	15000	trufin2	Trumpeter Finch	0.11096080493895621	1
+30	Spectrogram 1	1	139398.mp3.wav	0.0	3.0	150	15000	virrai	Virginia Rail	0.10086467115461194	2

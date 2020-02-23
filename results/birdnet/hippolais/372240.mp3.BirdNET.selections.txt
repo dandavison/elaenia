@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	372240.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.6661096967952073	1
+2	Spectrogram 1	1	372240.mp3.wav	12.0	15.0	150	15000	mouwar1	Moustached Warbler	0.16743022331007262	2
+3	Spectrogram 1	1	372240.mp3.wav	12.0	15.0	150	15000	cetwar1	Cetti's Warbler	0.11544389245081893	3
+4	Spectrogram 1	1	372240.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9943100355714072	1
+5	Spectrogram 1	1	372240.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9940801354537216	1
+6	Spectrogram 1	1	372240.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.18014137150366277	2
+7	Spectrogram 1	1	372240.mp3.wav	3.0	6.0	150	15000	sarwar1	Sardinian Warbler	0.7533586229254937	1
+8	Spectrogram 1	1	372240.mp3.wav	3.0	6.0	150	15000	subwar1	Subalpine Warbler	0.6250896656418152	2
+9	Spectrogram 1	1	372240.mp3.wav	3.0	6.0	150	15000	grewhi1	Greater Whitethroat	0.3788274983838642	3
+10	Spectrogram 1	1	372240.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.8529692386857994	1
+11	Spectrogram 1	1	372240.mp3.wav	6.0	9.0	150	15000	weowar1	Western Olivaceous Warbler	0.3783539465489905	2
+12	Spectrogram 1	1	372240.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.14180728314357283	3
+13	Spectrogram 1	1	372240.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.7070908507076424	1
+14	Spectrogram 1	1	372240.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.626707259372532	2
+15	Spectrogram 1	1	372240.mp3.wav	9.0	12.0	150	15000	marwar3	Marsh Warbler	0.22585230687851243	3
+16	Spectrogram 1	1	372240.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9901703607463648	1
+17	Spectrogram 1	1	372240.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.20739736999989258	2

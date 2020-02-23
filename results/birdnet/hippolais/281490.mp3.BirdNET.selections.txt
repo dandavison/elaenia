@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	281490.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9918104710595533	1
+2	Spectrogram 1	1	281490.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.12397500523785446	2
+3	Spectrogram 1	1	281490.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.8197622662057205	1
+4	Spectrogram 1	1	281490.mp3.wav	15.0	18.0	150	15000	eurwar1	Eurasian Reed Warbler	0.6641625218255991	2
+5	Spectrogram 1	1	281490.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9994282992900037	1
+6	Spectrogram 1	1	281490.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9990289830800205	1
+7	Spectrogram 1	1	281490.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9698733145629417	1
+8	Spectrogram 1	1	281490.mp3.wav	6.0	9.0	150	15000	eurwar1	Eurasian Reed Warbler	0.18153824998653337	2
+9	Spectrogram 1	1	281490.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9995105064996237	1
+10	Spectrogram 1	1	281490.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9991031757069163	1

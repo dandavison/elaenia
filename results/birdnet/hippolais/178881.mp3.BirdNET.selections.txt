@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	178881.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.989379975373287	1
+2	Spectrogram 1	1	178881.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.10467324614205846	2
+3	Spectrogram 1	1	178881.mp3.wav	15.0	18.0	150	15000	spofly1	Spotted Flycatcher	0.19068940293076533	1
+4	Spectrogram 1	1	178881.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9899125220290403	1
+5	Spectrogram 1	1	178881.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9847017611058299	1
+6	Spectrogram 1	1	178881.mp3.wav	24.0	27.0	150	15000	blrwar1	Blyth's Reed Warbler	0.3407800492247656	2
+7	Spectrogram 1	1	178881.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.10203823675288358	3
+8	Spectrogram 1	1	178881.mp3.wav	27.0	30.0	150	15000	marwar3	Marsh Warbler	0.16116960354453902	1
+9	Spectrogram 1	1	178881.mp3.wav	27.0	30.0	150	15000	comred2	Common Redstart	0.14042216186210624	2
+10	Spectrogram 1	1	178881.mp3.wav	27.0	30.0	150	15000	blrwar1	Blyth's Reed Warbler	0.12951406943657126	3
+11	Spectrogram 1	1	178881.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9130017678890961	1
+12	Spectrogram 1	1	178881.mp3.wav	3.0	6.0	150	15000	weowar1	Western Olivaceous Warbler	0.6580942131537378	2
+13	Spectrogram 1	1	178881.mp3.wav	6.0	9.0	150	15000	bkctch1	Black-crowned Tchagra	0.12677331088744495	1
+14	Spectrogram 1	1	178881.mp3.wav	9.0	12.0	150	15000	comqua1	Common Quail	0.2079102658640981	1
+15	Spectrogram 1	1	178881.mp3.wav	9.0	12.0	150	15000	relpar1	Red-legged Partridge	0.16927146418786806	2
+16	Spectrogram 1	1	178881.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.8946095865619182	1
+17	Spectrogram 1	1	178881.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.3484280138209416	2
+18	Spectrogram 1	1	178881.mp3.wav	0.0	3.0	150	15000	weowar1	Western Olivaceous Warbler	0.3012018531963001	3

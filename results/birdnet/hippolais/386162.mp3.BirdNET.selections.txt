@@ -1,0 +1,20 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386162.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.9754782329241758	1
+2	Spectrogram 1	1	386162.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.43251383084446443	2
+3	Spectrogram 1	1	386162.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.10738367701292868	3
+4	Spectrogram 1	1	386162.mp3.wav	15.0	18.0	150	15000	eursta	European Starling	0.45541616293898834	1
+5	Spectrogram 1	1	386162.mp3.wav	15.0	18.0	150	15000	sposta1	Spotless Starling	0.4066998050954137	2
+6	Spectrogram 1	1	386162.mp3.wav	15.0	18.0	150	15000	brambl	Brambling	0.3895275262798053	3
+7	Spectrogram 1	1	386162.mp3.wav	18.0	21.0	150	15000	eursta	European Starling	0.5577651520747936	1
+8	Spectrogram 1	1	386162.mp3.wav	18.0	21.0	150	15000	grycat	Gray Catbird	0.319033488794693	2
+9	Spectrogram 1	1	386162.mp3.wav	18.0	21.0	150	15000	sposta1	Spotless Starling	0.31585358852338546	3
+10	Spectrogram 1	1	386162.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9994982788335691	1
+11	Spectrogram 1	1	386162.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9994914777221745	1
+12	Spectrogram 1	1	386162.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.999464122388011	1
+13	Spectrogram 1	1	386162.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9985093412585072	1
+14	Spectrogram 1	1	386162.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9998885831469889	1
+15	Spectrogram 1	1	386162.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9987199235565615	1
+16	Spectrogram 1	1	386162.mp3.wav	6.0	9.0	150	15000	weowar1	Western Olivaceous Warbler	0.11403426746149115	2
+17	Spectrogram 1	1	386162.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9996987502596604	1
+18	Spectrogram 1	1	386162.mp3.wav	0.0	3.0	150	15000	eucdov	Eurasian Collared-Dove	0.3453256483753777	1
+19	Spectrogram 1	1	386162.mp3.wav	0.0	3.0	150	15000	litgre1	Little Grebe	0.10253070608961777	2

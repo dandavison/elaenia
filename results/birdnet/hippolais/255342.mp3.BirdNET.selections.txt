@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	255342.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.7901231866002384	1
+2	Spectrogram 1	1	255342.mp3.wav	15.0	18.0	150	15000	fieldf	Fieldfare	0.5338905967951795	2
+3	Spectrogram 1	1	255342.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9423630969350706	1
+4	Spectrogram 1	1	255342.mp3.wav	18.0	21.0	150	15000	fieldf	Fieldfare	0.7769608592905531	2
+5	Spectrogram 1	1	255342.mp3.wav	21.0	24.0	150	15000	brnthr	Brown Thrasher	0.4669295083257033	1
+6	Spectrogram 1	1	255342.mp3.wav	21.0	24.0	150	15000	eurbla	Eurasian Blackbird	0.3920051222895876	2
+7	Spectrogram 1	1	255342.mp3.wav	21.0	24.0	150	15000	sonthr1	Song Thrush	0.19558706012912944	3
+8	Spectrogram 1	1	255342.mp3.wav	24.0	27.0	150	15000	comsan	Common Sandpiper	0.7295274477641485	1
+9	Spectrogram 1	1	255342.mp3.wav	24.0	27.0	150	15000	litswi1	Little Swift	0.45204930940006355	2
+10	Spectrogram 1	1	255342.mp3.wav	24.0	27.0	150	15000	alpswi1	Alpine Swift	0.14667318249789493	3
+11	Spectrogram 1	1	255342.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.7726590407402186	1
+12	Spectrogram 1	1	255342.mp3.wav	3.0	6.0	150	15000	blrwar1	Blyth's Reed Warbler	0.18524657752821955	2
+13	Spectrogram 1	1	255342.mp3.wav	3.0	6.0	150	15000	burthr	Blue Rock-Thrush	0.15088493196104938	3
+14	Spectrogram 1	1	255342.mp3.wav	30.0	33.0	150	15000	fieldf	Fieldfare	0.5110668509265316	1
+15	Spectrogram 1	1	255342.mp3.wav	30.0	33.0	150	15000	commyn	Common Myna	0.147398401766311	2
+16	Spectrogram 1	1	255342.mp3.wav	30.0	33.0	150	15000	eurbla	Eurasian Blackbird	0.14258786362307763	3
+17	Spectrogram 1	1	255342.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.7665098595776714	1
+18	Spectrogram 1	1	255342.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.8710618982065295	1
+19	Spectrogram 1	1	255342.mp3.wav	39.0	42.0	150	15000	eurbla	Eurasian Blackbird	0.14998418572240796	1
+20	Spectrogram 1	1	255342.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.1002419081451633	2
+21	Spectrogram 1	1	255342.mp3.wav	42.0	45.0	150	15000	eurbla	Eurasian Blackbird	0.3730785484621286	1
+22	Spectrogram 1	1	255342.mp3.wav	42.0	45.0	150	15000	garwar1	Garden Warbler	0.24353558537773096	2
+23	Spectrogram 1	1	255342.mp3.wav	42.0	45.0	150	15000	eaowar2	Eastern Orphean Warbler	0.15965905881464057	3
+24	Spectrogram 1	1	255342.mp3.wav	45.0	48.0	150	15000	cetwar1	Cetti's Warbler	0.29562654041581765	1
+25	Spectrogram 1	1	255342.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.8837659699530257	1
+26	Spectrogram 1	1	255342.mp3.wav	48.0	51.0	150	15000	blrwar1	Blyth's Reed Warbler	0.25058884994424024	2
+27	Spectrogram 1	1	255342.mp3.wav	51.0	54.0	150	15000	blrwar1	Blyth's Reed Warbler	0.6424100194864836	1
+28	Spectrogram 1	1	255342.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.4291868404743425	2
+29	Spectrogram 1	1	255342.mp3.wav	51.0	54.0	150	15000	marwar3	Marsh Warbler	0.11771809165420744	3
+30	Spectrogram 1	1	255342.mp3.wav	6.0	9.0	150	15000	fieldf	Fieldfare	0.6046951383969447	1
+31	Spectrogram 1	1	255342.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.42182061834133544	2
+32	Spectrogram 1	1	255342.mp3.wav	6.0	9.0	150	15000	graher1	Gray Heron	0.16324061848456028	3
+33	Spectrogram 1	1	255342.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9997936506265704	1
+34	Spectrogram 1	1	255342.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9997701937066091	1

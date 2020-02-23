@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386282.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9985495975763802	1
+2	Spectrogram 1	1	386282.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9989201358716415	1
+3	Spectrogram 1	1	386282.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9993380071375063	1
+4	Spectrogram 1	1	386282.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9991511725253451	1
+5	Spectrogram 1	1	386282.mp3.wav	6.0	9.0	150	15000	eutspa	Eurasian Tree Sparrow	0.7832924917567002	1
+6	Spectrogram 1	1	386282.mp3.wav	6.0	9.0	150	15000	cohmar1	Common House-Martin	0.23649893827420768	2
+7	Spectrogram 1	1	386282.mp3.wav	6.0	9.0	150	15000	houspa	House Sparrow	0.17554858053649514	3
+8	Spectrogram 1	1	386282.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9989799050215474	1
+9	Spectrogram 1	1	386282.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9994081678740326	1

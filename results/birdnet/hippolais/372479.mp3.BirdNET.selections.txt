@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	372479.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.6445805648171096	1
+2	Spectrogram 1	1	372479.mp3.wav	12.0	15.0	150	15000	blackc1	Eurasian Blackcap	0.22406888399233782	2
+3	Spectrogram 1	1	372479.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.13289558723140382	3
+4	Spectrogram 1	1	372479.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.10753541393109566	1
+5	Spectrogram 1	1	372479.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.4162152379582362	1
+6	Spectrogram 1	1	372479.mp3.wav	21.0	24.0	150	15000	blackc1	Eurasian Blackcap	0.21203491371153105	2
+7	Spectrogram 1	1	372479.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.18474745922489647	3
+8	Spectrogram 1	1	372479.mp3.wav	24.0	27.0	150	15000	whoswa	Whooper Swan	0.22192880414522723	1
+9	Spectrogram 1	1	372479.mp3.wav	24.0	27.0	150	15000	comcra	Common Crane	0.16288274264921004	2
+10	Spectrogram 1	1	372479.mp3.wav	27.0	30.0	150	15000	grycat	Gray Catbird	0.9537083626831722	1
+11	Spectrogram 1	1	372479.mp3.wav	27.0	30.0	150	15000	brnthr	Brown Thrasher	0.163164093446928	2
+12	Spectrogram 1	1	372479.mp3.wav	3.0	6.0	150	15000	comcra	Common Crane	0.13614335386330634	1
+13	Spectrogram 1	1	372479.mp3.wav	3.0	6.0	150	15000	carcro1	Carrion Crow	0.1090434229850662	2
+14	Spectrogram 1	1	372479.mp3.wav	30.0	33.0	150	15000	grycat	Gray Catbird	0.929012510649359	1
+15	Spectrogram 1	1	372479.mp3.wav	33.0	36.0	150	15000	comcha	Common Chaffinch	0.18729531459041024	1
+16	Spectrogram 1	1	372479.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.8002584861026774	1
+17	Spectrogram 1	1	372479.mp3.wav	36.0	39.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1604247641629076	2
+18	Spectrogram 1	1	372479.mp3.wav	39.0	42.0	150	15000	comcra	Common Crane	0.2940095750700443	1
+19	Spectrogram 1	1	372479.mp3.wav	42.0	45.0	150	15000	arcwar1	Arctic Warbler	0.7577998345018735	1
+20	Spectrogram 1	1	372479.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.4522883884147899	1
+21	Spectrogram 1	1	372479.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.5815853979484552	1
+22	Spectrogram 1	1	372479.mp3.wav	9.0	12.0	150	15000	blackc1	Eurasian Blackcap	0.12901908717603425	2
+23	Spectrogram 1	1	372479.mp3.wav	9.0	12.0	150	15000	blrwar1	Blyth's Reed Warbler	0.11864926454944773	3

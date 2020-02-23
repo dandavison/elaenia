@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	367400.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9607077428750891	1
+2	Spectrogram 1	1	367400.mp3.wav	12.0	15.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1341050633090984	2
+3	Spectrogram 1	1	367400.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.8888916476598515	1
+4	Spectrogram 1	1	367400.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.2578219049370561	2
+5	Spectrogram 1	1	367400.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9998741416845338	1
+6	Spectrogram 1	1	367400.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9997689677246517	1
+7	Spectrogram 1	1	367400.mp3.wav	0.0	3.0	150	15000	watrai1	Water Rail	0.1355611930818235	1

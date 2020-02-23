@@ -1,0 +1,8 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	369621.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.992878492896058	1
+2	Spectrogram 1	1	369621.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9983043819044389	1
+3	Spectrogram 1	1	369621.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.998246008621553	1
+4	Spectrogram 1	1	369621.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9670277099709438	1
+5	Spectrogram 1	1	369621.mp3.wav	9.0	12.0	150	15000	marwar3	Marsh Warbler	0.18162582253953588	2
+6	Spectrogram 1	1	369621.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9883955224526223	1
+7	Spectrogram 1	1	369621.mp3.wav	0.0	3.0	150	15000	stswar1	Scrub Warbler	0.10442440846993385	2

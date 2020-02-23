@@ -1,0 +1,92 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	445322.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.24041027798473125	1
+2	Spectrogram 1	1	445322.mp3.wav	12.0	15.0	150	15000	eurwry	Eurasian Wryneck	0.10487896287793191	2
+3	Spectrogram 1	1	445322.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9998419989482846	1
+4	Spectrogram 1	1	445322.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9998943154339538	1
+5	Spectrogram 1	1	445322.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9343390263944831	1
+6	Spectrogram 1	1	445322.mp3.wav	21.0	24.0	150	15000	sibrub	Siberian Rubythroat	0.2682053802548509	2
+7	Spectrogram 1	1	445322.mp3.wav	21.0	24.0	150	15000	blrwar1	Blyth's Reed Warbler	0.16404150941446546	3
+8	Spectrogram 1	1	445322.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9999455501238679	1
+9	Spectrogram 1	1	445322.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.999915630137615	1
+10	Spectrogram 1	1	445322.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9998117371667344	1
+11	Spectrogram 1	1	445322.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9058365883389728	1
+12	Spectrogram 1	1	445322.mp3.wav	30.0	33.0	150	15000	eurwar1	Eurasian Reed Warbler	0.29711931762252103	2
+13	Spectrogram 1	1	445322.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.1275198080749318	3
+14	Spectrogram 1	1	445322.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9954720397301092	1
+15	Spectrogram 1	1	445322.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.3088429863774949	2
+16	Spectrogram 1	1	445322.mp3.wav	36.0	39.0	150	15000	eurwar1	Eurasian Reed Warbler	0.5459604555515428	1
+17	Spectrogram 1	1	445322.mp3.wav	36.0	39.0	150	15000	weowar1	Western Olivaceous Warbler	0.3537730869087494	2
+18	Spectrogram 1	1	445322.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.3104169025847417	3
+19	Spectrogram 1	1	445322.mp3.wav	39.0	42.0	150	15000	wlwwar	Willow Warbler	0.6120790548942004	1
+20	Spectrogram 1	1	445322.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.9998842115392746	1
+21	Spectrogram 1	1	445322.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9993682928746215	1
+22	Spectrogram 1	1	445322.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.7422067832118432	1
+23	Spectrogram 1	1	445322.mp3.wav	48.0	51.0	150	15000	eurwar1	Eurasian Reed Warbler	0.5489731953915741	2
+24	Spectrogram 1	1	445322.mp3.wav	51.0	54.0	150	15000	wlwwar	Willow Warbler	0.3073839225550639	1
+25	Spectrogram 1	1	445322.mp3.wav	51.0	54.0	150	15000	yellow2	Yellowhammer	0.11885739071977301	2
+26	Spectrogram 1	1	445322.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.9996703014309923	1
+27	Spectrogram 1	1	445322.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.9998828700227445	1
+28	Spectrogram 1	1	445322.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9496265920067868	1
+29	Spectrogram 1	1	445322.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.615848383958213	2
+30	Spectrogram 1	1	445322.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.13309336028407476	3
+31	Spectrogram 1	1	445322.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.999629568161185	1
+32	Spectrogram 1	1	445322.mp3.wav	60.0	63.0	150	15000	ictwar1	Icterine Warbler	0.9984139074120856	1
+33	Spectrogram 1	1	445322.mp3.wav	72.0	75.0	150	15000	marwar3	Marsh Warbler	0.9154133610494629	1
+34	Spectrogram 1	1	445322.mp3.wav	72.0	75.0	150	15000	ictwar1	Icterine Warbler	0.41766174131378275	2
+35	Spectrogram 1	1	445322.mp3.wav	72.0	75.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1631195829574598	3
+36	Spectrogram 1	1	445322.mp3.wav	75.0	78.0	150	15000	marwar3	Marsh Warbler	0.9892432016899835	1
+37	Spectrogram 1	1	445322.mp3.wav	78.0	81.0	150	15000	comnig1	Common Nightingale	0.6194802289348202	1
+38	Spectrogram 1	1	445322.mp3.wav	78.0	81.0	150	15000	hooori	Hooded Oriole	0.3168168564999974	2
+39	Spectrogram 1	1	445322.mp3.wav	81.0	84.0	150	15000	marwar3	Marsh Warbler	0.9876483121920707	1
+40	Spectrogram 1	1	445322.mp3.wav	84.0	87.0	150	15000	ictwar1	Icterine Warbler	0.9997372488344282	1
+41	Spectrogram 1	1	445322.mp3.wav	87.0	90.0	150	15000	ictwar1	Icterine Warbler	0.9997005271568445	1
+42	Spectrogram 1	1	445322.mp3.wav	87.0	90.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1832643069592077	2
+43	Spectrogram 1	1	445322.mp3.wav	63.0	66.0	150	15000	wlwwar	Willow Warbler	0.37872671346065356	1
+44	Spectrogram 1	1	445322.mp3.wav	63.0	66.0	150	15000	whinch1	Whinchat	0.1457862935913295	2
+45	Spectrogram 1	1	445322.mp3.wav	63.0	66.0	150	15000	comros	Common Rosefinch	0.1123760499010238	3
+46	Spectrogram 1	1	445322.mp3.wav	90.0	93.0	150	15000	melwar1	Melodious Warbler	0.8912858136852208	1
+47	Spectrogram 1	1	445322.mp3.wav	90.0	93.0	150	15000	ictwar1	Icterine Warbler	0.4855694126492162	2
+48	Spectrogram 1	1	445322.mp3.wav	90.0	93.0	150	15000	garwar1	Garden Warbler	0.4005874632354688	3
+49	Spectrogram 1	1	445322.mp3.wav	93.0	96.0	150	15000	ictwar1	Icterine Warbler	0.9996410795542775	1
+50	Spectrogram 1	1	445322.mp3.wav	96.0	99.0	150	15000	ictwar1	Icterine Warbler	0.9982154016843243	1
+51	Spectrogram 1	1	445322.mp3.wav	96.0	99.0	150	15000	melwar1	Melodious Warbler	0.12007698301241608	2
+52	Spectrogram 1	1	445322.mp3.wav	99.0	102.0	150	15000	marwar3	Marsh Warbler	0.23682956263400573	1
+53	Spectrogram 1	1	445322.mp3.wav	99.0	102.0	150	15000	grewhi1	Greater Whitethroat	0.1259073450500067	2
+54	Spectrogram 1	1	445322.mp3.wav	99.0	102.0	150	15000	ictwar1	Icterine Warbler	0.12197990010664146	3
+55	Spectrogram 1	1	445322.mp3.wav	102.0	105.0	150	15000	ictwar1	Icterine Warbler	0.9551944916570835	1
+56	Spectrogram 1	1	445322.mp3.wav	102.0	105.0	150	15000	eurcur	Eurasian Curlew	0.2282677996562615	2
+57	Spectrogram 1	1	445322.mp3.wav	105.0	108.0	150	15000	ictwar1	Icterine Warbler	0.9991214038471565	1
+58	Spectrogram 1	1	445322.mp3.wav	108.0	111.0	150	15000	ictwar1	Icterine Warbler	0.9992421333274797	1
+59	Spectrogram 1	1	445322.mp3.wav	111.0	114.0	150	15000	ictwar1	Icterine Warbler	0.876139545294036	1
+60	Spectrogram 1	1	445322.mp3.wav	111.0	114.0	150	15000	eurwar1	Eurasian Reed Warbler	0.43645612088972174	2
+61	Spectrogram 1	1	445322.mp3.wav	111.0	114.0	150	15000	mouwar1	Moustached Warbler	0.18184277691687267	3
+62	Spectrogram 1	1	445322.mp3.wav	114.0	117.0	150	15000	wlwwar	Willow Warbler	0.16390277267241693	1
+63	Spectrogram 1	1	445322.mp3.wav	114.0	117.0	150	15000	blueth	Bluethroat	0.14606128979399519	2
+64	Spectrogram 1	1	445322.mp3.wav	114.0	117.0	150	15000	mouwar1	Moustached Warbler	0.11351801449072524	3
+65	Spectrogram 1	1	445322.mp3.wav	117.0	120.0	150	15000	ictwar1	Icterine Warbler	0.9823855779813139	1
+66	Spectrogram 1	1	445322.mp3.wav	117.0	120.0	150	15000	weowar1	Western Olivaceous Warbler	0.16081738827168998	2
+67	Spectrogram 1	1	445322.mp3.wav	117.0	120.0	150	15000	blrwar1	Blyth's Reed Warbler	0.14657270678647913	3
+68	Spectrogram 1	1	445322.mp3.wav	66.0	69.0	150	15000	ictwar1	Icterine Warbler	0.9527317097306381	1
+69	Spectrogram 1	1	445322.mp3.wav	66.0	69.0	150	15000	marwar3	Marsh Warbler	0.8878937500279035	2
+70	Spectrogram 1	1	445322.mp3.wav	69.0	72.0	150	15000	marwar3	Marsh Warbler	0.9932283567132859	1
+71	Spectrogram 1	1	445322.mp3.wav	69.0	72.0	150	15000	ictwar1	Icterine Warbler	0.20028780108605024	2
+72	Spectrogram 1	1	445322.mp3.wav	120.0	123.0	150	15000	ictwar1	Icterine Warbler	0.47079851735043243	1
+73	Spectrogram 1	1	445322.mp3.wav	120.0	123.0	150	15000	weowar1	Western Olivaceous Warbler	0.3182758366323372	2
+74	Spectrogram 1	1	445322.mp3.wav	120.0	123.0	150	15000	marwar3	Marsh Warbler	0.2102506307916332	3
+75	Spectrogram 1	1	445322.mp3.wav	132.0	135.0	150	15000	sedwar1	Sedge Warbler	0.7607004519777959	1
+76	Spectrogram 1	1	445322.mp3.wav	132.0	135.0	150	15000	marwar3	Marsh Warbler	0.627227590280736	2
+77	Spectrogram 1	1	445322.mp3.wav	135.0	138.0	150	15000	ictwar1	Icterine Warbler	0.9996184451390127	1
+78	Spectrogram 1	1	445322.mp3.wav	138.0	141.0	150	15000	ictwar1	Icterine Warbler	0.9998661681170663	1
+79	Spectrogram 1	1	445322.mp3.wav	141.0	144.0	150	15000	ictwar1	Icterine Warbler	0.9950475895246178	1
+80	Spectrogram 1	1	445322.mp3.wav	144.0	147.0	150	15000	ictwar1	Icterine Warbler	0.9976017093492063	1
+81	Spectrogram 1	1	445322.mp3.wav	147.0	150.0	150	15000	ictwar1	Icterine Warbler	0.9980831576530205	1
+82	Spectrogram 1	1	445322.mp3.wav	123.0	126.0	150	15000	ictwar1	Icterine Warbler	0.6694473354724662	1
+83	Spectrogram 1	1	445322.mp3.wav	123.0	126.0	150	15000	melwar1	Melodious Warbler	0.41213239588436984	2
+84	Spectrogram 1	1	445322.mp3.wav	123.0	126.0	150	15000	blrwar1	Blyth's Reed Warbler	0.273427559550018	3
+85	Spectrogram 1	1	445322.mp3.wav	126.0	129.0	150	15000	marwar3	Marsh Warbler	0.9276811810733622	1
+86	Spectrogram 1	1	445322.mp3.wav	126.0	129.0	150	15000	ictwar1	Icterine Warbler	0.7313201482932215	2
+87	Spectrogram 1	1	445322.mp3.wav	126.0	129.0	150	15000	blrwar1	Blyth's Reed Warbler	0.10430127539378481	3
+88	Spectrogram 1	1	445322.mp3.wav	129.0	132.0	150	15000	ictwar1	Icterine Warbler	0.9879405682921434	1
+89	Spectrogram 1	1	445322.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9697502188937598	1
+90	Spectrogram 1	1	445322.mp3.wav	0.0	3.0	150	15000	sonthr1	Song Thrush	0.2522899241144193	2
+91	Spectrogram 1	1	445322.mp3.wav	0.0	3.0	150	15000	blrwar1	Blyth's Reed Warbler	0.22633898773812136	3

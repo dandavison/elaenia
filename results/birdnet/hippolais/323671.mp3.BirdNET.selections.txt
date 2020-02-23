@@ -1,0 +1,32 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	323671.mp3.wav	12.0	15.0	150	15000	webwar1	Western Bonelli's Warbler	0.41081954313444813	1
+2	Spectrogram 1	1	323671.mp3.wav	12.0	15.0	150	15000	wlwwar	Willow Warbler	0.106879011538118	2
+3	Spectrogram 1	1	323671.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.4350661462167514	1
+4	Spectrogram 1	1	323671.mp3.wav	15.0	18.0	150	15000	webwar1	Western Bonelli's Warbler	0.22067075675431058	2
+5	Spectrogram 1	1	323671.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.865711668167253	1
+6	Spectrogram 1	1	323671.mp3.wav	18.0	21.0	150	15000	webwar1	Western Bonelli's Warbler	0.140157509001928	2
+7	Spectrogram 1	1	323671.mp3.wav	21.0	24.0	150	15000	wlwwar	Willow Warbler	0.2130835566112309	1
+8	Spectrogram 1	1	323671.mp3.wav	21.0	24.0	150	15000	yellow2	Yellowhammer	0.13704967450383662	2
+9	Spectrogram 1	1	323671.mp3.wav	21.0	24.0	150	15000	trepip	Tree Pipit	0.10583509706091818	3
+10	Spectrogram 1	1	323671.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.7373654748016008	1
+11	Spectrogram 1	1	323671.mp3.wav	24.0	27.0	150	15000	wooduc	Wood Duck	0.21181446483430472	2
+12	Spectrogram 1	1	323671.mp3.wav	24.0	27.0	150	15000	amegfi	American Goldfinch	0.13380195789848476	3
+13	Spectrogram 1	1	323671.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.757514886693177	1
+14	Spectrogram 1	1	323671.mp3.wav	27.0	30.0	150	15000	comros	Common Rosefinch	0.10927942450926102	2
+15	Spectrogram 1	1	323671.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.7899333737856453	1
+16	Spectrogram 1	1	323671.mp3.wav	3.0	6.0	150	15000	webwar1	Western Bonelli's Warbler	0.15253317393747984	2
+17	Spectrogram 1	1	323671.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.4820896289127695	1
+18	Spectrogram 1	1	323671.mp3.wav	33.0	36.0	150	15000	wooduc	Wood Duck	0.11402265017979107	2
+19	Spectrogram 1	1	323671.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.7105677003238459	1
+20	Spectrogram 1	1	323671.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.7790405678909753	1
+21	Spectrogram 1	1	323671.mp3.wav	42.0	45.0	150	15000	yellow2	Yellowhammer	0.13808156963040752	1
+22	Spectrogram 1	1	323671.mp3.wav	42.0	45.0	150	15000	wlwwar	Willow Warbler	0.13606096262131612	2
+23	Spectrogram 1	1	323671.mp3.wav	42.0	45.0	150	15000	trepip	Tree Pipit	0.13307893660494408	3
+24	Spectrogram 1	1	323671.mp3.wav	6.0	9.0	150	15000	citfin1	Citril Finch	0.23081333231802736	1
+25	Spectrogram 1	1	323671.mp3.wav	6.0	9.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1453188776523874	2
+26	Spectrogram 1	1	323671.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.1633508581159822	1
+27	Spectrogram 1	1	323671.mp3.wav	9.0	12.0	150	15000	webwar1	Western Bonelli's Warbler	0.11798362482473916	2
+28	Spectrogram 1	1	323671.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.11695744135718925	3
+29	Spectrogram 1	1	323671.mp3.wav	0.0	3.0	150	15000	webwar1	Western Bonelli's Warbler	0.3056841785262044	1
+30	Spectrogram 1	1	323671.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.11863070119407611	2
+31	Spectrogram 1	1	323671.mp3.wav	0.0	3.0	150	15000	wlwwar	Willow Warbler	0.11620079123596208	3

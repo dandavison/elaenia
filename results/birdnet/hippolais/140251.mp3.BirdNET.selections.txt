@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	140251.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.12294033803453645	1
+2	Spectrogram 1	1	140251.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.1207308556134408	2
+3	Spectrogram 1	1	140251.mp3.wav	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.10975717977415299	3
+4	Spectrogram 1	1	140251.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.38194584864254577	1
+5	Spectrogram 1	1	140251.mp3.wav	6.0	9.0	150	15000	comnig1	Common Nightingale	0.27405845036229104	2
+6	Spectrogram 1	1	140251.mp3.wav	6.0	9.0	150	15000	eurbla	Eurasian Blackbird	0.22058557639870888	3
+7	Spectrogram 1	1	140251.mp3.wav	0.0	3.0	150	15000	virrai	Virginia Rail	0.18669235782148855	1
+8	Spectrogram 1	1	140251.mp3.wav	0.0	3.0	150	15000	barpar2	Barbary Partridge	0.10946612329298445	2

@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	380539.mp3.wav	12.0	15.0	150	15000	warvir	Warbling Vireo	0.47670238861868097	1
+2	Spectrogram 1	1	380539.mp3.wav	12.0	15.0	150	15000	calgna	California Gnatcatcher	0.14694090935621212	2
+3	Spectrogram 1	1	380539.mp3.wav	12.0	15.0	150	15000	hutvir	Hutton's Vireo	0.14188113984994932	3
+4	Spectrogram 1	1	380539.mp3.wav	15.0	18.0	150	15000	whevir	White-eyed Vireo	0.25938272788122935	1
+5	Spectrogram 1	1	380539.mp3.wav	15.0	18.0	150	15000	grycat	Gray Catbird	0.22394131199526393	2
+6	Spectrogram 1	1	380539.mp3.wav	15.0	18.0	150	15000	houwre	House Wren	0.19489160328380023	3
+7	Spectrogram 1	1	380539.mp3.wav	18.0	21.0	150	15000	warvir	Warbling Vireo	0.40708715661100797	1
+8	Spectrogram 1	1	380539.mp3.wav	18.0	21.0	150	15000	grycat	Gray Catbird	0.2486702410691015	2
+9	Spectrogram 1	1	380539.mp3.wav	3.0	6.0	150	15000	grycat	Gray Catbird	0.20668677618379788	1
+10	Spectrogram 1	1	380539.mp3.wav	3.0	6.0	150	15000	calgna	California Gnatcatcher	0.19827298523150638	2
+11	Spectrogram 1	1	380539.mp3.wav	3.0	6.0	150	15000	houwre	House Wren	0.17998445061577537	3
+12	Spectrogram 1	1	380539.mp3.wav	6.0	9.0	150	15000	calgna	California Gnatcatcher	0.7784588970612876	1
+13	Spectrogram 1	1	380539.mp3.wav	6.0	9.0	150	15000	grycat	Gray Catbird	0.41141135578222665	2
+14	Spectrogram 1	1	380539.mp3.wav	9.0	12.0	150	15000	calgna	California Gnatcatcher	0.9721368180675242	1
+15	Spectrogram 1	1	380539.mp3.wav	0.0	3.0	150	15000	grycat	Gray Catbird	0.9113168967447376	1
+16	Spectrogram 1	1	380539.mp3.wav	0.0	3.0	150	15000	whevir	White-eyed Vireo	0.20364292899374442	2
+17	Spectrogram 1	1	380539.mp3.wav	0.0	3.0	150	15000	houwre	House Wren	0.16076994748654774	3

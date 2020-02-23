@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	484697.mp3.wav	12.0	15.0	150	15000	wantat1	Wandering Tattler	0.661079443993013	1
+2	Spectrogram 1	1	484697.mp3.wav	12.0	15.0	150	15000	whtkin2	White-throated Kingfisher	0.15622899029823398	2
+3	Spectrogram 1	1	484697.mp3.wav	18.0	21.0	150	15000	lesyel	Lesser Yellowlegs	0.6654990094806582	1
+4	Spectrogram 1	1	484697.mp3.wav	18.0	21.0	150	15000	parcro2	Parrot Crossbill	0.29394184913019444	2
+5	Spectrogram 1	1	484697.mp3.wav	18.0	21.0	150	15000	woosan	Wood Sandpiper	0.19366321923329272	3
+6	Spectrogram 1	1	484697.mp3.wav	21.0	24.0	150	15000	parcro2	Parrot Crossbill	0.6081312893644012	1
+7	Spectrogram 1	1	484697.mp3.wav	21.0	24.0	150	15000	lesyel	Lesser Yellowlegs	0.33805584889464724	2
+8	Spectrogram 1	1	484697.mp3.wav	21.0	24.0	150	15000	woosan	Wood Sandpiper	0.22865559801167715	3
+9	Spectrogram 1	1	484697.mp3.wav	24.0	27.0	150	15000	lesyel	Lesser Yellowlegs	0.31122839863275487	1
+10	Spectrogram 1	1	484697.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9966220616716518	1
+11	Spectrogram 1	1	484697.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.11350298262471979	2
+12	Spectrogram 1	1	484697.mp3.wav	6.0	9.0	150	15000	tunswa	Tundra Swan	0.24132867488283496	1
+13	Spectrogram 1	1	484697.mp3.wav	6.0	9.0	150	15000	comcuc	Common Cuckoo	0.20175216346986172	2
+14	Spectrogram 1	1	484697.mp3.wav	6.0	9.0	150	15000	whoswa	Whooper Swan	0.141493154926896	3
+15	Spectrogram 1	1	484697.mp3.wav	9.0	12.0	150	15000	litowl1	Little Owl	0.12730041002816297	1
+16	Spectrogram 1	1	484697.mp3.wav	9.0	12.0	150	15000	whtkin2	White-throated Kingfisher	0.10355005953695508	2
+17	Spectrogram 1	1	484697.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9972919871788646	1

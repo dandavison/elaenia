@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	341168.mp3.wav	12.0	15.0	150	15000	wooshr1	Woodchat Shrike	0.27123057851440213	1
+2	Spectrogram 1	1	341168.mp3.wav	12.0	15.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.1465989795601716	2
+3	Spectrogram 1	1	341168.mp3.wav	12.0	15.0	150	15000	monpar	Monk Parakeet	0.10776480974656315	3
+4	Spectrogram 1	1	341168.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.35672439017218494	1
+5	Spectrogram 1	1	341168.mp3.wav	15.0	18.0	150	15000	bkcvir1	Black-capped Vireo	0.15370384179982155	2
+6	Spectrogram 1	1	341168.mp3.wav	15.0	18.0	150	15000	marwar3	Marsh Warbler	0.1337024101880384	3
+7	Spectrogram 1	1	341168.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.33372066069635464	1
+8	Spectrogram 1	1	341168.mp3.wav	18.0	21.0	150	15000	bkcvir1	Black-capped Vireo	0.309633565402728	2
+9	Spectrogram 1	1	341168.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.2187698451499991	3
+10	Spectrogram 1	1	341168.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9821088882295963	1
+11	Spectrogram 1	1	341168.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.11271686633213654	2
+12	Spectrogram 1	1	341168.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.7075255219709133	1
+13	Spectrogram 1	1	341168.mp3.wav	24.0	27.0	150	15000	eurwar1	Eurasian Reed Warbler	0.31977582727880144	2
+14	Spectrogram 1	1	341168.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9829230935334944	1
+15	Spectrogram 1	1	341168.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9967938576509544	1
+16	Spectrogram 1	1	341168.mp3.wav	30.0	33.0	150	15000	bkcvir1	Black-capped Vireo	0.430946891522609	1
+17	Spectrogram 1	1	341168.mp3.wav	36.0	39.0	150	15000	eurser1	European Serin	0.33538181458461075	1
+18	Spectrogram 1	1	341168.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.4500505265295988	1
+19	Spectrogram 1	1	341168.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.2733797418290491	2
+20	Spectrogram 1	1	341168.mp3.wav	6.0	9.0	150	15000	weowar2	Western Orphean Warbler	0.2700304383170043	3
+21	Spectrogram 1	1	341168.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.7433478760801474	1
+22	Spectrogram 1	1	341168.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.5076291007442443	2
+23	Spectrogram 1	1	341168.mp3.wav	9.0	12.0	150	15000	sarwar1	Sardinian Warbler	0.3356609124364268	3
+24	Spectrogram 1	1	341168.mp3.wav	0.0	3.0	150	15000	yebcha	Yellow-breasted Chat	0.3324989644512429	1
+25	Spectrogram 1	1	341168.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.17175925714424875	2
+26	Spectrogram 1	1	341168.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.11785823418695071	3

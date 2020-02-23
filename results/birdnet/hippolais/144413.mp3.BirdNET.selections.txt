@@ -1,0 +1,33 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	144413.mp3.wav	12.0	15.0	150	15000	gretit1	Great Tit	0.2587086628134442	1
+2	Spectrogram 1	1	144413.mp3.wav	12.0	15.0	150	15000	eurgol	European Goldfinch	0.24308023125587774	2
+3	Spectrogram 1	1	144413.mp3.wav	15.0	18.0	150	15000	gretit1	Great Tit	0.248203818183658	1
+4	Spectrogram 1	1	144413.mp3.wav	15.0	18.0	150	15000	eutspa	Eurasian Tree Sparrow	0.11608613568153205	2
+5	Spectrogram 1	1	144413.mp3.wav	15.0	18.0	150	15000	brambl	Brambling	0.10403816494522868	3
+6	Spectrogram 1	1	144413.mp3.wav	18.0	21.0	150	15000	gretit1	Great Tit	0.6911006894659785	1
+7	Spectrogram 1	1	144413.mp3.wav	18.0	21.0	150	15000	wiltit1	Willow Tit	0.12632744913252578	2
+8	Spectrogram 1	1	144413.mp3.wav	21.0	24.0	150	15000	gretit1	Great Tit	0.3952092013964656	1
+9	Spectrogram 1	1	144413.mp3.wav	21.0	24.0	150	15000	blutit	Eurasian Blue Tit	0.12095535792179694	2
+10	Spectrogram 1	1	144413.mp3.wav	24.0	27.0	150	15000	gretit1	Great Tit	0.44975897393027187	1
+11	Spectrogram 1	1	144413.mp3.wav	24.0	27.0	150	15000	blutit	Eurasian Blue Tit	0.13254112680986704	2
+12	Spectrogram 1	1	144413.mp3.wav	27.0	30.0	150	15000	gretit1	Great Tit	0.1953504903180237	1
+13	Spectrogram 1	1	144413.mp3.wav	3.0	6.0	150	15000	gretit1	Great Tit	0.37920372905898275	1
+14	Spectrogram 1	1	144413.mp3.wav	3.0	6.0	150	15000	blutit	Eurasian Blue Tit	0.12716164502297864	2
+15	Spectrogram 1	1	144413.mp3.wav	3.0	6.0	150	15000	citfin1	Citril Finch	0.10179212020415927	3
+16	Spectrogram 1	1	144413.mp3.wav	30.0	33.0	150	15000	trepip	Tree Pipit	0.5285971919010873	1
+17	Spectrogram 1	1	144413.mp3.wav	30.0	33.0	150	15000	gretit1	Great Tit	0.14681867221756925	2
+18	Spectrogram 1	1	144413.mp3.wav	33.0	36.0	150	15000	eurgol	European Goldfinch	0.46932779305322525	1
+19	Spectrogram 1	1	144413.mp3.wav	33.0	36.0	150	15000	trepip	Tree Pipit	0.13861643676334418	2
+20	Spectrogram 1	1	144413.mp3.wav	36.0	39.0	150	15000	gretit1	Great Tit	0.32876950416771705	1
+21	Spectrogram 1	1	144413.mp3.wav	39.0	42.0	150	15000	gretit1	Great Tit	0.3127140572349717	1
+22	Spectrogram 1	1	144413.mp3.wav	39.0	42.0	150	15000	dunnoc1	Dunnock	0.10949478955916707	2
+23	Spectrogram 1	1	144413.mp3.wav	42.0	45.0	150	15000	gretit1	Great Tit	0.125250026736057	1
+24	Spectrogram 1	1	144413.mp3.wav	45.0	48.0	150	15000	gretit1	Great Tit	0.19127939089526122	1
+25	Spectrogram 1	1	144413.mp3.wav	45.0	48.0	150	15000	brambl	Brambling	0.18673078429199333	2
+26	Spectrogram 1	1	144413.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.16794921975811314	1
+27	Spectrogram 1	1	144413.mp3.wav	48.0	51.0	150	15000	wiltit1	Willow Tit	0.16150227645929183	2
+28	Spectrogram 1	1	144413.mp3.wav	48.0	51.0	150	15000	weowar1	Western Olivaceous Warbler	0.159173911503907	3
+29	Spectrogram 1	1	144413.mp3.wav	6.0	9.0	150	15000	gretit1	Great Tit	0.4648082779568171	1
+30	Spectrogram 1	1	144413.mp3.wav	6.0	9.0	150	15000	blutit	Eurasian Blue Tit	0.12247464386916862	2
+31	Spectrogram 1	1	144413.mp3.wav	9.0	12.0	150	15000	eurgol	European Goldfinch	0.9043073059880078	1
+32	Spectrogram 1	1	144413.mp3.wav	0.0	3.0	150	15000	gretit1	Great Tit	0.3706256355588855	1

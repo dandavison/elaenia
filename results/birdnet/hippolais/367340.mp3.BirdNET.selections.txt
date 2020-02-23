@@ -1,0 +1,29 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	367340.mp3.wav	12.0	15.0	150	15000	mouwar1	Moustached Warbler	0.6128723486743605	1
+2	Spectrogram 1	1	367340.mp3.wav	12.0	15.0	150	15000	padwar1	Paddyfield Warbler	0.5715082676481896	2
+3	Spectrogram 1	1	367340.mp3.wav	12.0	15.0	150	15000	wemhar1	Eurasian Marsh-Harrier	0.15861978407591812	3
+4	Spectrogram 1	1	367340.mp3.wav	15.0	18.0	150	15000	mouwar1	Moustached Warbler	0.2501987253104092	1
+5	Spectrogram 1	1	367340.mp3.wav	15.0	18.0	150	15000	eurwar1	Eurasian Reed Warbler	0.13140163436078448	2
+6	Spectrogram 1	1	367340.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.12626895496634902	3
+7	Spectrogram 1	1	367340.mp3.wav	18.0	21.0	150	15000	mouwar1	Moustached Warbler	0.20618676220451299	1
+8	Spectrogram 1	1	367340.mp3.wav	18.0	21.0	150	15000	padwar1	Paddyfield Warbler	0.19058003688907757	2
+9	Spectrogram 1	1	367340.mp3.wav	18.0	21.0	150	15000	spocra1	Spotted Crake	0.13507277313937047	3
+10	Spectrogram 1	1	367340.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.3603875584089602	1
+11	Spectrogram 1	1	367340.mp3.wav	21.0	24.0	150	15000	spocra1	Spotted Crake	0.10436761614329639	2
+12	Spectrogram 1	1	367340.mp3.wav	21.0	24.0	150	15000	mouwar1	Moustached Warbler	0.10046378953797958	3
+13	Spectrogram 1	1	367340.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.993174822297326	1
+14	Spectrogram 1	1	367340.mp3.wav	24.0	27.0	150	15000	blrwar1	Blyth's Reed Warbler	0.30812353263193526	2
+15	Spectrogram 1	1	367340.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9978347120999865	1
+16	Spectrogram 1	1	367340.mp3.wav	27.0	30.0	150	15000	blrwar1	Blyth's Reed Warbler	0.239257577113602	2
+17	Spectrogram 1	1	367340.mp3.wav	3.0	6.0	150	15000	trepip	Tree Pipit	0.15471557235258054	1
+18	Spectrogram 1	1	367340.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.34911697914058776	1
+19	Spectrogram 1	1	367340.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.3113124723791374	2
+20	Spectrogram 1	1	367340.mp3.wav	30.0	33.0	150	15000	thelar1	Thekla's Lark	0.24382501361371284	3
+21	Spectrogram 1	1	367340.mp3.wav	6.0	9.0	150	15000	boboli	Bobolink	0.3498809141519339	1
+22	Spectrogram 1	1	367340.mp3.wav	6.0	9.0	150	15000	wooshr1	Woodchat Shrike	0.15624386824763203	2
+23	Spectrogram 1	1	367340.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.146765261090535	3
+24	Spectrogram 1	1	367340.mp3.wav	9.0	12.0	150	15000	cliswa	Cliff Swallow	0.2509817082644663	1
+25	Spectrogram 1	1	367340.mp3.wav	9.0	12.0	150	15000	rebnut	Red-breasted Nuthatch	0.18105313365779313	2
+26	Spectrogram 1	1	367340.mp3.wav	9.0	12.0	150	15000	eurwar1	Eurasian Reed Warbler	0.178461518349332	3
+27	Spectrogram 1	1	367340.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.11192401930663386	1
+28	Spectrogram 1	1	367340.mp3.wav	0.0	3.0	150	15000	houbun3	House Bunting	0.10781510909121994	2

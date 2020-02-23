@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	183181.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.8671523852780695	1
+2	Spectrogram 1	1	183181.mp3.wav	12.0	15.0	150	15000	blrwar1	Blyth's Reed Warbler	0.32638901349811406	2
+3	Spectrogram 1	1	183181.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.22493976206417848	1
+4	Spectrogram 1	1	183181.mp3.wav	15.0	18.0	150	15000	atlfly1	Atlas Flycatcher	0.21035347150672462	2
+5	Spectrogram 1	1	183181.mp3.wav	15.0	18.0	150	15000	blackc1	Eurasian Blackcap	0.1985135754492737	3
+6	Spectrogram 1	1	183181.mp3.wav	18.0	21.0	150	15000	stodov1	Stock Dove	0.2805525787152306	1
+7	Spectrogram 1	1	183181.mp3.wav	18.0	21.0	150	15000	sonthr1	Song Thrush	0.1655408457369321	2
+8	Spectrogram 1	1	183181.mp3.wav	18.0	21.0	150	15000	cowpig1	Common Wood-Pigeon	0.13429172542448228	3
+9	Spectrogram 1	1	183181.mp3.wav	21.0	24.0	150	15000	sposta1	Spotless Starling	0.42985514479085285	1
+10	Spectrogram 1	1	183181.mp3.wav	21.0	24.0	150	15000	houspa	House Sparrow	0.21331676283714424	2
+11	Spectrogram 1	1	183181.mp3.wav	21.0	24.0	150	15000	cohmar1	Common House-Martin	0.21087187335647997	3
+12	Spectrogram 1	1	183181.mp3.wav	24.0	27.0	150	15000	sposta1	Spotless Starling	0.4058987280730426	1
+13	Spectrogram 1	1	183181.mp3.wav	24.0	27.0	150	15000	burthr	Blue Rock-Thrush	0.16488327377481918	2
+14	Spectrogram 1	1	183181.mp3.wav	24.0	27.0	150	15000	cohmar1	Common House-Martin	0.15417873474118443	3
+15	Spectrogram 1	1	183181.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9450932754928777	1
+16	Spectrogram 1	1	183181.mp3.wav	27.0	30.0	150	15000	grycat	Gray Catbird	0.19341445669916643	2
+17	Spectrogram 1	1	183181.mp3.wav	3.0	6.0	150	15000	comnig1	Common Nightingale	0.7880658438820137	1
+18	Spectrogram 1	1	183181.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.14024694665662474	2
+19	Spectrogram 1	1	183181.mp3.wav	3.0	6.0	150	15000	blackc1	Eurasian Blackcap	0.13879890704211229	3
+20	Spectrogram 1	1	183181.mp3.wav	30.0	33.0	150	15000	????	Human	0.711498913528709	1
+21	Spectrogram 1	1	183181.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9975673653774348	1
+22	Spectrogram 1	1	183181.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9982123601516618	1
+23	Spectrogram 1	1	183181.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9998366714025739	1

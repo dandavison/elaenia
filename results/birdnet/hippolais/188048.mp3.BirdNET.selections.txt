@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	188048.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.2657671025008749	1
+2	Spectrogram 1	1	188048.mp3.wav	12.0	15.0	150	15000	cliswa	Cliff Swallow	0.20350775658271925	2
+3	Spectrogram 1	1	188048.mp3.wav	15.0	18.0	150	15000	grycat	Gray Catbird	0.2846697634697995	1
+4	Spectrogram 1	1	188048.mp3.wav	15.0	18.0	150	15000	brnthr	Brown Thrasher	0.2530360060323188	2
+5	Spectrogram 1	1	188048.mp3.wav	15.0	18.0	150	15000	balori	Baltimore Oriole	0.20400567724267055	3
+6	Spectrogram 1	1	188048.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9803367316148192	1
+7	Spectrogram 1	1	188048.mp3.wav	18.0	21.0	150	15000	blrwar1	Blyth's Reed Warbler	0.10222232931402796	2
+8	Spectrogram 1	1	188048.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.999722185959038	1
+9	Spectrogram 1	1	188048.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9866241528703367	1
+10	Spectrogram 1	1	188048.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9994489359359768	1
+11	Spectrogram 1	1	188048.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9982061976068433	1
+12	Spectrogram 1	1	188048.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9994957119547504	1
+13	Spectrogram 1	1	188048.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9967242096141018	1
+14	Spectrogram 1	1	188048.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.8899515239725632	1
+15	Spectrogram 1	1	188048.mp3.wav	0.0	3.0	150	15000	marwar3	Marsh Warbler	0.7896493832730489	2
+16	Spectrogram 1	1	188048.mp3.wav	0.0	3.0	150	15000	blrwar1	Blyth's Reed Warbler	0.2802219489009074	3

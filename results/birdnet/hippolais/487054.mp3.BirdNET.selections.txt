@@ -1,0 +1,15 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	487054.mp3.wav	12.0	15.0	150	15000	rebshr1	Red-backed Shrike	0.9932216719704077	1
+2	Spectrogram 1	1	487054.mp3.wav	15.0	18.0	150	15000	rebshr1	Red-backed Shrike	0.7284922124598343	1
+3	Spectrogram 1	1	487054.mp3.wav	15.0	18.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1470049327482148	2
+4	Spectrogram 1	1	487054.mp3.wav	15.0	18.0	150	15000	blackc1	Eurasian Blackcap	0.10569811565116806	3
+5	Spectrogram 1	1	487054.mp3.wav	18.0	21.0	150	15000	rebshr1	Red-backed Shrike	0.9443944553829079	1
+6	Spectrogram 1	1	487054.mp3.wav	21.0	24.0	150	15000	rebshr1	Red-backed Shrike	0.9889468374150336	1
+7	Spectrogram 1	1	487054.mp3.wav	24.0	27.0	150	15000	rebshr1	Red-backed Shrike	0.9973553353961165	1
+8	Spectrogram 1	1	487054.mp3.wav	27.0	30.0	150	15000	rebshr1	Red-backed Shrike	0.995068665836159	1
+9	Spectrogram 1	1	487054.mp3.wav	3.0	6.0	150	15000	rebshr1	Red-backed Shrike	0.9979022636773375	1
+10	Spectrogram 1	1	487054.mp3.wav	30.0	33.0	150	15000	eurtre1	Eurasian Treecreeper	0.25486331303122645	1
+11	Spectrogram 1	1	487054.mp3.wav	6.0	9.0	150	15000	rebshr1	Red-backed Shrike	0.9963020018024898	1
+12	Spectrogram 1	1	487054.mp3.wav	9.0	12.0	150	15000	rebshr1	Red-backed Shrike	0.9650695194782426	1
+13	Spectrogram 1	1	487054.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.1545000844983975	2
+14	Spectrogram 1	1	487054.mp3.wav	0.0	3.0	150	15000	rebshr1	Red-backed Shrike	0.997657982418143	1

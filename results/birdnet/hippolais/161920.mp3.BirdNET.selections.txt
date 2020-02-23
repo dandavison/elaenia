@@ -1,0 +1,39 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	161920.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9121224334651461	1
+2	Spectrogram 1	1	161920.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.746125179660945	2
+3	Spectrogram 1	1	161920.mp3.wav	15.0	18.0	150	15000	eurlin1	Eurasian Linnet	0.8824592448003201	1
+4	Spectrogram 1	1	161920.mp3.wav	18.0	21.0	150	15000	eurlin1	Eurasian Linnet	0.9954727126749647	1
+5	Spectrogram 1	1	161920.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9972728061942985	1
+6	Spectrogram 1	1	161920.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.10816941849645374	2
+7	Spectrogram 1	1	161920.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.991829672376772	1
+8	Spectrogram 1	1	161920.mp3.wav	24.0	27.0	150	15000	marwar3	Marsh Warbler	0.20241150921966763	2
+9	Spectrogram 1	1	161920.mp3.wav	27.0	30.0	150	15000	eurlin1	Eurasian Linnet	0.9955694345104704	1
+10	Spectrogram 1	1	161920.mp3.wav	3.0	6.0	150	15000	eurwar1	Eurasian Reed Warbler	0.5947569136042244	1
+11	Spectrogram 1	1	161920.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.4606877850243935	2
+12	Spectrogram 1	1	161920.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.20490549287446205	3
+13	Spectrogram 1	1	161920.mp3.wav	30.0	33.0	150	15000	barwar1	Barred Warbler	0.27633306605735064	1
+14	Spectrogram 1	1	161920.mp3.wav	30.0	33.0	150	15000	weowar2	Western Orphean Warbler	0.268724640107786	2
+15	Spectrogram 1	1	161920.mp3.wav	30.0	33.0	150	15000	yellow2	Yellowhammer	0.13645373847336056	3
+16	Spectrogram 1	1	161920.mp3.wav	33.0	36.0	150	15000	thelar1	Thekla's Lark	0.7342976996031008	1
+17	Spectrogram 1	1	161920.mp3.wav	33.0	36.0	150	15000	woolar1	Wood Lark	0.142276238245617	2
+18	Spectrogram 1	1	161920.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.98087929458246	1
+19	Spectrogram 1	1	161920.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.12085775828351368	2
+20	Spectrogram 1	1	161920.mp3.wav	36.0	39.0	150	15000	marwar3	Marsh Warbler	0.1119567640847063	3
+21	Spectrogram 1	1	161920.mp3.wav	39.0	42.0	150	15000	eurlin1	Eurasian Linnet	0.9581320160025804	1
+22	Spectrogram 1	1	161920.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.16274993831352177	2
+23	Spectrogram 1	1	161920.mp3.wav	42.0	45.0	150	15000	reebun	Reed Bunting	0.2237182259296508	1
+24	Spectrogram 1	1	161920.mp3.wav	42.0	45.0	150	15000	ortbun1	Ortolan Bunting	0.2005143857987838	2
+25	Spectrogram 1	1	161920.mp3.wav	42.0	45.0	150	15000	yellow2	Yellowhammer	0.19469749587963173	3
+26	Spectrogram 1	1	161920.mp3.wav	45.0	48.0	150	15000	eurlin1	Eurasian Linnet	0.9988722872879553	1
+27	Spectrogram 1	1	161920.mp3.wav	48.0	51.0	150	15000	eurlin1	Eurasian Linnet	0.9149238426231913	1
+28	Spectrogram 1	1	161920.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.9016126898408757	1
+29	Spectrogram 1	1	161920.mp3.wav	51.0	54.0	150	15000	marwar3	Marsh Warbler	0.2590489955000024	2
+30	Spectrogram 1	1	161920.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.9996994663487762	1
+31	Spectrogram 1	1	161920.mp3.wav	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.9893402640212723	1
+32	Spectrogram 1	1	161920.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.12479424034653695	2
+33	Spectrogram 1	1	161920.mp3.wav	6.0	9.0	150	15000	eurwar1	Eurasian Reed Warbler	0.7683658510577728	1
+34	Spectrogram 1	1	161920.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.2668613905277214	2
+35	Spectrogram 1	1	161920.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9448499381444219	1
+36	Spectrogram 1	1	161920.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.5668010206097052	2
+37	Spectrogram 1	1	161920.mp3.wav	60.0	63.0	150	15000	eurlin1	Eurasian Linnet	0.9987502876988105	1
+38	Spectrogram 1	1	161920.mp3.wav	0.0	3.0	150	15000	eurlin1	Eurasian Linnet	0.9794403231682273	1

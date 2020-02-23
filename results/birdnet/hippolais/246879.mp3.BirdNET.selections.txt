@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	246879.mp3.wav	3.0	6.0	150	15000	blrwar1	Blyth's Reed Warbler	0.9558335493167711	1
+2	Spectrogram 1	1	246879.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.7007642751240204	2
+3	Spectrogram 1	1	246879.mp3.wav	3.0	6.0	150	15000	marwar3	Marsh Warbler	0.1698537984340998	3
+4	Spectrogram 1	1	246879.mp3.wav	0.0	3.0	150	15000	litowl1	Little Owl	0.2964473266519208	1
+5	Spectrogram 1	1	246879.mp3.wav	0.0	3.0	150	15000	mewgul	Mew Gull	0.14386126970723048	2
+6	Spectrogram 1	1	246879.mp3.wav	0.0	3.0	150	15000	marwar3	Marsh Warbler	0.1283938476987411	3

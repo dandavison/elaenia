@@ -1,0 +1,26 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	256496.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.673204855837579	1
+2	Spectrogram 1	1	256496.mp3.wav	12.0	15.0	150	15000	blrwar1	Blyth's Reed Warbler	0.46363224691771426	2
+3	Spectrogram 1	1	256496.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.21994022969141733	3
+4	Spectrogram 1	1	256496.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.905280349384263	1
+5	Spectrogram 1	1	256496.mp3.wav	15.0	18.0	150	15000	blrwar1	Blyth's Reed Warbler	0.18783021990899942	2
+6	Spectrogram 1	1	256496.mp3.wav	15.0	18.0	150	15000	eursis	Eurasian Siskin	0.12496171871228272	3
+7	Spectrogram 1	1	256496.mp3.wav	18.0	21.0	150	15000	eursis	Eurasian Siskin	0.9986109163638436	1
+8	Spectrogram 1	1	256496.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.7116903479371322	1
+9	Spectrogram 1	1	256496.mp3.wav	21.0	24.0	150	15000	blrwar1	Blyth's Reed Warbler	0.6991027612219253	2
+10	Spectrogram 1	1	256496.mp3.wav	21.0	24.0	150	15000	marwar3	Marsh Warbler	0.20157049344843392	3
+11	Spectrogram 1	1	256496.mp3.wav	24.0	27.0	150	15000	eurjac	Eurasian Jackdaw	0.16625016215475177	1
+12	Spectrogram 1	1	256496.mp3.wav	24.0	27.0	150	15000	eurmag1	Eurasian Magpie	0.12792525948748748	2
+13	Spectrogram 1	1	256496.mp3.wav	24.0	27.0	150	15000	rebcho1	Red-billed Chough	0.12491293837303373	3
+14	Spectrogram 1	1	256496.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.48706006735530566	1
+15	Spectrogram 1	1	256496.mp3.wav	3.0	6.0	150	15000	houspa	House Sparrow	0.4085182183086692	2
+16	Spectrogram 1	1	256496.mp3.wav	3.0	6.0	150	15000	eutspa	Eurasian Tree Sparrow	0.19993093391434033	3
+17	Spectrogram 1	1	256496.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.919540669770955	1
+18	Spectrogram 1	1	256496.mp3.wav	6.0	9.0	150	15000	lesgol	Lesser Goldfinch	0.16422763650999508	2
+19	Spectrogram 1	1	256496.mp3.wav	6.0	9.0	150	15000	blrwar1	Blyth's Reed Warbler	0.12963757400035883	3
+20	Spectrogram 1	1	256496.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.986144819805938	1
+21	Spectrogram 1	1	256496.mp3.wav	9.0	12.0	150	15000	weowar1	Western Olivaceous Warbler	0.14522410482154902	2
+22	Spectrogram 1	1	256496.mp3.wav	9.0	12.0	150	15000	blrwar1	Blyth's Reed Warbler	0.11784667458296581	3
+23	Spectrogram 1	1	256496.mp3.wav	0.0	3.0	150	15000	weowar1	Western Olivaceous Warbler	0.6398151648290579	1
+24	Spectrogram 1	1	256496.mp3.wav	0.0	3.0	150	15000	eursis	Eurasian Siskin	0.4556934058170611	2
+25	Spectrogram 1	1	256496.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.44865532943286895	3

@@ -1,0 +1,37 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	486949.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.979011255828095	1
+2	Spectrogram 1	1	486949.mp3.wav	12.0	15.0	150	15000	krunut1	Krueper's Nuthatch	0.12251478518105081	2
+3	Spectrogram 1	1	486949.mp3.wav	12.0	15.0	150	15000	barwar1	Barred Warbler	0.10759675040729257	3
+4	Spectrogram 1	1	486949.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.21939333961080712	1
+5	Spectrogram 1	1	486949.mp3.wav	15.0	18.0	150	15000	sedwar1	Sedge Warbler	0.11018560697612115	2
+6	Spectrogram 1	1	486949.mp3.wav	18.0	21.0	150	15000	wooshr1	Woodchat Shrike	0.5691620405915218	1
+7	Spectrogram 1	1	486949.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.5023719197426935	2
+8	Spectrogram 1	1	486949.mp3.wav	18.0	21.0	150	15000	sykwar2	Sykes's Warbler	0.11348080206896757	3
+9	Spectrogram 1	1	486949.mp3.wav	21.0	24.0	150	15000	comnig1	Common Nightingale	0.5717710118700159	1
+10	Spectrogram 1	1	486949.mp3.wav	21.0	24.0	150	15000	comred2	Common Redstart	0.3408060131924662	2
+11	Spectrogram 1	1	486949.mp3.wav	24.0	27.0	150	15000	hooori	Hooded Oriole	0.10295275425678665	1
+12	Spectrogram 1	1	486949.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9405383576953005	1
+13	Spectrogram 1	1	486949.mp3.wav	27.0	30.0	150	15000	krunut1	Krueper's Nuthatch	0.1742549508776704	2
+14	Spectrogram 1	1	486949.mp3.wav	27.0	30.0	150	15000	barwar1	Barred Warbler	0.13265901635423522	3
+15	Spectrogram 1	1	486949.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.993071123171932	1
+16	Spectrogram 1	1	486949.mp3.wav	3.0	6.0	150	15000	barwar1	Barred Warbler	0.21549243066246707	2
+17	Spectrogram 1	1	486949.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9829903318146541	1
+18	Spectrogram 1	1	486949.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.27883273506931827	1
+19	Spectrogram 1	1	486949.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.31303169861908137	1
+20	Spectrogram 1	1	486949.mp3.wav	36.0	39.0	150	15000	darwar1	Dartford Warbler	0.2822910852791563	2
+21	Spectrogram 1	1	486949.mp3.wav	36.0	39.0	150	15000	spewar2	Spectacled Warbler	0.2691225166250947	3
+22	Spectrogram 1	1	486949.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.38446533942040306	1
+23	Spectrogram 1	1	486949.mp3.wav	39.0	42.0	150	15000	menwar1	Menetries's Warbler	0.1438178499937291	2
+24	Spectrogram 1	1	486949.mp3.wav	39.0	42.0	150	15000	darwar1	Dartford Warbler	0.12273056427112314	3
+25	Spectrogram 1	1	486949.mp3.wav	42.0	45.0	150	15000	ortbun1	Ortolan Bunting	0.13429978024176425	1
+26	Spectrogram 1	1	486949.mp3.wav	42.0	45.0	150	15000	corbun1	Corn Bunting	0.11775473486095508	2
+27	Spectrogram 1	1	486949.mp3.wav	42.0	45.0	150	15000	whinch1	Whinchat	0.11467308712249341	3
+28	Spectrogram 1	1	486949.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.781515326740956	1
+29	Spectrogram 1	1	486949.mp3.wav	45.0	48.0	150	15000	wooshr1	Woodchat Shrike	0.15556102407239888	2
+30	Spectrogram 1	1	486949.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.23031835501807835	1
+31	Spectrogram 1	1	486949.mp3.wav	6.0	9.0	150	15000	leswhi1	Lesser Whitethroat	0.2001837689483134	2
+32	Spectrogram 1	1	486949.mp3.wav	6.0	9.0	150	15000	menwar1	Menetries's Warbler	0.13126998003887724	3
+33	Spectrogram 1	1	486949.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.3591915429773565	1
+34	Spectrogram 1	1	486949.mp3.wav	9.0	12.0	150	15000	sedwar1	Sedge Warbler	0.20848312419200007	2
+35	Spectrogram 1	1	486949.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9959523802726817	1
+36	Spectrogram 1	1	486949.mp3.wav	0.0	3.0	150	15000	barwar1	Barred Warbler	0.12761721355395877	2

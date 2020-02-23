@@ -1,0 +1,19 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	297605.mp3.wav	12.0	15.0	150	15000	sposta1	Spotless Starling	0.1945213255961017	1
+2	Spectrogram 1	1	297605.mp3.wav	12.0	15.0	150	15000	wooshr1	Woodchat Shrike	0.14711589781045423	2
+3	Spectrogram 1	1	297605.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.1310544987978514	3
+4	Spectrogram 1	1	297605.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.988622125295465	1
+5	Spectrogram 1	1	297605.mp3.wav	15.0	18.0	150	15000	marwar3	Marsh Warbler	0.11097615398199798	2
+6	Spectrogram 1	1	297605.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9975352134188408	1
+7	Spectrogram 1	1	297605.mp3.wav	21.0	24.0	150	15000	grewhi1	Greater Whitethroat	0.9374127589644566	1
+8	Spectrogram 1	1	297605.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.17990599044828817	2
+9	Spectrogram 1	1	297605.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.11288648739939515	3
+10	Spectrogram 1	1	297605.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9985293383603975	1
+11	Spectrogram 1	1	297605.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.995769089580513	1
+12	Spectrogram 1	1	297605.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.10611431494794682	2
+13	Spectrogram 1	1	297605.mp3.wav	9.0	12.0	150	15000	vigswa	Violet-green Swallow	0.32514629986942617	1
+14	Spectrogram 1	1	297605.mp3.wav	9.0	12.0	150	15000	lawgol	Lawrence's Goldfinch	0.2196305551083256	2
+15	Spectrogram 1	1	297605.mp3.wav	9.0	12.0	150	15000	amegfi	American Goldfinch	0.12379883333432315	3
+16	Spectrogram 1	1	297605.mp3.wav	0.0	3.0	150	15000	sarwar1	Sardinian Warbler	0.8229049886781398	1
+17	Spectrogram 1	1	297605.mp3.wav	0.0	3.0	150	15000	darwar1	Dartford Warbler	0.734653434322012	2
+18	Spectrogram 1	1	297605.mp3.wav	0.0	3.0	150	15000	subwar1	Subalpine Warbler	0.21887819475480313	3

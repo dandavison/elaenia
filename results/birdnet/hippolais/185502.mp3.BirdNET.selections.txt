@@ -1,0 +1,178 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	185502.mp3.wav	12.0	15.0	150	15000	spofly1	Spotted Flycatcher	0.33583091992328	1
+2	Spectrogram 1	1	185502.mp3.wav	12.0	15.0	150	15000	rebfly	Red-breasted Flycatcher	0.17648521958771832	2
+3	Spectrogram 1	1	185502.mp3.wav	12.0	15.0	150	15000	eurtre1	Eurasian Treecreeper	0.13259287213495796	3
+4	Spectrogram 1	1	185502.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9997687229943796	1
+5	Spectrogram 1	1	185502.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9999304885044654	1
+6	Spectrogram 1	1	185502.mp3.wav	21.0	24.0	150	15000	lottit1	Long-tailed Tit	0.6743331582372207	1
+7	Spectrogram 1	1	185502.mp3.wav	21.0	24.0	150	15000	cedwax	Cedar Waxwing	0.1526429584679595	2
+8	Spectrogram 1	1	185502.mp3.wav	21.0	24.0	150	15000	spofly1	Spotted Flycatcher	0.10973010128910281	3
+9	Spectrogram 1	1	185502.mp3.wav	24.0	27.0	150	15000	eurrob1	European Robin	0.16887256186258096	1
+10	Spectrogram 1	1	185502.mp3.wav	24.0	27.0	150	15000	sonthr1	Song Thrush	0.1281899266033483	2
+11	Spectrogram 1	1	185502.mp3.wav	24.0	27.0	150	15000	hawfin	Hawfinch	0.1252452669981364	3
+12	Spectrogram 1	1	185502.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9861528145376356	1
+13	Spectrogram 1	1	185502.mp3.wav	27.0	30.0	150	15000	houwre	House Wren	0.24546117402783646	2
+14	Spectrogram 1	1	185502.mp3.wav	27.0	30.0	150	15000	marwar3	Marsh Warbler	0.13094545710063624	3
+15	Spectrogram 1	1	185502.mp3.wav	3.0	6.0	150	15000	grtgra	Great-tailed Grackle	0.9257603477164668	1
+16	Spectrogram 1	1	185502.mp3.wav	3.0	6.0	150	15000	sposta1	Spotless Starling	0.16926234707712148	2
+17	Spectrogram 1	1	185502.mp3.wav	3.0	6.0	150	15000	sonthr1	Song Thrush	0.11055366881708195	3
+18	Spectrogram 1	1	185502.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9974172610735513	1
+19	Spectrogram 1	1	185502.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.99973005976392	1
+20	Spectrogram 1	1	185502.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9993905093626256	1
+21	Spectrogram 1	1	185502.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9998242199039481	1
+22	Spectrogram 1	1	185502.mp3.wav	45.0	48.0	150	15000	????	Human	0.15329140914230607	1
+23	Spectrogram 1	1	185502.mp3.wav	48.0	51.0	150	15000	euptit1	Eurasian Penduline-Tit	0.33713371196782205	1
+24	Spectrogram 1	1	185502.mp3.wav	48.0	51.0	150	15000	sonthr1	Song Thrush	0.1866257398563864	2
+25	Spectrogram 1	1	185502.mp3.wav	48.0	51.0	150	15000	eurtre1	Eurasian Treecreeper	0.13007007144917812	3
+26	Spectrogram 1	1	185502.mp3.wav	51.0	54.0	150	15000	cirbun1	Cirl Bunting	0.5064391000202694	1
+27	Spectrogram 1	1	185502.mp3.wav	51.0	54.0	150	15000	eurrob1	European Robin	0.1463048980380176	2
+28	Spectrogram 1	1	185502.mp3.wav	51.0	54.0	150	15000	gycthr	Gray-cheeked Thrush	0.13003392420783624	3
+29	Spectrogram 1	1	185502.mp3.wav	54.0	57.0	150	15000	sonthr1	Song Thrush	0.3136918318402646	1
+30	Spectrogram 1	1	185502.mp3.wav	54.0	57.0	150	15000	eurrob1	European Robin	0.1359545663793469	2
+31	Spectrogram 1	1	185502.mp3.wav	54.0	57.0	150	15000	amerob	American Robin	0.11329622842353178	3
+32	Spectrogram 1	1	185502.mp3.wav	57.0	60.0	150	15000	euptit1	Eurasian Penduline-Tit	0.3428704926090891	1
+33	Spectrogram 1	1	185502.mp3.wav	57.0	60.0	150	15000	eurtre1	Eurasian Treecreeper	0.22808591877386283	2
+34	Spectrogram 1	1	185502.mp3.wav	57.0	60.0	150	15000	eurrob1	European Robin	0.1469541323735793	3
+35	Spectrogram 1	1	185502.mp3.wav	6.0	9.0	150	15000	blrwar1	Blyth's Reed Warbler	0.48026984660797817	1
+36	Spectrogram 1	1	185502.mp3.wav	6.0	9.0	150	15000	blueth	Bluethroat	0.24504130018762793	2
+37	Spectrogram 1	1	185502.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.21452067655719897	3
+38	Spectrogram 1	1	185502.mp3.wav	9.0	12.0	150	15000	blueth	Bluethroat	0.6494301975914378	1
+39	Spectrogram 1	1	185502.mp3.wav	9.0	12.0	150	15000	gretit1	Great Tit	0.29265104589680485	2
+40	Spectrogram 1	1	185502.mp3.wav	9.0	12.0	150	15000	rebfir2	Red-billed Firefinch	0.12108996641522954	3
+41	Spectrogram 1	1	185502.mp3.wav	60.0	63.0	150	15000	colfly1	Collared Flycatcher	0.2974951567058271	1
+42	Spectrogram 1	1	185502.mp3.wav	60.0	63.0	150	15000	rebfly	Red-breasted Flycatcher	0.135818499027362	2
+43	Spectrogram 1	1	185502.mp3.wav	72.0	75.0	150	15000	barswa	Barn Swallow	0.9998565172024791	1
+44	Spectrogram 1	1	185502.mp3.wav	75.0	78.0	150	15000	barswa	Barn Swallow	0.9996742953756039	1
+45	Spectrogram 1	1	185502.mp3.wav	78.0	81.0	150	15000	barswa	Barn Swallow	0.999417874757413	1
+46	Spectrogram 1	1	185502.mp3.wav	81.0	84.0	150	15000	barswa	Barn Swallow	0.9666252783902226	1
+47	Spectrogram 1	1	185502.mp3.wav	81.0	84.0	150	15000	sonthr1	Song Thrush	0.11244922740833276	2
+48	Spectrogram 1	1	185502.mp3.wav	84.0	87.0	150	15000	ictwar1	Icterine Warbler	0.5001690263216516	1
+49	Spectrogram 1	1	185502.mp3.wav	84.0	87.0	150	15000	sibrub	Siberian Rubythroat	0.3804996290374284	2
+50	Spectrogram 1	1	185502.mp3.wav	84.0	87.0	150	15000	marwar3	Marsh Warbler	0.3418775944378938	3
+51	Spectrogram 1	1	185502.mp3.wav	87.0	90.0	150	15000	ictwar1	Icterine Warbler	0.9995067752188154	1
+52	Spectrogram 1	1	185502.mp3.wav	63.0	66.0	150	15000	eurrob1	European Robin	0.29766997333742046	1
+53	Spectrogram 1	1	185502.mp3.wav	63.0	66.0	150	15000	gycthr	Gray-cheeked Thrush	0.2222660615332506	2
+54	Spectrogram 1	1	185502.mp3.wav	63.0	66.0	150	15000	bicthr	Bicknell's Thrush	0.21586072130338524	3
+55	Spectrogram 1	1	185502.mp3.wav	90.0	93.0	150	15000	ictwar1	Icterine Warbler	0.995545649785913	1
+56	Spectrogram 1	1	185502.mp3.wav	90.0	93.0	150	15000	marwar3	Marsh Warbler	0.24078079243153128	2
+57	Spectrogram 1	1	185502.mp3.wav	93.0	96.0	150	15000	ictwar1	Icterine Warbler	0.999760708489955	1
+58	Spectrogram 1	1	185502.mp3.wav	96.0	99.0	150	15000	eurbla	Eurasian Blackbird	0.2593283355838861	1
+59	Spectrogram 1	1	185502.mp3.wav	96.0	99.0	150	15000	herthr	Hermit Thrush	0.14440509450984293	2
+60	Spectrogram 1	1	185502.mp3.wav	99.0	102.0	150	15000	ictwar1	Icterine Warbler	0.8701180123456896	1
+61	Spectrogram 1	1	185502.mp3.wav	99.0	102.0	150	15000	brnthr	Brown Thrasher	0.13708479961844186	2
+62	Spectrogram 1	1	185502.mp3.wav	99.0	102.0	150	15000	orcori	Orchard Oriole	0.1156981087194858	3
+63	Spectrogram 1	1	185502.mp3.wav	102.0	105.0	150	15000	ictwar1	Icterine Warbler	0.9877177440263535	1
+64	Spectrogram 1	1	185502.mp3.wav	102.0	105.0	150	15000	garwar1	Garden Warbler	0.12438801223017545	2
+65	Spectrogram 1	1	185502.mp3.wav	105.0	108.0	150	15000	ictwar1	Icterine Warbler	0.9015399315466633	1
+66	Spectrogram 1	1	185502.mp3.wav	105.0	108.0	150	15000	garwar1	Garden Warbler	0.30258428234543416	2
+67	Spectrogram 1	1	185502.mp3.wav	105.0	108.0	150	15000	blackc1	Eurasian Blackcap	0.19842157607733585	3
+68	Spectrogram 1	1	185502.mp3.wav	108.0	111.0	150	15000	blackc1	Eurasian Blackcap	0.6778422003320348	1
+69	Spectrogram 1	1	185502.mp3.wav	108.0	111.0	150	15000	garwar1	Garden Warbler	0.6366048033685514	2
+70	Spectrogram 1	1	185502.mp3.wav	108.0	111.0	150	15000	ictwar1	Icterine Warbler	0.34553058355871735	3
+71	Spectrogram 1	1	185502.mp3.wav	111.0	114.0	150	15000	whbnut	White-breasted Nuthatch	0.1257631417186465	1
+72	Spectrogram 1	1	185502.mp3.wav	117.0	120.0	150	15000	euptit1	Eurasian Penduline-Tit	0.5517738842406972	1
+73	Spectrogram 1	1	185502.mp3.wav	117.0	120.0	150	15000	eurtre1	Eurasian Treecreeper	0.1100854280224087	2
+74	Spectrogram 1	1	185502.mp3.wav	66.0	69.0	150	15000	eurtre1	Eurasian Treecreeper	0.6198112123043213	1
+75	Spectrogram 1	1	185502.mp3.wav	66.0	69.0	150	15000	brncre	Brown Creeper	0.3055671974691683	2
+76	Spectrogram 1	1	185502.mp3.wav	66.0	69.0	150	15000	cedwax	Cedar Waxwing	0.17960955201576775	3
+77	Spectrogram 1	1	185502.mp3.wav	120.0	123.0	150	15000	amerob	American Robin	0.24878207747035358	1
+78	Spectrogram 1	1	185502.mp3.wav	120.0	123.0	150	15000	redwin	Redwing	0.21425822094979693	2
+79	Spectrogram 1	1	185502.mp3.wav	120.0	123.0	150	15000	eurbla	Eurasian Blackbird	0.2063501584110874	3
+80	Spectrogram 1	1	185502.mp3.wav	132.0	135.0	150	15000	ictwar1	Icterine Warbler	0.9998227143004321	1
+81	Spectrogram 1	1	185502.mp3.wav	135.0	138.0	150	15000	ictwar1	Icterine Warbler	0.9996987079906261	1
+82	Spectrogram 1	1	185502.mp3.wav	138.0	141.0	150	15000	ictwar1	Icterine Warbler	0.9899757127563649	1
+83	Spectrogram 1	1	185502.mp3.wav	141.0	144.0	150	15000	lirplo	Little Ringed Plover	0.3811534441666755	1
+84	Spectrogram 1	1	185502.mp3.wav	144.0	147.0	150	15000	lirplo	Little Ringed Plover	0.6817076693555485	1
+85	Spectrogram 1	1	185502.mp3.wav	144.0	147.0	150	15000	pieavo1	Pied Avocet	0.19070340396063298	2
+86	Spectrogram 1	1	185502.mp3.wav	144.0	147.0	150	15000	slbgul1	Slender-billed Gull	0.14462148114347861	3
+87	Spectrogram 1	1	185502.mp3.wav	147.0	150.0	150	15000	sonthr1	Song Thrush	0.6469291329973655	1
+88	Spectrogram 1	1	185502.mp3.wav	147.0	150.0	150	15000	amerob	American Robin	0.15651108449209786	2
+89	Spectrogram 1	1	185502.mp3.wav	147.0	150.0	150	15000	normoc	Northern Mockingbird	0.1069232794790052	3
+90	Spectrogram 1	1	185502.mp3.wav	123.0	126.0	150	15000	ictwar1	Icterine Warbler	0.9996370858741258	1
+91	Spectrogram 1	1	185502.mp3.wav	150.0	153.0	150	15000	sonthr1	Song Thrush	0.4266473224007798	1
+92	Spectrogram 1	1	185502.mp3.wav	150.0	153.0	150	15000	amerob	American Robin	0.11631761594256529	2
+93	Spectrogram 1	1	185502.mp3.wav	153.0	156.0	150	15000	sposta1	Spotless Starling	0.1115727725561789	1
+94	Spectrogram 1	1	185502.mp3.wav	153.0	156.0	150	15000	houspa	House Sparrow	0.10971202339070484	2
+95	Spectrogram 1	1	185502.mp3.wav	156.0	159.0	150	15000	ictwar1	Icterine Warbler	0.9997620379656647	1
+96	Spectrogram 1	1	185502.mp3.wav	159.0	162.0	150	15000	swaspa	Swamp Sparrow	0.24748755312986778	1
+97	Spectrogram 1	1	185502.mp3.wav	159.0	162.0	150	15000	vigswa	Violet-green Swallow	0.1313702454066611	2
+98	Spectrogram 1	1	185502.mp3.wav	165.0	168.0	150	15000	lobthr	Long-billed Thrasher	0.5803648133347192	1
+99	Spectrogram 1	1	185502.mp3.wav	165.0	168.0	150	15000	thrnig1	Thrush Nightingale	0.2231842060833349	2
+100	Spectrogram 1	1	185502.mp3.wav	165.0	168.0	150	15000	grycat	Gray Catbird	0.10927164049197038	3
+101	Spectrogram 1	1	185502.mp3.wav	168.0	171.0	150	15000	blackc1	Eurasian Blackcap	0.14886960969140187	1
+102	Spectrogram 1	1	185502.mp3.wav	168.0	171.0	150	15000	grycat	Gray Catbird	0.13659470884633257	2
+103	Spectrogram 1	1	185502.mp3.wav	171.0	174.0	150	15000	ictwar1	Icterine Warbler	0.9996529911720019	1
+104	Spectrogram 1	1	185502.mp3.wav	174.0	177.0	150	15000	ictwar1	Icterine Warbler	0.9997209507483662	1
+105	Spectrogram 1	1	185502.mp3.wav	177.0	180.0	150	15000	ictwar1	Icterine Warbler	0.9404815208196201	1
+106	Spectrogram 1	1	185502.mp3.wav	177.0	180.0	150	15000	garwar1	Garden Warbler	0.4158257193115192	2
+107	Spectrogram 1	1	185502.mp3.wav	126.0	129.0	150	15000	ictwar1	Icterine Warbler	0.9995466329282175	1
+108	Spectrogram 1	1	185502.mp3.wav	129.0	132.0	150	15000	ictwar1	Icterine Warbler	0.9997887603118031	1
+109	Spectrogram 1	1	185502.mp3.wav	180.0	183.0	150	15000	eurtre1	Eurasian Treecreeper	0.2642471316664285	1
+110	Spectrogram 1	1	185502.mp3.wav	180.0	183.0	150	15000	rebfly	Red-breasted Flycatcher	0.20187307106556868	2
+111	Spectrogram 1	1	185502.mp3.wav	180.0	183.0	150	15000	spofly1	Spotted Flycatcher	0.19697117550873441	3
+112	Spectrogram 1	1	185502.mp3.wav	195.0	198.0	150	15000	ictwar1	Icterine Warbler	0.9972300400203787	1
+113	Spectrogram 1	1	185502.mp3.wav	195.0	198.0	150	15000	blrwar1	Blyth's Reed Warbler	0.3666345747010566	2
+114	Spectrogram 1	1	185502.mp3.wav	198.0	201.0	150	15000	ictwar1	Icterine Warbler	0.976498673051986	1
+115	Spectrogram 1	1	185502.mp3.wav	201.0	204.0	150	15000	ictwar1	Icterine Warbler	0.9999504973181426	1
+116	Spectrogram 1	1	185502.mp3.wav	204.0	207.0	150	15000	ictwar1	Icterine Warbler	0.9990078967117548	1
+117	Spectrogram 1	1	185502.mp3.wav	207.0	210.0	150	15000	ictwar1	Icterine Warbler	0.9997124461007615	1
+118	Spectrogram 1	1	185502.mp3.wav	183.0	186.0	150	15000	rebfly	Red-breasted Flycatcher	0.18522683592183484	1
+119	Spectrogram 1	1	185502.mp3.wav	183.0	186.0	150	15000	spofly1	Spotted Flycatcher	0.1268958687244755	2
+120	Spectrogram 1	1	185502.mp3.wav	210.0	213.0	150	15000	refwar	Red-faced Warbler	0.31903967968105756	1
+121	Spectrogram 1	1	185502.mp3.wav	210.0	213.0	150	15000	virwar	Virginia's Warbler	0.2861779467990236	2
+122	Spectrogram 1	1	185502.mp3.wav	210.0	213.0	150	15000	magwar	Magnolia Warbler	0.2768676208143505	3
+123	Spectrogram 1	1	185502.mp3.wav	213.0	216.0	150	15000	marwre	Marsh Wren	0.1372638688847442	1
+124	Spectrogram 1	1	185502.mp3.wav	213.0	216.0	150	15000	subwar1	Subalpine Warbler	0.12398823088927156	2
+125	Spectrogram 1	1	185502.mp3.wav	213.0	216.0	150	15000	afrwar1	African Reed Warbler	0.10855493938815658	3
+126	Spectrogram 1	1	185502.mp3.wav	216.0	219.0	150	15000	ictwar1	Icterine Warbler	0.9998554890722666	1
+127	Spectrogram 1	1	185502.mp3.wav	219.0	222.0	150	15000	ictwar1	Icterine Warbler	0.7749207468461623	1
+128	Spectrogram 1	1	185502.mp3.wav	219.0	222.0	150	15000	weowar1	Western Olivaceous Warbler	0.16793557096110523	2
+129	Spectrogram 1	1	185502.mp3.wav	222.0	225.0	150	15000	gretit1	Great Tit	0.30627165268923534	1
+130	Spectrogram 1	1	185502.mp3.wav	222.0	225.0	150	15000	shttre1	Short-toed Treecreeper	0.161622094141594	2
+131	Spectrogram 1	1	185502.mp3.wav	222.0	225.0	150	15000	eurrob1	European Robin	0.1486635931417081	3
+132	Spectrogram 1	1	185502.mp3.wav	225.0	228.0	150	15000	eurrob1	European Robin	0.18671202293624348	1
+133	Spectrogram 1	1	185502.mp3.wav	228.0	231.0	150	15000	trokin	Tropical Kingbird	0.1328770958357452	1
+134	Spectrogram 1	1	185502.mp3.wav	231.0	234.0	150	15000	cetwar1	Cetti's Warbler	0.886550470455155	1
+135	Spectrogram 1	1	185502.mp3.wav	231.0	234.0	150	15000	desspa1	Dead Sea Sparrow	0.4192507429168154	2
+136	Spectrogram 1	1	185502.mp3.wav	231.0	234.0	150	15000	marwar3	Marsh Warbler	0.1970905498657349	3
+137	Spectrogram 1	1	185502.mp3.wav	234.0	237.0	150	15000	ictwar1	Icterine Warbler	0.98693064634241	1
+138	Spectrogram 1	1	185502.mp3.wav	234.0	237.0	150	15000	blrwar1	Blyth's Reed Warbler	0.6216459000911039	2
+139	Spectrogram 1	1	185502.mp3.wav	234.0	237.0	150	15000	marwar3	Marsh Warbler	0.2202788096633089	3
+140	Spectrogram 1	1	185502.mp3.wav	237.0	240.0	150	15000	ictwar1	Icterine Warbler	0.9969000126885625	1
+141	Spectrogram 1	1	185502.mp3.wav	237.0	240.0	150	15000	blrwar1	Blyth's Reed Warbler	0.18399417402126228	2
+142	Spectrogram 1	1	185502.mp3.wav	186.0	189.0	150	15000	rocpar2	Rock Partridge	0.558435129015167	1
+143	Spectrogram 1	1	185502.mp3.wav	186.0	189.0	150	15000	bkbwoo	Black-backed Woodpecker	0.18409351368422788	2
+144	Spectrogram 1	1	185502.mp3.wav	186.0	189.0	150	15000	kinrai4	King Rail	0.1599638821511948	3
+145	Spectrogram 1	1	185502.mp3.wav	189.0	192.0	150	15000	ictwar1	Icterine Warbler	0.9991165254511821	1
+146	Spectrogram 1	1	185502.mp3.wav	189.0	192.0	150	15000	blrwar1	Blyth's Reed Warbler	0.2702541610940024	2
+147	Spectrogram 1	1	185502.mp3.wav	240.0	243.0	150	15000	ictwar1	Icterine Warbler	0.9661177362386122	1
+148	Spectrogram 1	1	185502.mp3.wav	240.0	243.0	150	15000	blrwar1	Blyth's Reed Warbler	0.2561336577672429	2
+149	Spectrogram 1	1	185502.mp3.wav	240.0	243.0	150	15000	blackc1	Eurasian Blackcap	0.20060247599424588	3
+150	Spectrogram 1	1	185502.mp3.wav	252.0	255.0	150	15000	marwar3	Marsh Warbler	0.7947462256724511	1
+151	Spectrogram 1	1	185502.mp3.wav	252.0	255.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1979986015874005	2
+152	Spectrogram 1	1	185502.mp3.wav	252.0	255.0	150	15000	sedwar1	Sedge Warbler	0.14463514874462383	3
+153	Spectrogram 1	1	185502.mp3.wav	255.0	258.0	150	15000	ictwar1	Icterine Warbler	0.9614367879532129	1
+154	Spectrogram 1	1	185502.mp3.wav	255.0	258.0	150	15000	garwar1	Garden Warbler	0.3712459337590242	2
+155	Spectrogram 1	1	185502.mp3.wav	255.0	258.0	150	15000	blackc1	Eurasian Blackcap	0.18213914906167156	3
+156	Spectrogram 1	1	185502.mp3.wav	258.0	261.0	150	15000	comter	Common Tern	0.9875405030780687	1
+157	Spectrogram 1	1	185502.mp3.wav	261.0	264.0	150	15000	ictwar1	Icterine Warbler	0.8312761974363929	1
+158	Spectrogram 1	1	185502.mp3.wav	261.0	264.0	150	15000	comter	Common Tern	0.44449822001875583	2
+159	Spectrogram 1	1	185502.mp3.wav	264.0	267.0	150	15000	ictwar1	Icterine Warbler	0.9999107060269671	1
+160	Spectrogram 1	1	185502.mp3.wav	267.0	270.0	150	15000	ictwar1	Icterine Warbler	0.9996173673716179	1
+161	Spectrogram 1	1	185502.mp3.wav	243.0	246.0	150	15000	ictwar1	Icterine Warbler	0.6514027656531649	1
+162	Spectrogram 1	1	185502.mp3.wav	243.0	246.0	150	15000	garwar1	Garden Warbler	0.4325420935780489	2
+163	Spectrogram 1	1	185502.mp3.wav	243.0	246.0	150	15000	blackc1	Eurasian Blackcap	0.3179440554674144	3
+164	Spectrogram 1	1	185502.mp3.wav	270.0	273.0	150	15000	ictwar1	Icterine Warbler	0.9946607967224755	1
+165	Spectrogram 1	1	185502.mp3.wav	270.0	273.0	150	15000	blrwar1	Blyth's Reed Warbler	0.14213084705198809	2
+166	Spectrogram 1	1	185502.mp3.wav	273.0	276.0	150	15000	ictwar1	Icterine Warbler	0.9998684276983554	1
+167	Spectrogram 1	1	185502.mp3.wav	276.0	279.0	150	15000	ictwar1	Icterine Warbler	0.9997332401437767	1
+168	Spectrogram 1	1	185502.mp3.wav	279.0	282.0	150	15000	ictwar1	Icterine Warbler	0.9996469560624878	1
+169	Spectrogram 1	1	185502.mp3.wav	246.0	249.0	150	15000	blackc1	Eurasian Blackcap	0.7880056240693193	1
+170	Spectrogram 1	1	185502.mp3.wav	246.0	249.0	150	15000	garwar1	Garden Warbler	0.3355704750537997	2
+171	Spectrogram 1	1	185502.mp3.wav	246.0	249.0	150	15000	ictwar1	Icterine Warbler	0.27332296882428575	3
+172	Spectrogram 1	1	185502.mp3.wav	249.0	252.0	150	15000	marwar3	Marsh Warbler	0.8831023308039893	1
+173	Spectrogram 1	1	185502.mp3.wav	249.0	252.0	150	15000	ictwar1	Icterine Warbler	0.5567656141930728	2
+174	Spectrogram 1	1	185502.mp3.wav	249.0	252.0	150	15000	blrwar1	Blyth's Reed Warbler	0.12331946564409395	3
+175	Spectrogram 1	1	185502.mp3.wav	0.0	3.0	150	15000	comred2	Common Redstart	0.15047383194895078	1
+176	Spectrogram 1	1	185502.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.124391326008485	2
+177	Spectrogram 1	1	185502.mp3.wav	0.0	3.0	150	15000	eupfly1	European Pied Flycatcher	0.12228855530256295	3

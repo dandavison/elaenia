@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	121365.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.7925860388631908	1
+2	Spectrogram 1	1	121365.mp3.wav	12.0	15.0	150	15000	marwar3	Marsh Warbler	0.3375389948987851	2
+3	Spectrogram 1	1	121365.mp3.wav	12.0	15.0	150	15000	garwar1	Garden Warbler	0.14649238962324312	3
+4	Spectrogram 1	1	121365.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9967305650490234	1
+5	Spectrogram 1	1	121365.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9994956316090684	1
+6	Spectrogram 1	1	121365.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9969531958391944	1
+7	Spectrogram 1	1	121365.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9970841622878241	1
+8	Spectrogram 1	1	121365.mp3.wav	3.0	6.0	150	15000	amepip	American Pipit	0.10062283134748144	1
+9	Spectrogram 1	1	121365.mp3.wav	6.0	9.0	150	15000	callar1	Calandra Lark	0.22008439657015572	1
+10	Spectrogram 1	1	121365.mp3.wav	6.0	9.0	150	15000	skylar	Eurasian Skylark	0.14707401092163325	2
+11	Spectrogram 1	1	121365.mp3.wav	6.0	9.0	150	15000	cursan	Curlew Sandpiper	0.13272964539507043	3
+12	Spectrogram 1	1	121365.mp3.wav	9.0	12.0	150	15000	whiwag	White Wagtail	0.8843684247180609	1
+13	Spectrogram 1	1	121365.mp3.wav	9.0	12.0	150	15000	citwag	Citrine Wagtail	0.15732739619749883	2
+14	Spectrogram 1	1	121365.mp3.wav	9.0	12.0	150	15000	padwar1	Paddyfield Warbler	0.11344094791015732	3
+15	Spectrogram 1	1	121365.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9432058146348669	1
+16	Spectrogram 1	1	121365.mp3.wav	0.0	3.0	150	15000	subwar1	Subalpine Warbler	0.23833490081354117	2

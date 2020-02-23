@@ -1,0 +1,27 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	237759.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9986631354446885	1
+2	Spectrogram 1	1	237759.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9877019620278387	1
+3	Spectrogram 1	1	237759.mp3.wav	18.0	21.0	150	15000	eaywag1	Western Yellow Wagtail	0.3527604753294579	1
+4	Spectrogram 1	1	237759.mp3.wav	18.0	21.0	150	15000	norwhe	Northern Wheatear	0.16146811419280985	2
+5	Spectrogram 1	1	237759.mp3.wav	18.0	21.0	150	15000	isawhe1	Isabelline Wheatear	0.11756373304649205	3
+6	Spectrogram 1	1	237759.mp3.wav	21.0	24.0	150	15000	rehbun1	Red-headed Bunting	0.1002341007348157	1
+7	Spectrogram 1	1	237759.mp3.wav	24.0	27.0	150	15000	corbun1	Corn Bunting	0.2875525237291141	1
+8	Spectrogram 1	1	237759.mp3.wav	24.0	27.0	150	15000	blhbun1	Black-headed Bunting	0.23941286106738344	2
+9	Spectrogram 1	1	237759.mp3.wav	24.0	27.0	150	15000	comqua1	Common Quail	0.21860236961900298	3
+10	Spectrogram 1	1	237759.mp3.wav	27.0	30.0	150	15000	cangoo	Canada Goose	0.2015447615030711	1
+11	Spectrogram 1	1	237759.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9994696488317178	1
+12	Spectrogram 1	1	237759.mp3.wav	30.0	33.0	150	15000	eaywag1	Western Yellow Wagtail	0.8823448128984287	1
+13	Spectrogram 1	1	237759.mp3.wav	33.0	36.0	150	15000	weowar2	Western Orphean Warbler	0.47926661463913817	1
+14	Spectrogram 1	1	237759.mp3.wav	33.0	36.0	150	15000	thelar1	Thekla's Lark	0.40311553538340483	2
+15	Spectrogram 1	1	237759.mp3.wav	33.0	36.0	150	15000	wooshr1	Woodchat Shrike	0.2289471249231412	3
+16	Spectrogram 1	1	237759.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.9782850431205148	1
+17	Spectrogram 1	1	237759.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.9988254724976874	1
+18	Spectrogram 1	1	237759.mp3.wav	42.0	45.0	150	15000	melwar1	Melodious Warbler	0.9989048624053805	1
+19	Spectrogram 1	1	237759.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.9993562940552987	1
+20	Spectrogram 1	1	237759.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.9992919582099287	1
+21	Spectrogram 1	1	237759.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.9995380192010578	1
+22	Spectrogram 1	1	237759.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.9996445452560278	1
+23	Spectrogram 1	1	237759.mp3.wav	57.0	60.0	150	15000	melwar1	Melodious Warbler	0.9989317008190154	1
+24	Spectrogram 1	1	237759.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9976670976715512	1
+25	Spectrogram 1	1	237759.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9991921018090756	1
+26	Spectrogram 1	1	237759.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9993770071271814	1

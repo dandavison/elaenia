@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	374090.mp3.wav	12.0	15.0	150	15000	sykwar2	Sykes's Warbler	0.702417851799129	1
+2	Spectrogram 1	1	374090.mp3.wav	12.0	15.0	150	15000	padwar1	Paddyfield Warbler	0.5301589586343177	2
+3	Spectrogram 1	1	374090.mp3.wav	12.0	15.0	150	15000	menwar1	Menetries's Warbler	0.3446825185533176	3
+4	Spectrogram 1	1	374090.mp3.wav	15.0	18.0	150	15000	wlwwar	Willow Warbler	0.12056831691858584	1
+5	Spectrogram 1	1	374090.mp3.wav	18.0	21.0	150	15000	casfin	Cassin's Finch	0.12187844751931791	1
+6	Spectrogram 1	1	374090.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9122465123564816	1
+7	Spectrogram 1	1	374090.mp3.wav	3.0	6.0	150	15000	padwar1	Paddyfield Warbler	0.24076027200507774	2
+8	Spectrogram 1	1	374090.mp3.wav	3.0	6.0	150	15000	sykwar2	Sykes's Warbler	0.11541100731306313	3
+9	Spectrogram 1	1	374090.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.38774852367318485	1
+10	Spectrogram 1	1	374090.mp3.wav	6.0	9.0	150	15000	padwar1	Paddyfield Warbler	0.28736076182966286	2
+11	Spectrogram 1	1	374090.mp3.wav	6.0	9.0	150	15000	sarwar1	Sardinian Warbler	0.23560511269096318	3
+12	Spectrogram 1	1	374090.mp3.wav	9.0	12.0	150	15000	comred	Common Redpoll	0.23704719771568672	1
+13	Spectrogram 1	1	374090.mp3.wav	9.0	12.0	150	15000	rebnut	Red-breasted Nuthatch	0.11208960342432389	2
+14	Spectrogram 1	1	374090.mp3.wav	9.0	12.0	150	15000	whwcro	White-winged Crossbill	0.10013000280690004	3
+15	Spectrogram 1	1	374090.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.3408481460257144	1
+16	Spectrogram 1	1	374090.mp3.wav	0.0	3.0	150	15000	padwar1	Paddyfield Warbler	0.3196820654709135	2
+17	Spectrogram 1	1	374090.mp3.wav	0.0	3.0	150	15000	sarwar1	Sardinian Warbler	0.31639481715315093	3

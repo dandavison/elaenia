@@ -1,0 +1,41 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	418155.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9740352458484312	1
+2	Spectrogram 1	1	418155.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.7695878717824096	2
+3	Spectrogram 1	1	418155.mp3.wav	15.0	18.0	150	15000	shttre1	Short-toed Treecreeper	0.4976186056507602	1
+4	Spectrogram 1	1	418155.mp3.wav	15.0	18.0	150	15000	gretit1	Great Tit	0.48688289513964245	2
+5	Spectrogram 1	1	418155.mp3.wav	15.0	18.0	150	15000	coatit2	Coal Tit	0.10220922808461878	3
+6	Spectrogram 1	1	418155.mp3.wav	18.0	21.0	150	15000	gretit1	Great Tit	0.12162087973528497	1
+7	Spectrogram 1	1	418155.mp3.wav	18.0	21.0	150	15000	martit2	Marsh Tit	0.11585020201491182	2
+8	Spectrogram 1	1	418155.mp3.wav	18.0	21.0	150	15000	eurtre1	Eurasian Treecreeper	0.10915159834470194	3
+9	Spectrogram 1	1	418155.mp3.wav	21.0	24.0	150	15000	blkpho	Black Phoebe	0.1949934313048772	1
+10	Spectrogram 1	1	418155.mp3.wav	21.0	24.0	150	15000	barswa	Barn Swallow	0.19022952410972727	2
+11	Spectrogram 1	1	418155.mp3.wav	21.0	24.0	150	15000	comkin1	Common Kingfisher	0.1698833401170797	3
+12	Spectrogram 1	1	418155.mp3.wav	24.0	27.0	150	15000	whiwag	White Wagtail	0.1944528892445166	1
+13	Spectrogram 1	1	418155.mp3.wav	24.0	27.0	150	15000	grywag	Gray Wagtail	0.15641785643759434	2
+14	Spectrogram 1	1	418155.mp3.wav	24.0	27.0	150	15000	eaywag1	Western Yellow Wagtail	0.1528437829339214	3
+15	Spectrogram 1	1	418155.mp3.wav	27.0	30.0	150	15000	cohmar1	Common House-Martin	0.6574141079594533	1
+16	Spectrogram 1	1	418155.mp3.wav	27.0	30.0	150	15000	eutspa	Eurasian Tree Sparrow	0.16908712857127106	2
+17	Spectrogram 1	1	418155.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.999804850429483	1
+18	Spectrogram 1	1	418155.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9960294095858141	1
+19	Spectrogram 1	1	418155.mp3.wav	30.0	33.0	150	15000	blackc1	Eurasian Blackcap	0.10501553677356916	2
+20	Spectrogram 1	1	418155.mp3.wav	33.0	36.0	150	15000	gretit1	Great Tit	0.6339024019040206	1
+21	Spectrogram 1	1	418155.mp3.wav	33.0	36.0	150	15000	eurrob1	European Robin	0.12240407170743539	2
+22	Spectrogram 1	1	418155.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9997971334144762	1
+23	Spectrogram 1	1	418155.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.9402423724061272	1
+24	Spectrogram 1	1	418155.mp3.wav	39.0	42.0	150	15000	blackc1	Eurasian Blackcap	0.12453398951089126	2
+25	Spectrogram 1	1	418155.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.9949833154491328	1
+26	Spectrogram 1	1	418155.mp3.wav	42.0	45.0	150	15000	blrwar1	Blyth's Reed Warbler	0.282971756734036	2
+27	Spectrogram 1	1	418155.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9699905673802558	1
+28	Spectrogram 1	1	418155.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.12404599955580611	2
+29	Spectrogram 1	1	418155.mp3.wav	48.0	51.0	150	15000	blrwar1	Blyth's Reed Warbler	0.8459593553927008	1
+30	Spectrogram 1	1	418155.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.5478886069531151	2
+31	Spectrogram 1	1	418155.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.9281558384918923	1
+32	Spectrogram 1	1	418155.mp3.wav	51.0	54.0	150	15000	sonthr1	Song Thrush	0.23083287706879327	2
+33	Spectrogram 1	1	418155.mp3.wav	51.0	54.0	150	15000	blackc1	Eurasian Blackcap	0.20969431101363956	3
+34	Spectrogram 1	1	418155.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.8628384217347187	1
+35	Spectrogram 1	1	418155.mp3.wav	6.0	9.0	150	15000	marwar3	Marsh Warbler	0.46063623830192685	2
+36	Spectrogram 1	1	418155.mp3.wav	6.0	9.0	150	15000	blackc1	Eurasian Blackcap	0.10440899383401192	3
+37	Spectrogram 1	1	418155.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.5869529822900401	1
+38	Spectrogram 1	1	418155.mp3.wav	9.0	12.0	150	15000	blackc1	Eurasian Blackcap	0.14232890091084682	2
+39	Spectrogram 1	1	418155.mp3.wav	9.0	12.0	150	15000	redwin	Redwing	0.1132215131076623	3
+40	Spectrogram 1	1	418155.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.999842450607503	1

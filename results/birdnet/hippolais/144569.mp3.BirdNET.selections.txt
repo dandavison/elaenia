@@ -1,0 +1,24 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	144569.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.9984335187231449	1
+2	Spectrogram 1	1	144569.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.9813918268364641	1
+3	Spectrogram 1	1	144569.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9873765414239681	1
+4	Spectrogram 1	1	144569.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9770077387446757	1
+5	Spectrogram 1	1	144569.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.10810866659094069	2
+6	Spectrogram 1	1	144569.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9982515345508738	1
+7	Spectrogram 1	1	144569.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9923216686688789	1
+8	Spectrogram 1	1	144569.mp3.wav	27.0	30.0	150	15000	barwar1	Barred Warbler	0.10371018298549939	2
+9	Spectrogram 1	1	144569.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.9994988675525226	1
+10	Spectrogram 1	1	144569.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.87655284440981	1
+11	Spectrogram 1	1	144569.mp3.wav	30.0	33.0	150	15000	barwar1	Barred Warbler	0.1790745438339522	2
+12	Spectrogram 1	1	144569.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.15653221596900657	3
+13	Spectrogram 1	1	144569.mp3.wav	33.0	36.0	150	15000	rocpar2	Rock Partridge	0.21228871584880019	1
+14	Spectrogram 1	1	144569.mp3.wav	33.0	36.0	150	15000	eurnig1	Eurasian Nightjar	0.1920699316706637	2
+15	Spectrogram 1	1	144569.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.9816482408751206	1
+16	Spectrogram 1	1	144569.mp3.wav	36.0	39.0	150	15000	barwar1	Barred Warbler	0.10530331901995922	2
+17	Spectrogram 1	1	144569.mp3.wav	39.0	42.0	150	15000	melwar1	Melodious Warbler	0.9068309277479643	1
+18	Spectrogram 1	1	144569.mp3.wav	39.0	42.0	150	15000	krunut1	Krueper's Nuthatch	0.2930341897455425	2
+19	Spectrogram 1	1	144569.mp3.wav	39.0	42.0	150	15000	wooshr1	Woodchat Shrike	0.16972593870919875	3
+20	Spectrogram 1	1	144569.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9964147105657892	1
+21	Spectrogram 1	1	144569.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.9989854079097343	1
+22	Spectrogram 1	1	144569.mp3.wav	9.0	12.0	150	15000	krunut1	Krueper's Nuthatch	0.10624442182480859	2
+23	Spectrogram 1	1	144569.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.9982881090281059	1

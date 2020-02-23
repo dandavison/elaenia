@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	287147.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9997561579943538	1
+2	Spectrogram 1	1	287147.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9998783081687622	1
+3	Spectrogram 1	1	287147.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9998158963568585	1
+4	Spectrogram 1	1	287147.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9998805821578898	1
+5	Spectrogram 1	1	287147.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9996452124955891	1
+6	Spectrogram 1	1	287147.mp3.wav	27.0	30.0	150	15000	yellow2	Yellowhammer	0.7804701273440814	1
+7	Spectrogram 1	1	287147.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9995074493079298	1
+8	Spectrogram 1	1	287147.mp3.wav	6.0	9.0	150	15000	grrwar1	Great Reed Warbler	0.31810893373351407	1
+9	Spectrogram 1	1	287147.mp3.wav	6.0	9.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.24071034533986885	2
+10	Spectrogram 1	1	287147.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.19547261755408682	3
+11	Spectrogram 1	1	287147.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9997583698145062	1
+12	Spectrogram 1	1	287147.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9998494693328565	1

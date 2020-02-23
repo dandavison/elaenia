@@ -1,0 +1,64 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	511200.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.5035784444490984	1
+2	Spectrogram 1	1	511200.mp3.wav	12.0	15.0	150	15000	grewhi1	Greater Whitethroat	0.2315911654314148	2
+3	Spectrogram 1	1	511200.mp3.wav	12.0	15.0	150	15000	wooshr1	Woodchat Shrike	0.1283701481592081	3
+4	Spectrogram 1	1	511200.mp3.wav	15.0	18.0	150	15000	thelar1	Thekla's Lark	0.38272683605462476	1
+5	Spectrogram 1	1	511200.mp3.wav	15.0	18.0	150	15000	melwar1	Melodious Warbler	0.221613636976402	2
+6	Spectrogram 1	1	511200.mp3.wav	15.0	18.0	150	15000	padwar1	Paddyfield Warbler	0.19426442452235163	3
+7	Spectrogram 1	1	511200.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9980078695175872	1
+8	Spectrogram 1	1	511200.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9991093168468823	1
+9	Spectrogram 1	1	511200.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9942510344971012	1
+10	Spectrogram 1	1	511200.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.9867702284797663	1
+11	Spectrogram 1	1	511200.mp3.wav	3.0	6.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.344122046292038	1
+12	Spectrogram 1	1	511200.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.3144935107503292	2
+13	Spectrogram 1	1	511200.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.25317051077168906	3
+14	Spectrogram 1	1	511200.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9994555187327946	1
+15	Spectrogram 1	1	511200.mp3.wav	33.0	36.0	150	15000	marwar3	Marsh Warbler	0.631774207215625	1
+16	Spectrogram 1	1	511200.mp3.wav	33.0	36.0	150	15000	eurlin1	Eurasian Linnet	0.5557520419323809	2
+17	Spectrogram 1	1	511200.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.13706639152865305	3
+18	Spectrogram 1	1	511200.mp3.wav	36.0	39.0	150	15000	eurlin1	Eurasian Linnet	0.9560616961747365	1
+19	Spectrogram 1	1	511200.mp3.wav	36.0	39.0	150	15000	whinch1	Whinchat	0.11641234388873109	2
+20	Spectrogram 1	1	511200.mp3.wav	36.0	39.0	150	15000	stonec4	European Stonechat	0.11045080137647573	3
+21	Spectrogram 1	1	511200.mp3.wav	39.0	42.0	150	15000	blrwar1	Blyth's Reed Warbler	0.8226620123465653	1
+22	Spectrogram 1	1	511200.mp3.wav	39.0	42.0	150	15000	blueth	Bluethroat	0.7453076113644316	2
+23	Spectrogram 1	1	511200.mp3.wav	39.0	42.0	150	15000	marwar3	Marsh Warbler	0.3555332175789377	3
+24	Spectrogram 1	1	511200.mp3.wav	42.0	45.0	150	15000	blrwar1	Blyth's Reed Warbler	0.9247167329062642	1
+25	Spectrogram 1	1	511200.mp3.wav	42.0	45.0	150	15000	sedwar1	Sedge Warbler	0.20451631483850782	2
+26	Spectrogram 1	1	511200.mp3.wav	42.0	45.0	150	15000	blueth	Bluethroat	0.12627030140366247	3
+27	Spectrogram 1	1	511200.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.9821566455347899	1
+28	Spectrogram 1	1	511200.mp3.wav	45.0	48.0	150	15000	marwar3	Marsh Warbler	0.12590109987562087	2
+29	Spectrogram 1	1	511200.mp3.wav	48.0	51.0	150	15000	melwar1	Melodious Warbler	0.9989586281481779	1
+30	Spectrogram 1	1	511200.mp3.wav	51.0	54.0	150	15000	melwar1	Melodious Warbler	0.9932945280079032	1
+31	Spectrogram 1	1	511200.mp3.wav	54.0	57.0	150	15000	melwar1	Melodious Warbler	0.9923099649211083	1
+32	Spectrogram 1	1	511200.mp3.wav	57.0	60.0	150	15000	padwar1	Paddyfield Warbler	0.2727333864907585	1
+33	Spectrogram 1	1	511200.mp3.wav	57.0	60.0	150	15000	boowar1	Booted Warbler	0.1423000968816905	2
+34	Spectrogram 1	1	511200.mp3.wav	57.0	60.0	150	15000	grewhi1	Greater Whitethroat	0.11227522803621323	3
+35	Spectrogram 1	1	511200.mp3.wav	6.0	9.0	150	15000	wesblu	Western Bluebird	0.23074106022675248	1
+36	Spectrogram 1	1	511200.mp3.wav	6.0	9.0	150	15000	eurlin1	Eurasian Linnet	0.22373255603010758	2
+37	Spectrogram 1	1	511200.mp3.wav	9.0	12.0	150	15000	eurlin1	Eurasian Linnet	0.9864755184803654	1
+38	Spectrogram 1	1	511200.mp3.wav	60.0	63.0	150	15000	reebun	Reed Bunting	0.2561358917853532	1
+39	Spectrogram 1	1	511200.mp3.wav	60.0	63.0	150	15000	blueth	Bluethroat	0.2302177786693274	2
+40	Spectrogram 1	1	511200.mp3.wav	60.0	63.0	150	15000	sedwar1	Sedge Warbler	0.1671511204311346	3
+41	Spectrogram 1	1	511200.mp3.wav	72.0	75.0	150	15000	eurlin1	Eurasian Linnet	0.11957361908855482	1
+42	Spectrogram 1	1	511200.mp3.wav	72.0	75.0	150	15000	comqua1	Common Quail	0.1127564837971831	2
+43	Spectrogram 1	1	511200.mp3.wav	75.0	78.0	150	15000	marwar3	Marsh Warbler	0.620446836504714	1
+44	Spectrogram 1	1	511200.mp3.wav	75.0	78.0	150	15000	sedwar1	Sedge Warbler	0.500590263596885	2
+45	Spectrogram 1	1	511200.mp3.wav	75.0	78.0	150	15000	blueth	Bluethroat	0.13225524312267686	3
+46	Spectrogram 1	1	511200.mp3.wav	78.0	81.0	150	15000	blared1	Black Redstart	0.8552574117327925	1
+47	Spectrogram 1	1	511200.mp3.wav	78.0	81.0	150	15000	sedwar1	Sedge Warbler	0.29724122558908506	2
+48	Spectrogram 1	1	511200.mp3.wav	81.0	84.0	150	15000	sedwar1	Sedge Warbler	0.7175815270945479	1
+49	Spectrogram 1	1	511200.mp3.wav	81.0	84.0	150	15000	blueth	Bluethroat	0.26717483152356086	2
+50	Spectrogram 1	1	511200.mp3.wav	81.0	84.0	150	15000	padwar1	Paddyfield Warbler	0.2580775621808677	3
+51	Spectrogram 1	1	511200.mp3.wav	84.0	87.0	150	15000	melwar1	Melodious Warbler	0.998604670321406	1
+52	Spectrogram 1	1	511200.mp3.wav	87.0	90.0	150	15000	melwar1	Melodious Warbler	0.9967534714454035	1
+53	Spectrogram 1	1	511200.mp3.wav	63.0	66.0	150	15000	melwar1	Melodious Warbler	0.48809205069393985	1
+54	Spectrogram 1	1	511200.mp3.wav	63.0	66.0	150	15000	sedwar1	Sedge Warbler	0.2001243069353754	2
+55	Spectrogram 1	1	511200.mp3.wav	63.0	66.0	150	15000	blueth	Bluethroat	0.12120896306892869	3
+56	Spectrogram 1	1	511200.mp3.wav	90.0	93.0	150	15000	cavswa	Cave Swallow	0.6620018012381943	1
+57	Spectrogram 1	1	511200.mp3.wav	66.0	69.0	150	15000	melwar1	Melodious Warbler	0.998743418607303	1
+58	Spectrogram 1	1	511200.mp3.wav	69.0	72.0	150	15000	wesblu	Western Bluebird	0.22764574272315766	1
+59	Spectrogram 1	1	511200.mp3.wav	69.0	72.0	150	15000	sedwre	Sedge Wren	0.1556458822140085	2
+60	Spectrogram 1	1	511200.mp3.wav	69.0	72.0	150	15000	gnttow	Green-tailed Towhee	0.1261665829250595	3
+61	Spectrogram 1	1	511200.mp3.wav	0.0	3.0	150	15000	afrwar1	African Reed Warbler	0.45708128364316347	1
+62	Spectrogram 1	1	511200.mp3.wav	0.0	3.0	150	15000	mouwar1	Moustached Warbler	0.29759810017945265	2
+63	Spectrogram 1	1	511200.mp3.wav	0.0	3.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.25668832731403785	3

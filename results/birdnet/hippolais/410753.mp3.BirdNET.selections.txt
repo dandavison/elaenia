@@ -1,0 +1,29 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	410753.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9995359148726047	1
+2	Spectrogram 1	1	410753.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9995420010575864	1
+3	Spectrogram 1	1	410753.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9994420199219322	1
+4	Spectrogram 1	1	410753.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9977196150378786	1
+5	Spectrogram 1	1	410753.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9970996871109638	1
+6	Spectrogram 1	1	410753.mp3.wav	27.0	30.0	150	15000	afrwar1	African Reed Warbler	0.5202902195008645	1
+7	Spectrogram 1	1	410753.mp3.wav	27.0	30.0	150	15000	weowar1	Western Olivaceous Warbler	0.35148704293277316	2
+8	Spectrogram 1	1	410753.mp3.wav	27.0	30.0	150	15000	eurwar1	Eurasian Reed Warbler	0.3452319455151982	3
+9	Spectrogram 1	1	410753.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9979545724583367	1
+10	Spectrogram 1	1	410753.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9686209836550947	1
+11	Spectrogram 1	1	410753.mp3.wav	30.0	33.0	150	15000	weowar1	Western Olivaceous Warbler	0.11258093523796006	2
+12	Spectrogram 1	1	410753.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9861515527651086	1
+13	Spectrogram 1	1	410753.mp3.wav	33.0	36.0	150	15000	blrwar1	Blyth's Reed Warbler	0.17879414138538677	2
+14	Spectrogram 1	1	410753.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.9640556607124655	1
+15	Spectrogram 1	1	410753.mp3.wav	36.0	39.0	150	15000	weowar1	Western Olivaceous Warbler	0.24288673394269883	2
+16	Spectrogram 1	1	410753.mp3.wav	39.0	42.0	150	15000	ictwar1	Icterine Warbler	0.5651851244022634	1
+17	Spectrogram 1	1	410753.mp3.wav	39.0	42.0	150	15000	sibrub	Siberian Rubythroat	0.19397928846620235	2
+18	Spectrogram 1	1	410753.mp3.wav	39.0	42.0	150	15000	grycat	Gray Catbird	0.14601295897765854	3
+19	Spectrogram 1	1	410753.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.7540881076845072	1
+20	Spectrogram 1	1	410753.mp3.wav	42.0	45.0	150	15000	barswa	Barn Swallow	0.19983166699200744	2
+21	Spectrogram 1	1	410753.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.48781168668114344	1
+22	Spectrogram 1	1	410753.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.9939648533893037	1
+23	Spectrogram 1	1	410753.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.1375107284080144	1
+24	Spectrogram 1	1	410753.mp3.wav	51.0	54.0	150	15000	wlwwar	Willow Warbler	0.11655720626535467	2
+25	Spectrogram 1	1	410753.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9911736629054013	1
+26	Spectrogram 1	1	410753.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9989070368814038	1
+27	Spectrogram 1	1	410753.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9667087239027435	1
+28	Spectrogram 1	1	410753.mp3.wav	0.0	3.0	150	15000	weowar1	Western Olivaceous Warbler	0.2653009173434855	2

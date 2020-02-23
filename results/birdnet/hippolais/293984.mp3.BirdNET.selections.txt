@@ -1,0 +1,22 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	293984.mp3.wav	12.0	15.0	150	15000	wooshr1	Woodchat Shrike	0.2531149916450091	1
+2	Spectrogram 1	1	293984.mp3.wav	12.0	15.0	150	15000	thelar1	Thekla's Lark	0.12014123220283171	2
+3	Spectrogram 1	1	293984.mp3.wav	12.0	15.0	150	15000	blhbun1	Black-headed Bunting	0.11993033043811893	3
+4	Spectrogram 1	1	293984.mp3.wav	15.0	18.0	150	15000	rocnut1	Western Rock Nuthatch	0.22156159654399823	1
+5	Spectrogram 1	1	293984.mp3.wav	15.0	18.0	150	15000	woolar1	Wood Lark	0.19915383871065587	2
+6	Spectrogram 1	1	293984.mp3.wav	15.0	18.0	150	15000	wlwwar	Willow Warbler	0.14750695270529332	3
+7	Spectrogram 1	1	293984.mp3.wav	18.0	21.0	150	15000	melwar1	Melodious Warbler	0.9971841167126076	1
+8	Spectrogram 1	1	293984.mp3.wav	21.0	24.0	150	15000	melwar1	Melodious Warbler	0.9989207374281345	1
+9	Spectrogram 1	1	293984.mp3.wav	24.0	27.0	150	15000	melwar1	Melodious Warbler	0.9990885995227112	1
+10	Spectrogram 1	1	293984.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.47629836899644473	1
+11	Spectrogram 1	1	293984.mp3.wav	27.0	30.0	150	15000	eaowar1	Eastern Olivaceous Warbler	0.21439244998207505	2
+12	Spectrogram 1	1	293984.mp3.wav	27.0	30.0	150	15000	afrwar1	African Reed Warbler	0.11249031285257813	3
+13	Spectrogram 1	1	293984.mp3.wav	3.0	6.0	150	15000	leagre	Least Grebe	0.5826916599256796	1
+14	Spectrogram 1	1	293984.mp3.wav	3.0	6.0	150	15000	litgre1	Little Grebe	0.28142080026210525	2
+15	Spectrogram 1	1	293984.mp3.wav	30.0	33.0	150	15000	melwar1	Melodious Warbler	0.9979392082383645	1
+16	Spectrogram 1	1	293984.mp3.wav	33.0	36.0	150	15000	melwar1	Melodious Warbler	0.9785767808560363	1
+17	Spectrogram 1	1	293984.mp3.wav	33.0	36.0	150	15000	garwar1	Garden Warbler	0.1436609685814354	2
+18	Spectrogram 1	1	293984.mp3.wav	36.0	39.0	150	15000	winwre4	Eurasian Wren	0.815315367532316	1
+19	Spectrogram 1	1	293984.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.9994628059141758	1
+20	Spectrogram 1	1	293984.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.998548255654996	1
+21	Spectrogram 1	1	293984.mp3.wav	0.0	3.0	150	15000	comcuc	Common Cuckoo	0.19413585840480116	1

@@ -1,0 +1,17 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	201669.mp3.wav	12.0	15.0	150	15000	melwar1	Melodious Warbler	0.7208419327521873	1
+2	Spectrogram 1	1	201669.mp3.wav	12.0	15.0	150	15000	padwar1	Paddyfield Warbler	0.1876512345448348	2
+3	Spectrogram 1	1	201669.mp3.wav	12.0	15.0	150	15000	mouwar1	Moustached Warbler	0.1483807477640134	3
+4	Spectrogram 1	1	201669.mp3.wav	15.0	18.0	150	15000	blueth	Bluethroat	0.21652614034053078	1
+5	Spectrogram 1	1	201669.mp3.wav	15.0	18.0	150	15000	juntit1	Juniper Titmouse	0.1454951373096261	2
+6	Spectrogram 1	1	201669.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.7241113048711726	1
+7	Spectrogram 1	1	201669.mp3.wav	3.0	6.0	150	15000	garwar1	Garden Warbler	0.20380119854568687	2
+8	Spectrogram 1	1	201669.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.12132911040693298	1
+9	Spectrogram 1	1	201669.mp3.wav	6.0	9.0	150	15000	blueth	Bluethroat	0.11084060245124609	2
+10	Spectrogram 1	1	201669.mp3.wav	6.0	9.0	150	15000	padwar1	Paddyfield Warbler	0.10407916574684586	3
+11	Spectrogram 1	1	201669.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.8442998841541871	1
+12	Spectrogram 1	1	201669.mp3.wav	9.0	12.0	150	15000	padwar1	Paddyfield Warbler	0.11641642033957704	2
+13	Spectrogram 1	1	201669.mp3.wav	9.0	12.0	150	15000	mouwar1	Moustached Warbler	0.11512959678355589	3
+14	Spectrogram 1	1	201669.mp3.wav	0.0	3.0	150	15000	mutswa	Mute Swan	0.15133326254026785	1
+15	Spectrogram 1	1	201669.mp3.wav	0.0	3.0	150	15000	mouwar1	Moustached Warbler	0.12377240426650171	2
+16	Spectrogram 1	1	201669.mp3.wav	0.0	3.0	150	15000	padwar1	Paddyfield Warbler	0.11537058101398832	3

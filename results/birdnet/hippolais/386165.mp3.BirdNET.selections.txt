@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	386165.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9986277945382213	1
+2	Spectrogram 1	1	386165.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.980647619234895	1
+3	Spectrogram 1	1	386165.mp3.wav	3.0	6.0	150	15000	blrwar1	Blyth's Reed Warbler	0.14703609649718744	2
+4	Spectrogram 1	1	386165.mp3.wav	6.0	9.0	150	15000	sposta1	Spotless Starling	0.5781351822369549	1
+5	Spectrogram 1	1	386165.mp3.wav	6.0	9.0	150	15000	eursta	European Starling	0.29693383901881604	2
+6	Spectrogram 1	1	386165.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.25776874864461	3
+7	Spectrogram 1	1	386165.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9616946869861275	1
+8	Spectrogram 1	1	386165.mp3.wav	0.0	3.0	150	15000	eurjac	Eurasian Jackdaw	0.9306517700340033	1

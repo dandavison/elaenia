@@ -1,0 +1,35 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	418747.mp3.wav	12.0	15.0	150	15000	scoori	Scott's Oriole	0.1725904292360659	1
+2	Spectrogram 1	1	418747.mp3.wav	12.0	15.0	150	15000	blkrai	Black Rail	0.13321904690975883	2
+3	Spectrogram 1	1	418747.mp3.wav	12.0	15.0	150	15000	wesmea	Western Meadowlark	0.13147370227426827	3
+4	Spectrogram 1	1	418747.mp3.wav	18.0	21.0	150	15000	easmea	Eastern Meadowlark	0.42727577335341704	1
+5	Spectrogram 1	1	418747.mp3.wav	18.0	21.0	150	15000	vesspa	Vesper Sparrow	0.18124559944314442	2
+6	Spectrogram 1	1	418747.mp3.wav	21.0	24.0	150	15000	bkcvir1	Black-capped Vireo	0.147890924592694	1
+7	Spectrogram 1	1	418747.mp3.wav	21.0	24.0	150	15000	orcori	Orchard Oriole	0.12623187004134637	2
+8	Spectrogram 1	1	418747.mp3.wav	30.0	33.0	150	15000	boboli	Bobolink	0.20116908631929944	1
+9	Spectrogram 1	1	418747.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.7838423289668994	1
+10	Spectrogram 1	1	418747.mp3.wav	33.0	36.0	150	15000	orcori	Orchard Oriole	0.19957745830375487	2
+11	Spectrogram 1	1	418747.mp3.wav	33.0	36.0	150	15000	foxspa	Fox Sparrow	0.17911818524782316	3
+12	Spectrogram 1	1	418747.mp3.wav	36.0	39.0	150	15000	eurgre1	European Greenfinch	0.950472847741069	1
+13	Spectrogram 1	1	418747.mp3.wav	39.0	42.0	150	15000	easmea	Eastern Meadowlark	0.1603926629063915	1
+14	Spectrogram 1	1	418747.mp3.wav	42.0	45.0	150	15000	easmea	Eastern Meadowlark	0.42851036204021264	1
+15	Spectrogram 1	1	418747.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.752953650496395	1
+16	Spectrogram 1	1	418747.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.4694918354126295	2
+17	Spectrogram 1	1	418747.mp3.wav	45.0	48.0	150	15000	garwar1	Garden Warbler	0.17007316667824582	3
+18	Spectrogram 1	1	418747.mp3.wav	48.0	51.0	150	15000	mouwar1	Moustached Warbler	0.5020600859600155	1
+19	Spectrogram 1	1	418747.mp3.wav	48.0	51.0	150	15000	marwar3	Marsh Warbler	0.22247115792531016	2
+20	Spectrogram 1	1	418747.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.15989445894088394	3
+21	Spectrogram 1	1	418747.mp3.wav	51.0	54.0	150	15000	orcori	Orchard Oriole	0.14600353295397972	1
+22	Spectrogram 1	1	418747.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.8622763566317531	1
+23	Spectrogram 1	1	418747.mp3.wav	54.0	57.0	150	15000	weowar1	Western Olivaceous Warbler	0.20699224319609605	2
+24	Spectrogram 1	1	418747.mp3.wav	54.0	57.0	150	15000	garwar1	Garden Warbler	0.1910319234099682	3
+25	Spectrogram 1	1	418747.mp3.wav	57.0	60.0	150	15000	warvir	Warbling Vireo	0.4736624938401092	1
+26	Spectrogram 1	1	418747.mp3.wav	57.0	60.0	150	15000	amegfi	American Goldfinch	0.10289738276524606	2
+27	Spectrogram 1	1	418747.mp3.wav	6.0	9.0	150	15000	warvir	Warbling Vireo	0.9968340689372659	1
+28	Spectrogram 1	1	418747.mp3.wav	9.0	12.0	150	15000	warvir	Warbling Vireo	0.9764945704557764	1
+29	Spectrogram 1	1	418747.mp3.wav	60.0	63.0	150	15000	warvir	Warbling Vireo	0.25667658845484403	1
+30	Spectrogram 1	1	418747.mp3.wav	60.0	63.0	150	15000	purfin	Purple Finch	0.20473834615353673	2
+31	Spectrogram 1	1	418747.mp3.wav	60.0	63.0	150	15000	linspa	Lincoln's Sparrow	0.1987223520389675	3
+32	Spectrogram 1	1	418747.mp3.wav	63.0	66.0	150	15000	warvir	Warbling Vireo	0.9004588972607425	1
+33	Spectrogram 1	1	418747.mp3.wav	63.0	66.0	150	15000	sibrub	Siberian Rubythroat	0.12377370169694268	2
+34	Spectrogram 1	1	418747.mp3.wav	0.0	3.0	150	15000	easmea	Eastern Meadowlark	0.3747041881815732	1

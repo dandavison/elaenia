@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	56303.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9905369159927702	1
+2	Spectrogram 1	1	56303.mp3.wav	12.0	15.0	150	15000	weowar1	Western Olivaceous Warbler	0.34942832942109403	2
+3	Spectrogram 1	1	56303.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9834055902192197	1
+4	Spectrogram 1	1	56303.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9984058931121526	1
+5	Spectrogram 1	1	56303.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9984226202245603	1
+6	Spectrogram 1	1	56303.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9996940559089749	1

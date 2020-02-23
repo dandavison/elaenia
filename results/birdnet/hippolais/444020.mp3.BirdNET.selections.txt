@@ -1,0 +1,41 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	444020.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9996723526553795	1
+2	Spectrogram 1	1	444020.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.237716496086943	1
+3	Spectrogram 1	1	444020.mp3.wav	15.0	18.0	150	15000	sonthr1	Song Thrush	0.20647667590111346	2
+4	Spectrogram 1	1	444020.mp3.wav	15.0	18.0	150	15000	brambl	Brambling	0.10532698673881552	3
+5	Spectrogram 1	1	444020.mp3.wav	18.0	21.0	150	15000	bulori	Bullock's Oriole	0.25229188988020906	1
+6	Spectrogram 1	1	444020.mp3.wav	18.0	21.0	150	15000	grycat	Gray Catbird	0.1897123853260703	2
+7	Spectrogram 1	1	444020.mp3.wav	18.0	21.0	150	15000	hooori	Hooded Oriole	0.13229152313906212	3
+8	Spectrogram 1	1	444020.mp3.wav	21.0	24.0	150	15000	eurgre1	European Greenfinch	0.9480188600318793	1
+9	Spectrogram 1	1	444020.mp3.wav	24.0	27.0	150	15000	eurgre1	European Greenfinch	0.8091634354739172	1
+10	Spectrogram 1	1	444020.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9937903145883152	1
+11	Spectrogram 1	1	444020.mp3.wav	27.0	30.0	150	15000	melwar1	Melodious Warbler	0.27984096036945927	2
+12	Spectrogram 1	1	444020.mp3.wav	27.0	30.0	150	15000	marwar3	Marsh Warbler	0.16785374681500406	3
+13	Spectrogram 1	1	444020.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.9972573760693663	1
+14	Spectrogram 1	1	444020.mp3.wav	3.0	6.0	150	15000	comros	Common Rosefinch	0.12730987612423142	2
+15	Spectrogram 1	1	444020.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9995419070841631	1
+16	Spectrogram 1	1	444020.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9997902906606319	1
+17	Spectrogram 1	1	444020.mp3.wav	36.0	39.0	150	15000	ictwar1	Icterine Warbler	0.7850454863953508	1
+18	Spectrogram 1	1	444020.mp3.wav	36.0	39.0	150	15000	garwar1	Garden Warbler	0.24139290185155282	2
+19	Spectrogram 1	1	444020.mp3.wav	36.0	39.0	150	15000	melwar1	Melodious Warbler	0.15460513571197873	3
+20	Spectrogram 1	1	444020.mp3.wav	39.0	42.0	150	15000	reebun	Reed Bunting	0.8162523053342275	1
+21	Spectrogram 1	1	444020.mp3.wav	39.0	42.0	150	15000	blueth	Bluethroat	0.6899796452686278	2
+22	Spectrogram 1	1	444020.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.805345783788402	1
+23	Spectrogram 1	1	444020.mp3.wav	42.0	45.0	150	15000	garwar1	Garden Warbler	0.6602690047279193	2
+24	Spectrogram 1	1	444020.mp3.wav	42.0	45.0	150	15000	barwar1	Barred Warbler	0.17727469384689679	3
+25	Spectrogram 1	1	444020.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9958892651917451	1
+26	Spectrogram 1	1	444020.mp3.wav	45.0	48.0	150	15000	melwar1	Melodious Warbler	0.13308337040252977	2
+27	Spectrogram 1	1	444020.mp3.wav	48.0	51.0	150	15000	ictwar1	Icterine Warbler	0.9997711105044174	1
+28	Spectrogram 1	1	444020.mp3.wav	51.0	54.0	150	15000	ictwar1	Icterine Warbler	0.9909865408012118	1
+29	Spectrogram 1	1	444020.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.9487692154930654	1
+30	Spectrogram 1	1	444020.mp3.wav	54.0	57.0	150	15000	eurkes	Eurasian Kestrel	0.222931719042161	2
+31	Spectrogram 1	1	444020.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.999942875040501	1
+32	Spectrogram 1	1	444020.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.9973864327015375	1
+33	Spectrogram 1	1	444020.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.9964280293766644	1
+34	Spectrogram 1	1	444020.mp3.wav	60.0	63.0	150	15000	ictwar1	Icterine Warbler	0.9999583005848359	1
+35	Spectrogram 1	1	444020.mp3.wav	63.0	66.0	150	15000	ictwar1	Icterine Warbler	0.9999771401322248	1
+36	Spectrogram 1	1	444020.mp3.wav	66.0	69.0	150	15000	sarwar1	Sardinian Warbler	0.7912714333466634	1
+37	Spectrogram 1	1	444020.mp3.wav	66.0	69.0	150	15000	subwar8	Moltoni's Warbler	0.10135875750815947	2
+38	Spectrogram 1	1	444020.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.25662917743172464	1
+39	Spectrogram 1	1	444020.mp3.wav	0.0	3.0	150	15000	gamqua	Gambel's Quail	0.2198071201848173	2
+40	Spectrogram 1	1	444020.mp3.wav	0.0	3.0	150	15000	eurwar1	Eurasian Reed Warbler	0.1155668371407439	3

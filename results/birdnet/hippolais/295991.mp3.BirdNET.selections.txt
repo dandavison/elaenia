@@ -1,0 +1,18 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	295991.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.9799195567217764	1
+2	Spectrogram 1	1	295991.mp3.wav	15.0	18.0	150	15000	blrwar1	Blyth's Reed Warbler	0.1430172029496705	2
+3	Spectrogram 1	1	295991.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.8688191095422472	1
+4	Spectrogram 1	1	295991.mp3.wav	18.0	21.0	150	15000	sibrub	Siberian Rubythroat	0.5394783630012626	2
+5	Spectrogram 1	1	295991.mp3.wav	18.0	21.0	150	15000	garwar1	Garden Warbler	0.13815813731342783	3
+6	Spectrogram 1	1	295991.mp3.wav	21.0	24.0	150	15000	sibrub	Siberian Rubythroat	0.8147662757307159	1
+7	Spectrogram 1	1	295991.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.788883316298963	2
+8	Spectrogram 1	1	295991.mp3.wav	21.0	24.0	150	15000	garwar1	Garden Warbler	0.12857123264772957	3
+9	Spectrogram 1	1	295991.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.7492236381150303	1
+10	Spectrogram 1	1	295991.mp3.wav	3.0	6.0	150	15000	colfly1	Collared Flycatcher	0.11653218778763516	2
+11	Spectrogram 1	1	295991.mp3.wav	6.0	9.0	150	15000	ictwar1	Icterine Warbler	0.6019387689197971	1
+12	Spectrogram 1	1	295991.mp3.wav	6.0	9.0	150	15000	grycat	Gray Catbird	0.2020134296007249	2
+13	Spectrogram 1	1	295991.mp3.wav	6.0	9.0	150	15000	sonthr1	Song Thrush	0.17700980295696242	3
+14	Spectrogram 1	1	295991.mp3.wav	9.0	12.0	150	15000	woowar	Wood Warbler	0.3169930473178687	1
+15	Spectrogram 1	1	295991.mp3.wav	9.0	12.0	150	15000	sonthr1	Song Thrush	0.29510079676262985	2
+16	Spectrogram 1	1	295991.mp3.wav	9.0	12.0	150	15000	miswoo1	Middle Spotted Woodpecker	0.14238052096899242	3
+17	Spectrogram 1	1	295991.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.9992306909191815	1

@@ -1,0 +1,13 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	496256.mp3.wav	3.0	6.0	150	15000	sposta1	Spotless Starling	0.2941740111468237	1
+2	Spectrogram 1	1	496256.mp3.wav	3.0	6.0	150	15000	eursta	European Starling	0.2670006868916861	2
+3	Spectrogram 1	1	496256.mp3.wav	3.0	6.0	150	15000	wooshr1	Woodchat Shrike	0.20930408469130438	3
+4	Spectrogram 1	1	496256.mp3.wav	6.0	9.0	150	15000	eurbla	Eurasian Blackbird	0.4802913000350973	1
+5	Spectrogram 1	1	496256.mp3.wav	6.0	9.0	150	15000	weowar2	Western Orphean Warbler	0.2328747565831779	2
+6	Spectrogram 1	1	496256.mp3.wav	6.0	9.0	150	15000	rtrthr1	Rufous-tailed Rock-Thrush	0.22505633048358065	3
+7	Spectrogram 1	1	496256.mp3.wav	9.0	12.0	150	15000	britit	Bridled Titmouse	0.6561549100572741	1
+8	Spectrogram 1	1	496256.mp3.wav	9.0	12.0	150	15000	menwar1	Menetries's Warbler	0.1531497501575524	2
+9	Spectrogram 1	1	496256.mp3.wav	9.0	12.0	150	15000	melwar1	Melodious Warbler	0.14453306510718397	3
+10	Spectrogram 1	1	496256.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.265730045270358	1
+11	Spectrogram 1	1	496256.mp3.wav	0.0	3.0	150	15000	subwar1	Subalpine Warbler	0.225850976780167	2
+12	Spectrogram 1	1	496256.mp3.wav	0.0	3.0	150	15000	menwar1	Menetries's Warbler	0.22474284586353432	3

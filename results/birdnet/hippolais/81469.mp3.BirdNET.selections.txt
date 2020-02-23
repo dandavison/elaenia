@@ -1,0 +1,11 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	81469.mp3.wav	3.0	6.0	150	15000	ictwar1	Icterine Warbler	0.4367171305710759	1
+2	Spectrogram 1	1	81469.mp3.wav	3.0	6.0	150	15000	eurgol	European Goldfinch	0.28742664885982483	2
+3	Spectrogram 1	1	81469.mp3.wav	3.0	6.0	150	15000	melwar1	Melodious Warbler	0.20933488337848546	3
+4	Spectrogram 1	1	81469.mp3.wav	6.0	9.0	150	15000	eurgol	European Goldfinch	0.7209847693179091	1
+5	Spectrogram 1	1	81469.mp3.wav	6.0	9.0	150	15000	garwar1	Garden Warbler	0.1893194524944193	2
+6	Spectrogram 1	1	81469.mp3.wav	6.0	9.0	150	15000	melwar1	Melodious Warbler	0.17440058224987443	3
+7	Spectrogram 1	1	81469.mp3.wav	9.0	12.0	150	15000	eurgol	European Goldfinch	0.992741927473331	1
+8	Spectrogram 1	1	81469.mp3.wav	0.0	3.0	150	15000	ictwar1	Icterine Warbler	0.8707817489827231	1
+9	Spectrogram 1	1	81469.mp3.wav	0.0	3.0	150	15000	melwar1	Melodious Warbler	0.5200410706863072	2
+10	Spectrogram 1	1	81469.mp3.wav	0.0	3.0	150	15000	garwar1	Garden Warbler	0.17057488817500377	3

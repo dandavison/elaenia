@@ -1,0 +1,34 @@
+Selection	View	Channel	Begin File	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Species Code	Common Name	Confidence	Rank
+1	Spectrogram 1	1	233461.mp3.wav	12.0	15.0	150	15000	ictwar1	Icterine Warbler	0.9992158655015576	1
+2	Spectrogram 1	1	233461.mp3.wav	15.0	18.0	150	15000	swathr	Swainson's Thrush	0.3321524446438567	1
+3	Spectrogram 1	1	233461.mp3.wav	15.0	18.0	150	15000	ictwar1	Icterine Warbler	0.11635865486140991	2
+4	Spectrogram 1	1	233461.mp3.wav	18.0	21.0	150	15000	ictwar1	Icterine Warbler	0.9074937674840146	1
+5	Spectrogram 1	1	233461.mp3.wav	21.0	24.0	150	15000	ictwar1	Icterine Warbler	0.9967070129198544	1
+6	Spectrogram 1	1	233461.mp3.wav	24.0	27.0	150	15000	ictwar1	Icterine Warbler	0.9506483904660983	1
+7	Spectrogram 1	1	233461.mp3.wav	27.0	30.0	150	15000	ictwar1	Icterine Warbler	0.9491986057903392	1
+8	Spectrogram 1	1	233461.mp3.wav	27.0	30.0	150	15000	sonthr1	Song Thrush	0.13463286871446242	2
+9	Spectrogram 1	1	233461.mp3.wav	3.0	6.0	150	15000	comsan	Common Sandpiper	0.671688434745738	1
+10	Spectrogram 1	1	233461.mp3.wav	3.0	6.0	150	15000	mewgul	Mew Gull	0.4454751206802008	2
+11	Spectrogram 1	1	233461.mp3.wav	3.0	6.0	150	15000	reshaw	Red-shouldered Hawk	0.24443892642977497	3
+12	Spectrogram 1	1	233461.mp3.wav	30.0	33.0	150	15000	ictwar1	Icterine Warbler	0.9992250439107233	1
+13	Spectrogram 1	1	233461.mp3.wav	33.0	36.0	150	15000	ictwar1	Icterine Warbler	0.9895778111849745	1
+14	Spectrogram 1	1	233461.mp3.wav	36.0	39.0	150	15000	comsan	Common Sandpiper	0.9651334136824575	1
+15	Spectrogram 1	1	233461.mp3.wav	39.0	42.0	150	15000	comsan	Common Sandpiper	0.7628864600320906	1
+16	Spectrogram 1	1	233461.mp3.wav	42.0	45.0	150	15000	ictwar1	Icterine Warbler	0.9998950894377082	1
+17	Spectrogram 1	1	233461.mp3.wav	45.0	48.0	150	15000	ictwar1	Icterine Warbler	0.9101646298653157	1
+18	Spectrogram 1	1	233461.mp3.wav	48.0	51.0	150	15000	woowar	Wood Warbler	0.1849721668572155	1
+19	Spectrogram 1	1	233461.mp3.wav	48.0	51.0	150	15000	stodov1	Stock Dove	0.16763792522252552	2
+20	Spectrogram 1	1	233461.mp3.wav	48.0	51.0	150	15000	rebfly	Red-breasted Flycatcher	0.14898076251737438	3
+21	Spectrogram 1	1	233461.mp3.wav	51.0	54.0	150	15000	comcha	Common Chaffinch	0.2095745704060722	1
+22	Spectrogram 1	1	233461.mp3.wav	51.0	54.0	150	15000	trepip	Tree Pipit	0.1651503727380206	2
+23	Spectrogram 1	1	233461.mp3.wav	51.0	54.0	150	15000	eupfly1	European Pied Flycatcher	0.15327326350467832	3
+24	Spectrogram 1	1	233461.mp3.wav	54.0	57.0	150	15000	ictwar1	Icterine Warbler	0.985387660596849	1
+25	Spectrogram 1	1	233461.mp3.wav	57.0	60.0	150	15000	ictwar1	Icterine Warbler	0.9993607693380598	1
+26	Spectrogram 1	1	233461.mp3.wav	6.0	9.0	150	15000	comgre	Common Greenshank	0.42893312853484844	1
+27	Spectrogram 1	1	233461.mp3.wav	6.0	9.0	150	15000	comsan	Common Sandpiper	0.13241828259396496	2
+28	Spectrogram 1	1	233461.mp3.wav	6.0	9.0	150	15000	grnwoo1	Eurasian Green Woodpecker	0.12895498151367252	3
+29	Spectrogram 1	1	233461.mp3.wav	9.0	12.0	150	15000	miswoo1	Middle Spotted Woodpecker	0.32972432187830697	1
+30	Spectrogram 1	1	233461.mp3.wav	9.0	12.0	150	15000	ictwar1	Icterine Warbler	0.23963275496448713	2
+31	Spectrogram 1	1	233461.mp3.wav	9.0	12.0	150	15000	garwar1	Garden Warbler	0.1619839825439323	3
+32	Spectrogram 1	1	233461.mp3.wav	0.0	3.0	150	15000	combuz1	Common Buzzard	0.6449106199778192	1
+33	Spectrogram 1	1	233461.mp3.wav	0.0	3.0	150	15000	comsan	Common Sandpiper	0.25332905819427964	2
