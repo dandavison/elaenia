@@ -9,9 +9,9 @@ from matplotlib.colors import rgb2hex
 import matplotlib.pyplot as plt
 import numpy as np
 from folium.plugins.beautify_icon import BeautifyIcon
+from sylph.xeno_quero.recording import XenoQueroRecording
 
 from elaenia.birdnet import BirdnetResult
-from elaenia.xeno_quero import XenoQueroRecording
 
 
 @dataclass
@@ -100,7 +100,7 @@ class NeuralNetCoordinate:
 def make_popup(result):
     rec = result.recording
     return f"""
-    <a href="{rec.url}">{rec.english_name} <i>{rec.scientific_name}</i></a>
+    <a href="{rec.url}">{rec.english_name} <i>{rec.name}</i></a>
     <p>{rec.country}: {rec.location} {rec.coordinates}<p>
     <p>{rec.metadata.get('rmk', '')}</p>
     {result.df_to_html()}
