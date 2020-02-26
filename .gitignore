@@ -1,3 +1,4 @@
+.junk.py
 .make-sentinel-files
 .mypy_cache/
 .tox/
