@@ -7,8 +7,6 @@ import numpy as np
 from toolz import groupby
 
 import elaenia.utils.dask
-from elaenia.pipelines.birdnet import make_birdnet_embeddings_training_pipeline
-from sylph.xeno_quero.dataset import XenoQueroDataset
 
 
 def plot_probabilities(output, line_color="red"):
@@ -26,7 +24,12 @@ def plot_probabilities(output, line_color="red"):
 
 
 if __name__ == "__main__":
-    elaenia.utils.dask.activate_fargate_cluster()
+    client = elaenia.utils.dask.activate_fargate_cluster()
+    elaenia.utils.dask.provision_workers(client)
+
+    from elaenia.pipelines.birdnet import make_birdnet_embeddings_training_pipeline
+    from sylph.xeno_quero.dataset import XenoQueroDataset
+
     dataset = XenoQueroDataset.from_species_globs(["Xiphorhynchus-*"], training_proportion=0.8)
     pipeline = make_birdnet_embeddings_training_pipeline()
     output = pipeline.run(dataset)
