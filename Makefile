@@ -27,6 +27,28 @@ submodules:
 	cd submodules/sylph && git submodule update --init
 
 
+eggs: submodules elaenia-egg sylph-egg
+
+
+elaenia-egg:
+	python setup.py bdist_egg
+
+
+SYLPH_VENDOR_DIR=submodules/sylph/sylph/vendor
+SYLPH_SUBMODULES_DIR=submodules/sylph/submodules
+TF_MODELS_SYMLINK_NAME=tensorflow_models
+TF_MODELS_SUBMODULE_NAME=tensorflow-models
+TF_MODELS_SYMLINK=$(SYLPH_VENDOR_DIR)/$(TF_MODELS_SYMLINK_NAME)
+TF_MODELS_SUBMODULE=$(SYLPH_SUBMODULES_DIR)/$(TF_MODELS_SUBMODULE_NAME)
+sylph-egg:
+	@# I don\'t know how to follow symlinks when creating an egg.
+	rm $(TF_MODELS_SYMLINK)
+	mv $(TF_MODELS_SUBMODULE) $(TF_MODELS_SYMLINK)
+	cd submodules/sylph && python setup.py bdist_egg
+	mv $(TF_MODELS_SYMLINK) $(TF_MODELS_SUBMODULE)
+	cd $(SYLPH_VENDOR_DIR) && ln -s ../../submodules/$(TF_MODELS_SUBMODULE_NAME)/ $(TF_MODELS_SYMLINK_NAME)
+
+
 virtualenv: $(VENV_DIR)
 $(VENV_DIR):
 	python_version=$$(python -c 'import sys; print("%d.%d" % sys.version_info[:2])') && \
@@ -56,4 +78,4 @@ ipython:
 	ipython -i scripts/python_session_init.py
 
 
-.PHONY: init lint test submodules virtualenv python-packages vggish_checkpoint_file black ipython
+.PHONY: init lint test submodules eggs elaenia-egg sylph-egg virtualenv python-packages vggish_checkpoint_file black ipython

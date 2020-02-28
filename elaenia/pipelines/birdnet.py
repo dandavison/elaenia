@@ -6,8 +6,5 @@ from sylph.pipeline import TrainingPipeline
 from sylph.transforms.birdnet import Audio2Embeddings
 
 
-def make_birdnet_embeddings_training_pipeline(birdnet_output_dir=None):
-    return TrainingPipeline(
-        transform=Compose([Audio2Embeddings(birdnet_output_dir=birdnet_output_dir)]),
-        learn=SVMLearner(),
-    )
+def make_birdnet_embeddings_training_pipeline():
+    return TrainingPipeline(transform=Compose([Audio2Embeddings()]), learn=SVMLearner())

@@ -4,6 +4,9 @@
 .tox/
 .venv/
 assets/
+build/
+dask-worker-space/
+dist/
 env_local.sh
 *.egg-info
 __pycache__/

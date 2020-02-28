@@ -6,6 +6,7 @@ from more_itertools import run_length
 import numpy as np
 from toolz import groupby
 
+import elaenia.utils.dask
 from elaenia.pipelines.birdnet import make_birdnet_embeddings_training_pipeline
 from sylph.xeno_quero.dataset import XenoQueroDataset
 
@@ -25,12 +26,11 @@ def plot_probabilities(output, line_color="red"):
 
 
 if __name__ == "__main__":
+    elaenia.utils.dask.activate_fargate_cluster()
     dataset = XenoQueroDataset.from_species_globs(["Xiphorhynchus-*"], training_proportion=0.8)
-    pipeline = make_birdnet_embeddings_training_pipeline(
-        birdnet_output_dir=Path("~/tmp/elaenia/birdnet_embeddings_Xiphorhynchus").expanduser()
-    )
+    pipeline = make_birdnet_embeddings_training_pipeline()
     output = pipeline.run(dataset)
     metrics = pipeline.get_metrics(dataset, output)
-    print(metrics)
     with Path("BirdNet-TL-Xiphorhynchus.pickle").open("wb") as fp:
         pickle.dump({"output": output, "metrics": metrics}, fp)
+    print(metrics)

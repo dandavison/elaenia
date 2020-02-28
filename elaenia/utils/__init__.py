@@ -1,3 +1,16 @@
+from pathlib import Path
+
+
+def get_egg_path():
+    dir = Path(__file__).resolve().parents[2] / "dist"
+    try:
+        [path] = dir.glob("elaenia-*.egg")
+    except ValueError:
+        raise AssertionError(f"Failed to find egg file in directory: {dir}")
+    else:
+        return path
+
+
 def print_counter(cnts):
     width = max(len(k) for k in cnts)
     for k, n in sorted(cnts.items()):
