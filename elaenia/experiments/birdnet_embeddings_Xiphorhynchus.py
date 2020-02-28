@@ -7,7 +7,6 @@ import numpy as np
 from toolz import groupby
 
 from elaenia.pipelines.birdnet import make_birdnet_embeddings_training_pipeline
-from elaenia.utils.color import red
 from sylph.xeno_quero.dataset import XenoQueroDataset
 
 
@@ -30,9 +29,7 @@ if __name__ == "__main__":
     pipeline = make_birdnet_embeddings_training_pipeline(
         birdnet_output_dir=Path("~/tmp/elaenia/birdnet_embeddings_Xiphorhynchus").expanduser()
     )
-    print(red("pipeline.run"))
     output = pipeline.run(dataset)
-    print(red("pipeline.get_metrics"))
     metrics = pipeline.get_metrics(dataset, output)
     print(metrics)
     with Path("BirdNet-TL-Xiphorhynchus.pickle").open("wb") as fp:
