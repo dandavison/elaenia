@@ -4,11 +4,11 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 from more_itertools import run_length
 import numpy as np
-from sylph.xeno_quero.dataset import XenoQueroDataset
 from toolz import groupby
 
 from elaenia.pipelines.birdnet import make_birdnet_embeddings_training_pipeline
 from elaenia.utils.color import red
+from sylph.xeno_quero.dataset import XenoQueroDataset
 
 
 def plot_probabilities(output, line_color="red"):

@@ -9,9 +9,9 @@ from matplotlib.colors import rgb2hex
 import matplotlib.pyplot as plt
 import numpy as np
 from folium.plugins.beautify_icon import BeautifyIcon
-from sylph.xeno_quero.recording import XenoQueroRecording
 
 from elaenia.birdnet import BirdnetResult
+from sylph.xeno_quero.recording import XenoQueroRecording
 
 
 @dataclass
