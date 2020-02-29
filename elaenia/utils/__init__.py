@@ -1,4 +1,12 @@
+import os
 from pathlib import Path
+
+
+def getenv(key, default=None):
+    value = os.getenv(key, default=default)
+    if not value:
+        raise AssertionError(f"Environment variable not set: {key}")
+    return value
 
 
 def get_egg_path():

@@ -6,7 +6,9 @@ import sylph.utils
 
 
 def activate_fargate_cluster():
-    cluster = FargateCluster(n_workers=1)
+    image = elaenia.utils.docker.build_docker_image()
+    image.push()
+    cluster = FargateCluster(image=image.name, n_workers=1)
     client = Client(cluster)
     print(cluster)
     print(cluster.dashboard_link)
