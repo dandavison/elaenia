@@ -61,7 +61,7 @@ PYTHON_PACKAGES_SENTINEL=$(SENTINELS_DIR)/python-packages
 python-packages: $(PYTHON_PACKAGES_SENTINEL)
 $(PYTHON_PACKAGES_SENTINEL):
 	$(VENV_DIR)/bin/pip install -e .
-	$(VENV_DIR)/bin/pip install -r requirements.txt && touch $(PYTHON_PACKAGES_SENTINEL)
+	$(VENV_DIR)/bin/pip install -r requirements.txt -r requirements_local.txt && touch $(PYTHON_PACKAGES_SENTINEL)
 
 
 VGGISH_CHECKPOINT_FILE=$(ASSETS_DIR)/vggish_model.ckpt
